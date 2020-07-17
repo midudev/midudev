@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Miguel 👋👨‍💻
+
+![me](https://user-images.githubusercontent.com/1561955/87819803-25d61900-c86d-11ea-8a30-7f969c953303.png)
 
 <!--
 **midudev/midudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
