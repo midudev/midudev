@@ -16,6 +16,8 @@ You can find me 🌍:
 - [Youtube](https://youtube.com/midudev)
 - [Instagram](https://instagram.com/midu.dev)
 
+[![midudev's github stats](https://github-readme-stats.vercel.app/api?username=midudev)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **midudev/midudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
