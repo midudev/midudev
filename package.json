@@ -1,0 +1,24 @@
+{
+  "name": "midudev",
+  "version": "1.0.0",
+  "description": "midudev README GitHub profile",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midudev/midudev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midudev/midudev/issues"
+  },
+  "homepage": "https://github.com/midudev/midudev#readme",
+  "dependencies": {
+    "rss-parser": "3.8.0"
+  }
+}
