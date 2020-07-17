@@ -6,6 +6,8 @@
   <img align="left" alt="midudev | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
+## about me in code
+
 ```js
 const midudev = {
   pronouns: "he" | "him",
@@ -14,7 +16,7 @@ const midudev = {
 }
 ```
 
-You can find me 🌍:
+## you can find me 🌍:
 - [Blog](https://midu.dev)
 - [Twitter](https://twitter.com/midudev)
 - [Youtube](https://youtube.com/midudev)
