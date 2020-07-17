@@ -2,10 +2,6 @@
 
 ![me](https://user-images.githubusercontent.com/1561955/87819803-25d61900-c86d-11ea-8a30-7f969c953303.png)
 
-<a href="https://twitter.com/midudev">
-  <img align="left" alt="midudev | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
 ## about me in code
 
 ```js
@@ -21,6 +17,10 @@ const midudev = {
 - [Twitter](https://twitter.com/midudev)
 - [Youtube](https://youtube.com/midudev)
 - [Instagram](https://instagram.com/midu.dev)
+
+<a href="https://twitter.com/midudev">
+  <img align="left" alt="midudev | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
 [![midudev's github stats](https://github-readme-stats.vercel.app/api?username=midudev)](https://github.com/anuraghazra/github-readme-stats)
 
