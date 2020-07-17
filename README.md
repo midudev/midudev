@@ -12,8 +12,9 @@ const midudev = {
 }
 ```
 
-## you can find me 🌍:
-- [Blog](https://midu.dev)
+## you can find 🌍:
+- my articles about web development in my [blog](https://midu.dev)
+  - latest article: [La mejor música para programar - {code-fi}](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
 - [Twitter](https://twitter.com/midudev)
 - [Youtube](https://youtube.com/midudev)
 - [Instagram](https://instagram.com/midu.dev)
