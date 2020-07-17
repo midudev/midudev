@@ -2,40 +2,21 @@
 
 ![me](https://user-images.githubusercontent.com/1561955/87819803-25d61900-c86d-11ea-8a30-7f969c953303.png)
 
-## about me in code
+<h1 align="center">Hi 👋, I'm Miguel Ángel</h1>
+<h3 align="center">A passionate frontend developer from Barcelona, Spain</h3>
 
-```js
-const midudev = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
-}
-```
+- 🔭 I’m currently working on [sharing web development content](https://www.youtube.com/c/midudev)
 
-## you can find 🌍:
-- my articles about web development in my [blog](https://midu.dev)
-  - latest article: [La mejor música para programar - {code-fi}](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
-- [Twitter](https://twitter.com/midudev)
-- [Youtube](https://youtube.com/midudev)
-- [Instagram](https://instagram.com/midu.dev)
+- 📝 I regulary write articles on [http://midu.dev/](http://midu.dev/)
 
-<a href="https://twitter.com/midudev">
-  <img align="left" alt="midudev | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+- 💬 Ask me about **react, javascript, performance web and anything about web development**
 
-[![midudev's github stats](https://github-readme-stats.vercel.app/api?username=midudev)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **miduga@gmail.com**
 
-<!--
-**midudev/midudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></p><p align="center">
+<a href="https://twitter.com/midudev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="20" width="20" /></a>
+<a href="https://fb.com/midudev.frontend" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev.frontend" height="20" width="20" /></a>
+<a href="https://instagram.com/midu.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="20" width="20" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- latest article: [La mejor música para programar - {code-fi}](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
