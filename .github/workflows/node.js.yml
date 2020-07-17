@@ -5,18 +5,16 @@ name: Node.js CI
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "* * * * *"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - name: Use Node.js
-      uses: actions/setup-node@v1
+    - uses: actions/setup-node@v1
       with:
-        node-version: 14.x
+        node-version: '14'
     - run: npm install
     - run: npm run update-readme
     - uses: actions/checkout@v2
