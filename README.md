@@ -1,5 +1,9 @@
 ### Hi, I'm Miguel 👋👨‍💻
 
+<a href="https://twitter.com/midudev">
+  <img align="left" alt="midudev | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
 ![me](https://user-images.githubusercontent.com/1561955/87819803-25d61900-c86d-11ea-8a30-7f969c953303.png)
 
 ```js
