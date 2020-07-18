@@ -19,6 +19,11 @@ const getLatestYoutubeVideos = () => {
     .then(videos => videos.items)
 }
 
+const generateYoutubeHTML = ({title, videoId}) => `
+<a href='https://youtu.be/${videoId}' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/${videoId}/mqdefault.jpg' alt='${title}' />
+</a>`
+
 
 ;(async () => {
   const [template, {items: articles}, videos] = await Promise.all([
@@ -37,9 +42,9 @@ const getLatestYoutubeVideos = () => {
     .map(({snippet}) => {
       const {title, resourceId} = snippet
       const {videoId} = resourceId
-      return `[![${title}](https://img.youtube.com/vi/${videoId}/mqdefault.jpg)](https://youtu.be/${videoId})`
+      return generateYoutubeHTML({videoId, title})
     })
-    .join('\n')
+    .join('')
 
   // replace all placeholders with info
   const newMarkdown = template
