@@ -1,7 +1,7 @@
 ![me](https://user-images.githubusercontent.com/1561955/87837906-82e5c500-c895-11ea-83b8-f6d134ae64ec.png)
 
-<h1 align="center">Hi 👋, I'm Miguel Ángel</h1>
-<h3 align="center">A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸</h3>
+<h2 align="center">Hi 👋, I'm Miguel Ángel</h2>
+<h4 align="center">A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸</h4>
 
 <p align="center">
    <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
@@ -18,10 +18,13 @@
   </a>
 </p>
 
-### 📹 My latest videos on [my Youtube Channel](https://youtube.com/midudev):
+#### 📹 Latest videos on [my Youtube Channel](https://youtube.com/midudev):
 %{{latest_youtube}}%
 
-### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
+#### 📸 Latest photos on [my Instagram](https://instagram.com/midu.dev):
+%{{latest_instagram}}%
+
+#### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
 %{{latest_articles}}%
 
 <p align="left">
