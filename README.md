@@ -18,12 +18,17 @@
   </a>
 </p>
 
-### 📹 My latest videos:
-[![Crea tu Github Readme Profile paso a paso y añade GitHub Actions](https://img.youtube.com/vi/1eEnboVooiY/mqdefault.jpg)](https://youtu.be/1eEnboVooiY)
+### 📹 My latest videos on [my Youtube Channel](https://youtube.com/midudev):
 
-[![CSS en JS y Styled Components con Emotion y React](https://img.youtube.com/vi/DjVGdUM1dHQ/mqdefault.jpg)](https://youtu.be/DjVGdUM1dHQ)
-
-[![Mi nuevo ESPACIO DE TRABAJO para desarrollo WEB | Studio Tour 2020](https://img.youtube.com/vi/vq_usTOxJgM/mqdefault.jpg)](https://youtu.be/vq_usTOxJgM)
+<a href='https://youtu.be/1eEnboVooiY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1eEnboVooiY/mqdefault.jpg' alt='Crea tu Github Readme Profile paso a paso y añade GitHub Actions' />
+</a>
+<a href='https://youtu.be/DjVGdUM1dHQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/DjVGdUM1dHQ/mqdefault.jpg' alt='CSS en JS y Styled Components con Emotion y React' />
+</a>
+<a href='https://youtu.be/vq_usTOxJgM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/vq_usTOxJgM/mqdefault.jpg' alt='Mi nuevo ESPACIO DE TRABAJO para desarrollo WEB | Studio Tour 2020' />
+</a>
 
 ### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
 - [Cómo crear tu perfil de Github con README](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
