@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/midudev/midudev#readme",
   "dependencies": {
+    "node-fetch": "2.6.0",
     "rss-parser": "3.8.0"
   }
 }
