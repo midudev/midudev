@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      env:
-        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
       with:
         node-version: '14'
     - run: npm install
     - run: npm run update-readme
+      env:
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
     - run: |
         git config user.name midudev
         git config user.email miduga@gmail.com
