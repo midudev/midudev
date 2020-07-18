@@ -18,8 +18,19 @@
   </a>
 </p>
 
-- 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
-  - [Cómo crear tu perfil de Github con README](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
+### 📹 My latest videos:
+[![Crea tu Github Readme Profile paso a paso y añade GitHub Actions](https://img.youtube.com/vi/1eEnboVooiY/mqdefault.jpg)](https://youtu.be/1eEnboVooiY)
+
+[![CSS en JS y Styled Components con Emotion y React](https://img.youtube.com/vi/DjVGdUM1dHQ/mqdefault.jpg)](https://youtu.be/DjVGdUM1dHQ)
+
+[![Mi nuevo ESPACIO DE TRABAJO para desarrollo WEB | Studio Tour 2020](https://img.youtube.com/vi/vq_usTOxJgM/mqdefault.jpg)](https://youtu.be/vq_usTOxJgM)
+
+### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
+- [Cómo crear tu perfil de Github con README](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
+- [La mejor música para programar - {code-fi} 👨‍💻 🎧](https://midu.dev/code-fi-lofi-hip-hop-radio-m%C3%BAsica-para-programar/)
+- [Curso gratis de ReactJS 2020 con clases en vivo](https://midu.dev/curso-gratis-react-2020/)
+- [Entrevista con Guillermo Rauch, CEO de Vercel ▲ (ZEIT)](https://midu.dev/entrevista-con-guillermo-rauch-ceo-de-vercel/)
+- [Cómo eliminar un fichero con Node.js](https://midu.dev/como-eliminar-un-ficher-con-node-js/)
 
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
