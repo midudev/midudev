@@ -21,6 +21,8 @@ jobs:
     - run: npm install
     - run: npm run update-readme
       env:
+        INSTAGRAM_USER: ${{ secrets.INSTAGRAM_USER }}
+        INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
     - run: |
         git config user.name midudev
