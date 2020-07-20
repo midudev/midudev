@@ -1,4 +1,4 @@
-const {YOUTUBE_API_KEY, INSTAGRAM_USER = 'midu.dev', INSTAGRAM_TOKEN = '.W1ldky0;***'} = process.env
+const {YOUTUBE_API_KEY, INSTAGRAM_USER, INSTAGRAM_TOKEN} = process.env
 const fs = require('fs').promises
 const fetch = require('node-fetch')
 
