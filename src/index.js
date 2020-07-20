@@ -1,5 +1,4 @@
 import {promises as fs} from 'fs'
-import path from 'path'
 import fetch from 'node-fetch'
 import Parser from 'rss-parser'
 
@@ -9,21 +8,22 @@ const parser = new Parser()
 
 const {YOUTUBE_API_KEY} = process.env
 
-const getPhotosFromInstagram = async () => {
-  return fetch('https://instagram.com/midu.dev?__a=1', { headers: { userAgent: USER_AGENT }})
+const getLatestArticlesFromBlog = () =>
+  parser.parseURL('https://midu.dev/index.xml').then(data => data.items)
+
+const getPhotosFromInstagram = () =>
+  fetch('https://instagram.com/midu.dev?__a=1', { headers: { userAgent: USER_AGENT }})
     .then(res => res.json())
     .then(({graphql}) => {
       const { user } = graphql
       const {edge_owner_to_timeline_media: {edges}} = user
       return edges
     })
-}
 
-const getLatestYoutubeVideos = () => {
-  return fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UU8LeXCWOalN8SxlrPcG-PaQ&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`)
+const getLatestYoutubeVideos = () =>
+  fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UU8LeXCWOalN8SxlrPcG-PaQ&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`)
     .then(res => res.json())
     .then(videos => videos.items)
-}
 
 const generateInstagramHTML = ({shortcode, thumbnail_src}) => `
 <a href='https://www.instagram.com/p/${shortcode}/' target='_blank'>
@@ -37,14 +37,14 @@ const generateYoutubeHTML = ({title, videoId}) => `
 
 
 ;(async () => {
-  const [template, {items: articles}, videos, photos] = await Promise.all([
+  const [template, articles, videos, photos] = await Promise.all([
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-    parser.parseURL('https://midu.dev/index.xml'),
+    getLatestArticlesFromBlog(),
     getLatestYoutubeVideos(),
     getPhotosFromInstagram()
   ])
 
-  // create latest article markdown
+  // create latest articles markdown
   const latestArticlesMarkdown = articles.slice(0, NUMBER_OF.ARTICLES)
     .map(({title, link}) => `- [${title}](${link})`)
     .join('\n')
