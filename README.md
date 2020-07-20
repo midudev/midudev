@@ -1,7 +1,7 @@
 ![me](https://user-images.githubusercontent.com/1561955/87837906-82e5c500-c895-11ea-83b8-f6d134ae64ec.png)
 
-<h1 align="center">Hi 👋, I'm Miguel Ángel</h1>
-<h3 align="center">A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸</h3>
+<h2 align="center">Hi 👋, I'm Miguel Ángel</h2>
+<h4 align="center">A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸</h4>
 
 <p align="center">
    <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-### 📹 Latest videos on [my Youtube Channel](https://youtube.com/midudev):
+#### 📹 Latest videos on [my Youtube Channel](https://youtube.com/midudev):
 
 <a href='https://youtu.be/1eEnboVooiY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1eEnboVooiY/mqdefault.jpg' alt='Crea tu Github Readme Profile paso a paso y añade GitHub Actions' />
@@ -30,22 +30,22 @@
   <img width='30%' src='https://img.youtube.com/vi/vq_usTOxJgM/mqdefault.jpg' alt='Mi nuevo ESPACIO DE TRABAJO para desarrollo WEB | Studio Tour 2020' />
 </a>
 
-### 📸 Latest photos on [my Instagram](https://instagram.com/midu.dev):
+#### 📸 Latest photos on [my Instagram](https://instagram.com/midu.dev):
 
 <a href='https://www.instagram.com/p/CCqssNvAbCe/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/108118124_1012689319164811_7161377457328330548_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=kJodNCJ6FHIAX-NXQaJ&oh=61caa7fb809f850e2e87af5264c2e80e&oe=5F3D3A29' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/108118124_1012689319164811_7161377457328330548_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=dJkwNeB65lgAX_UHY8g&oh=a28081db886493962cd0b564021459bc&oe=5F3D3A29' alt='Instagram photo' />
 </a>
 <a href='https://www.instagram.com/p/CCli5pOFjAn/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.126.1080.1080a/s640x640/107862040_409859616597819_5833828051807373748_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_AZOO4-jFlEAX9iab_P&oh=32da7483b1cdcdf846b2a351cd3a435d&oe=5F3E1682' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.126.1080.1080a/s640x640/107862040_409859616597819_5833828051807373748_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=nUjfTSovsywAX-KFcDc&oh=06ac097b96da73b8010ffd5f8322f5e2&oe=5F3E1682' alt='Instagram photo' />
 </a>
 <a href='https://www.instagram.com/p/CCi-G9LH5n5/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c135.0.810.810a/s640x640/107512484_230168177946789_451470641465930884_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=6q3M8U4W0PEAX_HHk8Z&oh=c947d3ca82f0406c2942849aaf3c7220&oe=5F3DF660' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/e15/c135.0.810.810a/s640x640/107512484_230168177946789_451470641465930884_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=6q3M8U4W0PEAX9z-ok-&oh=2b418fef3d74a2a2219b15ca9adf022a&oe=5F3DF660' alt='Instagram photo' />
 </a>
 <a href='https://www.instagram.com/p/CCYrg2hH3xf/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c236.0.607.607a/106596309_584373578947661_7528320836608472716_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=zfT_IbEzsFQAX-rb9rs&oh=33ffa10c8750e379567fe5213df522d7&oe=5F3C43C0' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/e15/c236.0.607.607a/106596309_584373578947661_7528320836608472716_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=zfT_IbEzsFQAX-pqlnA&oh=b0badfc52b2bcbe0d5020ec2ad40dedb&oe=5F403840' alt='Instagram photo' />
 </a>
 
-### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
+#### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
 - [Cómo crear tu perfil de Github con README](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
 - [La mejor música para programar - {code-fi} 👨‍💻 🎧](https://midu.dev/code-fi-lofi-hip-hop-radio-m%C3%BAsica-para-programar/)
 - [Curso gratis de ReactJS 2020 con clases en vivo](https://midu.dev/curso-gratis-react-2020/)
