@@ -1,21 +1,16 @@
-const {YOUTUBE_API_KEY} = process.env
-const fs = require('fs').promises
-const fetch = require('node-fetch')
-const Parser = require('rss-parser')
+import {promises as fs} from 'fs'
+import path from 'path'
+import fetch from 'node-fetch'
+import Parser from 'rss-parser'
+
+import {PLACEHOLDERS, NUMBER_OF, USER_AGENT} from './constants.js'
+
 const parser = new Parser()
 
-
-const NUM_OF_ARTICLES_TO_SHOW = 5
-const NUM_OF_PHOTOS_TO_SHOW = 4
-const NUM_OF_VIDEOS_TO_SHOW = 3
-
-const LATEST_ARTICLE_PLACEHOLDER = "%{{latest_articles}}%"
-const LATEST_YOUTUBE_VIDEOS = "%{{latest_youtube}}%"
-const LATEST_INSTAGRAM_PHOTO = "%{{latest_instagram}}%"
-// const LATEST_TWEET_PLACEHOLDER = "%{{latest_tweet}}%"
+const {YOUTUBE_API_KEY} = process.env
 
 const getPhotosFromInstagram = async () => {
-  return fetch('https://instagram.com/midu.dev?__a=1')
+  return fetch('https://instagram.com/midu.dev?__a=1', { headers: { userAgent: USER_AGENT }})
     .then(res => res.json())
     .then(({graphql}) => {
       const { user } = graphql
@@ -25,7 +20,7 @@ const getPhotosFromInstagram = async () => {
 }
 
 const getLatestYoutubeVideos = () => {
-  return fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UU8LeXCWOalN8SxlrPcG-PaQ&maxResults=${NUM_OF_VIDEOS_TO_SHOW}&key=${YOUTUBE_API_KEY}`)
+  return fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UU8LeXCWOalN8SxlrPcG-PaQ&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`)
     .then(res => res.json())
     .then(videos => videos.items)
 }
@@ -43,14 +38,14 @@ const generateYoutubeHTML = ({title, videoId}) => `
 
 ;(async () => {
   const [template, {items: articles}, videos, photos] = await Promise.all([
-    fs.readFile('./README.md.tpl', { encoding: 'utf-8' }),
+    fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
     parser.parseURL('https://midu.dev/index.xml'),
     getLatestYoutubeVideos(),
     getPhotosFromInstagram()
   ])
 
   // create latest article markdown
-  const latestArticlesMarkdown = articles.slice(0, NUM_OF_ARTICLES_TO_SHOW)
+  const latestArticlesMarkdown = articles.slice(0, NUMBER_OF.ARTICLES)
     .map(({title, link}) => `- [${title}](${link})`)
     .join('\n')
 
@@ -65,15 +60,15 @@ const generateYoutubeHTML = ({title, videoId}) => `
 
   // create latest photos from instagram
   const latestInstagramPhotos = photos
-    .slice(0, NUM_OF_PHOTOS_TO_SHOW)
+    .slice(0, NUMBER_OF.PHOTOS)
     .map(({node}) => generateInstagramHTML(node))
     .join('')
 
   // replace all placeholders with info
   const newMarkdown = template
-    .replace(LATEST_ARTICLE_PLACEHOLDER, latestArticlesMarkdown)
-    .replace(LATEST_YOUTUBE_VIDEOS, latestYoutubeVideos)
-    .replace(LATEST_INSTAGRAM_PHOTO, latestInstagramPhotos)
+    .replace(PLACEHOLDERS.LATEST_ARTICLES, latestArticlesMarkdown)
+    .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
+    .replace(PLACEHOLDERS.LATEST_INSTAGRAM, latestInstagramPhotos)
 
-  await fs.writeFile('./README.md', newMarkdown)
+  await fs.writeFile('README.md', newMarkdown)
 })()
