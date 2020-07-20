@@ -30,16 +30,16 @@
 #### 📸 Latest photos on [my Instagram](https://instagram.com/midu.dev):
 
 <a href='https://www.instagram.com/p/CCqssNvAbCe/' target='_blank'>
-  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/108118124_1012689319164811_7161377457328330548_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=dJkwNeB65lgAX9v441Q&oh=9ce6e2b02fa593842d7bba9ea51b8526&oe=5F3D3A29' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/108118124_1012689319164811_7161377457328330548_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=dJkwNeB65lgAX8snbfU&oh=bf92ef4a37521f062a17b3e4fa0ea6db&oe=5F3D3A29' alt='Instagram photo' />
 </a>
 <a href='https://www.instagram.com/p/CCli5pOFjAn/' target='_blank'>
-  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.126.1080.1080a/s640x640/107862040_409859616597819_5833828051807373748_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=nUjfTSovsywAX9nIj1i&oh=247bc541ebd8739e360949c5053eae3f&oe=5F3E1682' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.126.1080.1080a/s640x640/107862040_409859616597819_5833828051807373748_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=nUjfTSovsywAX9GgtIF&oh=449a2188573efd3227de0a2a034a2410&oe=5F3E1682' alt='Instagram photo' />
 </a>
 <a href='https://www.instagram.com/p/CCi-G9LH5n5/' target='_blank'>
-  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e15/c135.0.810.810a/s640x640/107512484_230168177946789_451470641465930884_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=6q3M8U4W0PEAX9SMuIG&oh=a4b28ef16dd3d56736e47184994edc94&oe=5F3DF660' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e15/c135.0.810.810a/s640x640/107512484_230168177946789_451470641465930884_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=6q3M8U4W0PEAX811COB&oh=85921846138475a68ed35c6e39d5e08a&oe=5F3DF660' alt='Instagram photo' />
 </a>
 <a href='https://www.instagram.com/p/CCYrg2hH3xf/' target='_blank'>
-  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e15/c236.0.607.607a/106596309_584373578947661_7528320836608472716_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=zfT_IbEzsFQAX8RZ2cV&oh=4bf853207282cc82bc49a2abafea5643&oe=5F403840' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e15/c236.0.607.607a/106596309_584373578947661_7528320836608472716_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=zfT_IbEzsFQAX-2UKwO&oh=55167dbad10372e151dce021ada3b5cd&oe=5F403840' alt='Instagram photo' />
 </a>
 
 #### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
@@ -48,12 +48,3 @@
 - [Curso gratis de ReactJS 2020 con clases en vivo](https://midu.dev/curso-gratis-react-2020/)
 - [Entrevista con Guillermo Rauch, CEO de Vercel ▲ (ZEIT)](https://midu.dev/entrevista-con-guillermo-rauch-ceo-de-vercel/)
 - [Cómo eliminar un fichero con Node.js](https://midu.dev/como-eliminar-un-ficher-con-node-js/)
-
-#### 👨‍💻 Interested in:
-<p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24px" height="24px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="24px" height="24px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="24px" height="24px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="24px" height="24px"/>
-</p>
