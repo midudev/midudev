@@ -1,7 +1,4 @@
-![me](https://user-images.githubusercontent.com/1561955/87837906-82e5c500-c895-11ea-83b8-f6d134ae64ec.png)
-
-<h2 align="center">Hi 👋, I'm Miguel Ángel</h2>
-<h4 align="center">A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸</h4>
+![Hi 👋, I'm Miguel Ángel, A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸](https://user-images.githubusercontent.com/1561955/87837906-82e5c500-c895-11ea-83b8-f6d134ae64ec.png)
 
 <p align="center">
    <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
@@ -27,6 +24,7 @@
 #### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
 %{{latest_articles}}%
 
+#### 👨‍💻 Interested in:
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24px" height="24px"/>
