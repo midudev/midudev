@@ -28,5 +28,5 @@ jobs:
         git config user.name midudev
         git config user.email miduga@gmail.com
         git add README.md
-        git commit -m "[bot] Update README with latest info"
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
         git push origin master
