@@ -1,13 +1,9 @@
-const {YOUTUBE_API_KEY, INSTAGRAM_USER, INSTAGRAM_TOKEN} = process.env
+const {YOUTUBE_API_KEY} = process.env
 const fs = require('fs').promises
 const fetch = require('node-fetch')
-
 const Parser = require('rss-parser')
 const parser = new Parser()
 
-const Instagram = require('instagram-web-api')
- 
-const client = new Instagram({username: INSTAGRAM_USER, password: INSTAGRAM_TOKEN})
 
 const NUM_OF_ARTICLES_TO_SHOW = 5
 const NUM_OF_PHOTOS_TO_SHOW = 4
@@ -19,10 +15,13 @@ const LATEST_INSTAGRAM_PHOTO = "%{{latest_instagram}}%"
 // const LATEST_TWEET_PLACEHOLDER = "%{{latest_tweet}}%"
 
 const getPhotosFromInstagram = async () => {
-  await client.login()
-  const { user } = await client.getPhotosByUsername({username: 'midu.dev', first: NUM_OF_PHOTOS_TO_SHOW})
-  const {edge_owner_to_timeline_media: {page_info, edges}} = user
-  return edges
+  return fetch('https://instagram.com/midu.dev?__a=1')
+    .then(res => res.json())
+    .then(({graphql}) => {
+      const { user } = graphql
+      const {edge_owner_to_timeline_media: {edges}} = user
+      return edges
+    })
 }
 
 const getLatestYoutubeVideos = () => {
@@ -66,6 +65,7 @@ const generateYoutubeHTML = ({title, videoId}) => `
 
   // create latest photos from instagram
   const latestInstagramPhotos = photos
+    .slice(0, NUM_OF_PHOTOS_TO_SHOW)
     .map(({node}) => generateInstagramHTML(node))
     .join('')
 
