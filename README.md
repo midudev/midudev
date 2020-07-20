@@ -1,7 +1,4 @@
-![me](https://user-images.githubusercontent.com/1561955/87837906-82e5c500-c895-11ea-83b8-f6d134ae64ec.png)
-
-<h2 align="center">Hi 👋, I'm Miguel Ángel</h2>
-<h4 align="center">A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸</h4>
+![Hi 👋, I'm Miguel Ángel, A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸](https://user-images.githubusercontent.com/1561955/87837906-82e5c500-c895-11ea-83b8-f6d134ae64ec.png)
 
 <p align="center">
    <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
@@ -33,16 +30,16 @@
 #### 📸 Latest photos on [my Instagram](https://instagram.com/midu.dev):
 
 <a href='https://www.instagram.com/p/CCqssNvAbCe/' target='_blank'>
-  <img width='20%' src='https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/108118124_1012689319164811_7161377457328330548_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=dJkwNeB65lgAX_UHY8g&oh=a28081db886493962cd0b564021459bc&oe=5F3D3A29' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/108118124_1012689319164811_7161377457328330548_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=dJkwNeB65lgAX_YJR5s&oh=766172208e01a0da3058ee6a54d85122&oe=5F3D3A29' alt='Instagram photo' />
 </a>
 <a href='https://www.instagram.com/p/CCli5pOFjAn/' target='_blank'>
-  <img width='20%' src='https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.126.1080.1080a/s640x640/107862040_409859616597819_5833828051807373748_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=nUjfTSovsywAX-KFcDc&oh=06ac097b96da73b8010ffd5f8322f5e2&oe=5F3E1682' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.126.1080.1080a/s640x640/107862040_409859616597819_5833828051807373748_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=nUjfTSovsywAX_0LKnW&oh=307bd778181a406d6829d1a22ebdcd80&oe=5F3E1682' alt='Instagram photo' />
 </a>
 <a href='https://www.instagram.com/p/CCi-G9LH5n5/' target='_blank'>
-  <img width='20%' src='https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/e15/c135.0.810.810a/s640x640/107512484_230168177946789_451470641465930884_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=6q3M8U4W0PEAX9z-ok-&oh=2b418fef3d74a2a2219b15ca9adf022a&oe=5F3DF660' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e15/c135.0.810.810a/s640x640/107512484_230168177946789_451470641465930884_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=6q3M8U4W0PEAX8MbwuN&oh=fffb5791c0b4692afa151f9e3d83fe0c&oe=5F3DF660' alt='Instagram photo' />
 </a>
 <a href='https://www.instagram.com/p/CCYrg2hH3xf/' target='_blank'>
-  <img width='20%' src='https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/e15/c236.0.607.607a/106596309_584373578947661_7528320836608472716_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=zfT_IbEzsFQAX-pqlnA&oh=b0badfc52b2bcbe0d5020ec2ad40dedb&oe=5F403840' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e15/c236.0.607.607a/106596309_584373578947661_7528320836608472716_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=zfT_IbEzsFQAX-Iqk3C&oh=ee335f9d176662bf1291393c18685b6c&oe=5F403840' alt='Instagram photo' />
 </a>
 
 #### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
@@ -52,6 +49,7 @@
 - [Entrevista con Guillermo Rauch, CEO de Vercel ▲ (ZEIT)](https://midu.dev/entrevista-con-guillermo-rauch-ceo-de-vercel/)
 - [Cómo eliminar un fichero con Node.js](https://midu.dev/como-eliminar-un-ficher-con-node-js/)
 
+#### 👨‍💻 Interested in:
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24px" height="24px"/>
