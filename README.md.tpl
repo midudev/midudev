@@ -1,4 +1,4 @@
-![Hi 👋, I'm Miguel Ángel, A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸](https://user-images.githubusercontent.com/1561955/87837906-82e5c500-c895-11ea-83b8-f6d134ae64ec.png)
+![Hi 👋, I'm Miguel Ángel, A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸](https://user-images.githubusercontent.com/1561955/87921826-64412300-ca7b-11ea-82b3-944145ae77fa.png)
 
 <p align="center">
    <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
