@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "midudev README GitHub profile",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "update-readme": "node index.js",
+    "update-readme": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
