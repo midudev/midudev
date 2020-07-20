@@ -11,8 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/midudev/midudev.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],
+  "author": "Miguel Ángel Durán <miduga@gmail.com> (https://midu.dev)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/midudev/midudev/issues"
