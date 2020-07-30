@@ -6,28 +6,24 @@ import {PLACEHOLDERS, NUMBER_OF, USER_AGENT} from './constants.js'
 
 const parser = new Parser()
 
-const {YOUTUBE_API_KEY} = process.env
+const {INSTAGRAM_ID, INSTAGRAM_TOKEN, YOUTUBE_API_KEY} = process.env
 
 const getLatestArticlesFromBlog = () =>
   parser.parseURL('https://midu.dev/index.xml').then(data => data.items)
 
 const getPhotosFromInstagram = () =>
-  fetch('https://instagram.com/midu.dev?__a=1', { headers: { userAgent: USER_AGENT }})
+  fetch(`https://graph.facebook.com/v7.0/${INSTAGRAM_ID}/media?fields=id%2Cig_id%2Cmedia_type%2Cthumbnail_url%2Cmedia_url%2Cpermalink&access_token=${INSTAGRAM_TOKEN}`)
     .then(res => res.json())
-    .then(({graphql}) => {
-      const { user } = graphql
-      const {edge_owner_to_timeline_media: {edges}} = user
-      return edges
-    })
+    .then(({data}) => data)
 
 const getLatestYoutubeVideos = () =>
   fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UU8LeXCWOalN8SxlrPcG-PaQ&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`)
     .then(res => res.json())
     .then(videos => videos.items)
 
-const generateInstagramHTML = ({shortcode, thumbnail_src}) => `
-<a href='https://www.instagram.com/p/${shortcode}/' target='_blank'>
-  <img width='20%' src='${thumbnail_src}' alt='Instagram photo' />
+const generateInstagramHTML = ({media_url, permalink}) => `
+<a href='${permalink}' target='_blank'>
+  <img width='20%' src='${media_url}' alt='Instagram photo' />
 </a>`
 
 const generateYoutubeHTML = ({title, videoId}) => `
@@ -61,7 +57,7 @@ const generateYoutubeHTML = ({title, videoId}) => `
   // create latest photos from instagram
   const latestInstagramPhotos = photos
     .slice(0, NUMBER_OF.PHOTOS)
-    .map(({node}) => generateInstagramHTML(node))
+    .map(generateInstagramHTML)
     .join('')
 
   // replace all placeholders with info
