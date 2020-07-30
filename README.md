@@ -29,22 +29,22 @@
 
 #### 📸 Latest photos on [my Instagram](https://instagram.com/midu.dev):
 
+<a href='https://www.instagram.com/p/CDQsig-gbyS/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/116606103_177907530438139_1174791481588368278_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=q9TlvvVbv4QAX-XHUGq&oh=8bbf474ff5d496da8c35a92d46a2484e&oe=5F4B88C9' alt='Instagram photo' />
+</a>
+<a href='https://www.instagram.com/p/CDM7dQbH2KE/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c236.0.607.607a/115930717_3605407209502620_8594518121847434988_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=h8Mp7HXqid8AX-JyKuL&oh=157b090b6e9bd42628f00b8479e238a3&oe=5F4D3FED' alt='Instagram photo' />
+</a>
 <a href='https://www.instagram.com/p/CDJmB35HAOs/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c256.0.568.568a/116149443_1990507971080336_79686997087006250_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=E84zvlIYaeIAX_gKJRP&oh=bb152ea558f17f5af1781f12c212452d&oe=5F4960A9' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c256.0.568.568a/116149443_1990507971080336_79686997087006250_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=2QDJ2ehM2TIAX9I_ojN&oh=534a7f976ba3a74b2c417f2a0caa7d97&oe=5F4D5529' alt='Instagram photo' />
 </a>
 <a href='https://www.instagram.com/p/CC_S2WqFpAB/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c135.0.810.810a/s640x640/110147734_327499241757072_6969071449504203851_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=kLFirv_zYH8AX_lBh4X&oh=9e45e7000e925da113d719189ee73b29&oe=5F48A972' alt='Instagram photo' />
-</a>
-<a href='https://www.instagram.com/p/CC3kBGgFbER/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c207.0.666.666a/s640x640/109434116_2701321493527226_5506115292976175429_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=0oIGggLxRGwAX-szBtG&oh=3e7677f02f8033bad8fa31f35a3ee0d0&oe=5F49C74A' alt='Instagram photo' />
-</a>
-<a href='https://www.instagram.com/p/CCqssNvAbCe/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/108118124_1012689319164811_7161377457328330548_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=UupI8J3Tdt8AX-4LUem&oh=0f8a0caf91105ec570125b5ba098f84e&oe=5F4917A9' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c135.0.810.810a/s640x640/110147734_327499241757072_6969071449504203851_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=kLFirv_zYH8AX_lBh4X&oh=ba4f98e04adafe993a7c0997b27536c3&oe=5F4C9DF2' alt='Instagram photo' />
 </a>
 
 #### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
+- [Curso gratis de NextJS, el framework de React](https://midu.dev/curso-gratis-next-js-framework-de-react-2020/)
 - [Las 5 mejores tipografías para programar](https://midu.dev/las-mejores-tipografias-para-programar/)
 - [Fondos de pantalla de programación y desarrollo web](https://midu.dev/fondos-de-pantalla-de-programacion-javascript-html-css-react/)
 - [Cómo crear tu perfil de Github con README](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
 - [La mejor música para programar - {code-fi} 👨‍💻 🎧](https://midu.dev/code-fi-lofi-hip-hop-radio-m%C3%BAsica-para-programar/)
-- [Curso gratis de ReactJS 2020 con clases en vivo](https://midu.dev/curso-gratis-react-2020/)
