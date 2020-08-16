@@ -17,29 +17,29 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/midudev):
 
+<a href='https://youtu.be/W5y79Je-Rfs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/W5y79Je-Rfs/mqdefault.jpg' alt='Usando Firebase Cloudstore para crear y recuperar tweets' />
+</a>
 <a href='https://youtu.be/EEDRcolSHms' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/EEDRcolSHms/mqdefault.jpg' alt='Creando la página Home y configurando ESLINT y PRETTIER en nuestro proyecto' />
 </a>
 <a href='https://youtu.be/UlYGGCNFcWo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UlYGGCNFcWo/mqdefault.jpg' alt='NextJS: Login en GitHub con Firebase y más Styled JSX' />
 </a>
-<a href='https://youtu.be/2jxc8DMzt0I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2jxc8DMzt0I/mqdefault.jpg' alt='Aprendiendo NextJS, el framework de React con Server Side Rendering' />
-</a>
 
 #### 📸 Latest photos on [my Instagram](https://instagram.com/midu.dev):
 
-<a href='https://www.instagram.com/p/CDeTQ2-A5SA/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.52.1080.1080a/s640x640/117150683_3362925603794015_4908986672826329968_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=At_2jFqQgzoAX_YrUel&oh=30777a778152d66efde1cc798025c1c6&oe=5F56B62B' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CD6oARvnJEE/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.0.1079.1079a/s640x640/117471168_870976753433774_5365623719171584540_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=E5NaY4AmXGEAX8CGKzm&oh=10de1baab7051274b92c348a80dc0bb6&oe=5F61F724' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CDW3YZ7gf2R/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/116744283_166958971565693_1349500374973866724_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=fAmLCib4wuAAX9HQm2K&oh=cdfbd48a65e6381499c8f97e641b4348&oe=5F576001' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CD0xOC2AYrq/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c236.0.607.607a/117342277_719379662229524_2967912700850128675_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=VPRCzT9ARusAX-6Y9tN&oh=b77b557d5a147569e5fe2021ee333088&oe=5F622D62' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CDUiF2TgZ6i/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c219.0.1002.1002a/s640x640/116197113_983954982063797_8302863674026678908_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=jK6MWY9KEfgAX-g2E5G&oh=e5d5eb63cbe8daae9222d76109225012&oe=5F578C61' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CDzHovug-yb/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117335292_752316502236931_4868750401017438520_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=khntVUsFyU0AX8Kfyn6&oh=c649aeffd236dc06062e1b5b2b17213a&oe=5F6334DA' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CDR0VkEAzRT/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/116016976_940163366501480_58371738210676671_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=IJTwD0KEQ9wAX_82a8f&oh=14da1241575e8d03ace1c5a9bfa1435c&oe=5F571BF3' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CDmBpQWHkfW/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117306552_111235170578695_7971981710609825943_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=iODTUomdh3kAX_M0u41&oh=10d04b25f75a05e885bca0c8c40044b4&oe=5F64ABCF' alt='Instagram photo' />
 </a>
 
 #### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
