@@ -29,6 +29,9 @@
 
 #### 📸 Latest photos on [my Instagram](https://instagram.com/midu.dev):
 
+<a href='https://www.instagram.com/p/CD9RBf8gr3T/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117765401_1234374626895001_5828344077668307192_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=pJhF7duaqdcAX-wXPNW&oh=4872d605347d8fe96af4cce92e294231&oe=5F6485FD' alt='Instagram photo' />
+</a>
 <a href='https://www.instagram.com/p/CD6oARvnJEE/' target='_blank'>
   <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.0.1079.1079a/s640x640/117471168_870976753433774_5365623719171584540_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=E5NaY4AmXGEAX8CGKzm&oh=10de1baab7051274b92c348a80dc0bb6&oe=5F61F724' alt='Instagram photo' />
 </a>
@@ -37,9 +40,6 @@
 </a>
 <a href='https://www.instagram.com/p/CDzHovug-yb/' target='_blank'>
   <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117335292_752316502236931_4868750401017438520_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=khntVUsFyU0AX8Kfyn6&oh=c649aeffd236dc06062e1b5b2b17213a&oe=5F6334DA' alt='Instagram photo' />
-</a>
-<a href='https://www.instagram.com/p/CDmBpQWHkfW/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117306552_111235170578695_7971981710609825943_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=iODTUomdh3kAX_M0u41&oh=10d04b25f75a05e885bca0c8c40044b4&oe=5F64ABCF' alt='Instagram photo' />
 </a>
 
 #### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
