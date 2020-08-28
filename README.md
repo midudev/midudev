@@ -17,34 +17,34 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/midudev):
 
-<a href='https://youtu.be/W5y79Je-Rfs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/W5y79Je-Rfs/mqdefault.jpg' alt='Usando Firebase Cloudstore para crear y recuperar tweets' />
+<a href='https://youtu.be/JEUGiiMT4A0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/JEUGiiMT4A0/mqdefault.jpg' alt='UNBOXING de la GitHub Star SWAG Box 📦' />
 </a>
-<a href='https://youtu.be/EEDRcolSHms' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/EEDRcolSHms/mqdefault.jpg' alt='Creando la página Home y configurando ESLINT y PRETTIER en nuestro proyecto' />
+<a href='https://youtu.be/AiyiiXXChwo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AiyiiXXChwo/mqdefault.jpg' alt='Subiendo imágenes a Cloud Storage y creando un Timeago de forma nativa sin Moment.js' />
 </a>
-<a href='https://youtu.be/UlYGGCNFcWo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UlYGGCNFcWo/mqdefault.jpg' alt='NextJS: Login en GitHub con Firebase y más Styled JSX' />
+<a href='https://youtu.be/pe8BCC2EDxg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pe8BCC2EDxg/mqdefault.jpg' alt='☁️ CODESPACES, el entorno de DESARROLLO en la nube de GITHUB' />
 </a>
 
 #### 📸 Latest photos on [my Instagram](https://instagram.com/midu.dev):
 
-<a href='https://www.instagram.com/p/CD9RBf8gr3T/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117765401_1234374626895001_5828344077668307192_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=pJhF7duaqdcAX-wXPNW&oh=4872d605347d8fe96af4cce92e294231&oe=5F6485FD' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CEZz9rcHth0/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.0.1079.1079a/s640x640/118418249_1064357440629036_1236217361046653697_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=jCKyth97E08AX9lLpgG&oh=5b8405b84bacc524301759a1dd0756c9&oe=5F7089B8' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CD6oARvnJEE/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.0.1079.1079a/s640x640/117471168_870976753433774_5365623719171584540_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=E5NaY4AmXGEAX8CGKzm&oh=10de1baab7051274b92c348a80dc0bb6&oe=5F61F724' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CEW14AsloBw/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.0.1079.1079a/s640x640/118242574_315643552988623_7899668857543388946_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=m8FCzvwZuAAAX9rKhm9&oh=c07783288139f7b0d49cb5ec98612d4d&oe=5F737350' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CD0xOC2AYrq/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c236.0.607.607a/117342277_719379662229524_2967912700850128675_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=VPRCzT9ARusAX-6Y9tN&oh=b77b557d5a147569e5fe2021ee333088&oe=5F622D62' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CEKyjLogD2Y/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117988285_350469802614678_4422885487078557552_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=PQWMnzifXoEAX-X-Rpp&oh=c0becbfac0cc6d3219a17162fd8fe7d3&oe=5F72A318' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CDzHovug-yb/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117335292_752316502236931_4868750401017438520_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=khntVUsFyU0AX8Kfyn6&oh=c649aeffd236dc06062e1b5b2b17213a&oe=5F6334DA' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CEE7L2lHooX/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117706753_2709467539301568_738448095981736154_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=P3ZmFiVYn10AX8vhNLe&oh=7725dfb822711217108f0833d668d4bd&oe=5F7346EB' alt='Instagram photo' />
 </a>
 
 #### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
+- [Cómo deshacer el último commit con git](https://midu.dev/como-deshacer-el-ultimo-commit-git/)
+- [Cómo crear un TimeAgo sin dependencias usando Intl.RelativeTimeFormat](https://midu.dev/como-crear-un-time-ago-sin-dependencias-intl-relativeformat/)
+- [Cómo instalar Node en Mac, Linux y Windows](https://midu.dev/como-instalar-node-en-mac-y-windows/)
 - [Curso gratis de NextJS, el framework de React](https://midu.dev/curso-gratis-next-js-framework-de-react-2020/)
 - [Las 5 mejores tipografías para programar](https://midu.dev/las-mejores-tipografias-para-programar/)
-- [Fondos de pantalla de programación y desarrollo web](https://midu.dev/fondos-de-pantalla-de-programacion-javascript-html-css-react/)
-- [Cómo crear tu perfil de Github con README](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
-- [La mejor música para programar - {code-fi} 👨‍💻 🎧](https://midu.dev/code-fi-lofi-hip-hop-radio-m%C3%BAsica-para-programar/)
