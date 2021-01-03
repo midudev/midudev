@@ -17,34 +17,34 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/midudev):
 
-<a href='https://youtu.be/swfvSLCXxHE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/swfvSLCXxHE/mqdefault.jpg' alt='¡25 cosas que NO SABÍAS de Javascript! 🎉 Celebramos su 25 ANIVERSARIO.' />
+<a href='https://youtu.be/feSKVnDB8XE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/feSKVnDB8XE/mqdefault.jpg' alt='FULLSTACK Developer 👨‍💻 ¿Son Unicornios 🦄? (¡Te interesa para tu Desarrollo como Programador 📈!)' />
 </a>
-<a href='https://youtu.be/2LdvoXHZeaQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2LdvoXHZeaQ/mqdefault.jpg' alt='PLAYSTATION 5: Mis IMPRESIONES tras una SEMANA + JUEGO EN DIRECTO' />
+<a href='https://youtu.be/3s1OiNRd4ZQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/3s1OiNRd4ZQ/mqdefault.jpg' alt='⚠️ CUIDADO al mezclar Async con código Síncrono. ¿Qué pasa? (Reto Javascript) #shorts' />
 </a>
-<a href='https://youtu.be/EVoqj6bhMlk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/EVoqj6bhMlk/mqdefault.jpg' alt='Aprende esbuild paso a paso, la alternativa rápida a Webpack' />
+<a href='https://youtu.be/qFihzYGm2V0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qFihzYGm2V0/mqdefault.jpg' alt='💥 FRONTEND 2021 y Desarrollo Web [Tecnologías, lenguajes de Programación y Tendencias]' />
 </a>
 
 #### 📸 Latest photos on [my Instagram](https://instagram.com/midu.dev):
 
-<a href='https://www.instagram.com/p/CIYvVxxnaOL/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c26.0.668.668a/s640x640/129790822_125749029203548_154412614113481424_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=izxS5Xh6wSAAX-yJKey&tp=1&oh=116ec675b889f71a95ca1dfc8b82b367&oe=5FF6EE21' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CJltPy6nlmP/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e35/c256.0.568.568a/134681039_438901727473426_2093334776740633732_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=tIsL_B0LM6sAX-ftfXa&tp=1&oh=279448ce2ecd9d3e4b368ee924330aed&oe=6019D5E5' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CIBGyFYMZ32/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/125781435_847932932413835_8914130287746406077_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=PozjWwiKRL8AX8CmX2x&tp=1&oh=da3f79ff9662ea61bb5693b4dc4b0ab5&oe=5FF7E937' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CJedwHXj5zx/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/134688472_473298420731148_4192646844751110576_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=QUwSPtTt2CwAX9zxQ8N&tp=1&oh=fcb38801785e8712a29e29e4e24c9cac&oe=601B0C71' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CH5qJU5DqeC/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/127063417_368449760923521_6011838257215337340_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=owhE-m9zOLsAX8Wy2Lz&tp=1&oh=043212d6360c3e293f571f6437b2ea02&oe=5FF73072' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CJbcWisnkHA/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/133622267_443781396999428_210119624860632250_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=2NTyE89vaz8AX8m76yn&tp=1&oh=83888c7fce9c9e5b94589dbe94eb748a&oe=601AB95F' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CHlOTx9pwoI/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/125214354_3529512210420004_2485471951413765176_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=751vYUGoJmkAX_dFR8N&tp=1&oh=74bacb2d3dbdf4fc78c24c1783bb6e5a&oe=5FF68A6A' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CJZac7ign2D/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/133617262_1792953050863540_7416917726823034239_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=7qKw3ugjNwkAX8CNbbF&tp=1&oh=1532a4642167a115fdc3182dad8c3613&oe=601AA7CB' alt='Instagram photo' />
 </a>
 
 #### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
-- [Cómo deshacer el último commit con git](https://midu.dev/como-deshacer-el-ultimo-commit-git/)
-- [Cómo crear un TimeAgo sin dependencias usando Intl.RelativeTimeFormat](https://midu.dev/como-crear-un-time-ago-sin-dependencias-intl-relativeformat/)
-- [Cómo instalar Node en Mac, Linux y Windows](https://midu.dev/como-instalar-node-en-mac-y-windows/)
-- [Curso gratis de NextJS, el framework de React](https://midu.dev/curso-gratis-next-js-framework-de-react-2020/)
-- [Las 5 mejores tipografías para programar](https://midu.dev/las-mejores-tipografias-para-programar/)
+- [FullStack Developers, ¿existen o son unicornios 🦄? - 03x01](https://midu.dev/podcast/03_01_full-stack-developers-existen-o-son-unicornios-unicorn/)
+- [Crea un calendario 📆 con tres líneas de CSS](https://midu.dev/crea-un-calendario-con-tres-lineas-de-css/)
+- [box-sizing: border-box: ¿Qué es y para qué sirve?](https://midu.dev/que-es-y-para-que-sirve-box-sizing-border-box/)
+- [Las alternativas de Webpack, empaquetadores de aplicaciones web para 2021 📦](https://midu.dev/empaquetadores-de-aplicaciones-web-2021/)
+- [Cómo arreglar el mensaje 'xcrun: error: invalid active developer path, missing xcrun' de macOS](https://midu.dev/como-arreglar-macos-xcrun-error-invalid-active-developer-path-missing-xcrun/)
