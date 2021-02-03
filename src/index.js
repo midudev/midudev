@@ -1,18 +1,34 @@
-import { promises as fs } from "fs";
-import fetch from "node-fetch";
-import Parser from "rss-parser";
+import { promises as fs } from "fs"
+import fetch from "node-fetch"
+import Parser from "rss-parser"
+import { ApiClient } from 'twitch'
+import { ClientCredentialsAuthProvider } from 'twitch-auth';
 
 import { PLACEHOLDERS, NUMBER_OF } from "./constants.js";
 
-const parser = new Parser();
+const {
+  TWITCH_API_CLIENT_KEY,
+  TWITCH_API_SECRET_KEY,
+  YOUTUBE_API_KEY
+} = process.env;
 
-const { YOUTUBE_API_KEY } = process.env;
 const INSTAGRAM_REGEXP = new RegExp(
   /<script type="text\/javascript">window\._sharedData = (.*);<\/script>/
 );
 
+
+const authProvider = new ClientCredentialsAuthProvider(TWITCH_API_CLIENT_KEY, TWITCH_API_SECRET_KEY);
+const apiClient = new ApiClient({ authProvider })
+
+const parser = new Parser();
+
 const getLatestArticlesFromBlog = () =>
   parser.parseURL("https://midu.dev/index.xml").then((data) => data.items);
+
+const getLatestTwitchStream = async () => {
+  const response = await apiClient.kraken.channels.getChannel('midudev')
+  console.log(response)
+}
 
 const getPhotosFromInstagram = async () => {
   const response = await fetch(`https://www.instagram.com/midu.dev/`);
@@ -46,6 +62,8 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 </a>`;
 
 (async () => {
+  // await getLatestTwitchStream()
+
   const [template, articles, videos, photos] = await Promise.all([
     fs.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
     getLatestArticlesFromBlog(),
