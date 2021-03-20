@@ -8,7 +8,7 @@
    <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
   </a>
-   <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
+   <a href="https://midu.tube" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
   </a>
   <a href="https://instagram.com/midu.dev" target="blank">
