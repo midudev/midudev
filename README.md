@@ -21,34 +21,34 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev)
 
-<a href='https://youtu.be/wTpuKOhGfJE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wTpuKOhGfJE/mqdefault.jpg' alt='Presentación del curso y Fundamentos del Desarrollo Web - Bootcamp FullStack Gratuito' />
+<a href='https://youtu.be/1jzAlxarzQc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1jzAlxarzQc/mqdefault.jpg' alt='🧑‍🔬 TEST Driven Development, Desarrolla de forma + FIABLE 👨‍💻 (FullStack JavaScript Bootcamp)' />
 </a>
-<a href='https://youtu.be/MX4h4IHCLBQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MX4h4IHCLBQ/mqdefault.jpg' alt='💥 STATE OF JS 2020 - Las Tendencias de Javascript 📈 ¿TypeScript lo va a dominar todo? 😱' />
+<a href='https://youtu.be/bARan2RAt5w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/bARan2RAt5w/mqdefault.jpg' alt='CREA Usuarios y AÑADE SEGURIDAD a tus CONTRASEÑAS 🔒 en MongoDB (FullStack JavaScript Bootcamp)' />
 </a>
-<a href='https://youtu.be/kBtluCmXo2Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kBtluCmXo2Y/mqdefault.jpg' alt='🎟️ Sorteo 5 ENTRADAS a la Test JS Summit y REGALAZO 🎁 para todos los Suscriptores del canal' />
+<a href='https://youtu.be/xNE97NXEuGQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xNE97NXEuGQ/mqdefault.jpg' alt='DIBUJA con CSS el LOGO de NETFLIX 🎬 en 30 SEGUNDOS 😱 #shorts' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://www.instagram.com/p/CKy8gztnEqm/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/145549449_327121661958752_6913576586709887891_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=LCAnG_7pMc8AX-6IERM&tp=1&oh=eadac18cfe9a3d2c77969559ce8aa7d5&oe=60430495' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CMmrxN_qvMr/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/162094241_267022041561234_1956181304790582102_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=lQzl37SwTwkAX9urX8q&ccb=7-4&oh=37b006f06d6bdd3b0c12aeb394bc222c&oe=607E46F8&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CKwZeTOsJki/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/144899184_1050267825482500_6626359455401063372_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=4IOXPhGiDsQAX93xSFL&tp=1&oh=8a4c89b656673592003ad85e1ca41270&oe=6042536F' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CMkCTPfCARC/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/162583162_462251568259565_1798507959623161695_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=h8I0A89xAgkAX9P2XZJ&ccb=7-4&oh=1c687546e3397c2d6593e7aeeaa6947c&oe=60815D30&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CKtyVp0novl/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c11.0.1057.1057a/s640x640/144340586_118751766738406_5478501854833833618_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2wgNPdjYxisAX-beTRc&tp=1&oh=485c2565f0e3240779f2322ade1a78f0&oe=6043FDF3' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CMhjyjmi6Ki/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/161332062_120330003383205_355772172689858445_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=YmWyonfdbmgAX-aeL0p&ccb=7-4&oh=e2adcf4dcfebcbad1ce3973617d93f03&oe=607FFF1C&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CKrNjKmLi2J/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/143348056_3661300940654069_3583265517509231262_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=n_912-7iWpkAX9rx5lS&tp=1&oh=cc54527f91a284017d4c5a998cdd8843&oe=60431D9C' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CMe83NYK_XD/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/160615389_782348909061177_3438821226781064226_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=aZiRueejFtAAX-qDfav&ccb=7-4&oh=182af1138b71f9b651c5dadc54f0fb08&oe=607F13E6&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [Curso de Svelte Gratis y Desde Cero 📚](https://midu.dev/curso-gratis-svelte/)
+- [Bootcamp Full Stack Gratis: Aprende Desarrollo Full Stack ⚡](https://midu.dev/bootcamp-full-stack-gratis-2021/)
+- [Cómo detectar ad blockers con JavaScript](https://midu.dev/como-detectar-ad-blockers-con-javascript/)
+- [Adiós Google Analytics. Alternativas para tener estadísticas en tu web](https://midu.dev/adios-google-analytics-alternativas-para-tener-estadisticas-en-tu-web/)
 - [State of JS 2020 - Mesa redonda - ¿¡La muerte de Angular y Redux!? - 03x03](https://midu.dev/podcast/03_03_state-of-js-2020-mesa-redonda-la-muerte-de-angular-y-redux/)
-- [TestJS Summit: Descuento + Sorpresa. ¡Y Twitch! - 03x02](https://midu.dev/podcast/03_02_test-js-summit-descuento-sorpresa-y-twitch/)
-- [TOP 7 Libros 📚 para Aprender y Dominar JAVASCRIPT (Gratis)](https://midu.dev/libros-gratis-javascript-para-aprender/)
-- [FullStack Developers, ¿existen o son unicornios 🦄? - 03x01](https://midu.dev/podcast/03_01_full-stack-developers-existen-o-son-unicornios-unicorn/)
-- [Crea un calendario 📆 con tres líneas de CSS](https://midu.dev/crea-un-calendario-con-tres-lineas-de-css/)
