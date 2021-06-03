@@ -21,34 +21,34 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev)
 
-<a href='https://youtu.be/aJ_7PV7dsx0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aJ_7PV7dsx0/mqdefault.jpg' alt='PropTypes en React ⚛️ DOCUMENTA tus COMPONENTES y añade valores por defecto ❗️ (FullStack Bootcamp)' />
+<a href='https://youtu.be/zBTYBIUw1iw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/zBTYBIUw1iw/mqdefault.jpg' alt='🔎 Cómo añadir un buscador a blog con JavaScript y totalmente gratis (JAMStack)' />
 </a>
-<a href='https://youtu.be/a7_S6ZeydeU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/a7_S6ZeydeU/mqdefault.jpg' alt='💃 useRef y useImperativeHandle. CONTROLA tus COMPONENTES de forma IMPERATIVA ☝️ (Bootcamp FullStack)' />
+<a href='https://youtu.be/pqSZ5en1BQ8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pqSZ5en1BQ8/mqdefault.jpg' alt='Arquitectura frontend y productividad - Entrevista con Jason Lengstorf (JavaScript)' />
 </a>
-<a href='https://youtu.be/bEo-_71RT1c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/bEo-_71RT1c/mqdefault.jpg' alt='APRENDE a usar la PROP CHILDREN para REFACTORIZAR 🔃 Componentes de REACT ⚛️ (Bootcamp FullStack)' />
+<a href='https://youtu.be/c9-iiVz4Av0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/c9-iiVz4Av0/mqdefault.jpg' alt='¿Deberías cambiar de trabajo cada 2 años en programación?' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://www.instagram.com/p/CNcpoZGqtNL/' target='_blank'>
-  <img width='20%' src='https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/170231356_125799616230181_239400490942024504_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=101&_nc_ohc=kwCSYrLFPQEAX-AODgh&edm=ABfd0MgAAAAA&ccb=7-4&oh=5a7b9675ef1e8244d88265062b627de2&oe=6097975A&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CPqAvtlCEsv/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/196015398_2991531411094299_6602259273376766560_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=TOhLr50aFXcAX-yF9Yr&edm=ABfd0MgBAAAA&ccb=7-4&oh=6f4140eba237a545553c11171e8ab74d&oe=60C00746&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CNaEPWKipvm/' target='_blank'>
-  <img width='20%' src='https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/169587738_137448614991334_2246025458768222006_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=r3rtCeyoxT0AX9PxBGg&edm=ABfd0MgAAAAA&ccb=7-4&oh=8aeca7c76a54acabb3cd57e82167ea9f&oe=6095F491&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CPnyzd-KMTp/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/195291576_327223539017033_220255156441851457_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=3ayhZkSRjGIAX8b7YzY&edm=ABfd0MgBAAAA&ccb=7-4&oh=0ab673602995a88b154d750e6a8f6e9e&oe=60BFBA87&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CNKmjmHKNC8/' target='_blank'>
-  <img width='20%' src='https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/167623662_484345266086189_8311511744977345388_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_ohc=qu-UrasPxcoAX-54TBD&edm=ABfd0MgAAAAA&ccb=7-4&oh=5abcda64575494da4cc65f0333825474&oe=6097AE78&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CPlKnRMCo_9/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/194631787_1725300067660723_449429223478463769_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=cg4UN1LBmTkAX9p6GQZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=069c33da6b1c09f25806e76b86181dd9&oe=60BB7604&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CNFdRUFqUSb/' target='_blank'>
-  <img width='20%' src='https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/166417953_1400241956993633_8987793256460294967_n.jpg?tp=1&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_ohc=QpaW-0Q1cecAX9tGuCE&edm=ABfd0MgAAAAA&ccb=7-4&oh=47290a247cd3d19b03d33323457fb97d&oe=60979BF5&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CPiqUTbib6k/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/195184226_169601045021900_3231063544182590986_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=-8gd65YSrpcAX_q4-KW&edm=ABfd0MgBAAAA&ccb=7-4&oh=f50cd6846ed4a1207d61fa8af6666b2a&oe=60C00F49&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [Cómo añadir un buscador en tu blog JamStack con Algolia](https://midu.dev/como-anadir-buscador-blog-jamstack-algolia/)
+- [Cómo usar rutas absolutas en los imports en Next.js](https://midu.dev/deja-de-usar-imports-relativos-next-js/)
+- [Cómo crear un spinner loader con CSS 🌀](https://midu.dev/como-crear-un-spinner-con-css/)
+- [Cómo no hacer un Live Coding Challenge de mierda 💩 - 03x04](https://midu.dev/podcast/03_04_como-no-hacer-un-live-coding-challenge-de-mierda/)
 - [Cómo arreglar el error "Warning: React has detected a change in the order of Hooks"](https://midu.dev/como-arreglar-error-react-has-detected-change-order-hooks/)
-- [Cómo arreglar el error 'gyp: No Xcode or CLT version detected' de macOS al hacer npm install](https://midu.dev/como-arreglar-no-xcode-or-clt-version-detected-npm-install/)
-- [No sirvo para programar. ¿Programar no es para todos? ¿Vales para programador?](https://midu.dev/no-sirvo-para-programar-no-es-para-todos-vales-como-programador/)
-- [Curso de Svelte Gratis y Desde Cero 📚](https://midu.dev/curso-gratis-svelte/)
-- [Bootcamp Full Stack Gratis: Aprende Desarrollo Full Stack ⚡](https://midu.dev/bootcamp-full-stack-gratis-2021/)
