@@ -21,34 +21,34 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev)
 
-<a href='https://youtu.be/zBTYBIUw1iw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zBTYBIUw1iw/mqdefault.jpg' alt='🔎 Cómo añadir un buscador a blog con JavaScript y totalmente gratis (JAMStack)' />
+<a href='https://youtu.be/yG8fx346pYQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/yG8fx346pYQ/mqdefault.jpg' alt='DOMINA las RUTAS con segmentos DINÁMICOS en React Router DOM 👌' />
 </a>
-<a href='https://youtu.be/pqSZ5en1BQ8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pqSZ5en1BQ8/mqdefault.jpg' alt='Arquitectura frontend y productividad - Entrevista con Jason Lengstorf (JavaScript)' />
+<a href='https://youtu.be/xE7TBCR6cj0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xE7TBCR6cj0/mqdefault.jpg' alt='React Router DOM - Añade rutas a tu aplicación de React y crea una SPA 📍' />
 </a>
-<a href='https://youtu.be/c9-iiVz4Av0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/c9-iiVz4Av0/mqdefault.jpg' alt='¿Deberías cambiar de trabajo cada 2 años en programación?' />
+<a href='https://youtu.be/lcZv_Bx4l9o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lcZv_Bx4l9o/mqdefault.jpg' alt='🤯 CREA tu propio Router en React SIN dependencias - FullStack Bootcamp JavaScript' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://www.instagram.com/p/CPqAvtlCEsv/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/196015398_2991531411094299_6602259273376766560_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=TOhLr50aFXcAX-yF9Yr&edm=ABfd0MgBAAAA&ccb=7-4&oh=6f4140eba237a545553c11171e8ab74d&oe=60C00746&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CRB2DM_iBHI/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/211510078_331442065124680_8799687152009106996_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=99u5rNAO1tQAX-9iXpF&edm=ABfd0MgBAAAA&ccb=7-4&oh=138c8dd02ba3af0b250e14dc6d0ac2ad&oe=60EBDC5F&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CPnyzd-KMTp/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/195291576_327223539017033_220255156441851457_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=3ayhZkSRjGIAX8b7YzY&edm=ABfd0MgBAAAA&ccb=7-4&oh=0ab673602995a88b154d750e6a8f6e9e&oe=60BFBA87&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CQyZjnYJJPM/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/209531295_338322754569254_9176334439491846623_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=jnwn0UummsUAX_-sRuV&edm=ABfd0MgBAAAA&ccb=7-4&oh=6e05aad489ee9ccba9b20262bf1c4e8d&oe=60EDAEF7&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CPlKnRMCo_9/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/194631787_1725300067660723_449429223478463769_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=cg4UN1LBmTkAX9p6GQZ&edm=ABfd0MgBAAAA&ccb=7-4&oh=069c33da6b1c09f25806e76b86181dd9&oe=60BB7604&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CQvxeL0i9IY/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/210102466_822201491739852_2144146768946577307_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=b2M11UvtcGAAX_zGR7Y&edm=ABfd0MgBAAAA&ccb=7-4&oh=3a18ef972860d368142dfef020860574&oe=60EC98D0&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CPiqUTbib6k/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/195184226_169601045021900_3231063544182590986_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=-8gd65YSrpcAX_q4-KW&edm=ABfd0MgBAAAA&ccb=7-4&oh=f50cd6846ed4a1207d61fa8af6666b2a&oe=60C00F49&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CQt--4lDLrG/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/209256649_118880833757316_835681063357982370_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=p3oQqVFVVrEAX-72rYt&edm=ABfd0MgBAAAA&ccb=7-4&oh=c01f7934d00c05b76baa7b819c59e681&oe=60ED691A&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [Algolia + Firebase. ¡La extensión perfecta para hacer búsquedas en Firestore!](https://midu.dev/algolia-firebase-extension/)
+- [¿Qué significa el error “Uncaught TypeError: Cannot set/read property 'XXX' of undefined/null” y cómo solucionarlo?](https://midu.dev/que-significa-error-uncaught-type-error-cannot-set-read-property-undefined-null-javascript/)
+- [Cómo usar async/await con el método .map de los Arrays](https://midu.dev/como-usar-async-await-con-array-prototype-map/)
+- [Cómo cargar archivos JSON con ESModules en Node.js](https://midu.dev/como-cargar-archivos-json-esmodules-node-js/)
 - [Cómo añadir un buscador en tu blog JamStack con Algolia](https://midu.dev/como-anadir-buscador-blog-jamstack-algolia/)
-- [Cómo usar rutas absolutas en los imports en Next.js](https://midu.dev/deja-de-usar-imports-relativos-next-js/)
-- [Cómo crear un spinner loader con CSS 🌀](https://midu.dev/como-crear-un-spinner-con-css/)
-- [Cómo no hacer un Live Coding Challenge de mierda 💩 - 03x04](https://midu.dev/podcast/03_04_como-no-hacer-un-live-coding-challenge-de-mierda/)
-- [Cómo arreglar el error "Warning: React has detected a change in the order of Hooks"](https://midu.dev/como-arreglar-error-react-has-detected-change-order-hooks/)
