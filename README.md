@@ -21,34 +21,34 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev)
 
+<a href='https://youtu.be/eD1CUWs_3_k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/eD1CUWs_3_k/mqdefault.jpg' alt='¡Consigue búsquedas de texto libre en Cloud Firestore con Algolia! (Firebase Extension)' />
+</a>
 <a href='https://youtu.be/yG8fx346pYQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yG8fx346pYQ/mqdefault.jpg' alt='DOMINA las RUTAS con segmentos DINÁMICOS en React Router DOM 👌' />
 </a>
 <a href='https://youtu.be/xE7TBCR6cj0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xE7TBCR6cj0/mqdefault.jpg' alt='React Router DOM - Añade rutas a tu aplicación de React y crea una SPA 📍' />
 </a>
-<a href='https://youtu.be/lcZv_Bx4l9o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/lcZv_Bx4l9o/mqdefault.jpg' alt='🤯 CREA tu propio Router en React SIN dependencias - FullStack Bootcamp JavaScript' />
-</a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://www.instagram.com/p/CRB2DM_iBHI/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/211510078_331442065124680_8799687152009106996_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=99u5rNAO1tQAX-9iXpF&edm=ABfd0MgBAAAA&ccb=7-4&oh=8930b5e91afbc1fef2e812b111a78971&oe=60EDD69F&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CRZC949KpYB/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/217617159_661035901964537_7673792545458504957_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=TsWuiZ5zpqEAX89sOOC&edm=ABfd0MgBAAAA&ccb=7-4&oh=9ecaf3ccde46f5099b2c8d0242d1a630&oe=60FC12A0&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CQyZjnYJJPM/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/209531295_338322754569254_9176334439491846623_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=jnwn0UummsUAX_-sRuV&edm=ABfd0MgBAAAA&ccb=7-4&oh=6e05aad489ee9ccba9b20262bf1c4e8d&oe=60EDAEF7&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CRWsRqRHBhW/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/218077067_3064076617157826_4617027558501119337_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=5lq9TWVRbDUAX_qFqwo&edm=ABfd0MgBAAAA&ccb=7-4&oh=26e6d646c2dc1aa2b45e1bf5c239d37b&oe=60F763D4&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CQvxeL0i9IY/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/210102466_822201491739852_2144146768946577307_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=b2M11UvtcGAAX_zGR7Y&edm=ABfd0MgBAAAA&ccb=7-4&oh=3a18ef972860d368142dfef020860574&oe=60EC98D0&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CRT-qfjguRq/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/217188705_524989275407698_4938006924966151446_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=7SZJAwS0VDYAX8PG0dq&edm=ABfd0MgBAAAA&ccb=7-4&oh=6a36e3dc0225111d7a8ee20c7f808fd9&oe=60FC7850&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CQt--4lDLrG/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/209256649_118880833757316_835681063357982370_n.jpg?tp=1&_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=p3oQqVFVVrEAX-72rYt&edm=ABfd0MgBAAAA&ccb=7-4&oh=c01f7934d00c05b76baa7b819c59e681&oe=60ED691A&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CRO-ErBCOM5/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/214104315_251166859775634_7986380182123349513_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=v4210auhcQQAX-vvAHT&edm=ABfd0MgBAAAA&ccb=7-4&oh=478183b2f73317ac657b3a4629855152&oe=60FC2231&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [Cómo usar git bisect para encontrar el commit culpable de un error](https://midu.dev/como-encuentro-commit-culpable-error/)
+- [Cómo arreglar el error que dice que __dirname no está definido en archivo ES Module de Node.js](https://midu.dev/como-arreglar-dirname-not-defined-es-module-scope-node-js/)
 - [Algolia + Firebase. ¡La extensión perfecta para hacer búsquedas en Firestore!](https://midu.dev/algolia-firebase-extension/)
 - [¿Qué significa el error “Uncaught TypeError: Cannot set/read property 'XXX' of undefined/null” y cómo solucionarlo?](https://midu.dev/que-significa-error-uncaught-type-error-cannot-set-read-property-undefined-null-javascript/)
 - [Cómo usar async/await con el método .map de los Arrays](https://midu.dev/como-usar-async-await-con-array-prototype-map/)
-- [Cómo cargar archivos JSON con ESModules en Node.js](https://midu.dev/como-cargar-archivos-json-esmodules-node-js/)
-- [Cómo añadir un buscador en tu blog JamStack con Algolia](https://midu.dev/como-anadir-buscador-blog-jamstack-algolia/)
