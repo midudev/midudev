@@ -21,34 +21,34 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev)
 
-<a href='https://youtu.be/eD1CUWs_3_k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/eD1CUWs_3_k/mqdefault.jpg' alt='¡Consigue búsquedas de texto libre en Cloud Firestore con Algolia! (Firebase Extension)' />
+<a href='https://youtu.be/1zYf4Yw1jqs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1zYf4Yw1jqs/mqdefault.jpg' alt='⭐ REFACTORIZANDO componentes de React con Custom Hooks - FullStack Bootcamp JavaScript' />
 </a>
-<a href='https://youtu.be/yG8fx346pYQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/yG8fx346pYQ/mqdefault.jpg' alt='DOMINA las RUTAS con segmentos DINÁMICOS en React Router DOM 👌' />
+<a href='https://youtu.be/K4vCTeKKCkU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/K4vCTeKKCkU/mqdefault.jpg' alt='La CLAVE de los CUSTOM HOOKS en React. ¡Te enseño POR QUÉ tienes que aprenderlos y cómo CREARLOS! 🔥' />
 </a>
-<a href='https://youtu.be/xE7TBCR6cj0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xE7TBCR6cj0/mqdefault.jpg' alt='React Router DOM - Añade rutas a tu aplicación de React y crea una SPA 📍' />
+<a href='https://youtu.be/9CYuUNPbP34' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9CYuUNPbP34/mqdefault.jpg' alt='Cómo proteger rutas con React Router DOM - FullStack Bootcamp JavaScript' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://www.instagram.com/p/CRZC949KpYB/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/217617159_661035901964537_7673792545458504957_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=TsWuiZ5zpqEAX89sOOC&edm=ABfd0MgBAAAA&ccb=7-4&oh=9ecaf3ccde46f5099b2c8d0242d1a630&oe=60FC12A0&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CR9IFOMCEc1/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/226895220_1008157146625665_5098980564473325172_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=ibnx0clUNzUAX83FPTh&edm=ABfd0MgBAAAA&ccb=7-4&oh=3f47caf4c2ca3da45d7f5c925174c7b9&oe=61081CBA&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CRWsRqRHBhW/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/218077067_3064076617157826_4617027558501119337_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=5lq9TWVRbDUAX_qFqwo&edm=ABfd0MgBAAAA&ccb=7-4&oh=26e6d646c2dc1aa2b45e1bf5c239d37b&oe=60F763D4&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CR6guQviRx3/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/228657117_2125802447594810_3735262165978240826_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=afoUzkhJ9JsAX-KwU7K&edm=ABfd0MgBAAAA&ccb=7-4&oh=61095639892cd979a4b33286c31af4ab&oe=610CD5E5&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CRT-qfjguRq/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/217188705_524989275407698_4938006924966151446_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=7SZJAwS0VDYAX8PG0dq&edm=ABfd0MgBAAAA&ccb=7-4&oh=6a36e3dc0225111d7a8ee20c7f808fd9&oe=60FC7850&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CR39CTAqaAp/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/226264196_567658637977147_8559047819958853589_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=v6Kj5yqpwKwAX8hULRT&edm=ABfd0MgBAAAA&ccb=7-4&oh=87f75dce9d0b543dc65566c4e5a5ee32&oe=610C2B8F&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CRO-ErBCOM5/' target='_blank'>
-  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/214104315_251166859775634_7986380182123349513_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=v4210auhcQQAX-vvAHT&edm=ABfd0MgBAAAA&ccb=7-4&oh=478183b2f73317ac657b3a4629855152&oe=60FC2231&_nc_sid=7bff83' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CR1P67eH7is/' target='_blank'>
+  <img width='20%' src='https://instagram.fbcn1-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.90.720.720a/s640x640/225372192_363643511892944_1726759954352103800_n.jpg?_nc_ht=instagram.fbcn1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=qmdnMk0ADCcAX8b-Tvz&edm=ABfd0MgBAAAA&ccb=7-4&oh=35aa80045eb217a8d3fa421668457b5c&oe=6107F767&_nc_sid=7bff83' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
-- [Cómo usar git bisect para encontrar el commit culpable de un error](https://midu.dev/como-encuentro-commit-culpable-error/)
-- [Cómo arreglar el error que dice que __dirname no está definido en archivo ES Module de Node.js](https://midu.dev/como-arreglar-dirname-not-defined-es-module-scope-node-js/)
-- [Algolia + Firebase. ¡La extensión perfecta para hacer búsquedas en Firestore!](https://midu.dev/algolia-firebase-extension/)
-- [¿Qué significa el error “Uncaught TypeError: Cannot set/read property 'XXX' of undefined/null” y cómo solucionarlo?](https://midu.dev/que-significa-error-uncaught-type-error-cannot-set-read-property-undefined-null-javascript/)
-- [Cómo usar async/await con el método .map de los Arrays](https://midu.dev/como-usar-async-await-con-array-prototype-map/)
+- [Eliminar primer carácter de una cadena de texto en JavaScript](https://midu.dev/elimina-primer-caracter-string-javascript/)
+- [Música para programar y concentrarse ✌](https://midu.dev/musica-para-programar/)
+- [Lazy Loading de imágenes en HTML sin escribir JavaScript ⚡](https://midu.dev/lazy-loading-imagenes-html/)
+- [¿Cómo funciona realmente la igualdad ==?](https://midu.dev/como-funciona-el-operador-igualdad-simple-javascript/)
+- [¿Qué hay de nuevo en las DevTools de Chrome 92? Notas de la versión](https://midu.dev/chrome-dev-tools-92-novedades-release-notes/)
