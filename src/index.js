@@ -38,7 +38,7 @@ const getPhotosFromInstagram = async () => {
   })
 
   const json = await response.json()
-  console.log(json?.data.user.edge_owner_to_timeline_media.edges)
+
   return json?.data.user.edge_owner_to_timeline_media.edges
 }
 
