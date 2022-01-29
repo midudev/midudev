@@ -7,14 +7,13 @@ import { ClientCredentialsAuthProvider } from 'twitch-auth';
 import { PLACEHOLDERS, NUMBER_OF } from "./constants.js";
 
 const {
+  INSTAGRAM_API_KEY,
   TWITCH_API_CLIENT_KEY,
   TWITCH_API_SECRET_KEY,
   YOUTUBE_API_KEY
 } = process.env;
 
-const INSTAGRAM_REGEXP = new RegExp(
-  /<script type="text\/javascript">window\._sharedData = (.*);<\/script>/
-);
+const INSTAGRAM_USER_ID = '8242141302'
 
 
 const authProvider = new ClientCredentialsAuthProvider(TWITCH_API_CLIENT_KEY, TWITCH_API_SECRET_KEY);
@@ -31,18 +30,17 @@ const getLatestTwitchStream = async () => {
 }
 
 const getPhotosFromInstagram = async () => {
-  const response = await fetch(`https://www.instagram.com/midu.dev/`);
-  const text = await response.text();
-  const json = JSON.parse(text.match(INSTAGRAM_REGEXP)[1]);
-  const edges = json.entry_data.ProfilePage[0].graphql.user.edge_owner_to_timeline_media.edges.splice(
-    0,
-    8
-  );
-  return edges.map(({ node }) => ({
-    permalink: `https://www.instagram.com/p/${node.shortcode}/`,
-    media_url: node.thumbnail_src,
-  }));
-};
+  const response = await fetch(`https://instagram28.p.rapidapi.com/medias?user_id=${INSTAGRAM_USER_ID}&batch_size=20`, {
+    headers: {
+      'x-rapidapi-host': 'instagram28.p.rapidapi.com',
+      'x-rapidapi-key': INSTAGRAM_API_KEY
+    }
+  })
+
+  const json = await response.json()
+  console.log(json?.data.user.edge_owner_to_timeline_media.edges)
+  return json?.data.user.edge_owner_to_timeline_media.edges
+}
 
 const getLatestYoutubeVideos = () =>
   fetch(
@@ -51,9 +49,9 @@ const getLatestYoutubeVideos = () =>
     .then((res) => res.json())
     .then((videos) => videos.items);
 
-const generateInstagramHTML = ({ media_url, permalink }) => `
-<a href='${permalink}' target='_blank'>
-  <img width='20%' src='${media_url}' alt='Instagram photo' />
+const generateInstagramHTML = ({ node: { display_url, shortcode } }) => `
+<a href='https://instagram.com/p/${shortcode}' target='_blank'>
+  <img width='20%' src='${display_url}' alt='Instagram photo' />
 </a>`;
 
 const generateYoutubeHTML = ({ title, videoId }) => `
