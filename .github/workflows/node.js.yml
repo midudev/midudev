@@ -17,12 +17,11 @@ jobs:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
       with:
-        node-version: '14'
+        node-version: '16'
     - run: npm install
     - run: npm run update-readme
       env:
-        INSTAGRAM_USER: ${{ secrets.INSTAGRAM_USER }}
-        INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+        INSTAGRAM_USER: ${{ secrets.INSTAGRAM_API_KEY }}
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
     - run: |
         git config user.name midudev
