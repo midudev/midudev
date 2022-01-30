@@ -19,8 +19,11 @@
   </a>
 </p>
 
-### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev)
+### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 %{{latest_youtube}}%
+
+### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
+%{{latest_youtube_secondary}}%
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 %{{latest_instagram}}%

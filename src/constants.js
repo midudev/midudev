@@ -5,7 +5,8 @@ export const NUMBER_OF = {
 }
 
 export const PLACEHOLDERS = {
-  LATEST_ARTICLES: "%{{latest_articles}}%",
-  LATEST_YOUTUBE: "%{{latest_youtube}}%",
-  LATEST_INSTAGRAM: "%{{latest_instagram}}%"
+  LATEST_ARTICLES: '%{{latest_articles}}%',
+  LATEST_YOUTUBE: '%{{latest_youtube}}%',
+  LATEST_YOUTUBE_SECONDARY: '%{{latest_youtube_secondary}}%',
+  LATEST_INSTAGRAM: '%{{latest_instagram}}%'
 }
