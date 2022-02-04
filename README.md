@@ -46,21 +46,21 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/CZj16B0vwTB' target='_blank'>
-  <img width='20%' src='https://scontent-iev1-1.cdninstagram.com/v/t51.2885-15/fr/e15/p1080x1080/273172560_733629771357929_7144914971797258263_n.jpg?_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DON7HM1YRzoAX-9CNyy&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8oUek_LV7pxS3Bm7C8vm3cy-YVCP_JuaAtITftbrZ1Ig&oe=61FFC4B0&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/fr/e15/p1080x1080/273172560_733629771357929_7144914971797258263_n.jpg?_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=DON7HM1YRzoAX-uJcJE&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_TNh9nugZPZ0OoG5MLuLLNCEZ0jlWIAgAayMvPCaL6NA&oe=61FFC4B0&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CZhdH9up-yp' target='_blank'>
-  <img width='20%' src='https://scontent-iev1-1.cdninstagram.com/v/t51.2885-15/e35/259986988_939820669986224_4387086324874133390_n.jpg?_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=DBjqYAPWdTIAX9M9dZE&edm=APU89FABAAAA&ccb=7-4&oh=00_AT92Njl2mWFuyjB-s-mUXTN0_5A_imqzGY6ZI6OnWp34PQ&oe=61FFC44E&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/e35/259986988_939820669986224_4387086324874133390_n.jpg?_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=DBjqYAPWdTIAX_giy5K&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_rlT5BUdF3iDZfU9n8npekLsneZ3WJadKC08-5QeqX9A&oe=61FFC44E&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CZhRsj4pHoT' target='_blank'>
-  <img width='20%' src='https://scontent-iev1-1.cdninstagram.com/v/t51.2885-15/e15/259652508_686374219023572_3115765518336440793_n.jpg?_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=XuooEAm90Y0AX-mPrwV&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_jCQs71mez5uEPOlDcRsp55IxYQR2Y5if4mOQtCi1BOA&oe=61FFC161&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/e15/259652508_686374219023572_3115765518336440793_n.jpg?_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=XuooEAm90Y0AX-w1CmJ&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9BMptnpxhHdqLwMskGk-eRiaHaIX8A562sRHySW9VhaQ&oe=61FFC161&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CZewDyxpvk-' target='_blank'>
-  <img width='20%' src='https://scontent-iev1-1.cdninstagram.com/v/t51.2885-15/e15/273030355_120776417134080_5564674183963974761_n.jpg?_nc_ht=scontent-iev1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=lbIybV_LuAQAX8U1nng&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_5jDP4i5Dba4plsycrqLHaMB6CSimUTpS2p2SUHHwHuw&oe=61FF8484&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/e15/273030355_120776417134080_5564674183963974761_n.jpg?_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=lbIybV_LuAQAX9XN7Xc&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9rEIPUZezYSOlUjv__ai3PeUZMlM3mNUczke0IFkpCsQ&oe=61FF8484&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [Hablar es barato. ¡Enséñame el código!, reflexión sobre las palabras de Linus Torvalds](https://midu.dev/hablar-es-barato-ensename-el-codigo/)
 - [🔥 Hablar es fácil. ¡Enséñame el CÓDIGO! - 03x07](https://midu.dev/podcast/03_07_hablar-es-facil-ensename-el-codigo/)
 - [Retos de programación en diciembre: Advientos de Código](https://midu.dev/retos-programacion-advent-of-code/)
 - [📍 Deja de PROCRASTINAR: consejos y estrategias para dejar de hacerlo - 03x06](https://midu.dev/podcast/03_06_deja-de-procrastinar-consejos-y-estrategias-para-dejar-de-hacerlo/)
 - [Métricas de Web Performance](https://midu.dev/metricas-web-performance/)
-- [Qué hay de nuevo en DevTools (Chrome 93)](https://midu.dev/chrome-dev-tools-93-novedades/)
