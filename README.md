@@ -21,14 +21,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/rzmrUIhYrzw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/rzmrUIhYrzw/mqdefault.jpg' alt='🧨 Ejercicio de JavaScript: Crea un cuadrado de dimensión N a base de símbolos +' />
+</a>
 <a href='https://youtu.be/WPsJbwUaaOo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/WPsJbwUaaOo/mqdefault.jpg' alt='🔥 CREA paso a paso el AUTOCOMPLETADO de TWITTER con REACT y VITE' />
 </a>
 <a href='https://youtu.be/RyZEO62V3v4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RyZEO62V3v4/mqdefault.jpg' alt='🏖️ ¡TRABAJO REMOTO PROGRAMADOR! Los mejores sitios y estrategias para encontrarlo ✌️' />
-</a>
-<a href='https://youtu.be/xm-i_zXMvRI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xm-i_zXMvRI/mqdefault.jpg' alt='😮 Empieza tu próximo proyecto de React o Vue en segundos desde tu navegador SIN INSTALANCIONES' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
@@ -49,7 +49,7 @@
   <img width='20%' src='https://scontent-hel3-1.cdninstagram.com/v/t51.2885-15/275074702_3266475210242031_4428465220340258642_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=WPW8KC4ZJ3YAX_Au5kE&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8bi2GYslkeiS4dAbP6kGx_jh4xiMHMJ6SW83dX9CwUWg&oe=62221D9B&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CakV7d3rSdi' target='_blank'>
-  <img width='20%' src='https://scontent-hel3-1.cdninstagram.com/v/t51.2885-15/274837421_721753122544097_1089751637913602266_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=fxFDsRwJiB8AX8Yz_Fm&edm=APU89FABAAAA&ccb=7-4&oh=00_AT-uOhrQlhK3-v-TqZXDdGrsGZ4zwpv0GEQMSO_Pobuzzg&oe=62219B3A&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-hel3-1.cdninstagram.com/v/t51.2885-15/274837421_721753122544097_1089751637913602266_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=fxFDsRwJiB8AX8Yz_Fm&edm=APU89FABAAAA&ccb=7-4&oh=00_AT-ZxME6XvJ0j4F-G6lsHM47bdXkeMqV4mDfk67JQ9teqQ&oe=622243FA&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cah_xiHgZPZ' target='_blank'>
   <img width='20%' src='https://scontent-hel3-1.cdninstagram.com/v/t51.2885-15/274902145_675192943926660_5247147823879630990_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=4-M9Jqn_Qi8AX9C7XJ4&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8i8HyvUBFb-05-IeEJAa416pY2sCtOsiF_HkSbbxsMcA&oe=6221D5B3&_nc_sid=86f79a' alt='Instagram photo' />
