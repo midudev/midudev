@@ -21,41 +21,41 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/GPdm5uPpPdk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GPdm5uPpPdk/mqdefault.jpg' alt='🤯 INCREÍBLE forma de NAVEGAR cambios en GitHub' />
+</a>
 <a href='https://youtu.be/_ej3jv8sZTU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_ej3jv8sZTU/mqdefault.jpg' alt='✅ Resuelvo el ejercicio de Fibonacci en JavaScript sin recursividad' />
 </a>
 <a href='https://youtu.be/51MOdDhbSnI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/51MOdDhbSnI/mqdefault.jpg' alt='📈 STATE OF JAVASCRIPT 2021 ⭐ - ¿ADIÓS REACT y WEBPACK? ¡HOLA SVELTE Y VITE! 👋' />
 </a>
-<a href='https://youtu.be/UcMTowtMvyg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UcMTowtMvyg/mqdefault.jpg' alt='🤯 Ejecuta tu JavaScript con sólo 6 símbolos!!!!!' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/6ji-oYS6EgM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6ji-oYS6EgM/mqdefault.jpg' alt='👨‍🏫 Resuelve Fibonacci con JavaScript: solución con recursividad y con bucles' />
+</a>
 <a href='https://youtu.be/baDdsQ4aw4o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/baDdsQ4aw4o/mqdefault.jpg' alt='Entiende y Domina todas las Estructuras y Tipos de Datos en JavaScript' />
 </a>
 <a href='https://youtu.be/vImkxi6wCN0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vImkxi6wCN0/mqdefault.jpg' alt='🤯 ¡TIPOS inmutables nativos en JavaScript! Records y Tuples' />
 </a>
-<a href='https://youtu.be/F1jZOldmEgk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/F1jZOldmEgk/mqdefault.jpg' alt='Mis votos en la encuesta State of JavaScript 2021' />
-</a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
+<a href='https://instagram.com/p/CbGD1Xcg_Rl' target='_blank'>
+  <img width='20%' src='https://instagram.fiev22-1.fna.fbcdn.net/v/t51.2885-15/275808240_633125164446464_8248284520257154406_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fiev22-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=8xkrSwbYwZQAX8fMbH0&edm=APU89FABAAAA&ccb=7-4&oh=00_AT-L0IPmcX5t1lB3h8no4YV0gAswVoiAA66i4m0phTvU1Q&oe=62323B54&_nc_sid=86f79a' alt='Instagram photo' />
+</a>
 <a href='https://instagram.com/p/CbAj06mIDV0' target='_blank'>
-  <img width='20%' src='https://instagram.fiev22-2.fna.fbcdn.net/v/t51.2885-15/275598646_1134785897283167_7194608189984417988_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fiev22-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=gkoTiN-7lToAX8tSb85&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8Mt7KS2Fop7BdzB8qOmqV5scKYk1Ay5dwvX4K1f06UzQ&oe=6235D26A&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fiev22-2.fna.fbcdn.net/v/t51.2885-15/275598646_1134785897283167_7194608189984417988_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fiev22-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=gkoTiN-7lToAX-s-sSD&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9pqZ46OMNuwYbeUhmiVDUMguXGYsFlmjlSbkH4BBDUJw&oe=6235D26A&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Ca-FU7_oCBj' target='_blank'>
-  <img width='20%' src='https://instagram.fiev22-2.fna.fbcdn.net/v/t51.2885-15/275637197_155765806877056_678991938027835832_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fiev22-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=fy6Ut-dwOUAAX_Gti8W&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8kszhYdoSU4JqlAteqoloow9u5AHoMlcSSlCbb2FNfwg&oe=623700DD&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fiev22-2.fna.fbcdn.net/v/t51.2885-15/275637197_155765806877056_678991938027835832_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fiev22-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=fy6Ut-dwOUAAX8m0Waa&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8Pglu71jO9euFZCHQNZt0LHxG_1rzHoB2nyn3LNhEV8w&oe=623700DD&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Ca7Z_1for44' target='_blank'>
-  <img width='20%' src='https://instagram.fiev22-2.fna.fbcdn.net/v/t51.2885-15/275517511_1009824396610336_395443194790097414_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fiev22-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=KCJ-J3-aURcAX-gL4-T&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8EBtBBI7yg7QbWNBUwiDg1yRtKI69c_lCSuMvhWv22Ag&oe=6236677A&_nc_sid=86f79a' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/Ca40Ef2IXX9' target='_blank'>
-  <img width='20%' src='https://instagram.fiev22-2.fna.fbcdn.net/v/t51.2885-15/275434501_945966186083308_5211313070609864734_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fiev22-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=2H2DVn6EgbMAX-HEn_N&edm=APU89FABAAAA&ccb=7-4&oh=00_AT-BoIOjfYU9zxSizoWsdHaf1ngH3Pq6nRBKuJ4w5gF1yg&oe=62363ED0&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fiev22-2.fna.fbcdn.net/v/t51.2885-15/275517511_1009824396610336_395443194790097414_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fiev22-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=KCJ-J3-aURcAX8ILkUr&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_Igui8cJAKmwAAPOEfs55kiA3-_jizAGQptRxW01Pkpw&oe=6236677A&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
