@@ -21,46 +21,46 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/GPdm5uPpPdk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GPdm5uPpPdk/mqdefault.jpg' alt='🤯 INCREÍBLE forma de NAVEGAR cambios en GitHub' />
+<a href='https://youtu.be/wNN3ayLIhZo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wNN3ayLIhZo/mqdefault.jpg' alt='💡 TRUCO VSCode: Cambia el nombre de una función en todos sitios SIN USAR la búsqueda 🔥' />
 </a>
-<a href='https://youtu.be/_ej3jv8sZTU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_ej3jv8sZTU/mqdefault.jpg' alt='✅ Resuelvo el ejercicio de Fibonacci en JavaScript sin recursividad' />
+<a href='https://youtu.be/mUqYyyGtV4Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/mUqYyyGtV4Y/mqdefault.jpg' alt='🔥 AUTOCOMPLETE en tu TERMINAL. ¡Mejora tu productividad con esto!' />
 </a>
-<a href='https://youtu.be/51MOdDhbSnI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/51MOdDhbSnI/mqdefault.jpg' alt='📈 STATE OF JAVASCRIPT 2021 ⭐ - ¿ADIÓS REACT y WEBPACK? ¡HOLA SVELTE Y VITE! 👋' />
+<a href='https://youtu.be/m86SnMJ5Q4M' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/m86SnMJ5Q4M/mqdefault.jpg' alt='Los MEJORES ICONOS para tu VISUAL STUDIO CODE 🤩' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
-<a href='https://youtu.be/4HnLIAX0EoM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4HnLIAX0EoM/mqdefault.jpg' alt='Curso de Framer Motion desde cero - 🍃 Animaciones para tu proyecto con React' />
+<a href='https://youtu.be/CvfB4KzP4us' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CvfB4KzP4us/mqdefault.jpg' alt='🗺️ Ruta de aprendizaje para convertirte en Desarrollador Web (Frontend Roadmap)' />
 </a>
-<a href='https://youtu.be/6omm1ux5feM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6omm1ux5feM/mqdefault.jpg' alt='🤯 Mejora tu lógica de programación resolviendo este reto de JavaScript' />
+<a href='https://youtu.be/-yw7_3ysx1Q' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/-yw7_3ysx1Q/mqdefault.jpg' alt='✅ 5 CONSEJOS para DESARROLLADORES JUNIOR' />
 </a>
-<a href='https://youtu.be/6ji-oYS6EgM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6ji-oYS6EgM/mqdefault.jpg' alt='👨‍🏫 Resuelve Fibonacci con JavaScript: solución con recursividad y con bucles' />
+<a href='https://youtu.be/UxuOOX7EcGE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/UxuOOX7EcGE/mqdefault.jpg' alt='¿¡DEMASIADOS JUNIORS en PROGRAMACIÓN!? ¿Hay trabajo para todos? 😱  Te cuento mi opinión' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://instagram.com/p/CbK3czZI2Hx' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/275967319_263593442635696_5140474977506054323_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=MxtLSeHfHZAAX8tXyTu&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9CHfmkDdWUjTVggNAMEp0DOdLsjmaRIv8z_dLX793EOg&oe=623A08D5&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CbpnGlVA4CQ' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/277293695_363899178958322_252846148778538854_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=yyKrf7DAbDAAX-eKrnU&edm=APU89FABAAAA&ccb=7-4&oh=00_AT-tAtGxBVH1nYsyPZ2-dcdMBvq4H6gZ372KPfXXljR7Qw&oe=6244314B&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CbITGeOAd9s' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/275798280_689081645456860_6303693193010504242_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=TkTcRUZBVQAAX8HhUWW&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8518yRB-JAcUx4NVBTDM81UhwnyBCz0urZ6j6Zv899gA&oe=62357A99&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/Cbm_9jNvEhC' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/277250231_286375033508471_2335964597883713390_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=cr8_rvE-oEAAX8Kg7Wf&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8_rFzqhSoBOKTnJCcieT5QD1pVPry8zNceVB5_1KPsaA&oe=6244AA56&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CbGD1Xcg_Rl' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/275808240_633125164446464_8248284520257154406_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=HANveUQ4XT0AX-WGaWl&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8f9u3dGJOsrQVnIQzr3H0_YgS0Ge5bnKSxM5kNKiH8Ug&oe=62358714&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CblOoC_gck3' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/277291026_124722066593247_4872892907859265665_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=ENtttstSsWcAX9JdvDj&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9iOeY2W4Ls4OS6fjF40UPYvd4ixLRvUu-r39vMCXG8nA&oe=624480BE&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CbAj06mIDV0' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/275598646_1134785897283167_7194608189984417988_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=6pyffisOZYsAX9926bq&edm=APU89FABAAAA&ccb=7-4&oh=00_AT-pot9yKx06BlvDxB192pVoeb7xrhcEdQUTLlR8Brmnqw&oe=6239C6EA&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CbkpOplNlCw' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/277249231_272488238408334_6251774525699847536_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=LFhe59AvZksAX_FDZk3&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8wq2_s7_NanLhjNuMuf9kySG12_UoPEMjyhGkepAiLYA&oe=62444493&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [5 consejos para desarrolladores Junior](https://midu.dev/5-consejos-desarrolladores-junior/)
 - [Carga scripts externos de forma asíncrona en código JavaScript](https://midu.dev/cargar-scripts-asincronos-en-javascript/)
 - [Hablar es barato. ¡Enséñame el código!, reflexión sobre las palabras de Linus Torvalds](https://midu.dev/hablar-es-barato-ensename-el-codigo/)
 - [🔥 Hablar es fácil. ¡Enséñame el CÓDIGO! - 03x07](https://midu.dev/podcast/03_07_hablar-es-facil-ensename-el-codigo/)
 - [Retos de programación en diciembre: Advientos de Código](https://midu.dev/retos-programacion-advent-of-code/)
-- [📍 Deja de PROCRASTINAR: consejos y estrategias para dejar de hacerlo - 03x06](https://midu.dev/podcast/03_06_deja-de-procrastinar-consejos-y-estrategias-para-dejar-de-hacerlo/)
