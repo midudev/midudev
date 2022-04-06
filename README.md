@@ -45,22 +45,22 @@
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
+<a href='https://instagram.com/p/CcAtraijzk-' target='_blank'>
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/278035826_396286845285337_7558104919180956908_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=T3c_yMCZjLIAX8Vmw_g&edm=APU89FABAAAA&ccb=7-4&oh=00_AT88FNVIp__8XI_pFwhFGnV2CO2hwNmZBon0i7Ib2U-V1Q&oe=624FB792&_nc_sid=86f79a' alt='Instagram photo' />
+</a>
 <a href='https://instagram.com/p/Cb-S_BMtwUH' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/277861870_118160584154605_5112945652305431087_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=BQGtyuy26e4AX_Q001w&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_RFhdFYxQluH7vP9-pXIxAxM60AfojWmp1YpyEr4AMFw&oe=624FFEA9&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/277861870_118160584154605_5112945652305431087_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=BQGtyuy26e4AX-Y7i2X&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9-lhqLn7qgzMpJ-8ebxt3V-cccMbn9dPBYD_tWD5NBhw&oe=624FFEA9&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cb7jgkitOnI' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/277772187_688027659123189_4009498676341041956_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=KYGXyzj-ySwAX_99D5V&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8B_A8PLt6eXQEz0OsGDbg3_7wcFK1l-9LjstJ1AfKP6Q&oe=624FEB98&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/277772187_688027659123189_4009498676341041956_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=KYGXyzj-ySwAX_Q3LGS&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9HIVOWIKBl6RtNMh95UHiuyliq3OHv2RZbFCbK1SiQZg&oe=624FEB98&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cb5D9tMIeYN' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/277908183_3028302270752475_4615885723745838718_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=czxVf0xHVz4AX8cnDfi&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9OF5TwEXjKEUiTOYBvfpqAJIYi1Mwb3goSxuy9W9UTVQ&oe=6253CC39&_nc_sid=86f79a' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/Cb2fiPQu-eC' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/277702285_1106126370242415_4085305147196868853_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=HThUa_7y5SUAX9Du7tc&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_FOxjsKH6g8klCTRqo5_E2JTkOLN5desv1EbddMUO5_g&oe=624FAA1A&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/277908183_3028302270752475_4615885723745838718_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=czxVf0xHVz4AX9C-KBC&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9FXSiQTbY6Fge5_omoF6PVzC2I_pZOV_MLdBazm4x4ng&oe=6253CC39&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [Estrategia de Git: Ship / Show / Ask](https://midu.dev/ship-show-ask-estrategia-git/)
 - [5 consejos para desarrolladores Junior](https://midu.dev/5-consejos-desarrolladores-junior/)
 - [Carga scripts externos de forma asíncrona en código JavaScript](https://midu.dev/cargar-scripts-asincronos-en-javascript/)
 - [Hablar es barato. ¡Enséñame el código!, reflexión sobre las palabras de Linus Torvalds](https://midu.dev/hablar-es-barato-ensename-el-codigo/)
 - [🔥 Hablar es fácil. ¡Enséñame el CÓDIGO! - 03x07](https://midu.dev/podcast/03_07_hablar-es-facil-ensename-el-codigo/)
-- [Retos de programación en diciembre: Advientos de Código](https://midu.dev/retos-programacion-advent-of-code/)
