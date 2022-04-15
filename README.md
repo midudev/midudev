@@ -21,14 +21,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/xkuGBl1GnxY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xkuGBl1GnxY/mqdefault.jpg' alt='📚 TODA la DOCUMENTACIÓN que NECESITAS en un solo SITIO!' />
+</a>
 <a href='https://youtu.be/15VKbky2gB4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/15VKbky2gB4/mqdefault.jpg' alt='⚛️ REACT + TYPESCRIPT: Creando un proyecto desde cero y paso a paso (Tutorial en español)' />
 </a>
 <a href='https://youtu.be/auLEcwMqyr0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/auLEcwMqyr0/mqdefault.jpg' alt='💬 ENTREVISTA con HOLA MUNDO: Ser SENIOR en PROGRAMACIÓN, DINERO, ANSIEDAD en el mundo DEV...' />
-</a>
-<a href='https://youtu.be/ZpY5KdGQvwI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZpY5KdGQvwI/mqdefault.jpg' alt='📘 Tutorial TypeScript con Node.js y Express. ¡Crea tu API REST con tipos estáticos DESDE CERO!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
@@ -46,16 +46,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/CcX9dY3o7N_' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/278392625_1308569336290566_6871215122574813851_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=VpMCY8YNt2oAX-uwoQE&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9FWTK0sRWPifsd0q1RF7x9UgrOl_9ZnBTdkkjJZh6TSA&oe=6260CF9D&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/278392625_1308569336290566_6871215122574813851_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=VpMCY8YNt2oAX-gr-4_&edm=APU89FABAAAA&ccb=7-4&oh=00_AT-a4rmh-pXN74vvbM5pp5EhHcvqTuHb2t88onoBU4yeeA&oe=6260CF9D&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CcV6cf7Iach' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/278341500_529537505223177_6055305827985101028_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=vZcCxUspUz4AX_Lgpa9&edm=APU89FABAAAA&ccb=7-4&oh=00_AT93jN9FK1NT9Vr6DUTe7xmnikMF_Y6-RxRsYvU4PmIS8g&oe=626129BF&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/278341500_529537505223177_6055305827985101028_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=vZcCxUspUz4AX_2MgzH&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_UL8iaYFOww7VDyIKh6niDs_qLfesBzUzgYD2_zW_ImQ&oe=626129BF&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CcVdDZhDk7d' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/278392326_956264131686863_2571581757790367368_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=ALPfuZBM-VEAX-vnVx3&edm=APU89FABAAAA&ccb=7-4&oh=00_AT96R-ROpgVIjxFLAZjPNjwFIcWAgtbxJG-jOQazWpDRqw&oe=625C19B8&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/278392326_956264131686863_2571581757790367368_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=ALPfuZBM-VEAX-uVdCD&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8K746gwc10B8IGjQ3ITo3xna7nxoCEKn1d8Gy185TPLQ&oe=625C19B8&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CcVInSijj1O' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/278465538_1036746050586599_6600799511682992269_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mBZMZu_aePIAX98YYgp&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9cfVSQ22jB9bnhqJemxsKwFeFCseq-2HvTIPNDBcNm6w&oe=625BDE9A&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/278465538_1036746050586599_6600799511682992269_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mBZMZu_aePIAX_P2ciz&edm=APU89FABAAAA&ccb=7-4&oh=00_AT8HYOIvbZeuE8CiBBAuQgVOr-b9nqNfZgjvYUOgWg435Q&oe=625BDE9A&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
