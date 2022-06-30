@@ -33,34 +33,34 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
-<a href='https://youtu.be/o5m6UowuiXA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/o5m6UowuiXA/mqdefault.jpg' alt='🛑 Ola de DESPIDOS MASIVOS en el SECTOR TECNOLÓGICO - ¿Qué pasa con los desarrolladores?' />
+<a href='https://youtu.be/4dkWsytM1kg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/4dkWsytM1kg/mqdefault.jpg' alt='👨‍💻 Taller práctico SvelteKit - Creando una app del tiempo 🌦️' />
 </a>
-<a href='https://youtu.be/MKNCWhb1U2Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MKNCWhb1U2Y/mqdefault.jpg' alt='💣 Reacción en vivo de la Microsoft Build 2022 - Repaso a todas las novedades' />
+<a href='https://youtu.be/U3AycblFanY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/U3AycblFanY/mqdefault.jpg' alt='¿Puedo vivir de crear contenido? ¿Cuánto me pagan por los patrocinios y las acciones?' />
 </a>
-<a href='https://youtu.be/zjfP_8wHwYk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zjfP_8wHwYk/mqdefault.jpg' alt='👴 El estigma de la edad en la programación. ¿Demasiado viejo para programar?' />
+<a href='https://youtu.be/x7jsxdRxEiw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/x7jsxdRxEiw/mqdefault.jpg' alt='💻 CONFIGURO desde CERO el sistema UBUNTU para DESARROLLO WEB + RUST' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://instagram.com/p/CfEmElcDwJj' target='_blank'>
-  <img width='20%' src='https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/289315311_180972031029041_1086118433385196436_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=GgK_jFUans8AX-ZySj_&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_yZjASrEiEHsvPbjJeq5fPVEPqP7DmVI7J0JAfVZuX0A&oe=62B503D7&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CfbrXFPIDtG' target='_blank'>
+  <img width='20%' src='https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/291036333_118692667536509_8239684991877773708_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=lrdxpj03fIoAX_c4gb5&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9yQa663ktAqjK3yI8-nNMeytm7xLXOoSfDu2fgMJ3cJA&oe=62C405DF&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CfCStoxjbqO' target='_blank'>
-  <img width='20%' src='https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/289123534_692391118790877_6080706857839240483_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=0udHLzvHMsEAX87_O-c&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_0J9ISXAqsU0W22IWvfxCsIVrSYuUj0QatamPrhY6Ugg&oe=62B4BD4A&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CfZSlLboxkT' target='_blank'>
+  <img width='20%' src='https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/290404731_2199274336920784_4676063118930491671_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=6-HDjTenVFIAX_EmpXU&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8iM8w-7-NAF_ooU81mVPZMpiMfFbMX_6ZbuiHHfOpzyQ&oe=62C424B4&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/Ce_gwiboo6E' target='_blank'>
-  <img width='20%' src='https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/288216644_599940071343485_1833981762619817636_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=z_uFRyJKrocAX8rzmZa&edm=APU89FABAAAA&ccb=7-5&oh=00_AT80F2F6TFTnXa6AJZLrTjVFiCY_N1KjwRPynco0XOrZ9Q&oe=62BA4147&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CfW9s4kjKGQ' target='_blank'>
+  <img width='20%' src='https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/290886242_589015122748292_3885173166185203254_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=SkyJPgcFybkAX8XIpR_&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-gLLMCjIbDTt9582AIe7APlPG4kzvhS6l-L3B9_wzjAw&oe=62C0793F&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/Ce9KMK3D8J2' target='_blank'>
-  <img width='20%' src='https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/289252521_785667935767536_949926636295880635_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=UOEMHL8ET3UAX_r9IGc&edm=APU89FABAAAA&ccb=7-5&oh=00_AT824MmSGuah6qP40DeFwDGueZ7mhMs-uBWcpM9uyi6y8w&oe=62B47923&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CfUTMD_K2Ie' target='_blank'>
+  <img width='20%' src='https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/290019510_140348208616160_2491052508929404142_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=L4X8gdI8KUUAX8nUx7D&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8fZB3fC5XoxHSX57gka6wHcnPGUxjGR0EpfjaVJ1gJog&oe=62C497BE&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [Cómo clonar un Array en JavaScript de forma correcta y sin problemas](https://midu.dev/como-clonar-un-array-en-javascript/)
 - [Entrevista con Nico de Hola Mundo. Programación Web + Seniority + Salarios + Haters y más. - 03x08](https://midu.dev/podcast/03_08_entrevista-con-nico-de-hola-mundo-programacion-web-seniority-salarios-haters-y-mas/)
 - [Estrategia de Git: Ship / Show / Ask](https://midu.dev/ship-show-ask-estrategia-git/)
 - [5 consejos para desarrolladores Junior](https://midu.dev/5-consejos-desarrolladores-junior/)
 - [Carga scripts externos de forma asíncrona en código JavaScript](https://midu.dev/cargar-scripts-asincronos-en-javascript/)
-- [Hablar es barato. ¡Enséñame el código!, reflexión sobre las palabras de Linus Torvalds](https://midu.dev/hablar-es-barato-ensename-el-codigo/)
