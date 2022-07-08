@@ -46,21 +46,21 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/CftxrtqNUoI' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/292049853_1165135994034384_5606027181315824910_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=EV3eKK6c9UcAX_TVeD3&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8Rd4qE1C-7Q_Zza7--OqV6ThqXo5DVLrP89MNCk3mJVw&oe=62CEB6A4&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/292049853_1165135994034384_5606027181315824910_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=EV3eKK6c9UcAX8QXry1&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_zcN7jzvjaQHKNoHl6Ch00tlGdhW5Rb4_p00eNl6oBmA&oe=62CEB6A4&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CfraKtzDkIN' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/292245722_1200112467441507_7792914041844583548_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=qCuoU81kIw8AX8W8FBY&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8EjubdHf03SbnPlmIrT_064Ovx3sqalTKsPbvNwKtWIw&oe=62C9EE1B&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/292245722_1200112467441507_7792914041844583548_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=Fk0sX_bjxLkAX-p2Hav&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8_9dJfqvAJITeSUcQYtwEZPdN81znoHsbMYu2F7XxLYg&oe=62CA96DB&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CfmJsgHDbqF' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/291888092_396234055816266_906869950493982469_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=XkLezx0WM8oAX9j_0ho&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9TGjBHKF1czdz4-ZujnBPMcSCRn36RxyoQkMcA_Kv8qw&oe=62CA659D&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/291888092_396234055816266_906869950493982469_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=XkLezx0WM8oAX9MC-Tu&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8r7yrle7hiaK4dZar3hupC_Rv51qtpyZoF8tCm9_19LQ&oe=62CA659D&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cfj4XTCFPsJ' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/291968806_455663123039677_3581671871514668880_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=A59Gb-Mz8roAX_0-ZxT&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-vj2GHV5GAUVEAoBFeQmeBP61iHF6VtRSbG17OTMWhLQ&oe=62CA3C05&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/291968806_455663123039677_3581671871514668880_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=A59Gb-Mz8roAX9KsiGV&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-DASxBOfa_BqizWdlFyPMVbhxc-uKI-ONoWXe0zLCkGw&oe=62CA3C05&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [👨‍💻 Consejos para mejorar en Programación - 03x10](https://midu.dev/podcast/03_10_consejos-para-mejorar-en-programacion/)
+- [Cómo mejorar en programación](https://midu.dev/como-mejorar-programacion/)
+- [💥 BURBUJA DEV y HIRING en TECNOLOGÍA 👩‍💻 con DAVID BONILLA de Manfred y la Tarugoconf - 03x09](https://midu.dev/podcast/03_09_burbuja-dev-y-hiring-en-tecnologia-con-david-bonilla-de-manfred-y-la-tarugoconf/)
 - [Cómo clonar un Array en JavaScript de forma correcta y sin problemas](https://midu.dev/como-clonar-un-array-en-javascript/)
 - [Entrevista con Nico de Hola Mundo. Programación Web + Seniority + Salarios + Haters y más. - 03x08](https://midu.dev/podcast/03_08_entrevista-con-nico-de-hola-mundo-programacion-web-seniority-salarios-haters-y-mas/)
-- [Estrategia de Git: Ship / Show / Ask](https://midu.dev/ship-show-ask-estrategia-git/)
-- [5 consejos para desarrolladores Junior](https://midu.dev/5-consejos-desarrolladores-junior/)
-- [Carga scripts externos de forma asíncrona en código JavaScript](https://midu.dev/cargar-scripts-asincronos-en-javascript/)
