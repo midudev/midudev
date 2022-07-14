@@ -46,21 +46,21 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/Cf9VlyYjqDf' target='_blank'>
-  <img width='20%' src='https://instagram.fbrs4-2.fna.fbcdn.net/v/t51.2885-15/293149349_1259056994653575_7769783873259620454_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fbrs4-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=TSGaXQAl4r4AX-V6I1e&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9XcOkkkROOB8IseqtgXcjFAED3BgZrajRtLgXIzrw8ow&oe=62D1F9E1&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/293149349_1259056994653575_7769783873259620454_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=TSGaXQAl4r4AX9WO2JA&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9VWsHd7vIZBJ37ggiPlwG6siVETT1liQipnjGzH2VnGg&oe=62D2A2A1&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cf63Rd3jXHt' target='_blank'>
-  <img width='20%' src='https://instagram.fbrs4-1.fna.fbcdn.net/v/t51.2885-15/293088714_750959329586276_3256295708354943017_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fbrs4-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=DD8M5ORlnVYAX9haYJJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_OfjbCSx_nqnC6xPS1m_MxY2M5cc_JVBjiNNrFhyrJyA&oe=62D22336&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/293088714_750959329586276_3256295708354943017_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=DD8M5ORlnVYAX8t-wVp&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9auWP_oM8NI4fh98vLtlcRBFB3F1Ta3Ot_WkVGBwLBVg&oe=62D22336&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cf3__n7oU1L' target='_blank'>
-  <img width='20%' src='https://instagram.fbrs4-2.fna.fbcdn.net/v/t51.2885-15/293048836_769530054399611_6585015780743803315_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=instagram.fbrs4-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=UDQolxlaPocAX_-EPhE&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_2j_P0Tb4IPVjhRTZ02Il0-s99iGP4pDhQbL-wocJXTw&oe=62D78578&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/293048836_769530054399611_6585015780743803315_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=UDQolxlaPocAX8fiouY&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8nxsaj5wcTOJuoVG_AZKsE0qfkkIEYLCeTwsSNnWKvKQ&oe=62D78578&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CfzFP_nIDMH' target='_blank'>
-  <img width='20%' src='https://instagram.fbrs4-1.fna.fbcdn.net/v/t51.2885-15/292752943_578891487128389_2539223708355314889_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=instagram.fbrs4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=cjKtyCW9wXwAX9EoI8Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9-aBA5a4onidUWWCjgdEDXUacCzM7X-PLsL6vtlrn70Q&oe=62D5CCB8&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/292752943_578891487128389_2539223708355314889_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=cjKtyCW9wXwAX96E8AS&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_rL1hcFs2pydCzCT0FMR0oaXRjWJMUFoba8zJLTCArTw&oe=62D7C6F8&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [Type casting en TypeScript](https://midu.dev/type-casting-typescript/)
 - [Cómo solucionar el error ReferenceError: window is not defined](https://midu.dev/reference-error-window-is-not-defined-node-como-solucionarlo/)
 - [👨‍💻 Consejos para mejorar en Programación - 03x10](https://midu.dev/podcast/03_10_consejos-para-mejorar-en-programacion/)
 - [Cómo mejorar en programación](https://midu.dev/como-mejorar-programacion/)
 - [💥 BURBUJA DEV y HIRING en TECNOLOGÍA 👩‍💻 con DAVID BONILLA de Manfred y la Tarugoconf - 03x09](https://midu.dev/podcast/03_09_burbuja-dev-y-hiring-en-tecnologia-con-david-bonilla-de-manfred-y-la-tarugoconf/)
-- [Cómo clonar un Array en JavaScript de forma correcta y sin problemas](https://midu.dev/como-clonar-un-array-en-javascript/)
