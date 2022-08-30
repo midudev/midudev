@@ -21,41 +21,41 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/zEBur_vb6xQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/zEBur_vb6xQ/mqdefault.jpg' alt='¿Está el mercado tech saturado de juniors? Trabajo para gente que empieza en programación' />
+</a>
+<a href='https://youtu.be/xnVykQ3x1qU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xnVykQ3x1qU/mqdefault.jpg' alt='TRUCAZOS para usar GOOGLE como un PRO' />
+</a>
 <a href='https://youtu.be/g5L-o3HEVds' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/g5L-o3HEVds/mqdefault.jpg' alt='Reconocimiento de Voz en 10 líneas de JavaScript y sin dependencias' />
-</a>
-<a href='https://youtu.be/VUsdD_Clmyw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VUsdD_Clmyw/mqdefault.jpg' alt='¡Te regalo mi CONFIGURACIÓN de VSCODE! Programación 10x' />
-</a>
-<a href='https://youtu.be/rmN_XUoqMio' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rmN_XUoqMio/mqdefault.jpg' alt='Extensión de VSCODE: ¡DEJA de usar POSTMAN y THUNDER CLIENT! ¡Esta es MEJOR!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
-<a href='https://youtu.be/pFT8wD2uRSE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pFT8wD2uRSE/mqdefault.jpg' alt='CURSO de NEXT.JS 12 desde CERO y con dos proyectos prácticos' />
+<a href='https://youtu.be/dHN5pP-OCog' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dHN5pP-OCog/mqdefault.jpg' alt='Maquetando el efecto 3D del ticket de la MiduConf' />
 </a>
-<a href='https://youtu.be/IDmHMDKKMWQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/IDmHMDKKMWQ/mqdefault.jpg' alt='🤯 3 EXTENSIONES de VSCODE para mejorar tu PRODUCTIVIDAD' />
+<a href='https://youtu.be/gSSjhChWYK4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gSSjhChWYK4/mqdefault.jpg' alt='Array.at() - Nueva forma de acceder a elementos en JavaScript' />
 </a>
-<a href='https://youtu.be/jKdt-BnTTR0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jKdt-BnTTR0/mqdefault.jpg' alt='Principios SOLID en React.js (Buenas prácticas) con ejemplos prácticos' />
+<a href='https://youtu.be/2QSBXhuqSlI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/2QSBXhuqSlI/mqdefault.jpg' alt='Crea un monorepositorio multipaquete con npm workspaces y releases de paquetes' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://instagram.com/p/ChXVJ5VjGgl' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/299722007_621213752670193_2540873799652040030_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=xS_gzE_nwa8AX9xF5Ts&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9qPBil7aKmFB5-poP0nm_S-l-ljkVMFRW4Bp3a-1fa1w&oe=630081A3&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/Ch41CcDjO3h' target='_blank'>
+  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/302424326_5592166077493806_4521117122463643056_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=106&_nc_ohc=8dztd8pOch4AX-xR_Fb&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9_YbDaddQ8VY6qWgISNjWFQKrlBFic52y-p_mEdXTO6Q&oe=6310EC03&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/ChUt74vDU6p' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/299362213_376220618022429_5693820621905237810_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=dZwF3Pi8GTwAX--myV8&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8KBlss7ntRJ76N-u3gmdzQytqVoDdQEActvajGRlmHuw&oe=63003D43&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/Ch2Va-9jU1U' target='_blank'>
+  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/301660884_344599111128752_8482239318126196088_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=108&_nc_ohc=82CD5MiW0k4AX8PVy4P&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_NACpgUb4UebyGEBjPU3aamhA-2oL3i_xY4EFCSeseng&oe=63110817&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/ChSEBIfDWZw' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/299217470_598430475205518_594963138699671033_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=3WnJVPYCWYoAX-MN35g&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-NQodnw2rN3B0Xlgv5UZTXei8Ml2kPdYEHKNA_crGuAg&oe=63007456&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/Chugmuuj-8-' target='_blank'>
+  <img width='20%' src='https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/301709425_1165931783955097_3316033949207477361_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=101&_nc_ohc=v6nL659j0VcAX9rdwIj&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-KaLccszokWJ-oH9zBe2q2wGUD6iHK7SI5pH0vyu2A1w&oe=6310CFA5&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/ChPqFv0DyNK' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/299368779_601552464749204_2896570669703212067_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=7A5ftjUocfkAX-vpI3F&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9Km6dJESuSNRU1xZhrr-2zVg_CBFLHPRNDbzsa-1RdtQ&oe=630086C0&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/Chr4psbjqgA' target='_blank'>
+  <img width='20%' src='https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/300956607_4486106148181372_6906737828124905781_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=104&_nc_ohc=TDiEPU-PaBEAX-aegy6&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-gE9QAHeG19y2Xl-R4B1pGUN6SxrFTMLZnbSdiDPwVqw&oe=6310D90B&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
