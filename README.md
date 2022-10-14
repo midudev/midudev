@@ -33,29 +33,29 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Jv71pCKqT3c' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Jv71pCKqT3c/mqdefault.jpg' alt='Entrevista a Freddy Vega, CEO de Platzi: "En el 2040 no vamos a programar en JavaScript"  [miduConf]' />
+</a>
 <a href='https://youtu.be/G3pdOHt4fFU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/G3pdOHt4fFU/mqdefault.jpg' alt='¡Los trabajos mejor pagados y más demandados en el mercado laboral en programación!' />
 </a>
 <a href='https://youtu.be/Hs18zNHu8tQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Hs18zNHu8tQ/mqdefault.jpg' alt='CodelyTV: Programación Reactiva de 0 a 100 [miduConf]' />
 </a>
-<a href='https://youtu.be/tiiGMyVKjOU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tiiGMyVKjOU/mqdefault.jpg' alt='¡Entrevista con el creador de Next.js! Guillermo Rauch y el futuro de la web [MiduConf]' />
-</a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/CjaecKKjNrG' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/310795035_836125991078030_3096497112798801948_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=turEBg6C88IAX85YN8p&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8aWGbzDtJgAt0ErDYhryqQrOW5VpcqKL3p3OUzSaJeOQ&oe=634B5889&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/310795035_836125991078030_3096497112798801948_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=102&_nc_ohc=turEBg6C88IAX9lxnTA&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8q4oZln9iV78HljuGBev6cE_whD0oyZ6ZGvAOwBVJ1Ow&oe=634C0149&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CjS5LNkjUI_' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/310295176_428064272791537_8369312504489136169_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=_slMzO1KH68AX_DnEhz&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-gXpTZq4yDNC_GxHRYXa4NtD4wkIuoFkeqPb4xOrasNQ&oe=634B4C9F&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/310295176_428064272791537_8369312504489136169_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=101&_nc_ohc=_slMzO1KH68AX80DU1U&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_9o1y_QhxrlmZ_PrkzbjFZbtqVToHncijdQJRAPPVQ-w&oe=634BF55F&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CjQVn0iDgjS' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/309915672_621842836240634_7528278246249648022_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=dR0dB_31Yg4AX_Tv-U5&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8CRXFwY8QCaaCfzBcL1Ru6ptTzgXglY7EktG7sJKVxvA&oe=634B2D81&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/309915672_621842836240634_7528278246249648022_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=102&_nc_ohc=dR0dB_31Yg4AX9CcYlP&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_rvU0GtywHNXLOtdr5dxLdwVUYbNW-olc0VHbn1Xt4dg&oe=634BD641&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CjLomJQj3j7' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/310366393_620880029478677_5014587907556515836_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=qugOAPobBY4AX8X40jr&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_-SzwU086mThvyYxMPnrUMqymNxD6W9VBGjXiUa5-9fg&oe=634B3829&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/310366393_620880029478677_5014587907556515836_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=105&_nc_ohc=qugOAPobBY4AX83FhyW&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-eiNdzS9Zep158fjNcv66QhdTjJEka5c8VhG4_5mHX4g&oe=634BE0E9&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
