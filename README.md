@@ -21,41 +21,41 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/cz-DaqClllQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cz-DaqClllQ/mqdefault.jpg' alt='PYTHON + MACHINE LEARNING para pasar de AUDIO a TEXTO con pocas líneas' />
+</a>
 <a href='https://youtu.be/ZsGUkdFJRxA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZsGUkdFJRxA/mqdefault.jpg' alt='DESARROLLA un botón de MENÚ con animación con sólo HTML y CSS. ¡Sin imágenes!' />
 </a>
 <a href='https://youtu.be/RxxyJk4h9pU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RxxyJk4h9pU/mqdefault.jpg' alt='⛔️ MALAS PRÁCTICAS de JavaScript. ¡Evítalas!' />
 </a>
-<a href='https://youtu.be/WtECsrdP3fU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WtECsrdP3fU/mqdefault.jpg' alt='Aprende a centrar elementos en CSS' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
-<a href='https://youtu.be/KwbXTQ5Infs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/KwbXTQ5Infs/mqdefault.jpg' alt='Tips y consejos para Entrevistas de Trabajo en Programación - Irene Morgado [miduConf]' />
+<a href='https://youtu.be/uYSjsYTubjg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/uYSjsYTubjg/mqdefault.jpg' alt='😱 ¡Mira quién mandó un saludo a la miduConf!' />
 </a>
-<a href='https://youtu.be/Jv71pCKqT3c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Jv71pCKqT3c/mqdefault.jpg' alt='Entrevista a Freddy Vega, CEO de Platzi: "En el 2040 no vamos a programar en JavaScript"  [miduConf]' />
+<a href='https://youtu.be/dBTmYpRv4Nc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dBTmYpRv4Nc/mqdefault.jpg' alt='Cómo crecer profesionalmente y generar un impacto en los demás con Samar Jaffal [miduConf]' />
 </a>
-<a href='https://youtu.be/G3pdOHt4fFU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/G3pdOHt4fFU/mqdefault.jpg' alt='¡Los trabajos mejor pagados y más demandados en el mercado laboral en programación!' />
+<a href='https://youtu.be/FzELUqAejTM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/FzELUqAejTM/mqdefault.jpg' alt='Aprende Cypress para hacer Testing E2E en tu web con Marta Arcones [miduConf]' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://instagram.com/p/CjaecKKjNrG' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/310795035_836125991078030_3096497112798801948_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Qd4hsvlWSlMAX87u90A&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_m2YJiocaOllUaKOa41QKH1X6gDPPObTluS-QeBjDr_Q&oe=634F4D09&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CkQ5HlwpnNl' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/313204855_647085406946649_8560209487461791318_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=-DFjmNvLIIwAX8kUvL9&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBpKA8wEOmbLdxLvRW9xnMERN7q3QSEsksxeIDVIMtIvA&oe=63648DCB&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CjS5LNkjUI_' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/310295176_428064272791537_8369312504489136169_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=rAUfCb13ATsAX_0Bwoy&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-SLLbvV69IdTSHhwP_4WhCQ7gk90uOipxOhDyZOrbrgg&oe=634F411F&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CkGtTW3voH1' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/312441370_1162732327672683_7411199741294949177_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=sgoapkuRQkMAX8PzUrz&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD7k3uX8KaTUgofIzvfrrcktqmg8y-66D39wB7GUjKUyQ&oe=6363A65A&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CjQVn0iDgjS' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/309915672_621842836240634_7528278246249648022_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=1rd_e5CFpyAAX9mGEg-&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_K_6pyi-ZimS8YvZrVjeqW9DI-yRhX1w7IpvWMOMlqlw&oe=634F2201&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/Cj8JcMZj4k4' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/311912711_117122651168989_4178076594843853809_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=SONZbhCTvcMAX_F8hC-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDc3yQdHDO0FLLiY25ESK4xZuOYeWVn0yvhb7Ku1PGCJA&oe=63603CE0&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CjLomJQj3j7' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/310366393_620880029478677_5014587907556515836_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=EmrXIdV5xMoAX8rf5Ku&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8uAlJJGR8Zg2E7VEEO0xNWVZhIK04ZzRvpRx5-KlvGyw&oe=634F2CA9&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/Cj5jvoGjbkt' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/311814740_185291004003426_8558907356376746948_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=oxBDusTnG-wAX902jfu&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB7CtsWnwTJEihCcloi_K_pIaSBvzUPKwW5WcbWlN5KRA&oe=6360A28B&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
