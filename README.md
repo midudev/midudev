@@ -46,21 +46,21 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/CloSm-djj6x' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/317509358_825914045333791_7761333504178638452_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=0cIHOsSl-dUAX-_5dKe&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD0cKZKoAzYuMJI8oYVJk9ddySMy3jHJ1z2X75HJNN2fw&oe=638EC50C&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/317509358_825914045333791_7761333504178638452_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=0cIHOsSl-dUAX-LknHm&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBvAiQVpFL8eOy9JYKRaefE2BbDdFIvXp5rMOlQrhXm7w&oe=638F6DCC&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CllxvlRjS1x' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/317463992_1263280961187458_3053051249532885432_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=XBQz7CS30LkAX_S01pZ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDLW9i2n9QAR3MQ5zgnBoL_JRHBg2qMKIMMcGDzC0u-bg&oe=638F431D&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/317463992_1263280961187458_3053051249532885432_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=102&_nc_ohc=XBQz7CS30LkAX9Wx4j4&edm=APU89FABAAAA&ccb=7-5&oh=00_AfABkHtsiw8SuuMR9YXtlctv_RTPPWA_qC4uFXsQWb6GeQ&oe=638F431D&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CljMtZfjna6' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/317511981_5617445285008123_1052523907861688209_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=C9gL8Ru3ZAAAX9vw7m9&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCDWBeyMZNngmZmKiGlvdox4T5HIVwj324qa0T1NlsbrA&oe=638F495B&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/317511981_5617445285008123_1052523907861688209_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=C9gL8Ru3ZAAAX_KezEW&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA8VLT87jkmOfV8WOkpjMs-1ikHqbJCXoek7LX2k0gYhg&oe=638F495B&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/ClgjdCcjBSf' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/317271159_570538254899116_5841317476894876786_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=cNy_IiIr_3wAX-z0Gp9&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDU00Dsu4zOaaD-EdBaeS_3EBKS6kTQwTIMP0pPwVgwmA&oe=638F1BED&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/317271159_570538254899116_5841317476894876786_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=104&_nc_ohc=wp7r9vcVan0AX8KDUs7&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBNFBQl_0LQCUnymx2VPHKmjKMgaVuqvP2xPVLrPzBLIg&oe=638FC4AD&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [Cómo añadir un cero a la izquierda de un número en JavaScript](https://midu.dev/como-anadir-un-cero-a-la-izquierda-de-un-numero-en-javascript/)
 - [AdventJS 2022, ¡ya está aquí! Ahora con soporte para TypeScript](https://midu.dev/adventjs-2022/)
 - [¿Es React una biblioteca o un framework?](https://midu.dev/react-biblioteca-o-framework/)
 - [Malas prácticas en JavaScript](https://midu.dev/malas-practicas-javascript/)
 - [Resumen del libro "14 Hábitos de Desarrolladores Altamente Productivos"](https://midu.dev/14-habitos-programadores-altamente-productivos/)
-- [No todo es un objeto en JavaScript](https://midu.dev/no-todo-objeto-javascript/)
