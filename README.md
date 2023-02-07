@@ -46,21 +46,21 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/CoUv3Ryvan6' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/329859818_742935943747603_4782086280300735969_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=PH_jTBSTC54AX_XQ-wx&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCFE31L0tUwcDHB0euCQwEGaqxE74bReVMklIcaUspfNA&oe=63E37214&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/329859818_742935943747603_4782086280300735969_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=tNV_6IH4uRYAX96LEA7&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBLpIaYgngnP2ZOxp7DSsiVp21mgoIQZX32hyH1wxsp4g&oe=63E41AD4&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CoKhNITpE3L' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/328336149_492834026351750_8406914178552346641_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=iGAWlFVSSZ0AX8NGaMA&edm=APU89FABAAAA&ccb=7-5&oh=00_AfALWBt_fWM59YHWAldJVlrgZdwJF3EMmy67bVqaJVXBBw&oe=63E3B0C5&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/328336149_492834026351750_8406914178552346641_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=iGAWlFVSSZ0AX9plyhk&edm=APU89FABAAAA&ccb=7-5&oh=00_AfApE8mndVcaChRFdvSjhDC5vg5XJYOnEvv4nVtK04Yrlg&oe=63E3B0C5&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CoIklluovYw' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/328585082_1468191050255313_7933756692754364104_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=BgRxcd7cl2UAX9iPYTW&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD84iZmYZMDe7TOZNsaDH0KgYr-in2-T3BvPrB_i8FTFQ&oe=63E6D626&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/328585082_1468191050255313_7933756692754364104_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=BgRxcd7cl2UAX9Yuc8J&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBV-uxZeTdvBTVFkohKGwcvmYWgc-e1MRli8mQkSXO8Wg&oe=63E6D626&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CoID9RCJ3R4' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/328314384_1345251476239693_4713759091250971104_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=TGMaFB5W7kYAX_d7z2r&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAd_cp99oqA5ioEmoMrXHstlbunOMLiiamzyts_LDsBRg&oe=63E36D8E&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/328314384_1345251476239693_4713759091250971104_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=TGMaFB5W7kYAX_cXW2U&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDa0p2-BXfmOzHFnZxGYunJ3lVXkZjUimDXHRlpFqqkDw&oe=63E4164E&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+- [toReversed, toSpliced, toSorted y with. Nuevos métodos de Array en JavaScript explicados.](https://midu.dev/to-reversed-to-spliced-to-sorted-with/)
 - [Cómo leer, copiar y pegar del portapapeles en JavaScript](https://midu.dev/leer-copiar-pegar-portapapeles-javascript/)
 - [Desactivar reglas de eslint](https://midu.dev/desactivar-reglas-eslint/)
 - [Curso de Rust para desarrolladores JavaScript](https://midu.dev/rust-para-desarrolladores-javascript/)
 - [Cómo inicializar Array con valores en JavaScript](https://midu.dev/inicializar-array-con-valores/)
-- [Cómo escribir un fichero en Deno](https://midu.dev/como-escribir-fichero-deno/)
