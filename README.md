@@ -21,41 +21,41 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/nPKnehcfczA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/nPKnehcfczA/mqdefault.jpg' alt='La mejor terminal para programadores con Inteligencia Artificial y gratuita' />
+</a>
+<a href='https://youtu.be/h1WLN9Gzbwc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/h1WLN9Gzbwc/mqdefault.jpg' alt='create-react-app ha muerto. React se pasa a los frameworks.' />
+</a>
 <a href='https://youtu.be/7oy5K3ZvgZ4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7oy5K3ZvgZ4/mqdefault.jpg' alt='Genera COMPONENTES HTML y CSS con IA con este RECURSO' />
-</a>
-<a href='https://youtu.be/CfhEzDd-hFM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CfhEzDd-hFM/mqdefault.jpg' alt='TRUCAZOS para buscar en Google como un PRO' />
-</a>
-<a href='https://youtu.be/0Vy7T2vfY-Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0Vy7T2vfY-Y/mqdefault.jpg' alt='Certificación de Inglés totalmente GRATIS' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/XYpadB4VadY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/XYpadB4VadY/mqdefault.jpg' alt='¡Resuelvo Prueba Técnica de React para Juniors y Trainee!' />
+</a>
 <a href='https://youtu.be/TJKAGh9jzx4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TJKAGh9jzx4/mqdefault.jpg' alt='¡Aprende los nuevos métodos de Array para JavaScript!' />
 </a>
 <a href='https://youtu.be/3ZwHGekEtAs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3ZwHGekEtAs/mqdefault.jpg' alt='¿Usaremos React en el futuro? ¡Estos son sus posibles sustitutos!' />
 </a>
-<a href='https://youtu.be/8wJcP9wKzBU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8wJcP9wKzBU/mqdefault.jpg' alt='Cómo configurar el linter en JavaScript muy rápido para no cometer errores en tu código' />
-</a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://instagram.com/p/Cp2ppC_D9ai' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/336052585_1435129327255824_559748117882814071_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=100&_nc_ohc=J2braiCeN1YAX8scgZq&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAVVu_nv-52Fy4_nr6AQieIBg42ZspXNyvQT0yNEkgFRA&oe=64154534&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CqVikkZjOyy' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/338435213_166853206237850_7712454928726438397_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZBGVKbfmAPYAX-EP0BP&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDRrPmheDRTXtq7GzQCHjZAcVrBIpGCvLyLxzfbZ_ay6w&oe=6425602F&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/Cp0E301DlN8' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/333475637_589096416474903_4637566349709562923_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=103&_nc_ohc=6or54ku6j_sAX9nMEoB&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDbPOxogkAXXlKs-L-D0ZZx0j7oiJYDt6xNuNmGW0pPQA&oe=64154F44&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CqS_yqyDeWr' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/338176280_890371462047689_5087411443215355222_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=qnaS1DFEbbIAX9BdnMI&edm=APU89FABAAAA&ccb=7-5&oh=00_AfACH-D4HqyzTYxtaxc86REtOSjiaCXxPtrZYaN8N1aTdw&oe=64252CE7&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/Cpxmok7DioR' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/333614724_1270049170612182_7117524805125376804_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=106&_nc_ohc=em0MeMFsyH0AX8KUTT5&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAP4iTRZH-wJyBuafuPQfwVBAgfUtZp8xfMz8o0x9-fPA&oe=6415D7E2&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CqOeORZIhQa' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/337456285_173262215529780_5749865307837667472_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=4xkOK-zjqWAAX9Zngpr&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCe1Eay5JfMoGq9ioSv5tLY4wGXPkGPLXIyXDMywr6e5g&oe=6428B5BA&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/Cpu_Vf2DkSm' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/334768535_753605439476981_5988880128502330250_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=105&_nc_ohc=CSWHwu1a0zYAX8LpWiv&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBXlMhhII4gQfUq5Zk5HmMm7sfdEMatssrtj6SGl6PHug&oe=6415A5F2&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CqI2uh1DwmE' target='_blank'>
+  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/337896167_551559740414757_6985772674984572303_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=QVQGCFGVYDIAX_Dqh6E&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDFpRT8NN3hgELTRFnCBvrHoGBfIlYptDF2PmIeT54S0Q&oe=6425854D&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
