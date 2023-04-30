@@ -21,41 +21,41 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/2T5oJIhKWJI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2T5oJIhKWJI/mqdefault.jpg' alt='Mejora en programación sin pagar dinero' />
+<a href='https://youtu.be/9CM9N7MRmj4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9CM9N7MRmj4/mqdefault.jpg' alt='¡Slider sin JavaScript! Sólo HTML y CSS' />
 </a>
-<a href='https://youtu.be/vqCe3oG5sfY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vqCe3oG5sfY/mqdefault.jpg' alt='Animaciones brutales para tu página web de copiar y pegar' />
+<a href='https://youtu.be/UrcxotUmThU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/UrcxotUmThU/mqdefault.jpg' alt='❌ NO uses STRINGS en tu JAVASCRIPT para esto. ¡Te explico cómo mejorarlo!' />
 </a>
-<a href='https://youtu.be/nPKnehcfczA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/nPKnehcfczA/mqdefault.jpg' alt='La mejor terminal para programadores con Inteligencia Artificial y gratuita' />
+<a href='https://youtu.be/lkSz_u8-2ao' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lkSz_u8-2ao/mqdefault.jpg' alt='¡No gastes dinero para aprender programación con JavaScript!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Y5Gdrx91aW4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Y5Gdrx91aW4/mqdefault.jpg' alt='¡El futuro de CSS! Con Carmen Ansio' />
+</a>
+<a href='https://youtu.be/GOEiMwDJ3lc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GOEiMwDJ3lc/mqdefault.jpg' alt='Aprende a pasar una Prueba Técnica de React. Entiende useMemo, useCallback y useRef [Curso de React]' />
+</a>
 <a href='https://youtu.be/x-LcbVw99o8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/x-LcbVw99o8/mqdefault.jpg' alt='Custom Hooks + Testing con Playwright: Curso de React desde cero - Parte 4' />
-</a>
-<a href='https://youtu.be/6CFml6tFltU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6CFml6tFltU/mqdefault.jpg' alt='¡Adiós useState! useSignal es el futuro de los Frameworks Web' />
-</a>
-<a href='https://youtu.be/D1p2Sl6lxX4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/D1p2Sl6lxX4/mqdefault.jpg' alt='Espectacular efecto hover para tus cards con HTML y CSS' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://instagram.com/p/CrD-weIs8mk' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/341153667_609034191268786_3435988279246379851_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=hnd7z4JiUlAAX9Z8653&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD99oQbOO5Qy0d0iBgXLPORff80l5BXwER-wdoRP56I8A&oe=643D5B85&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CroYXBooCM4' target='_blank'>
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/343625719_2859618970840128_8321966735714775090_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=p_TbzP8jqcwAX9QjBDp&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAvkUwMVoCntDHGj0D2_qAWAzh7bOMFMmr6UEuJgFTzbA&oe=64548CFC&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CrBXCD9xMKN' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/323796872_138833719156939_3643228710909646523_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=4Q7QfBBA0YEAX-9vFqN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCYYBqvQqTiU4HNdX1FzJHHIN71SOb1wE-KM3Z2fFgn5g&oe=643D41A4&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CrimDXSOCQ9' target='_blank'>
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/343454609_1937472069943783_1989153313794729669_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=TnAvyoBovzAAX_2a-Mx&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCCL1oUyhQ-6ejb_lSDqPYu62LvUKAv8AOvU6bWsrm6lg&oe=64507287&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/Cq-pS7ZMdBG' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/340477499_1163300147676679_392188213600502899_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=dJPNeYDemU8AX9gxZPE&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAHV0sxzli47VIUjRzmT5Di1LJ76Tlgki13JOaMO6XZ0Q&oe=643D279A&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CrgLIsyuyTH' target='_blank'>
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/343031306_902304484174447_1619738304229799835_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=CAGliGfGDTQAX9MkinC&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCTbS56PPGqnb-yoR4yRiy4AOtcSfJFhN3phlmP8Qkgnw&oe=64508E63&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/Cq8LQ-JOxGM' target='_blank'>
-  <img width='20%' src='https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/340840363_1051259015833309_1424480265738970734_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Ly8J6M3RbqAAX8LZ-yE&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCb1YUCD1Yug3LuKl9fPcmsPfAljBDdT6OTYVqg37kGqA&oe=643D918B&_nc_sid=86f79a' alt='Instagram photo' />
+<a href='https://instagram.com/p/CrdnVCztWgK' target='_blank'>
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/342915604_557129186306583_5582104666648151728_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=Zqky3zufn74AX_JWSWF&edm=APU89FABAAAA&ccb=7-5&oh=00_AfALlytbYCWfVnUGBpeX4r7GHR4zwjZQ6Z56FBEvPxy7gA&oe=64508484&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
