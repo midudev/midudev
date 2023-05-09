@@ -21,14 +21,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/12HwPlmpJGI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/12HwPlmpJGI/mqdefault.jpg' alt='De Junior a Senior en Programación' />
+</a>
 <a href='https://youtu.be/qUVZA-auYHA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qUVZA-auYHA/mqdefault.jpg' alt='Aprende Patrones de Diseño en Programación con este recurso.' />
 </a>
 <a href='https://youtu.be/L26GjUDx6tY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/L26GjUDx6tY/mqdefault.jpg' alt='¡Deja de usar la etiqueta DIV para todo en HTML!' />
-</a>
-<a href='https://youtu.be/XuI4Nxp-wlE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XuI4Nxp-wlE/mqdefault.jpg' alt='¡Mis extensiones favoritas de Visual Studio Code!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
@@ -45,17 +45,17 @@
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
+<a href='https://instagram.com/p/CsBtXqAtn0r' target='_blank'>
+  <img width='20%' src='https://scontent-lcy1-2.cdninstagram.com/v/t51.2885-15/345430114_1334575837401703_7546890447357867560_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=scontent-lcy1-2.cdninstagram.com&_nc_cat=1&_nc_ohc=XrNweMU8UtQAX-kog85&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA0RdJxUi_Ng6As9ns0fajRXQclPUkMpjTQR3nyLP9lXw&oe=645EEE5F&_nc_sid=86f79a' alt='Instagram photo' />
+</a>
 <a href='https://instagram.com/p/Cr_NNVROIO9' target='_blank'>
-  <img width='20%' src='https://scontent-lcy1-2.cdninstagram.com/v/t51.2885-15/345221277_235804779045522_4660571998675238512_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lcy1-2.cdninstagram.com&_nc_cat=106&_nc_ohc=Bj6QZM__0HMAX9cYoJK&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBcgQn-AZLo0Z-Hi2A1FBjS1I8h3zgxc0UiTbV1AqNwQQ&oe=645BD078&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lcy1-2.cdninstagram.com/v/t51.2885-15/345221277_235804779045522_4660571998675238512_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lcy1-2.cdninstagram.com&_nc_cat=106&_nc_ohc=Bj6QZM__0HMAX_EYOVa&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDeu6xd8hsgO5OPoTiiPyWoV5ytansCqIeHVNA17YGTKA&oe=645BD078&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cr9HMB6tsZM' target='_blank'>
-  <img width='20%' src='https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/345035959_1432497874249512_1193951541697970825_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=l_3zWaYsji0AX-Y3OGm&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBa6yKqqCdOPWT6nhrDikhIG1XyCTUZXtjA_CGxCaD11A&oe=645E96FF&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/345035959_1432497874249512_1193951541697970825_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=l_3zWaYsji0AX_SNBEg&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBP_-h9ErxLwUWXqoBiuS5QZ-SlXSFBockxdWxb2xMbHQ&oe=645E96FF&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cr6ZXLTtbiJ' target='_blank'>
-  <img width='20%' src='https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/345040176_249242257605152_524977170825213572_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=kVgpxeZ2ArIAX8M5yTN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAV2YnCe8K4lFuHyKYBtfT-RTPwJH10u09b9ODkY7XqMQ&oe=645FB0BF&_nc_sid=86f79a' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/Cr3OFVWrjFF' target='_blank'>
-  <img width='20%' src='https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/344875805_2435540359938143_8367320107225277238_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Wk9ntSt_-CIAX9Y2pi5&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDFB42kb-QSBI0xL4Sec4J-BV8O3H17oJgxtqt-5wmcMQ&oe=645BDA77&_nc_sid=86f79a' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/345040176_249242257605152_524977170825213572_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=kVgpxeZ2ArIAX9rDLHD&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCPZOMcRRf9DsAQnL_N-r72lmuqUMHfHzAT8owdux4oMA&oe=645FB0BF&_nc_sid=86f79a' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
