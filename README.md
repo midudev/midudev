@@ -21,41 +21,41 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/2MX4KKx54Mw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/2MX4KKx54Mw/mqdefault.jpg' alt='Curso + Certificación de Python de IBM sin coste.' />
+</a>
 <a href='https://youtu.be/dCKvfQr1vMk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dCKvfQr1vMk/mqdefault.jpg' alt='Beca InfoJobs para estudiar inglés en Australia y prácticas profesionales aseguradas en programación' />
 </a>
 <a href='https://youtu.be/baHtyG9xRkE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/baHtyG9xRkE/mqdefault.jpg' alt='Certificaciones de Microsoft para Programadores, Gratis por tiempo limitado' />
 </a>
-<a href='https://youtu.be/jgaiVtY5RKY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jgaiVtY5RKY/mqdefault.jpg' alt='El Campus de Programación 100% gratis y con 100% de empleabilidad. Campus 42' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
-<a href='https://youtu.be/K2NcGYajvY4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/K2NcGYajvY4/mqdefault.jpg' alt='¡Aprende a crear React Router desde cero y publica el paquete!' />
+<a href='https://youtu.be/TBxpAhpQqYk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TBxpAhpQqYk/mqdefault.jpg' alt='¿Qué es y cómo funciona useEffect? Hooks de React' />
 </a>
-<a href='https://youtu.be/B9tDYAZZxcE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/B9tDYAZZxcE/mqdefault.jpg' alt='Tienda y Carrito con React + Estado Global con useContext + Manejo de estado con useReducer' />
+<a href='https://youtu.be/oWPFcuH8x6M' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/oWPFcuH8x6M/mqdefault.jpg' alt='¡Desarrolla el juego del 3 en Raya en 1 hora con React!' />
 </a>
-<a href='https://youtu.be/Y5Gdrx91aW4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Y5Gdrx91aW4/mqdefault.jpg' alt='¡El futuro de CSS! Con Carmen Ansio' />
+<a href='https://youtu.be/VgSR-PWrVNY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/VgSR-PWrVNY/mqdefault.jpg' alt='React vs. Angular vs. Vue vs. Svelte - Mesa redonda con expertos de programación' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://instagram.com/p/CsWV61gppSH' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/347077906_797319631530988_6038101350521974008_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=104&_nc_ohc=zBi2J4TFawMAX9smk4m&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCiA8gelpA2i3qMPinw7nQ7yoiXQlYDdqAR_AkOITC--g&oe=646A6C01&_nc_sid=f4eaf9' alt='Instagram photo' />
+<a href='https://instagram.com/p/Cs4OHzKNgwD' target='_blank'>
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/350091429_1402548350587318_324330738087605331_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=Gkr9tBZQTvsAX-5UhP9&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAK97lWXsy9rg8JNqcZIOGhiX5FTUhizIY4TeVYYU0eOQ&oe=647AA193&_nc_sid=f4eaf9' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CsTkwklN00x' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/347225179_600569692034730_5165801869264578234_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=106&_nc_ohc=Q71YVvnu5QsAX-gRtjn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDFFcNfAI3B2S2TGy1lV8lXpjwY62elqF-uzUQXP1FeOQ&oe=646D3980&_nc_sid=f4eaf9' alt='Instagram photo' />
+<a href='https://instagram.com/p/Cs1Ll6ZRw1_' target='_blank'>
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/349443620_1413904856028456_1483416136122257762_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=5PqEqqk7b2cAX9v8uKG&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA2MdvbqQt4bzcGIudBZoKMrJ4efmus7n_J42bGp433KQ&oe=64782D05&_nc_sid=f4eaf9' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CsRH5iZuEEl' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/346929076_963148764840101_7284898537525303915_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=105&_nc_ohc=PWfYcx7KKyUAX9quWIP&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDaLwEgVvXQPs5-Hwy50ufAC8-GBTMoHUU-BTWNTCF_Vg&oe=646A650F&_nc_sid=f4eaf9' alt='Instagram photo' />
+<a href='https://instagram.com/p/Cst05uDrKbh' target='_blank'>
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/349006919_799336851400469_5041294161759129893_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=6Sp4-3powaUAX_n7gZO&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCFP9CoGxdYwwYb40mvbzuX26EzTPQz3m2wdsKGoW9z6g&oe=647843D7&_nc_sid=f4eaf9' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CsJhJQGM1p7' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/345911062_191615256679463_7970233930588966806_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=111&_nc_ohc=3sWlBQtKt6kAX908VI1&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCUEC-VG63VFrst8IBlhMemgLWUT7BhLZ2lH2S2Lu9WZw&oe=646A9E94&_nc_sid=f4eaf9' alt='Instagram photo' />
+<a href='https://instagram.com/p/Csrk6F2L9B_' target='_blank'>
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/349244319_3094091507403080_228237557811351560_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=2PF0uIdWeL0AX_qgki1&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDlKGrBj9M7FPYjC3ww46P5LSf8VlGDQ4CEPU07EltQtw&oe=64788708&_nc_sid=f4eaf9' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
