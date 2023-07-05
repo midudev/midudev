@@ -34,7 +34,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/ODv-VFRFGcY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ODv-VFRFGcY/mqdefault.jpg' alt='View Transitions API: El futuro de la programación web' />
+  <img width='30%' src='https://img.youtube.com/vi/ODv-VFRFGcY/mqdefault.jpg' alt='El FUTURO de la PROGRAMACIÓN WEB: View Transitions API 🤯' />
 </a>
 <a href='https://youtu.be/bFJY2Jymh2k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/bFJY2Jymh2k/mqdefault.jpg' alt='GENERA $62,000/mes con 14k líneas de PHP y GitHub se MIGRA a React' />
@@ -45,17 +45,17 @@
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
+<a href='https://instagram.com/p/CuUe5GDPk-g' target='_blank'>
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/357767699_1337001810234116_14052955471467157_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=rrK59nK3k18AX-qqrj1&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDbW8icoppa45HfnMSLJOWXn-dT8CeplpAlwQYaw1jg_w&oe=64A71A2A&_nc_sid=bc0c2c' alt='Instagram photo' />
+</a>
 <a href='https://instagram.com/p/CuR2_ZGOwCA' target='_blank'>
-  <img width='20%' src='https://scontent-lcy1-2.cdninstagram.com/v/t51.2885-15/357853623_939974810398038_5967155016776123523_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lcy1-2.cdninstagram.com&_nc_cat=106&_nc_ohc=Xhwdy-R001oAX-9qoFO&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD-U5AhL1hO1IDDtKc8XPerIJxTEg9GR_gGORo_Izq4iQ&oe=64A7571B&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/357853623_939974810398038_5967155016776123523_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=Xhwdy-R001oAX8Y-k9N&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD3cyP77MXeW1gV1GsBpGAl9chfHpR-pGvZsMcfxka6vQ&oe=64A7571B&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CuPVHVDPMTl' target='_blank'>
-  <img width='20%' src='https://scontent-lcy1-2.cdninstagram.com/v/t51.2885-15/357663412_222604490183326_2676734986465827994_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lcy1-2.cdninstagram.com&_nc_cat=110&_nc_ohc=PH207Pbbt24AX_htzvS&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC45DT-CXClRsp-4M8HqMvMHkodz9sDyh20TkUwg4vGLA&oe=64A731FC&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/357663412_222604490183326_2676734986465827994_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=5QVS4TWgCd8AX-albtn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCg2J70HoVOJY4Rr-76uyvLmAegM6XSkINibM5DBd3Pkg&oe=64A731FC&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CuNDjOiugoJ' target='_blank'>
-  <img width='20%' src='https://scontent-lcy1-2.cdninstagram.com/v/t51.2885-15/357500052_1395527581013729_5392206207472506187_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lcy1-2.cdninstagram.com&_nc_cat=105&_nc_ohc=kBKR3Cp3rFEAX9nz7oW&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDjmlmZnDUwnMQly1AYyOwniVv3TLkdis7qPXirXEITng&oe=64A6E91E&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/CuKQTDmxCly' target='_blank'>
-  <img width='20%' src='https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/357089180_630024539064159_6547089251775373792_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=94_DgFdUewIAX8pebdY&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA9ZzPgpjalCsrSY0PHi_cQoX7svuV7-DjCOlAcHO5zbg&oe=64A9F260&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/357500052_1395527581013729_5392206207472506187_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=kBKR3Cp3rFEAX9b4y_F&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDAd_kAbY3qU1DVEdelL3-GGmiXr249MErKORPmm357Fw&oe=64A6E91E&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
