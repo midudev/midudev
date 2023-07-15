@@ -34,7 +34,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/tzAdqXcjDFI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tzAdqXcjDFI/mqdefault.jpg' alt='Portfolios Web de la Comunidad: FeedBack y Tips para mejorar 🤓 #2' />
+  <img width='30%' src='https://img.youtube.com/vi/tzAdqXcjDFI/mqdefault.jpg' alt='Portfolios Web de la Comunidad: FeedBack y Tips para mejorar #2 💻' />
 </a>
 <a href='https://youtu.be/dLvY0U72QEo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dLvY0U72QEo/mqdefault.jpg' alt='API DE THREADS CON INGENIERÍA INVERSA | TypeScript, Bun y Hono (educativo)' />
@@ -46,16 +46,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/CurhuKTN84u' target='_blank'>
-  <img width='20%' src='https://instagram.fkiv7-1.fna.fbcdn.net/v/t51.2885-15/361099855_241937341974511_5201064955992655158_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fkiv7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=xzYocYJwYeMAX89H9Pa&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCqN3pXOutERweYNAMjw55uVYw2cr7EYm1s51HXwSEAAA&oe=64B2FB36&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/361099855_241937341974511_5201064955992655158_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=xzYocYJwYeMAX-QWTnW&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDcEhh4ZUu-RyDprE6lZTmVUBpW5deGyXLpdHDn_uGdHA&oe=64B3A3F6&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cuo9JRTtURW' target='_blank'>
-  <img width='20%' src='https://instagram.fkiv7-1.fna.fbcdn.net/v/t51.2885-15/359526490_957274008831268_8458916601477073762_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fkiv7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=9Ly4IzqDc64AX9u3Rcq&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBRLdBLnE_zrIcGdUPUjNoyfpE9g5xzBbYhJuVkxQTl8A&oe=64B329AE&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/359526490_957274008831268_8458916601477073762_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=9Ly4IzqDc64AX-SWAoF&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDGlqzRbrTiXub7zjN0SSLF0NjhGYO6K0yijsG-HZh2-g&oe=64B3D26E&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cum-44NsS0a' target='_blank'>
-  <img width='20%' src='https://instagram.fkiv7-1.fna.fbcdn.net/v/t51.2885-15/359641162_264713742863802_604080948587562068_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv7-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=guXqDl_pn1QAX8ryugm&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAyzO-kRmIbau2jOxwuxBYhNuhD-of7NDztZJpA7jVbfQ&oe=64B2FFB7&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lcy1-2.cdninstagram.com/v/t51.2885-15/359641162_264713742863802_604080948587562068_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lcy1-2.cdninstagram.com&_nc_cat=106&_nc_ohc=guXqDl_pn1QAX9YQo8a&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAf73SrS575PWdRmpB2PnY9mbkTXfS-5ekD2Vrh44uHDA&oe=64B3A877&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cuj619EAHUN' target='_blank'>
-  <img width='20%' src='https://instagram.fkiv7-1.fna.fbcdn.net/v/t51.2885-15/359129563_2179875425547950_8510843495858119507_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv7-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=IeLiFvp9JbYAX-QiaUI&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBL1gYyA2829LIvU-uNFeMe88Yw_ah0EX5uk79ec-BvNQ&oe=64B30CB0&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/359129563_2179875425547950_8510843495858119507_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=102&_nc_ohc=IeLiFvp9JbYAX-jYxaR&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDEg46zhOdiaV0-uEj9uVKIq6_m7v5ISBY4cOMkdZ-i9A&oe=64B3B570&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
