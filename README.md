@@ -37,7 +37,7 @@
   <img width='30%' src='https://img.youtube.com/vi/7EwxNJfUaR8/mqdefault.jpg' alt='El Declive de StackOverflow: ¿Qué le depara el futuro?' />
 </a>
 <a href='https://youtu.be/YmZE1HXjpd4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YmZE1HXjpd4/mqdefault.jpg' alt='CURSO DE NODE.JS: Construye una API con Express | Clase 2 🚀' />
+  <img width='30%' src='https://img.youtube.com/vi/YmZE1HXjpd4/mqdefault.jpg' alt='CURSO DE NODE.JS: Desarrollando una API con Express + Node.js' />
 </a>
 <a href='https://youtu.be/iRQFV2AumA8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iRQFV2AumA8/mqdefault.jpg' alt='¡Reaccionando a PORTFOLIOS WEB de la Comunidad: Tips y FeedBack!' />
@@ -46,16 +46,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/CvP7_x1NUCV' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/363314980_812161473702278_4169303665260198395_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=HuWgcTlh5bwAX8NVTqg&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAbJcDFrGy8FbabZklxkfBESuCIrtR7OAE5VU0XPb7qhg&oe=64CB5EF4&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv3-1.fna.fbcdn.net/v/t51.2885-15/363314980_812161473702278_4169303665260198395_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fkiv3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=HuWgcTlh5bwAX93WE9x&edm=APU89FABAAAA&ccb=7-5&oh=00_AfArLu1X0QzNRjkdwVqBMM-uquJ8D9povha1E0Lp51E0uw&oe=64CD5934&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CvKk8YLNifD' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/363276269_2659659874172515_2789613008531447417_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=RQVR6h6d2pYAX9KKTeH&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDB9govM5YQoAwiIfzW0dzwCMQeGMR1SFjyqoYwiiMZJw&oe=64C927FB&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv3-1.fna.fbcdn.net/v/t51.2885-15/363276269_2659659874172515_2789613008531447417_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=RQVR6h6d2pYAX-ebcrc&edm=APU89FABAAAA&ccb=7-5&oh=00_AfATw_QN5-sB3dX4DJhDaYO6w0JoifMGRQRVVwMR_eGitQ&oe=64C927FB&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CvH5jtRN9v4' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/362921518_1095717821406038_1382395886885431021_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=T90nEeb6yUoAX9itxEC&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCjuIIUiqYXnuH8baNS20sy2IiI3wU5OgvIjZniwb5vDQ&oe=64C9046D&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv3-1.fna.fbcdn.net/v/t51.2885-15/362921518_1095717821406038_1382395886885431021_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=T90nEeb6yUoAX8OFAHI&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCHp6zwWXMrYHmEXZnbiKQevaCN8MNtg_Y7KOuB1jC2IQ&oe=64C9046D&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CvFcTMutQTf' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/362677045_1467871397377344_1897596921829623234_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=F_6UCJ2DPrIAX8J209h&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA8ITUthHi3bC1-RI1mMEfrxmbBH-MXbumKKbL4p1OYTQ&oe=64C8CE01&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv3-1.fna.fbcdn.net/v/t51.2885-15/362677045_1467871397377344_1897596921829623234_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fkiv3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=F_6UCJ2DPrIAX8Hr2iB&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDCFBBshzU4CiVZRllt7zFNRReCJeTkeZp5is5DOwcM6w&oe=64C8CE01&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
