@@ -33,29 +33,29 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/8tUDzNfrpP4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8tUDzNfrpP4/mqdefault.jpg' alt='TODO programador DEBERÍA APRENDER ESTO' />
+</a>
 <a href='https://youtu.be/1Ibr_zStmfU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1Ibr_zStmfU/mqdefault.jpg' alt='SCRUM ES UN C*NCER... 😵' />
 </a>
 <a href='https://youtu.be/YPzl_DZqzFA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YPzl_DZqzFA/mqdefault.jpg' alt='Esta NOVEDAD de CSS ¡SI QUE LO CAMBIA TODO! 🤯' />
 </a>
-<a href='https://youtu.be/UuS3Sknp9JY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UuS3Sknp9JY/mqdefault.jpg' alt='GITHUB COPILOT CHAT: Crea proyectos en segundos 😱' />
-</a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/Cwp7Yrlt3nv' target='_blank'>
-  <img width='20%' src='https://instagram.fkiv3-1.fna.fbcdn.net/v/t51.2885-15/372697891_323675930031713_1478590573330537029_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=6FSlhvbJpxUAX_KjSXS&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCtQcGOn7pOG7TvYLzsNGdOsNWFdCcxkfLrFNk45lPrhQ&oe=64F4F362&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv7-1.fna.fbcdn.net/v/t51.2885-15/372697891_323675930031713_1478590573330537029_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv7-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=6FSlhvbJpxUAX9NViQr&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC85jOrOT7On6p27U38OetCJLFCDp5y7ABeOagZEG21cg&oe=64F4F362&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CwnKeC5Nymj' target='_blank'>
-  <img width='20%' src='https://instagram.fkiv3-1.fna.fbcdn.net/v/t51.2885-15/372238712_1250652212314559_853629528259174099_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=C9pOLN5pzPsAX-mDRFk&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCFwZ_evNomM9y30unfDMQWJU4Vb7Mab6F1eXNpeQg98g&oe=64F51CCF&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv7-1.fna.fbcdn.net/v/t51.2885-15/372238712_1250652212314559_853629528259174099_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv7-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=C9pOLN5pzPsAX9ThTZd&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD4aYZ0MfwBQDqV5BdkgbyFpHnrwR55rI8oyEWPzYA1gg&oe=64F51CCF&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CwkwnuqtObf' target='_blank'>
-  <img width='20%' src='https://instagram.fkiv3-1.fna.fbcdn.net/v/t51.2885-15/371850898_669239511795683_4296620703261373779_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2kanJwHmBPQAX_WkXId&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBSYuPyX_JdaULhbF4ksbv2Xw0WGvbbNYohIrPgPss5Vg&oe=64F4E59F&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv7-1.fna.fbcdn.net/v/t51.2885-15/371850898_669239511795683_4296620703261373779_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv7-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2kanJwHmBPQAX8Fp3yr&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDIIgo7I9Hx395O1bHwnM__nJ6EJ58NgeRBg5hw9PUR4Q&oe=64F4E59F&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cwfs0-SNBd4' target='_blank'>
-  <img width='20%' src='https://instagram.fkiv3-1.fna.fbcdn.net/v/t51.2885-15/371737600_637685211800321_3276796965088870066_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=SLQRN_RaM9oAX9mJoqX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfANjoajtvUpP4xWsrGLPocqgYZtcKzaNR7KEbRV63KoiQ&oe=64F49022&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv7-1.fna.fbcdn.net/v/t51.2885-15/371737600_637685211800321_3276796965088870066_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv7-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=SLQRN_RaM9oAX8bYSAv&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDpexeoeqJr9_k6yKKBM3WcIiytgfvDaJGR9Gke_5NZmA&oe=64F538E2&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
