@@ -34,7 +34,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/ZFGirzer7fQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZFGirzer7fQ/mqdefault.jpg' alt='¡Descubre la pestaña CSS Overview! 😮 #programación #css #html #desarrolloweb' />
+  <img width='30%' src='https://img.youtube.com/vi/ZFGirzer7fQ/mqdefault.jpg' alt='¡Obtén todo el css de un sitio web, fuentes, colores y más!  #programación #css #html #desarrolloweb' />
 </a>
 <a href='https://youtu.be/4cLCnHCLnJ8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4cLCnHCLnJ8/mqdefault.jpg' alt='TRUCO IMPRECINDIBLE PARA PROGRAMADORES #programacion #desarrolloweb #shorts #shorts #2023' />
@@ -46,16 +46,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/Cwp7Yrlt3nv' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/372697891_323675930031713_1478590573330537029_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=6FSlhvbJpxUAX9df2fc&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBixVusnDASGAAY556rr_ZCrmpg99BJXo9A4CLVAvR2IA&oe=64F6EDA2&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv2-1.fna.fbcdn.net/v/t51.2885-15/372697891_323675930031713_1478590573330537029_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=6FSlhvbJpxUAX-lNS4l&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAlF2iAzoVoIszgJLy7qaFVZcxcoWvm9IBwxQzH3YxNrA&oe=64F6EDA2&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CwnKeC5Nymj' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/372238712_1250652212314559_853629528259174099_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2dzWfWdeqFYAX85uD11&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAgo9j6NvEzfCHN_sUjDT71kSlcrWP3hVSMTH3V3_d3FQ&oe=64F7170F&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv2-1.fna.fbcdn.net/v/t51.2885-15/372238712_1250652212314559_853629528259174099_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2dzWfWdeqFYAX8vICTi&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCuCD8lopRhp6RBX5CzSJIkkIBj9VKKOPynkCXy4228Fg&oe=64F7170F&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/CwkwnuqtObf' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/371850898_669239511795683_4296620703261373779_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2kanJwHmBPQAX9U68g7&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD0saWNfHUWB7EEZAluR73YiV0MGMPKyPVt9xnX187M7w&oe=64F6DFDF&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv2-1.fna.fbcdn.net/v/t51.2885-15/371850898_669239511795683_4296620703261373779_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2kanJwHmBPQAX-N8GEK&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB8NqP_mMdJHyJD5-bpZZvKjyEhRUEOfvcz431bitTWHw&oe=64F6DFDF&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/Cwfs0-SNBd4' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/371737600_637685211800321_3276796965088870066_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=FWLTU43Ey9YAX_uJrJK&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC-WUeKZH0iBEKmONTCcIVIrkahWOpcNePE_YwxNljshw&oe=64F68A62&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv2-1.fna.fbcdn.net/v/t51.2885-15/371737600_637685211800321_3276796965088870066_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=FWLTU43Ey9YAX-njj0x&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAkS1FhcSM_Kvxn7xU0HVF9kqGw_bWEzGO9_OAyhqfRdQ&oe=64F73322&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
