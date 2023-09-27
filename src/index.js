@@ -10,13 +10,13 @@ const YOUTUBE_MIDUDEV_CHANNEL_ID = 'UU8LeXCWOalN8SxlrPcG-PaQ'
 const YOUTUBE_MIDULIVE_CHANNEL_ID = 'UU3aj05GEEyzdOqYM5FLSFeg'
 
 const {
-  INSTAGRAM_API_KEY,
+  // INSTAGRAM_API_KEY,
   // TWITCH_API_CLIENT_KEY,
   // TWITCH_API_SECRET_KEY,
   YOUTUBE_API_KEY
 } = process.env
 
-const INSTAGRAM_USER_ID = '8242141302'
+/* const INSTAGRAM_USER_ID = '8242141302' */
 
 // const authProvider = new ClientCredentialsAuthProvider(TWITCH_API_CLIENT_KEY, TWITCH_API_SECRET_KEY)
 // const apiClient = new ApiClient({ authProvider })
@@ -31,7 +31,7 @@ const getLatestArticlesFromBlog = () =>
 //   console.log(response)
 // }
 
-const getPhotosFromInstagram = async () => {
+/* const getPhotosFromInstagram = async () => {
   const response = await fetch(`https://instagram130.p.rapidapi.com/account-medias?userid=${INSTAGRAM_USER_ID}&first=20`, {
     headers: {
       'x-rapidapi-host': 'instagram130.p.rapidapi.com',
@@ -42,7 +42,7 @@ const getPhotosFromInstagram = async () => {
   const json = await response.json()
 
   return json?.edges
-}
+} */
 
 const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_MIDUDEV_CHANNEL_ID }) =>
   fetch(
@@ -51,10 +51,10 @@ const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_MIDUDEV_CHA
     .then((res) => res.json())
     .then((videos) => videos.items)
 
-const generateInstagramHTML = ({ node: { display_url: url, shortcode } }) => `
+/* const generateInstagramHTML = ({ node: { display_url: url, shortcode } }) => `
 <a href='https://instagram.com/p/${shortcode}' target='_blank'>
   <img width='20%' src='${url}' alt='Instagram photo' />
-</a>`
+</a>` */
 
 const generateYoutubeHTML = ({ title, videoId }) => `
 <a href='https://youtu.be/${videoId}' target='_blank'>
@@ -64,12 +64,12 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 (async () => {
   // await getLatestTwitchStream()
 
-  const [template, articles, videos, secondaryChannelVideos, photos] = await Promise.all([
+  const [template, articles, videos, secondaryChannelVideos] = await Promise.all([
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
     getLatestArticlesFromBlog(),
     getLatestYoutubeVideos(),
-    getLatestYoutubeVideos({ channelId: YOUTUBE_MIDULIVE_CHANNEL_ID }),
-    getPhotosFromInstagram()
+    getLatestYoutubeVideos({ channelId: YOUTUBE_MIDULIVE_CHANNEL_ID })
+    /* getPhotosFromInstagram() */
   ])
 
   // create latest articles markdown
@@ -97,17 +97,17 @@ const generateYoutubeHTML = ({ title, videoId }) => `
     .join('')
 
   // create latest photos from instagram
-  const latestInstagramPhotos = photos
+  /* const latestInstagramPhotos = photos
     .slice(0, NUMBER_OF.PHOTOS)
     .map(generateInstagramHTML)
-    .join('')
+    .join('') */
 
   // replace all placeholders with info
   const newMarkdown = template
     .replace(PLACEHOLDERS.LATEST_ARTICLES, latestArticlesMarkdown)
     .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
     .replace(PLACEHOLDERS.LATEST_YOUTUBE_SECONDARY, latestYoutubeSecondaryChannelVideos)
-    .replace(PLACEHOLDERS.LATEST_INSTAGRAM, latestInstagramPhotos)
+    // .replace(PLACEHOLDERS.LATEST_INSTAGRAM, latestInstagramPhotos)
 
   await fs.writeFile('README.md', newMarkdown)
 })()
