@@ -21,41 +21,41 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/CCCbnM478pI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CCCbnM478pI/mqdefault.jpg' alt='¡7 WEBS para encontrar trabajo REMOTO en PROGRAMACIÓN!' />
+</a>
+<a href='https://youtu.be/TJkS49uHWJM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TJkS49uHWJM/mqdefault.jpg' alt='Recurso para programadores: genera JSON con datos inventados con IA en segundos' />
+</a>
 <a href='https://youtu.be/bDAgJjsm8rU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/bDAgJjsm8rU/mqdefault.jpg' alt='12 de septiembre de 2023' />
-</a>
-<a href='https://youtu.be/GoYZ3hh1kqQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GoYZ3hh1kqQ/mqdefault.jpg' alt='Hosting gratuitos para tu frontend y backend. Para desplegar tus proyectos de programación sin pagar' />
-</a>
-<a href='https://youtu.be/TrCCCRFq114' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TrCCCRFq114/mqdefault.jpg' alt='Para mejorar en programación hay que practicar. ¡Con este recurso gratuito practicas!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
-<a href='https://youtu.be/GL1sXT5NM4Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GL1sXT5NM4Y/mqdefault.jpg' alt='Vercel nos SORPRENDE con ¡AI QUE GENERA UI! 🤯' />
+<a href='https://youtu.be/Pj5ETv6aU7A' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Pj5ETv6aU7A/mqdefault.jpg' alt='PROBANDO DULCES ARGENTINOS @goncypozzo' />
 </a>
-<a href='https://youtu.be/1jTgOBQOFm4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/1jTgOBQOFm4/mqdefault.jpg' alt='Esto lo escribió un Back-End 🤣' />
+<a href='https://youtu.be/khlDG3_y4Po' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/khlDG3_y4Po/mqdefault.jpg' alt='¿Por qué nadie puede crear un nuevo Navegador Web?' />
 </a>
-<a href='https://youtu.be/UyPlQOddxQ8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UyPlQOddxQ8/mqdefault.jpg' alt='Han cometido un error monumental en Unity' />
+<a href='https://youtu.be/xCRNBrDXgJA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xCRNBrDXgJA/mqdefault.jpg' alt='JavaScript deja a Switch por esta Novedad...' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
-<a href='https://instagram.com/p/CxLVDGRtxgE' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/377692248_690385319792357_2664739881896270192_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=WT8kb07SdfMAX_li6Z4&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCWBRn1rXR7-qWtGvxJRzGb3cVPXLaJOvhEm3aAfn9Zow&oe=65072F99&_nc_sid=bc0c2c' alt='Instagram photo' />
+<a href='https://instagram.com/p/Cxvy4eTgzwj' target='_blank'>
+  <img width='20%' src='https://instagram.flhr13-1.fna.fbcdn.net/v/t51.2885-15/384286097_1372358333407604_7031846009415491881_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flhr13-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=bODr7GJ5xfoAX8wlyt3&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAIk2Skb6Wtd2fHH0giniHSB5Yu-tr06fMOlLv4TmmUsA&oe=651A4F3B&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CxItK-ptrSY' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/377695240_2671744199630949_2149723007092074606_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=N77zsixSzqsAX8HwBLE&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBjDFXiWoc8eyp-5CSViPstJtSeCUV4bO9ZQrqZzHGGUw&oe=650B23E7&_nc_sid=bc0c2c' alt='Instagram photo' />
+<a href='https://instagram.com/p/CxthTMcAzxq' target='_blank'>
+  <img width='20%' src='https://instagram.flhr13-1.fna.fbcdn.net/v/t39.30808-6/383775762_18200917972277303_8769404825140914617_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08&_nc_ht=instagram.flhr13-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=e1kfXuZvN1AAX8PyBt6&edm=APU89FAAAAAA&ccb=7-5&oh=00_AfAUEZEB7TX_Z5vr2LLwngNsZWkH5lKpEnV4bxwrTkSrSg&oe=651E113D&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CxGKViRt0sx' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/377735003_610158244522800_4629038376321429512_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=NDbzKDXvcJQAX8jjmJY&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA-hfjls_-qch6nOA4jbJJhhqGozOwI2vt_axfN3sKcJw&oe=6506F0FE&_nc_sid=bc0c2c' alt='Instagram photo' />
+<a href='https://instagram.com/p/CxnlD6yAaM2' target='_blank'>
+  <img width='20%' src='https://instagram.flhr13-1.fna.fbcdn.net/v/t51.2885-15/383671795_989346675511478_776420159661214394_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flhr13-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=9_eaTclnsRUAX-1Cnjl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAyWDtvxYcUH_9yq2EBrhC0yvKMWtFlObfAp9BJpWEYjg&oe=651A5F77&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/CxDolHttupQ' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/376857145_685799066932179_4354000066389221791_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fE239Bn9JdcAX_uyxkU&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDXztilCjqdWNpwf890LXC4bUWcWVnvN_yKxmu_sD3CBg&oe=6507580E&_nc_sid=bc0c2c' alt='Instagram photo' />
+<a href='https://instagram.com/p/Cxim9ejNLVb' target='_blank'>
+  <img width='20%' src='https://instagram.flhr13-1.fna.fbcdn.net/v/t51.2885-15/381231786_623109896655864_3039771851212572597_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.flhr13-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=kIn-T8AtU0sAX-eSqs7&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB0TaXhZu3xx1FhM4rGrXk_OGBPUNKR9nw9o95fCfRcQg&oe=651CBE48&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
