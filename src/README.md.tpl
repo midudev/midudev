@@ -25,8 +25,5 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 %{{latest_youtube_secondary}}%
 
-### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
-%{{latest_instagram}}%
-
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
 %{{latest_articles}}%
