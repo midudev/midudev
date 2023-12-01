@@ -34,7 +34,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/f7unUpshmpA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/f7unUpshmpA/mqdefault.jpg' alt='Introducción a ANGULAR 17 DESDE CERO y paso a paso GRATIS' />
+  <img width='30%' src='https://img.youtube.com/vi/f7unUpshmpA/mqdefault.jpg' alt='Aprende ANGULAR 17 desde cero para principiantes GRATIS' />
 </a>
 <a href='https://youtu.be/3FQD5DtUYPY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3FQD5DtUYPY/mqdefault.jpg' alt='¿Cansado de crear webs aburridas? #javascript #tips #desarrolloweb' />
@@ -46,16 +46,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://instagram.fltn4-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fltn4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=AXsrXS9jhjgAX_UvJpj&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBlw-SR2pjiW2sjVAUksZcRFQu0lQmREv1nsehdl6IIxw&oe=656AA3DB&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=AXsrXS9jhjgAX8bbxN_&edm=APU89FABAAAA&ccb=7-5&oh=00_AfACfzttMfImu7mgOuQAArFoY904k37_U9o0BaTnmjBcTw&oe=656AA3DB&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0RlT77NRvw' target='_blank'>
-  <img width='20%' src='https://instagram.fltn4-1.fna.fbcdn.net/v/t51.2885-15/405197916_7164970103525101_9210486984933566386_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fltn4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=q0aytb04TeUAX-v92oY&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAfnTGwCzobZP94iINtNVCv7hyWasD4iZzZrzUs0b-f6g&oe=656AE18D&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/405197916_7164970103525101_9210486984933566386_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=q0aytb04TeUAX-Dy594&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC5drQVodjF30shsXv1OWIma1feIS3pp3X-pYyHdFdJ9A&oe=656AE18D&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0PG0jeoLIT' target='_blank'>
-  <img width='20%' src='https://instagram.fltn4-1.fna.fbcdn.net/v/t51.2885-15/405529716_24575976942016513_4990441556931682558_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fltn4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=QV0LirJyUQUAX-DCjBO&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAKHY0Sf9EoSLH7Qv6WaeQwJifugl3_AhSJZjITHgcWoA&oe=656A5F7E&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/405529716_24575976942016513_4990441556931682558_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=QV0LirJyUQUAX_QxY-1&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDkOVzRm2l8Ad6qQg0USpwTSdalUdj2fC9jDICeeJyEog&oe=656B083E&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0MlNcHNPs6' target='_blank'>
-  <img width='20%' src='https://instagram.fltn4-1.fna.fbcdn.net/v/t51.2885-15/404619237_348527917862725_795027861506304195_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fltn4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3Bh2be5Y2KsAX-JtXXR&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBRjMAHg471i2PY1dXvfh1cQ4gBkIEOuOqsfUTfeIQZMQ&oe=656A9AA5&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/404619237_348527917862725_795027861506304195_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3Bh2be5Y2KsAX8qDkcS&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB9y5vaXFauy4e5_3Eo34-SXcE3pOtTWKTJZqRNq5OTxQ&oe=656A9AA5&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
