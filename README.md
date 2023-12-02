@@ -40,22 +40,22 @@
   <img width='30%' src='https://img.youtube.com/vi/NLPNxmax2A4/mqdefault.jpg' alt='La guerra pasada entre Dot CSV y Héctor de León 🔥' />
 </a>
 <a href='https://youtu.be/Mhk78pRLHeo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Mhk78pRLHeo/mqdefault.jpg' alt='Convertidor de Imágenes a Código con GPT-4 Vision, Next.js, React, TypeScript' />
+  <img width='30%' src='https://img.youtube.com/vi/Mhk78pRLHeo/mqdefault.jpg' alt='Convierte tus Imágenes a Código con GPT-4 Vision, Next.js, React, TypeScript' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=BscJ946XzxwAX8UAm4X&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBteFKgfKg0WAuyDnU0eV56WGYHd696shOkpAO2AWofHA&oe=656D46DB&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=BscJ946XzxwAX_EpO22&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBvckGkdmXa5-M3kwR28e6MfSfOlmtAOMtWA_o-EBVuDw&oe=656D46DB&_nc_sid=bc0c2c' alt='Instagram photo' />
+</a>
+<a href='https://instagram.com/p/C0W6uQNtc1P' target='_blank'>
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/405202928_1318428472185128_1789156614478732361_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=cWg5QHwFhgIAX-bzh1v&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAVvXsUqFLzp-Dssa9ENV4iFfy7EhQvjYKq0cUDGpQnIg&oe=656D3ED6&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0RlT77NRvw' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/405197916_7164970103525101_9210486984933566386_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=H7IND60UO1UAX8p5c-d&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBXBfkjG5COG5tFjipjdqycs3aHIB_BNsV36mbRW2XxWw&oe=656CDBCD&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/405197916_7164970103525101_9210486984933566386_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=H7IND60UO1UAX-S5eKm&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDwwqytlnnsNRFwo9ciA-fB7FK7xXlx6JDSCsRY3jhzuQ&oe=656D848D&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0PG0jeoLIT' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/405529716_24575976942016513_4990441556931682558_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=vzpmwzGf_m4AX-jJqjv&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDHh2ukv6C26Hx8gs5UFcgCvBQTcjOgtwqVGXj-MahoxA&oe=656D027E&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/C0MlNcHNPs6' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/404619237_348527917862725_795027861506304195_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=3Bh2be5Y2KsAX-zC0j2&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDK32Ou4N9-ybj2aI-dgKHTn_oQq61jiFWdu1LsjDUV-g&oe=656D3DA5&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/405529716_24575976942016513_4990441556931682558_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=vzpmwzGf_m4AX8xDcpG&edm=APU89FABAAAA&ccb=7-5&oh=00_AfByJ2CUd7MQNq7sg5YOCvCxoNPDBuogp__qHGWHg9S3Gg&oe=656D027E&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
