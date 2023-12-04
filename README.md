@@ -21,26 +21,26 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/OqClAfOZZBg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OqClAfOZZBg/mqdefault.jpg' alt='Retos de programación para mejorar tu lógica como programador' />
+</a>
 <a href='https://youtu.be/p53yCQoS6qg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p53yCQoS6qg/mqdefault.jpg' alt='Taller de UX con Carmen Ansio: Figma para programadores' />
 </a>
 <a href='https://youtu.be/QTNWBFgLdOc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QTNWBFgLdOc/mqdefault.jpg' alt='Charla con Christian Van Der Henst, cofundador de Platzi' />
 </a>
-<a href='https://youtu.be/wUyGyI7P-yQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wUyGyI7P-yQ/mqdefault.jpg' alt='¡Colección de APIs para programadores!' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/QYC1CTPo8lY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QYC1CTPo8lY/mqdefault.jpg' alt='Muerte por culpa del trabajo, menos horas de trabajo gracias a la IA, nuevas áreas' />
+</a>
 <a href='https://youtu.be/Xlzz1AE8ZK8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Xlzz1AE8ZK8/mqdefault.jpg' alt='¿Por qué estudiar informática YA NO garantiza el ÉXITO?' />
+  <img width='30%' src='https://img.youtube.com/vi/Xlzz1AE8ZK8/mqdefault.jpg' alt='Estudiar informática YA NO te llevará a la luna' />
 </a>
 <a href='https://youtu.be/ClaN-iM1aPs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ClaN-iM1aPs/mqdefault.jpg' alt='Desarrollador pilló a TODOS' />
-</a>
-<a href='https://youtu.be/anOQDwcyca0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/anOQDwcyca0/mqdefault.jpg' alt='¿Cómo mejorar tu lógica de programación? con Ejercicio #adventjs' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
@@ -55,7 +55,7 @@
   <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/405202928_1318428472185128_1789156614478732361_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=cWg5QHwFhgIAX_V9swT&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAJ9JrG58kOgEXhjQ2DZIHHKntajRIUZ14ORh4A_EqiCw&oe=656FE1D6&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0RlT77NRvw' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/405197916_7164970103525101_9210486984933566386_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=H7IND60UO1UAX8xyFUn&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAFe8iV6FZWFATJR3ojvN0gBko11geHVOMxdpKYE2NDZA&oe=656F7ECD&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/405197916_7164970103525101_9210486984933566386_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=BdhIXVJsfQgAX_w8S4X&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDQTzc4EyT3_KBaTLfTlGSUbM1Il3qzx9_55IDkeN_Ipg&oe=6570278D&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
