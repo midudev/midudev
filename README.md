@@ -37,7 +37,7 @@
   <img width='30%' src='https://img.youtube.com/vi/t_zxao1Z8Yo/mqdefault.jpg' alt='Esta NOVEDAD de JavaScript es ¡MUY SALVAJE!' />
 </a>
 <a href='https://youtu.be/6LnCVKPxZOg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6LnCVKPxZOg/mqdefault.jpg' alt='Muchos cursos de Platzi desactualizados, TIKTOK, IA, Covid-19' />
+  <img width='30%' src='https://img.youtube.com/vi/6LnCVKPxZOg/mqdefault.jpg' alt='Cursos de Platzi desactualizados, el mercado tech y la IA. ¡Christian de Platzi responde!' />
 </a>
 <a href='https://youtu.be/yjEG5xC_u7k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yjEG5xC_u7k/mqdefault.jpg' alt='React nos hizo esperar 7 años para añadir esto' />
@@ -46,16 +46,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=etjwSkIiM1wAX_bCn-Y&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBim-aXzlEm8U2PyBG2U5qFeLvak7s77TyHnq5nSR82Mg&oe=6573DE5B&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=etjwSkIiM1wAX_g-6Dq&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCNGbJnZFj2Z1g48hG1CJakrGA33qGss5dLu_B5y6PVCw&oe=6573DE5B&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0hK0TmN7Dq' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/408038466_298069535910904_5512504876496142199_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=F79a8IuVffUAX_7Jemz&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCtb64SzarWakm629szUuouY_D94ZheEKkJXfEI-9lVbA&oe=65739B29&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/408038466_298069535910904_5512504876496142199_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=Q8fmcU11oaIAX_v0-oI&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBmJKgpxvCdLNE5cLbzmFdcatq8nQqrJE_TigYn0ya1dA&oe=657443E9&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0b7EemNQ51' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/407564700_265818993153597_1098754667046645473_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=wRyOmSU7Zr8AX_Zz067&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBT_I-wxGr919uGRX577ceImGTgJQ15vIHW_4Ex800ZqQ&oe=6573C08C&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/407564700_265818993153597_1098754667046645473_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=wRyOmSU7Zr8AX-os2wH&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDZQUo8Z_fYXvR-20MrQf2elXeJ6DX_RACh8ydZtPFaGg&oe=6573C08C&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0W6uQNtc1P' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/405202928_1318428472185128_1789156614478732361_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=KQQCyflspiIAX_MD1e5&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCVjEldBec7HUkbXaUkTL69SFkUhcWEQLJZp-fPpGexdQ&oe=6573D656&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/405202928_1318428472185128_1789156614478732361_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=KQQCyflspiIAX-uipK7&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA-G-Dq7AojHL4l5qi22KHvt5DIgZ7Sw6rdJG8xGcBKFQ&oe=6573D656&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
