@@ -34,7 +34,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/sGG1xm5vZzY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/sGG1xm5vZzY/mqdefault.jpg' alt='Aplicación en TIEMPO REAL para saber la ÚLTIMA Visita con TypeScript, Deno, Hono, Node.js' />
+  <img width='30%' src='https://img.youtube.com/vi/sGG1xm5vZzY/mqdefault.jpg' alt='Cómo Rastrear las últimas visitas en un sitio web en Tiempo Real 🚀' />
 </a>
 <a href='https://youtu.be/Haoa2gaF1A0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Haoa2gaF1A0/mqdefault.jpg' alt='Los Bootcamps de programación están muriendo…' />
@@ -46,16 +46,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=vJTp7ZuJ3YYAX9xXuDv&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDJirEvxt2y__kNTJ1yh3CnhSBe-a_kAQA8i3UImRm8lg&oe=657D18DB&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=vJTp7ZuJ3YYAX8it5Hm&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDEMjgMzN-wCTiBOtLZ_HcgeP-yOdO6gQF6iaCcAD2nrA&oe=657D18DB&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C01y-NSIMsB' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/410288385_250009924576772_1279956031909000533_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=hqKMRdv2rTQAX-bHG2e&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCJu4gQ8BTQ-2PAeNVZC5iJz0u_HuQtN4Y6zKcuxRj7KQ&oe=657CE943&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/410288385_250009924576772_1279956031909000533_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=hqKMRdv2rTQAX8hRch9&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBdPr_uJ56fFSIZMHRDY6nUZsw_RfuDfO-neli7lbZ1mw&oe=657D9203&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0wemrcIJJb' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/410193550_3513569752289864_8218625356990337035_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=nUSYbT4-HNUAX_iXQQR&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD01doisOwSETU5LhufdtDr3si77ZpJcT5XdtF0hjbCUg&oe=657CC7B9&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/410193550_3513569752289864_8218625356990337035_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=nUSYbT4-HNUAX8Oequk&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDuLvdex1G4vpvFw3mJEIUp4FEXGbebDm4bjLyMlKxuWQ&oe=657D7079&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0t9WfaoWsb' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/409875417_702273361854392_8576082672010844338_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=jKM1Y7BFQtUAX8ObG1X&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA6IpDP9l1QoYL7FJSAS3_5Fbn8g-Oc3KwDRlor5yWGBw&oe=657D2A57&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/409875417_702273361854392_8576082672010844338_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=jKM1Y7BFQtUAX9VAXrz&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB6BB5dFstqNRUMG-laFDB2ePFmfwcC2E1Xt79Nrmrg2Q&oe=657D2A57&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
