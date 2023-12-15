@@ -21,41 +21,41 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/NyWAezlb0ko' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/NyWAezlb0ko/mqdefault.jpg' alt='¡Novedad importante en HTML que debes conocer!' />
+</a>
 <a href='https://youtu.be/LqjcOXaI2Yk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LqjcOXaI2Yk/mqdefault.jpg' alt='API para enviar emails desde tu web o app, sin pagar nada' />
 </a>
 <a href='https://youtu.be/BnP5fgnuo4o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/BnP5fgnuo4o/mqdefault.jpg' alt='¡Resolvemos RETO TÉCNICO de JAVASCRIPT! Ejercicio de lógica de programación' />
 </a>
-<a href='https://youtu.be/mpOp1VGTUA0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mpOp1VGTUA0/mqdefault.jpg' alt='Trucazo Visual Studio Code para el explorador de archivos' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/V6v1pu9ypLQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/V6v1pu9ypLQ/mqdefault.jpg' alt='¡Impactante Primera Ley de la IA en la Unión Europea!' />
+</a>
+<a href='https://youtu.be/GcYv8KIf1Fs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GcYv8KIf1Fs/mqdefault.jpg' alt='Conocías el Tipo de Dato primitivo BigInt de JavaScript #javascript #hacks #desarrolloweb' />
+</a>
 <a href='https://youtu.be/Q2BsFPdKnlk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Q2BsFPdKnlk/mqdefault.jpg' alt='¿Por qué React no debería mejorar?' />
-</a>
-<a href='https://youtu.be/sGG1xm5vZzY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/sGG1xm5vZzY/mqdefault.jpg' alt='Cómo Rastrear las últimas visitas en un sitio web en Tiempo Real 🚀' />
-</a>
-<a href='https://youtu.be/Haoa2gaF1A0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Haoa2gaF1A0/mqdefault.jpg' alt='Los Bootcamps de programación están muriendo…' />
+  <img width='30%' src='https://img.youtube.com/vi/Q2BsFPdKnlk/mqdefault.jpg' alt='¿Por qué React no necesita innovar más?' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=vJTp7ZuJ3YYAX-dp958&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBBp4mB9CmFgffLJsqYTwa5JNdPjr3hCsSMriGSqW_CBw&oe=657E6A5B&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=vJTp7ZuJ3YYAX8belo2&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDg7ox52kCb3KtTVTKtsl9Lx-F7leW8GPkEVysaIMbJww&oe=657E6A5B&_nc_sid=bc0c2c' alt='Instagram photo' />
+</a>
+<a href='https://instagram.com/p/C04U1ZGIrud' target='_blank'>
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/410242958_1564462464096478_233779883402712401_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=WHu1wtwdVCsAX8I_3_a&edm=APU89FABAAAA&ccb=7-5&oh=00_AfClfSmEamTDlmztyYyb7IqYXnTjCj1_MEV37-dMvS-itQ&oe=657E3BC3&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C01y-NSIMsB' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/410288385_250009924576772_1279956031909000533_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=hqKMRdv2rTQAX_nPthl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDFfgirqkQEE2A32dj-67ocFqw49gPUDffxQc7x8uFhmQ&oe=657E3AC3&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/410288385_250009924576772_1279956031909000533_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=hqKMRdv2rTQAX9l3MTx&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBkaFeWEVi2PZNNdl1hxZAQmugHx_Kf26InRrmuWiTpCA&oe=657E3AC3&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C0wemrcIJJb' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/410193550_3513569752289864_8218625356990337035_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=nUSYbT4-HNUAX8YdnDa&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDTFd4Dj4MSRwQ6i_eZOaUwemtxjFjduYXnKCsvoLYdgg&oe=657E1939&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/C0t9WfaoWsb' target='_blank'>
-  <img width='20%' src='https://instagram.fman7-1.fna.fbcdn.net/v/t51.2885-15/409875417_702273361854392_8576082672010844338_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fman7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=jKM1Y7BFQtUAX_-Ikl4&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDmbk0oEgId7xf_WeaBtsvEYN-Xe6X95nRxY_eWtkZEuQ&oe=657DD317&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/410193550_3513569752289864_8218625356990337035_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=nUSYbT4-HNUAX8g4QSL&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCwspbqqbySSHuVdZuSA7YO9AQsPwKzVV_3dcf5b2RIJg&oe=657E1939&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
