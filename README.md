@@ -33,29 +33,29 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/P8fVvkBngyg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/P8fVvkBngyg/mqdefault.jpg' alt='jQuery 4.0 Esta de Regreso!!!' />
+</a>
+<a href='https://youtu.be/XU20aalTiww' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/XU20aalTiww/mqdefault.jpg' alt='Cuánto Gana un Programador en OpenAI??' />
+</a>
 <a href='https://youtu.be/NJR9IadjaW8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NJR9IadjaW8/mqdefault.jpg' alt='Google Demandado por RASTREARTE INCLUSO en Modo Incógnito' />
-</a>
-<a href='https://youtu.be/iITfPufGfYc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/iITfPufGfYc/mqdefault.jpg' alt='¡Python NO ES el Futuro de la IA Generativa! Según Elon Musk y el creador de Swift' />
-</a>
-<a href='https://youtu.be/6j2cJx7NeqA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6j2cJx7NeqA/mqdefault.jpg' alt='El Stack-Tech de un Programador de OpenIA' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Y2_GipHQH78AX95rqpl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCvWe11aAnow_uE8vjfTzwuD3BfPoo2WVtYdnxajWbExw&oe=659A19DB&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=Y2_GipHQH78AX_PVMM0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAsfKFMTDVYszaEWompIIqtrrxVzLfgtWZ3Y24-kG9s6w&oe=659A19DB&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C1ryWZLNYIc' target='_blank'>
-  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/416022570_333809999576940_5888815264032724032_n.jpg?stp=dst-jpg_e15&efg=e30&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=4BFI5gr_-dQAX9uFyuz&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCKqO85DBaL13MjwFYxu1SAX0o4-bCOyr7khR3GJS0sZg&oe=659DE670&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/416022570_333809999576940_5888815264032724032_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=4BFI5gr_-dQAX9o7kYx&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD3epSkGJivsYqVBn2T12t_IyQCm5PLfhVCCwaZhlpHZA&oe=6599F1F0&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C1pktczNXV-' target='_blank'>
-  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/416093471_914557163051024_652052825497270801_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GHiw5zwLy-YAX9PeDdV&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDA6P5FhNMqKPMRrevWnoXKVz1Q6Gh5JRhEId2UiFj7Aw&oe=6599986B&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.2885-15/416093471_914557163051024_652052825497270801_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GHiw5zwLy-YAX9uxWAA&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDSxDusjqmtWD48VN5JvTQ09qXnAPmG2lVpVXGPm6IMPw&oe=659A412B&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C1miS6SNbYp' target='_blank'>
-  <img width='20%' src='https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/416434074_1561276764640241_9078562435312909287_n.jpg?stp=dst-jpg_e15&efg=e30&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_ohc=iT54ufZqF9UAX-3ca_y&edm=APU89FABAAAA&ccb=7-5&oh=00_AfASflNrquTFNASWB4upJRUPneMfIDXMtdnhMZxLMp0-nw&oe=659CB31F&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/416434074_1561276764640241_9078562435312909287_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_ohc=iT54ufZqF9UAX_8rY0P&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAP3N9r6ucEzuXpRU0PVTV2hzlOSjD1Wz2TbvZSXWQaiA&oe=659A101F&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
