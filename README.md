@@ -34,7 +34,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/B0YKXjVR9_U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/B0YKXjVR9_U/mqdefault.jpg' alt='TheGrefg Reacciona a la Página web de los Esland 💻😂' />
+  <img width='30%' src='https://img.youtube.com/vi/B0YKXjVR9_U/mqdefault.jpg' alt='TheGrefg Reacciona a la Página web de los ESLAND  💻😂' />
 </a>
 <a href='https://youtu.be/qQThXUmtp5w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qQThXUmtp5w/mqdefault.jpg' alt='QUÉ ESTUDIAR como PROGRAMADOR WEB en 2024?? | Tier List' />
@@ -46,16 +46,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=HSFKp6YKtcQAX8X689k&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDPAoBKRJgvZqvYB9mYFKDjfC0YEc7iG2kVHbqPfezZ_g&oe=65A3FD1B&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fltn4-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fltn4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=HSFKp6YKtcQAX_FiCuG&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAq7WcoQPgAxclytl3JuKMdE6N1LsDFFtskj39o-M5esQ&oe=65A4A5DB&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C2ANPnlIiGK' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/418397964_380710151216350_1993015895121228378_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=glX74Vy8Ph0AX-9hUeH&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAYO5YtLiJw9ip4vZ4UK7Z1p08s4k6PImwvCTuAp_CPhg&oe=65A3E655&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fltn4-1.fna.fbcdn.net/v/t51.2885-15/418397964_380710151216350_1993015895121228378_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fltn4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=glX74Vy8Ph0AX_Rpd7-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBVzR-OQ9uUg0vErxOLOwRboMTDHGyj08UqH2vnjj8Y8g&oe=65A48F15&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C19vQqlNFer' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/418667354_1372736923345018_1781558012060599046_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=yRsAJ4oMX54AX-Pc6w5&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDvt6oxzII5PW8AUV-Itw0JOlTRyQeR5CVD6PcrKTI3hA&oe=65A41270&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fltn4-1.fna.fbcdn.net/v/t51.2885-15/418667354_1372736923345018_1781558012060599046_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fltn4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=yRsAJ4oMX54AX__V4XD&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDAMyDx9Z0x2LM5DKqDclNe46ohA_g42pDy46RJzyEiAw&oe=65A41270&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C17OIwCoIhr' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/418019593_665249325686389_4961894311275337447_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=TefBM5zqtmQAX9tkMh9&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBJMxGvZ5589ojgKr8OJPKWuKMPJJgpzmqD83DGyVgflw&oe=65A41006&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.fltn4-1.fna.fbcdn.net/v/t51.2885-15/418019593_665249325686389_4961894311275337447_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fltn4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=TefBM5zqtmQAX9h66oa&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBm3vLMCnvA6rwzxXh7mbrHIQacoviOqn_XxckFi72mjA&oe=65A41006&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
