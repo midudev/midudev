@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 10 años experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con +15 años experiencia.<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
    <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg" alt="Canal de Twitch de midudev" height="28px" width="56px" />
