@@ -34,7 +34,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/ZkkBbu6LnM8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZkkBbu6LnM8/mqdefault.jpg' alt='Creando Galería y View Transitions Para la Página web de los Esland | HTML, CSS, Astro y TailwindCSS' />
+  <img width='30%' src='https://img.youtube.com/vi/ZkkBbu6LnM8/mqdefault.jpg' alt='Increíble Galería y View Transitions con HTML, CSS, Astro y TailwindCSS' />
 </a>
 <a href='https://youtu.be/B0YKXjVR9_U' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/B0YKXjVR9_U/mqdefault.jpg' alt='TheGrefg Reacciona a la Página web de los ESLAND  💻😂' />
@@ -46,16 +46,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=111&_nc_ohc=HSFKp6YKtcQAX9k6X1E&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBk2gcuJak3Rnapyr0_W2S_Hh9VaPvlCkBGsQ8jt7HOEA&oe=65A5F75B&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=HSFKp6YKtcQAX-gWTNX&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBCAITapPglSFfZuZuE8KH9S2frMTbbp9Bu392TZ_-McQ&oe=65A6A01B&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C2F7rUxI897' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/419257041_913765963425389_2356355352589208299_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=1&_nc_ohc=MXaw_X73fEsAX_XaI2o&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCFxPMeNRzeqrZ55N44PURSAQrUsG5p9SFaU8g24jv6mg&oe=65A5FBDE&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/419257041_913765963425389_2356355352589208299_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=FiVLl2WllHgAX81GYow&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD_Mc4w88Qe-w1gXrpJ4xTbrBHaxG_9mSwrNfPY8V9guQ&oe=65A6A49E&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C2C_LGJICwr' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/418985626_1527015841472000_1139395558972982775_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=108&_nc_ohc=hWrAVHRZeqMAX-Vsgxd&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAIlg2kA_75IfAGadPhpX7xFFr9jwpF4rzCE5JEP2K31Q&oe=65A602F5&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/418985626_1527015841472000_1139395558972982775_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=hWrAVHRZeqMAX-lXHo1&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBiuBB-iCp2ekSMtSNBNgoLRZH4hmykB8HMthtUSck_4Q&oe=65A602F5&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C2ANPnlIiGK' target='_blank'>
-  <img width='20%' src='https://scontent-lhr6-1.cdninstagram.com/v/t51.2885-15/418397964_380710151216350_1993015895121228378_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_cat=110&_nc_ohc=cV0VyK_Wzf4AX-WNMTN&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBu39XBZSEXJf9Xoiltx1s0eUi80gsV_dlpuAooPQhpHg&oe=65A5E095&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/418397964_380710151216350_1993015895121228378_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=cV0VyK_Wzf4AX8kSCv-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDT1GY45Lsw_p1tWyaV7T9PR9K7q4XnGVKHtyUMcPuagQ&oe=65A68955&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
