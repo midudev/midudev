@@ -23,41 +23,41 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/MY6A_w_FECw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MY6A_w_FECw/mqdefault.jpg' alt='Desarrollo la WEB oficial de LA VELADA IV' />
+</a>
+<a href='https://youtu.be/Ocz-_cvKijk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Ocz-_cvKijk/mqdefault.jpg' alt='Guía de cómo deshacer un commit en Git' />
+</a>
 <a href='https://youtu.be/tmRJ9GZhxqM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tmRJ9GZhxqM/mqdefault.jpg' alt='¡Curso de Google para Aprender Testing desde cero!' />
-</a>
-<a href='https://youtu.be/e6bDFrxKYUE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/e6bDFrxKYUE/mqdefault.jpg' alt='¡Mejora el diseño y los colores de tu diseño web o app con esta herramienta!' />
-</a>
-<a href='https://youtu.be/_vwLo7ykQ2c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_vwLo7ykQ2c/mqdefault.jpg' alt='¡Novedad en HTML! Ahora puedes usar separados en tus select' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
-<a href='https://youtu.be/zglEE3COF90' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zglEE3COF90/mqdefault.jpg' alt='Crearon Mario Kart con JavaScript y es Hermoso (por cierto, es de código abierto)' />
+<a href='https://youtu.be/Tupb-v9F5ZA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Tupb-v9F5ZA/mqdefault.jpg' alt='¡EL FIN DE LOS PROGRAMADORES! Según Nvidia' />
 </a>
-<a href='https://youtu.be/DEoSMyqSHeA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DEoSMyqSHeA/mqdefault.jpg' alt='De Bootcamp a Programador Impostor ¿Se puede ser Ingeniero igual?' />
+<a href='https://youtu.be/bvbZJUIo6MU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/bvbZJUIo6MU/mqdefault.jpg' alt='Facebook hizo lo imposible en React 🤯' />
 </a>
-<a href='https://youtu.be/r4nQJP9G6Os' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/r4nQJP9G6Os/mqdefault.jpg' alt='MARK ZUCKERBERG se C*GA en las APPLE VISION PRO' />
+<a href='https://youtu.be/n0C-9jMnuwA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/n0C-9jMnuwA/mqdefault.jpg' alt='Efecto Smoke 3D con Three.js Desde Cero | Pre-landing de la Velada del Año IV' />
 </a>
 
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=6RjLF-BcrfIAX-ByGiy&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC0pgMPE8Q9KxXkkH1fKm5Jl7EqfkVW4OAaITzvTxwgkQ&oe=65D0D01B&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=aRN4bGi1hoIAX8B3tG7&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB2zaPk4-LXdx47-xFonSxaQrckyVre_-G_E5LE0D5EYA&oe=65E29C5B&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/C3X8knbNTHk' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/427795777_1569211090578595_6959771584033905348_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=7JANyptU5fQAX9sDruB&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAVp99xch45S0YR3bJDUmAyeZAVChzrnW90j-IfupqSXg&oe=65D0F1F3&_nc_sid=bc0c2c' alt='Instagram photo' />
+<a href='https://instagram.com/p/C377QDatib-' target='_blank'>
+  <img width='20%' src='https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/430177803_2230934520592235_3594328857586472792_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=yGc-x33YQc0AX-FERF8&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDDuA2N9-2k9_g2KJ6-iVDsKBk-7gbDWmbQEIzaii0fzQ&oe=65E25B23&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/C3VSEZvNqlC' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/427338203_2033605887021145_1626697539534642786_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=spNKPVx4yu0AX8xUAz8&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA-hgVl2Kz5VAxFvTkeM0YZSlZmCzZv2K-vSdlqut_a8A&oe=65D10E20&_nc_sid=bc0c2c' alt='Instagram photo' />
+<a href='https://instagram.com/p/C35wdeZNk50' target='_blank'>
+  <img width='20%' src='https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/430393407_259966983820208_2468999681266387943_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=llBZexQMYMMAX_4dkvj&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAmes570Nq2pPJo-DRFvcd1LQ-UBLr3Vodzr8JG3ZWtgg&oe=65E2CA2E&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
-<a href='https://instagram.com/p/C3TLiTDNmHW' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/426720721_760633458949928_956968583434505166_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=EPpgLmOwxRoAX9zu7Md&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBxU3KC76eGnnQZziTIgVotCPCCs53TIeukuFNLg4QP8w&oe=65D0ED59&_nc_sid=bc0c2c' alt='Instagram photo' />
+<a href='https://instagram.com/p/C32uErpNt8-' target='_blank'>
+  <img width='20%' src='https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/429582352_322383363639938_8110356178890047983_n.jpg?stp=dst-jpg_e15&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=4HO4JGFzbDEAX_hWeUY&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAaZxKRhFJMKmEzGMqKdkPynBeb4rB3_sMEgYXPpqzWJA&oe=65E2C530&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
