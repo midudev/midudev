@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/Y0HdDZRO6Fc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Y0HdDZRO6Fc/mqdefault.jpg' alt='REACCIONANDO a tu Código de la Velada del Año 4 - TIPS y HACKS 💻' />
+  <img width='30%' src='https://img.youtube.com/vi/Y0HdDZRO6Fc/mqdefault.jpg' alt='REACCIONANDO a tu Código de la Velada del Año 4 - TIPS y FEEDBACK 💻' />
 </a>
 <a href='https://youtu.be/8laMnB4ulDg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8laMnB4ulDg/mqdefault.jpg' alt='OpenAI vs Elon Musk: Se Filtran Correos Confidenciales' />
@@ -48,16 +48,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://instagram.fdac22-1.fna.fbcdn.net/v/t51.29350-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fdac22-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=s6NMWqn0eYsAX_vd65g&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBoyFGqwSZCxvdg5WD9QpzgOo9897nVDaci661ucuOlmw&oe=65EBD95D&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flhr13-1.fna.fbcdn.net/v/t51.29350-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flhr13-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=s6NMWqn0eYsAX_RcTio&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCWiW8NNmfJz1VlH9qeablRMKKOxxBd_2EHI1mrAZlV3A&oe=65EBD95D&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C4N-fKZp8tj' target='_blank'>
-  <img width='20%' src='https://instagram.fdac22-1.fna.fbcdn.net/v/t51.29350-15/431274002_3704795266513385_4025328631507335648_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fdac22-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=D_4LygQWnPMAX-ESWua&edm=APU89FABAAAA&ccb=7-5&oh=00_AfChSYB6UzqwFlycQ1NqdfsRqYQLuqhpHlAZVFUw8hgJMA&oe=65EBC3AD&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flhr13-1.fna.fbcdn.net/v/t51.29350-15/431274002_3704795266513385_4025328631507335648_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flhr13-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=wwCVssKEkp4AX--7tTq&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB6p-g-Lp-ooXKqW4eLBSdl34SJEpBRnrZkf7b2Ex0IZQ&oe=65EBC3AD&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C4LX8-qNP-_' target='_blank'>
-  <img width='20%' src='https://instagram.fdac22-1.fna.fbcdn.net/v/t51.29350-15/431721618_1394584368087592_4186420367039399118_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fdac22-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ATXvAKF9vlwAX_eWMBR&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDJKdZ-pYEqFz-ezR0mkous-U_SoJVlkOtRmTHZgHlBwA&oe=65EBEE50&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flhr13-1.fna.fbcdn.net/v/t51.29350-15/431721618_1394584368087592_4186420367039399118_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flhr13-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ATXvAKF9vlwAX-qzld1&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAk5DUNyzuBnsgoa7tJFyCUr81UVK3CAyFAHC9nbvuq-Q&oe=65EBEE50&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C4Jj3dot5lq' target='_blank'>
-  <img width='20%' src='https://instagram.fdac22-1.fna.fbcdn.net/v/t51.29350-15/431374805_7916239138404149_3989078264272978514_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fdac22-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=NYkYPd5CXwgAX_oLaT9&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB-lqbo1ugSqoc0Z6l-HcSXNlCo5LrbYfQPa7jNFk19dg&oe=65EBF9F1&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flhr13-1.fna.fbcdn.net/v/t51.29350-15/431374805_7916239138404149_3989078264272978514_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flhr13-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=ToL82Cr_j5AAX9uk_dl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAsFWA2a925EfSS1sg1MaU2t1Ry2Z3-aawBNtMkUxwwnQ&oe=65EBF9F1&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
