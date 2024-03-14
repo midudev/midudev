@@ -39,7 +39,7 @@
   <img width='30%' src='https://img.youtube.com/vi/alfIxtD9CKM/mqdefault.jpg' alt='Por qué no hago proyectos de código abierto (open source)' />
 </a>
 <a href='https://youtu.be/KqzLGrDpMk4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/KqzLGrDpMk4/mqdefault.jpg' alt='Devin: La primera AI Software Engineer (por cierto, completo trabajos reales)' />
+  <img width='30%' src='https://img.youtube.com/vi/KqzLGrDpMk4/mqdefault.jpg' alt='Devin AI llegó para ponerle fin a los programadores' />
 </a>
 <a href='https://youtu.be/Ees5SuBrny0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ees5SuBrny0/mqdefault.jpg' alt='Nueva forma Correcta de CENTRAR elementos con CSS' />
@@ -48,16 +48,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.29350-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=9ZyU_lo1mlsAX_0iZts&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBtnxSoC2-nHmx_OgdJgcLj7qAF7VJD4SzWuxXfG45Hvg&oe=65F3C25D&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.29350-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=9ZyU_lo1mlsAX8RBPiW&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAiXrCzo7BMdOlqKirF1m7JqupFk4_E671VISfqDwofrA&oe=65F46B1D&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C4dYDQNPvdd' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.29350-15/432671671_923306773129645_1582619415653361997_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yTsightnJCkAX9nOKzx&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC_Iza-KOFyCaRSYG23J-JC8xW58teXyxHw8TUT0hVURQ&oe=65F3BB71&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.29350-15/432671671_923306773129645_1582619415653361997_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=yTsightnJCkAX870LNr&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAljaYGs38GpvyWTNatzWkZkVxoeQUgeefFZ1kjxLBBMA&oe=65F46431&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C4a2E4HtEqd' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.29350-15/432388235_7094300383999507_2344959333521855205_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=xtz1tWPmYlcAX_szkGJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAxr29Q27-BUGZTx2irtt2QqY3HBShXGUXIhBbFGvwi0w&oe=65F3FF69&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.29350-15/432388235_7094300383999507_2344959333521855205_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=xtz1tWPmYlcAX9_dJzY&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA7WnDVlJrnVdkdeSy9thbneAsKeSMGBTqb13szbmsNzw&oe=65F3FF69&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C4YXzgwAPMr' target='_blank'>
-  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.29350-15/432724737_713499707638827_1133247708923310004_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=IYtkEX1jxfoAX_mxcFf&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDq4ihYCJW-DjgSbBN4MgZa84bOnPF7ni6SLwtqVVc2tQ&oe=65F3FF21&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flba2-1.fna.fbcdn.net/v/t51.29350-15/432724737_713499707638827_1133247708923310004_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=IYtkEX1jxfoAX8tLbKE&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDZfXrro_2-n-tpe_hLF8VY0YTjEax91IYwEm4EhR_LAw&oe=65F3FF21&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
