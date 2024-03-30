@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/81VnO4puNkg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/81VnO4puNkg/mqdefault.jpg' alt='Freelance vs Empleo de Tiempo Completo como Programador' />
+  <img width='30%' src='https://img.youtube.com/vi/81VnO4puNkg/mqdefault.jpg' alt='Freelance vs Empleo como Programador' />
 </a>
 <a href='https://youtu.be/SWlMRzh3HGs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SWlMRzh3HGs/mqdefault.jpg' alt='Esta Empresa Despidió a 400 Empleados de la forma Más Cruel' />
@@ -48,16 +48,16 @@
 ### 📸 Mis últimas fotos en [mi Instagram](https://instagram.com/midu.dev)
 
 <a href='https://instagram.com/p/C0CN7G_tqtL' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.29350-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=111&_nc_ohc=2Ejo2t13cSgAX9rHqXq&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBWkmYVA6sctHd42AFEKOCW77wBxehX25drfrZ2mVgz6g&oe=6609831D&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.29350-15/404570989_310584011839619_4181433579164759611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_ohc=2Ejo2t13cSgAX9_Q_F0&edm=APU89FABAAAA&ccb=7-5&oh=00_AfADpd_3AcAlnC1yWfSnAPndkPXAHSnn2F1wK-ykOYthhg&oe=6609BB5D&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C5ElSPeNfIy' target='_blank'>
-  <img width='20%' src='https://scontent-lhr6-1.cdninstagram.com/v/t51.29350-15/434475132_1978588832559686_2577979238373345611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_cat=102&_nc_ohc=VQ46ryuaA9cAX_LMiLa&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCYgXSYwKQhut3KQg6x1drRmqt4pcKD6TgTQRjgzNk9Nw&oe=660D4E03&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-2.cdninstagram.com/v/t51.29350-15/434475132_1978588832559686_2577979238373345611_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=102&_nc_ohc=COt2hnvGMSQAX8cMvw2&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAVXvNp2saH7nWmTAe1NKLo5R_y4B0J7Q7KN7zXE3OyMA&oe=660D8643&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C5BeKrBCzMJ' target='_blank'>
-  <img width='20%' src='https://scontent-lhr8-1.cdninstagram.com/v/t51.29350-15/433672330_1461925651389279_1757949313667457485_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ZnCvhfAti-AAX-M7-BK&edm=APU89FABAAAA&ccb=7-5&oh=00_AfABZBWH2RsD-OSRimQx88KZRrs43hR8MGHizZ07E2f4eQ&oe=66096F07&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-2.cdninstagram.com/v/t51.29350-15/433672330_1461925651389279_1757949313667457485_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_ohc=ZnCvhfAti-AAX8eIzQB&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCI5db2_SHjnvAv9XAIzs1JNoMLxy-jCJvvoTiR_qB9zw&oe=6609A747&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/C4-zZ53RZER' target='_blank'>
-  <img width='20%' src='https://scontent-lhr6-2.cdninstagram.com/v/t51.29350-15/434399507_944521700448556_4641414760113362165_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_cat=104&_nc_ohc=PPNWY9zWnFIAX-qB85z&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDWbSe26RjeMJy9GcRJs4PC9Flht-h3-Jp4J9jSN5kZsQ&oe=66095A2D&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://scontent-mia3-1.cdninstagram.com/v/t51.29350-15/434399507_944521700448556_4641414760113362165_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=PPNWY9zWnFIAX_fqd9X&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDwOxVO0W5n76iyu5_TdVu9wNzB3NbAs6XGRIuE8Emj4Q&oe=6609926D&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
