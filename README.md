@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
 </p>
 
-![midudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=midudev&show_icons=true)
+![midudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=midudev&show_icons=true&locale=es)
 
 <p align="center">
    <a href="https://twitch.tv/midudev" target="blank">
