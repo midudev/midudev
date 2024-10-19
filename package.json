@@ -8,31 +8,5 @@
     "update-readme": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/midudev/midudev.git"
-  },
-  "keywords": [
-    "readme",
-    "github profile",
-    "github readme"
-  ],
-  "author": "Miguel Ángel Durán <miduga@gmail.com> (https://midu.dev)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/midudev/midudev/issues"
-  },
-  "homepage": "https://github.com/midudev/midudev#readme",
-  "dependencies": {
-    "node-fetch": "2.6.1",
-    "rss-parser": "3.12.0",
-    "twitch": "4.6.7",
-    "twitch-auth": "4.6.7"
-  },
-  "devDependencies": {
-    "standard": "16.0.4"
-  },
-  "eslintConfig": {
-    "extends": "./node_modules/standard/eslintrc.json"
-  }
-}
+
+{Hola soy izan}
