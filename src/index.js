@@ -1,8 +1,5 @@
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
-import Parser from 'rss-parser'
-// import { ApiClient } from 'twitch'
-// import { ClientCredentialsAuthProvider } from 'twitch-auth'
 
 import { PLACEHOLDERS, NUMBER_OF } from './constants.js'
 
@@ -20,11 +17,6 @@ const INSTAGRAM_USER_ID = '8242141302'
 
 // const authProvider = new ClientCredentialsAuthProvider(TWITCH_API_CLIENT_KEY, TWITCH_API_SECRET_KEY)
 // const apiClient = new ApiClient({ authProvider })
-
-const parser = new Parser()
-
-const getLatestArticlesFromBlog = () =>
-  parser.parseURL('https://midu.dev/index.xml').then((data) => data.items)
 
 // const getLatestTwitchStream = async () => {
 //   const response = await apiClient.kraken.channels.getChannel('midudev')
@@ -66,7 +58,6 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 
   const [template, articles, videos, secondaryChannelVideos, photos] = await Promise.all([
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-    getLatestArticlesFromBlog(),
     getLatestYoutubeVideos(),
     getLatestYoutubeVideos({ channelId: YOUTUBE_MIDULIVE_CHANNEL_ID }),
     getPhotosFromInstagram()
