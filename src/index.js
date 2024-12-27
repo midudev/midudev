@@ -1,5 +1,4 @@
 import { promises as fs } from 'fs'
-import fetch from 'node-fetch'
 
 import { PLACEHOLDERS, NUMBER_OF } from './constants.js'
 
