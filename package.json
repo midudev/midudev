@@ -22,9 +22,6 @@
     "url": "https://github.com/midudev/midudev/issues"
   },
   "homepage": "https://github.com/midudev/midudev#readme",
-  "dependencies": {
-    "node-fetch": "2.6.1"
-  },
   "devDependencies": {
     "standard": "16.0.4"
   },
