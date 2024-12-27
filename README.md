@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/IzPJcrRutmk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/IzPJcrRutmk/mqdefault.jpg' alt='Desarrolle el SITIO WEB de TheGrefg *menos de una semana*' />
+</a>
 <a href='https://youtu.be/qy6FrGrdm3o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qy6FrGrdm3o/mqdefault.jpg' alt='OpenAI responde sobre la muerte de Suchir Balaji' />
 </a>
 <a href='https://youtu.be/6cAl2tA0NIg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6cAl2tA0NIg/mqdefault.jpg' alt='El drama de ESTADOS UNIDOS es brutal' />
-</a>
-<a href='https://youtu.be/olSLc3KSdPE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/olSLc3KSdPE/mqdefault.jpg' alt='Tier List de Front End Frameworks, Tecnologías y más 2024' />
 </a>
