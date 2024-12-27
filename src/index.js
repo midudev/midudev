@@ -55,18 +55,12 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 (async () => {
   // await getLatestTwitchStream()
 
-  const [template, articles, videos, secondaryChannelVideos, photos] = await Promise.all([
+  const [template, videos, secondaryChannelVideos, photos] = await Promise.all([
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
     getLatestYoutubeVideos(),
     getLatestYoutubeVideos({ channelId: YOUTUBE_MIDULIVE_CHANNEL_ID }),
     getPhotosFromInstagram()
   ])
-
-  // create latest articles markdown
-  const latestArticlesMarkdown = articles
-    .slice(0, NUMBER_OF.ARTICLES)
-    .map(({ title, link }) => `- [${title}](${link})`)
-    .join('\n')
 
   // create latest youtube videos channel
   const latestYoutubeVideos = videos
@@ -94,7 +88,6 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 
   // replace all placeholders with info
   const newMarkdown = template
-    .replace(PLACEHOLDERS.LATEST_ARTICLES, latestArticlesMarkdown)
     .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
     .replace(PLACEHOLDERS.LATEST_YOUTUBE_SECONDARY, latestYoutubeSecondaryChannelVideos)
     .replace(PLACEHOLDERS.LATEST_INSTAGRAM, latestInstagramPhotos)
