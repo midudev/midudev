@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "update-readme": "node src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update-readme": "node src/index.js"
   },
   "repository": {
     "type": "git",
