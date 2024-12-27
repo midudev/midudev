@@ -6,13 +6,13 @@ const YOUTUBE_MIDUDEV_CHANNEL_ID = 'UU8LeXCWOalN8SxlrPcG-PaQ'
 const YOUTUBE_MIDULIVE_CHANNEL_ID = 'UU3aj05GEEyzdOqYM5FLSFeg'
 
 const {
-  INSTAGRAM_API_KEY,
+  // INSTAGRAM_API_KEY,
   // TWITCH_API_CLIENT_KEY,
   // TWITCH_API_SECRET_KEY,
   YOUTUBE_API_KEY
 } = process.env
 
-const INSTAGRAM_USER_ID = '8242141302'
+// const INSTAGRAM_USER_ID = '8242141302'
 
 // const authProvider = new ClientCredentialsAuthProvider(TWITCH_API_CLIENT_KEY, TWITCH_API_SECRET_KEY)
 // const apiClient = new ApiClient({ authProvider })
@@ -22,18 +22,18 @@ const INSTAGRAM_USER_ID = '8242141302'
 //   console.log(response)
 // }
 
-const getPhotosFromInstagram = async () => {
-  const response = await fetch(`https://instagram130.p.rapidapi.com/account-medias?userid=${INSTAGRAM_USER_ID}&first=20`, {
-    headers: {
-      'x-rapidapi-host': 'instagram130.p.rapidapi.com',
-      'x-rapidapi-key': INSTAGRAM_API_KEY
-    }
-  })
+// const getPhotosFromInstagram = async () => {
+//   const response = await fetch(`https://instagram130.p.rapidapi.com/account-medias?userid=${INSTAGRAM_USER_ID}&first=20`, {
+//     headers: {
+//       'x-rapidapi-host': 'instagram130.p.rapidapi.com',
+//       'x-rapidapi-key': INSTAGRAM_API_KEY
+//     }
+//   })
 
-  const json = await response.json()
+//   const json = await response.json()
 
-  return json?.edges
-}
+//   return json?.edges
+// }
 
 const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_MIDUDEV_CHANNEL_ID }) =>
   fetch(
@@ -42,10 +42,10 @@ const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_MIDUDEV_CHA
     .then((res) => res.json())
     .then((videos) => videos.items)
 
-const generateInstagramHTML = ({ node: { display_url: url, shortcode } }) => `
-<a href='https://instagram.com/p/${shortcode}' target='_blank'>
-  <img width='20%' src='${url}' alt='Instagram photo' />
-</a>`
+// const generateInstagramHTML = ({ node: { display_url: url, shortcode } }) => `
+// <a href='https://instagram.com/p/${shortcode}' target='_blank'>
+//   <img width='20%' src='${url}' alt='Instagram photo' />
+// </a>`
 
 const generateYoutubeHTML = ({ title, videoId }) => `
 <a href='https://youtu.be/${videoId}' target='_blank'>
@@ -55,7 +55,7 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 (async () => {
   // await getLatestTwitchStream()
 
-  const [template, videos, secondaryChannelVideos, photos] = await Promise.all([
+  const [template, videos, secondaryChannelVideos] = await Promise.all([
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
     getLatestYoutubeVideos(),
     getLatestYoutubeVideos({ channelId: YOUTUBE_MIDULIVE_CHANNEL_ID })
