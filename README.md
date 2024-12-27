@@ -3,12 +3,6 @@
    <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
 </p>
 
-<div align="center">
-   
-   ![midudev's GitHub stats](https://github-readme-stats.vercel.app/api?username=midudev&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
-   
-</div>
-
 <p align="center">
    <a href="https://twitch.tv/midudev" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg" alt="Canal de Twitch de midudev" height="28px" width="56px" />
