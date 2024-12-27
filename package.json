@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/midudev/midudev#readme",
   "devDependencies": {
-    "standard": "16.0.4"
+    "standard": "17.1.2"
   },
   "eslintConfig": {
     "extends": "./node_modules/standard/eslintrc.json"
