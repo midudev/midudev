@@ -58,8 +58,7 @@ const generateYoutubeHTML = ({ title, videoId }) => `
   const [template, videos, secondaryChannelVideos, photos] = await Promise.all([
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
     getLatestYoutubeVideos(),
-    getLatestYoutubeVideos({ channelId: YOUTUBE_MIDULIVE_CHANNEL_ID }),
-    getPhotosFromInstagram()
+    getLatestYoutubeVideos({ channelId: YOUTUBE_MIDULIVE_CHANNEL_ID })
   ])
 
   // create latest youtube videos channel
@@ -80,17 +79,10 @@ const generateYoutubeHTML = ({ title, videoId }) => `
     })
     .join('')
 
-  // create latest photos from instagram
-  const latestInstagramPhotos = photos
-    .slice(0, NUMBER_OF.PHOTOS)
-    .map(generateInstagramHTML)
-    .join('')
-
   // replace all placeholders with info
   const newMarkdown = template
     .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
     .replace(PLACEHOLDERS.LATEST_YOUTUBE_SECONDARY, latestYoutubeSecondaryChannelVideos)
-    .replace(PLACEHOLDERS.LATEST_INSTAGRAM, latestInstagramPhotos)
 
   await fs.writeFile('README.md', newMarkdown)
 })()
