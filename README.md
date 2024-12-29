@@ -23,14 +23,16 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/IX81rTnJ54g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/IX81rTnJ54g/mqdefault.jpg' alt='🎯 Product Manager: "¡En este sprint, nuestro objetivo es mejorar la experiencia del usuario!"
+
+👩‍' />
+</a>
 <a href='https://youtu.be/mm88biQrlhY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mm88biQrlhY/mqdefault.jpg' alt='Cuando no dejas de comprar cursos de programación...' />
 </a>
 <a href='https://youtu.be/r43SI3OL3oQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/r43SI3OL3oQ/mqdefault.jpg' alt='¡Brutal herramienta para ver tus bases de datos SQL!' />
-</a>
-<a href='https://youtu.be/9HpuOJx9Kxg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9HpuOJx9Kxg/mqdefault.jpg' alt='Guía de mejores prácticas para Node.js' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
