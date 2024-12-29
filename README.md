@@ -37,12 +37,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Awhs5gjhyV0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Awhs5gjhyV0/mqdefault.jpg' alt='Brave le declara la guerra a YouTube' />
+</a>
 <a href='https://youtu.be/IzPJcrRutmk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/IzPJcrRutmk/mqdefault.jpg' alt='Desarrollando el SITIO WEB de TheGrefg + Explicación *menos de una semana*' />
 </a>
 <a href='https://youtu.be/qy6FrGrdm3o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qy6FrGrdm3o/mqdefault.jpg' alt='OpenAI responde sobre la muerte de Suchir Balaji' />
-</a>
-<a href='https://youtu.be/6cAl2tA0NIg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6cAl2tA0NIg/mqdefault.jpg' alt='El drama de ESTADOS UNIDOS es brutal' />
 </a>
