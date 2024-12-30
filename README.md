@@ -23,6 +23,11 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Jk-Eo9WYAvw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Jk-Eo9WYAvw/mqdefault.jpg' alt='Crea diagramas interactivos de tu proyecto en Visual Studio Code con esta extensión.
+
+Te explica la' />
+</a>
 <a href='https://youtu.be/IX81rTnJ54g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/IX81rTnJ54g/mqdefault.jpg' alt='🎯 Product Manager: "¡En este sprint, nuestro objetivo es mejorar la experiencia del usuario!"
 
@@ -31,18 +36,15 @@
 <a href='https://youtu.be/mm88biQrlhY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mm88biQrlhY/mqdefault.jpg' alt='Cuando no dejas de comprar cursos de programación...' />
 </a>
-<a href='https://youtu.be/r43SI3OL3oQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/r43SI3OL3oQ/mqdefault.jpg' alt='¡Brutal herramienta para ver tus bases de datos SQL!' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/mCNbnfQ-MMM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/mCNbnfQ-MMM/mqdefault.jpg' alt='Crea tu propio clon de Notion: Recursos para Devs (Rate limit, iconos 3D)' />
+</a>
 <a href='https://youtu.be/Awhs5gjhyV0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Awhs5gjhyV0/mqdefault.jpg' alt='Brave le declara la guerra a YouTube' />
 </a>
 <a href='https://youtu.be/IzPJcrRutmk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/IzPJcrRutmk/mqdefault.jpg' alt='Desarrollando el SITIO WEB de TheGrefg + Explicación *menos de una semana*' />
-</a>
-<a href='https://youtu.be/qy6FrGrdm3o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qy6FrGrdm3o/mqdefault.jpg' alt='OpenAI responde sobre la muerte de Suchir Balaji' />
 </a>
