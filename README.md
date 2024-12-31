@@ -40,7 +40,7 @@ Te explica la' />
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/Qu1a_ws5DVI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Qu1a_ws5DVI/mqdefault.jpg' alt='Fechas oficiales del Bootcamp midudev, Curso de Python, Workshop y más' />
+  <img width='30%' src='https://img.youtube.com/vi/Qu1a_ws5DVI/mqdefault.jpg' alt='Fechas OFICIALES Bootcamp midudev, Curso de Python, Workshop y más' />
 </a>
 <a href='https://youtu.be/mCNbnfQ-MMM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mCNbnfQ-MMM/mqdefault.jpg' alt='Aprende a crea tu propio clon de Notion: Recursos para Devs (Rate limit, iconos 3D)' />
