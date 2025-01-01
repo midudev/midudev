@@ -41,12 +41,12 @@ Te explica la' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/4Xe0ux8AktY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/4Xe0ux8AktY/mqdefault.jpg' alt='Es hora de un gran cambio' />
+</a>
 <a href='https://youtu.be/S0-W74l9fyk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/S0-W74l9fyk/mqdefault.jpg' alt='Llego la competencia de Google Analytics' />
 </a>
 <a href='https://youtu.be/Qu1a_ws5DVI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Qu1a_ws5DVI/mqdefault.jpg' alt='Fechas OFICIALES Bootcamp midudev, Curso de Python, Workshop y más' />
-</a>
-<a href='https://youtu.be/mCNbnfQ-MMM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mCNbnfQ-MMM/mqdefault.jpg' alt='Aprende a crea tu propio clon de Notion: Recursos para Devs (Rate limit, iconos 3D)' />
 </a>
