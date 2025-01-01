@@ -23,6 +23,11 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/QdvTlN_MEQk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QdvTlN_MEQk/mqdefault.jpg' alt='✨ Mi deseo para 2025: ¡Que consigas trabajo en PROGRAMACIÓN o mejores en tu carrera! 💻🚀
+
+🎁 Mi REG' />
+</a>
 <a href='https://youtu.be/Jk-Eo9WYAvw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Jk-Eo9WYAvw/mqdefault.jpg' alt='Crea diagramas interactivos de tu proyecto en Visual Studio Code con esta extensión.
 
@@ -32,9 +37,6 @@ Te explica la' />
   <img width='30%' src='https://img.youtube.com/vi/IX81rTnJ54g/mqdefault.jpg' alt='🎯 Product Manager: "¡En este sprint, nuestro objetivo es mejorar la experiencia del usuario!"
 
 👩‍' />
-</a>
-<a href='https://youtu.be/mm88biQrlhY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mm88biQrlhY/mqdefault.jpg' alt='Cuando no dejas de comprar cursos de programación...' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
