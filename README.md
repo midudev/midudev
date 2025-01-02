@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ZzoguZW8XTA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZzoguZW8XTA/mqdefault.jpg' alt='🎉 ¡Revolución en CSS! Ahora puedes animar height: auto con la nueva propiedad interpolate-size. 🤯' />
+</a>
 <a href='https://youtu.be/QdvTlN_MEQk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QdvTlN_MEQk/mqdefault.jpg' alt='✨ Mi deseo para 2025: ¡Que consigas trabajo en PROGRAMACIÓN o mejores en tu carrera! 💻🚀
 
@@ -33,20 +36,15 @@
 
 Te explica la' />
 </a>
-<a href='https://youtu.be/IX81rTnJ54g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/IX81rTnJ54g/mqdefault.jpg' alt='🎯 Product Manager: "¡En este sprint, nuestro objetivo es mejorar la experiencia del usuario!"
-
-👩‍' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/6J6DedhjBFs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6J6DedhjBFs/mqdefault.jpg' alt='Tendencias Frontend en 2025' />
+</a>
 <a href='https://youtu.be/4Xe0ux8AktY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4Xe0ux8AktY/mqdefault.jpg' alt='Es hora de un gran cambio' />
 </a>
 <a href='https://youtu.be/S0-W74l9fyk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/S0-W74l9fyk/mqdefault.jpg' alt='Llego la competencia de Google Analytics' />
-</a>
-<a href='https://youtu.be/Qu1a_ws5DVI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Qu1a_ws5DVI/mqdefault.jpg' alt='Fechas OFICIALES Bootcamp midudev, Curso de Python, Workshop y más' />
 </a>
