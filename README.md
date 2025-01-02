@@ -39,12 +39,12 @@ Te explica la' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/VvrClxMAK1E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/VvrClxMAK1E/mqdefault.jpg' alt='No necesitas Next.js' />
+</a>
 <a href='https://youtu.be/6J6DedhjBFs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6J6DedhjBFs/mqdefault.jpg' alt='Tendencias Frontend en 2025' />
 </a>
 <a href='https://youtu.be/4Xe0ux8AktY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4Xe0ux8AktY/mqdefault.jpg' alt='Es hora de un gran cambio' />
-</a>
-<a href='https://youtu.be/S0-W74l9fyk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/S0-W74l9fyk/mqdefault.jpg' alt='Llego la competencia de Google Analytics' />
 </a>
