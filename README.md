@@ -23,6 +23,12 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/bPY6zsS_tA4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/bPY6zsS_tA4/mqdefault.jpg' alt='¿Tu propósito de 2025 es aprender o mejorar tu Inglés?
+¡Aquí tienes un Certificado GRATIS!
+
+✓ Readin' />
+</a>
 <a href='https://youtu.be/ZzoguZW8XTA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZzoguZW8XTA/mqdefault.jpg' alt='🎉 ¡Revolución en CSS! Ahora puedes animar height: auto con la nueva propiedad interpolate-size. 🤯' />
 </a>
@@ -31,20 +37,15 @@
 
 🎁 Mi REG' />
 </a>
-<a href='https://youtu.be/Jk-Eo9WYAvw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Jk-Eo9WYAvw/mqdefault.jpg' alt='Crea diagramas interactivos de tu proyecto en Visual Studio Code con esta extensión.
-
-Te explica la' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/xi_-P0EQM2A' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xi_-P0EQM2A/mqdefault.jpg' alt='Inyectaron paquetes peligrosos en NPM' />
+</a>
 <a href='https://youtu.be/VvrClxMAK1E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VvrClxMAK1E/mqdefault.jpg' alt='No necesitas Next.js siempre' />
 </a>
 <a href='https://youtu.be/6J6DedhjBFs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6J6DedhjBFs/mqdefault.jpg' alt='Tendencias Frontend en 2025' />
-</a>
-<a href='https://youtu.be/4Xe0ux8AktY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4Xe0ux8AktY/mqdefault.jpg' alt='Es hora de un gran cambio' />
 </a>
