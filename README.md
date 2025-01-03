@@ -40,7 +40,7 @@ Te explica la' />
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/VvrClxMAK1E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VvrClxMAK1E/mqdefault.jpg' alt='No necesitas Next.js' />
+  <img width='30%' src='https://img.youtube.com/vi/VvrClxMAK1E/mqdefault.jpg' alt='No necesitas Next.js siempre' />
 </a>
 <a href='https://youtu.be/6J6DedhjBFs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6J6DedhjBFs/mqdefault.jpg' alt='Tendencias Frontend en 2025' />
