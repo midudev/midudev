@@ -39,12 +39,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/ZvFtQLsPqog' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZvFtQLsPqog/mqdefault.jpg' alt='La peor oferta de trabajo de Computrabajo para devs (hasta ahora)' />
+</a>
 <a href='https://youtu.be/SAdulUeKpsM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SAdulUeKpsM/mqdefault.jpg' alt='Elon declara la guerra contra la burocracia' />
 </a>
 <a href='https://youtu.be/xi_-P0EQM2A' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xi_-P0EQM2A/mqdefault.jpg' alt='Inyectaron paquetes peligrosos en NPM' />
-</a>
-<a href='https://youtu.be/VvrClxMAK1E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VvrClxMAK1E/mqdefault.jpg' alt='No necesitas Next.js siempre' />
 </a>
