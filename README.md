@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/LDSbu63mtgc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LDSbu63mtgc/mqdefault.jpg' alt='¡Certificado gratuito de Inglés para Programadores!' />
+</a>
 <a href='https://youtu.be/apLmqLUybhU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/apLmqLUybhU/mqdefault.jpg' alt='Esta herramienta convierte tus archivos de Word, Excel, PowerPoint, PDF y más en Markdown.
 ¡Es ofici' />
@@ -30,12 +33,6 @@
 <a href='https://youtu.be/Yyfk3oe5gLw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Yyfk3oe5gLw/mqdefault.jpg' alt='¿Hay que mentir en tu CV para encontrar trabajo como programador?
 💡 Spoiler: No necesitas mentir, p' />
-</a>
-<a href='https://youtu.be/bPY6zsS_tA4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/bPY6zsS_tA4/mqdefault.jpg' alt='¿Tu propósito de 2025 es aprender o mejorar tu Inglés?
-¡Aquí tienes un Certificado GRATIS!
-
-✓ Readin' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
