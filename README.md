@@ -23,16 +23,17 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/eeXD1WC2ckw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/eeXD1WC2ckw/mqdefault.jpg' alt='¡Trucazo de CSS para ocultar líneas de texto que no caben en un espacio! 🎨
+
+Olvídate del JavaScript' />
+</a>
 <a href='https://youtu.be/LDSbu63mtgc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LDSbu63mtgc/mqdefault.jpg' alt='¡Certificado gratuito de Inglés para Programadores!' />
 </a>
 <a href='https://youtu.be/apLmqLUybhU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/apLmqLUybhU/mqdefault.jpg' alt='Esta herramienta convierte tus archivos de Word, Excel, PowerPoint, PDF y más en Markdown.
 ¡Es ofici' />
-</a>
-<a href='https://youtu.be/Yyfk3oe5gLw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Yyfk3oe5gLw/mqdefault.jpg' alt='¿Hay que mentir en tu CV para encontrar trabajo como programador?
-💡 Spoiler: No necesitas mentir, p' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
