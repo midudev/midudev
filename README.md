@@ -38,12 +38,12 @@ Olvídate del JavaScript' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/JjAwqcmYv4o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/JjAwqcmYv4o/mqdefault.jpg' alt='El drama de las Nuevas RTX 5070 de NVIDIA' />
+</a>
 <a href='https://youtu.be/ZvFtQLsPqog' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZvFtQLsPqog/mqdefault.jpg' alt='La peor oferta de trabajo de Computrabajo para devs (hasta ahora)' />
 </a>
 <a href='https://youtu.be/SAdulUeKpsM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SAdulUeKpsM/mqdefault.jpg' alt='Elon declara la guerra contra la burocracia' />
-</a>
-<a href='https://youtu.be/xi_-P0EQM2A' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xi_-P0EQM2A/mqdefault.jpg' alt='Inyectaron paquetes peligrosos en NPM' />
 </a>
