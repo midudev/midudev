@@ -38,12 +38,12 @@ Olvídate del JavaScript' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/fruaq2aIkG8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/fruaq2aIkG8/mqdefault.jpg' alt='La guerra de los Frontend Frameworks 2025' />
+</a>
 <a href='https://youtu.be/p4FPY2NfNnc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p4FPY2NfNnc/mqdefault.jpg' alt='Lo que hizo Microsoft Edge es brutal' />
 </a>
 <a href='https://youtu.be/JjAwqcmYv4o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JjAwqcmYv4o/mqdefault.jpg' alt='El drama de las Nuevas RTX 5070 de NVIDIA' />
-</a>
-<a href='https://youtu.be/ZvFtQLsPqog' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZvFtQLsPqog/mqdefault.jpg' alt='La peor oferta de trabajo de Computrabajo para devs (hasta ahora)' />
 </a>
