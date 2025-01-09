@@ -23,6 +23,11 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/t1KpNjMRpVk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/t1KpNjMRpVk/mqdefault.jpg' alt='¡Nuevas tarjetas gráficas de NVIDIA con polémica!
+
+Mientras que la empresa dice que por una nueva 50' />
+</a>
 <a href='https://youtu.be/eeXD1WC2ckw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/eeXD1WC2ckw/mqdefault.jpg' alt='¡Trucazo de CSS para ocultar líneas de texto que no caben en un espacio! 🎨
 
@@ -31,19 +36,15 @@ Olvídate del JavaScript' />
 <a href='https://youtu.be/LDSbu63mtgc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LDSbu63mtgc/mqdefault.jpg' alt='¡Certificado gratuito de Inglés para Programadores!' />
 </a>
-<a href='https://youtu.be/apLmqLUybhU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/apLmqLUybhU/mqdefault.jpg' alt='Esta herramienta convierte tus archivos de Word, Excel, PowerPoint, PDF y más en Markdown.
-¡Es ofici' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/JOPNVlVFT-o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/JOPNVlVFT-o/mqdefault.jpg' alt='ROADMAP + GUÍA para PROGRAMADORES: Front-End, Back-End Y Full-Stack 2025' />
+</a>
 <a href='https://youtu.be/fruaq2aIkG8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/fruaq2aIkG8/mqdefault.jpg' alt='La guerra de los Frontend Frameworks 2025' />
 </a>
 <a href='https://youtu.be/p4FPY2NfNnc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p4FPY2NfNnc/mqdefault.jpg' alt='Lo que hizo Microsoft Edge es brutal' />
-</a>
-<a href='https://youtu.be/JjAwqcmYv4o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/JjAwqcmYv4o/mqdefault.jpg' alt='El drama de las Nuevas RTX 5070 de NVIDIA' />
 </a>
