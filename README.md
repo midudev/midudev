@@ -42,12 +42,12 @@ Olvídate del JavaScript' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/txJ62UH1Fgw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/txJ62UH1Fgw/mqdefault.jpg' alt='El DRAMA de la aerolínea Flybondi' />
+</a>
 <a href='https://youtu.be/juI1Z3UmkLg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/juI1Z3UmkLg/mqdefault.jpg' alt='Si tienes más de 25 años debes saber esto' />
 </a>
 <a href='https://youtu.be/Ew9cCLrJSXY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ew9cCLrJSXY/mqdefault.jpg' alt='Salesforce no contratará más programadores en 2025. ¿Por qué?' />
-</a>
-<a href='https://youtu.be/JOPNVlVFT-o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/JOPNVlVFT-o/mqdefault.jpg' alt='ROADMAP + GUÍA para PROGRAMADORES: Front-End, Back-End Y Full-Stack 2025' />
 </a>
