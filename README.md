@@ -23,6 +23,12 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/6JodHCrEoO0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6JodHCrEoO0/mqdefault.jpg' alt='¿Necesitas mostrar un calendario en tu Web o App?
+¡Este componente te va a salvar la vida!
+
+✓ Ocupa' />
+</a>
 <a href='https://youtu.be/t1KpNjMRpVk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/t1KpNjMRpVk/mqdefault.jpg' alt='¡Nuevas tarjetas gráficas de NVIDIA con polémica!
 
@@ -33,18 +39,15 @@ Mientras que la empresa dice que por una nueva 50' />
 
 Olvídate del JavaScript' />
 </a>
-<a href='https://youtu.be/LDSbu63mtgc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LDSbu63mtgc/mqdefault.jpg' alt='¡Certificado gratuito de Inglés para Programadores!' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/juI1Z3UmkLg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/juI1Z3UmkLg/mqdefault.jpg' alt='Si tienes más de 25 años debes saber esto' />
+</a>
 <a href='https://youtu.be/Ew9cCLrJSXY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ew9cCLrJSXY/mqdefault.jpg' alt='Salesforce no contratará más programadores en 2025. ¿Por qué?' />
 </a>
 <a href='https://youtu.be/JOPNVlVFT-o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JOPNVlVFT-o/mqdefault.jpg' alt='ROADMAP + GUÍA para PROGRAMADORES: Front-End, Back-End Y Full-Stack 2025' />
-</a>
-<a href='https://youtu.be/fruaq2aIkG8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fruaq2aIkG8/mqdefault.jpg' alt='La guerra de los Frontend Frameworks 2025' />
 </a>
