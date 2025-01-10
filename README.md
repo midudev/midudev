@@ -40,7 +40,7 @@ Olvídate del JavaScript' />
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/Ew9cCLrJSXY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ew9cCLrJSXY/mqdefault.jpg' alt='El FIN de los programadores en Salesforce' />
+  <img width='30%' src='https://img.youtube.com/vi/Ew9cCLrJSXY/mqdefault.jpg' alt='Salesforce no contratará más programadores en 2025. ¿Por qué?' />
 </a>
 <a href='https://youtu.be/JOPNVlVFT-o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JOPNVlVFT-o/mqdefault.jpg' alt='ROADMAP + GUÍA para PROGRAMADORES: Front-End, Back-End Y Full-Stack 2025' />
