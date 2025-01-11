@@ -23,6 +23,12 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/5K2ZwXPJX1E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5K2ZwXPJX1E/mqdefault.jpg' alt='¡El Juego del Calamar, versión Backend!
+
+La prueba de la galleta:
+Te toca centrar un div en CSS en m' />
+</a>
 <a href='https://youtu.be/6JodHCrEoO0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6JodHCrEoO0/mqdefault.jpg' alt='¿Necesitas mostrar un calendario en tu Web o App?
 ¡Este componente te va a salvar la vida!
@@ -33,11 +39,6 @@
   <img width='30%' src='https://img.youtube.com/vi/t1KpNjMRpVk/mqdefault.jpg' alt='¡Nuevas tarjetas gráficas de NVIDIA con polémica!
 
 Mientras que la empresa dice que por una nueva 50' />
-</a>
-<a href='https://youtu.be/eeXD1WC2ckw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/eeXD1WC2ckw/mqdefault.jpg' alt='¡Trucazo de CSS para ocultar líneas de texto que no caben en un espacio! 🎨
-
-Olvídate del JavaScript' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
