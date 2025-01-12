@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/cOLInDRkhLc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cOLInDRkhLc/mqdefault.jpg' alt='Scrapping de webs' />
+</a>
 <a href='https://youtu.be/5K2ZwXPJX1E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5K2ZwXPJX1E/mqdefault.jpg' alt='¡El Juego del Calamar, versión Backend!
 
@@ -34,11 +37,6 @@ Te toca centrar un div en CSS en m' />
 ¡Este componente te va a salvar la vida!
 
 ✓ Ocupa' />
-</a>
-<a href='https://youtu.be/t1KpNjMRpVk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/t1KpNjMRpVk/mqdefault.jpg' alt='¡Nuevas tarjetas gráficas de NVIDIA con polémica!
-
-Mientras que la empresa dice que por una nueva 50' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
