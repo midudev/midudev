@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/uglZqjH549I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/uglZqjH549I/mqdefault.jpg' alt='Animaciones entre navegaciones de página con CSS' />
+</a>
 <a href='https://youtu.be/laduPgs0QTM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/laduPgs0QTM/mqdefault.jpg' alt='¡Mis extensiones favoritas de Visual Studio Code como programador web!
 
@@ -30,9 +33,6 @@ Tengo unas cuantas instalada' />
 </a>
 <a href='https://youtu.be/3MBoSQuLIqQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3MBoSQuLIqQ/mqdefault.jpg' alt='¡Aprende y mejora tu nivel de Inglés con estos recursos!' />
-</a>
-<a href='https://youtu.be/cOLInDRkhLc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/cOLInDRkhLc/mqdefault.jpg' alt='Scrapping de webs' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
