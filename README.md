@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/mjuVVEmVPnY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/mjuVVEmVPnY/mqdefault.jpg' alt='A veces le pido código a ChatGPT y termino pidiéndole varias veces que lo refactorice hasta que qued' />
+</a>
 <a href='https://youtu.be/uglZqjH549I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uglZqjH549I/mqdefault.jpg' alt='Animaciones entre navegaciones de página con CSS' />
 </a>
@@ -30,9 +33,6 @@
   <img width='30%' src='https://img.youtube.com/vi/laduPgs0QTM/mqdefault.jpg' alt='¡Mis extensiones favoritas de Visual Studio Code como programador web!
 
 Tengo unas cuantas instalada' />
-</a>
-<a href='https://youtu.be/3MBoSQuLIqQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/3MBoSQuLIqQ/mqdefault.jpg' alt='¡Aprende y mejora tu nivel de Inglés con estos recursos!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
