@@ -23,24 +23,27 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/z1nDLOB11Jk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/z1nDLOB11Jk/mqdefault.jpg' alt='Si eres programador seguro que has escuchado esto:
+
+- ¿Falta mucho? ¿Cuánto queda?
+- ¿Estará listo p' />
+</a>
 <a href='https://youtu.be/Ah5a2ttQF3U' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ah5a2ttQF3U/mqdefault.jpg' alt='Biblioteca de JavaScript para crear tu propio Notion' />
 </a>
 <a href='https://youtu.be/QdMx8iyp9QU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QdMx8iyp9QU/mqdefault.jpg' alt='Proyectos para Programadores Backend y Frontend' />
 </a>
-<a href='https://youtu.be/mjuVVEmVPnY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mjuVVEmVPnY/mqdefault.jpg' alt='A veces le pido código a ChatGPT y termino pidiéndole varias veces que lo refactorice hasta que qued' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Hb_wOOgwq4U' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Hb_wOOgwq4U/mqdefault.jpg' alt='Qué diablos pasó con TikTok?!!' />
+</a>
 <a href='https://youtu.be/txJ62UH1Fgw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/txJ62UH1Fgw/mqdefault.jpg' alt='El DRAMA de la aerolínea Flybondi' />
 </a>
 <a href='https://youtu.be/juI1Z3UmkLg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/juI1Z3UmkLg/mqdefault.jpg' alt='Si tienes más de 25 años debes saber esto' />
-</a>
-<a href='https://youtu.be/Ew9cCLrJSXY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ew9cCLrJSXY/mqdefault.jpg' alt='Salesforce no contratará más programadores en 2025. ¿Por qué?' />
 </a>
