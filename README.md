@@ -23,6 +23,12 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/H82u2B4Z1iY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/H82u2B4Z1iY/mqdefault.jpg' alt='¡Google ha lanzado un Curso para Aprender JavaScript!
+
+Es Gratuito y está en Español. Incluye:
+- Tip' />
+</a>
 <a href='https://youtu.be/z1nDLOB11Jk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/z1nDLOB11Jk/mqdefault.jpg' alt='Si eres programador seguro que has escuchado esto:
 
@@ -32,18 +38,15 @@
 <a href='https://youtu.be/Ah5a2ttQF3U' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ah5a2ttQF3U/mqdefault.jpg' alt='Biblioteca de JavaScript para crear tu propio Notion' />
 </a>
-<a href='https://youtu.be/QdMx8iyp9QU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QdMx8iyp9QU/mqdefault.jpg' alt='Proyectos para Programadores Backend y Frontend' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/w8r7dOXwmDk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/w8r7dOXwmDk/mqdefault.jpg' alt='DeepSeek-R1: El Killer de OpenAI o1 (por cierto, GRATIS)' />
+</a>
 <a href='https://youtu.be/mttNWSRU30A' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mttNWSRU30A/mqdefault.jpg' alt='Creador de WordPress avisa que esto podría ser el fin' />
 </a>
 <a href='https://youtu.be/Hb_wOOgwq4U' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Hb_wOOgwq4U/mqdefault.jpg' alt='Qué diablos pasó con TikTok?!' />
-</a>
-<a href='https://youtu.be/txJ62UH1Fgw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/txJ62UH1Fgw/mqdefault.jpg' alt='El DRAMA de la aerolínea Flybondi' />
 </a>
