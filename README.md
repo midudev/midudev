@@ -39,7 +39,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/mttNWSRU30A' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mttNWSRU30A/mqdefault.jpg' alt='Esto no puede ser verdad' />
+  <img width='30%' src='https://img.youtube.com/vi/mttNWSRU30A/mqdefault.jpg' alt='Creador de WordPress avisa que esto podría ser el fin' />
 </a>
 <a href='https://youtu.be/Hb_wOOgwq4U' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Hb_wOOgwq4U/mqdefault.jpg' alt='Qué diablos pasó con TikTok?!' />
