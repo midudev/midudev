@@ -41,12 +41,12 @@ Es Gratuito y está en Español. Incluye:
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/BlMn7dx8PeI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BlMn7dx8PeI/mqdefault.jpg' alt='TikTok lanza un Editor de Código GRATIS ¿Cursor Killer?' />
+</a>
 <a href='https://youtu.be/BeOG7rCvBV0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/BeOG7rCvBV0/mqdefault.jpg' alt='Google está promocionando anuncios peligrosos' />
 </a>
 <a href='https://youtu.be/2uMNZorxPa8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2uMNZorxPa8/mqdefault.jpg' alt='¡Cuidado con Firebase! Te puede salir caro si cometes este error…' />
-</a>
-<a href='https://youtu.be/w8r7dOXwmDk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/w8r7dOXwmDk/mqdefault.jpg' alt='DeepSeek-R1: El Killer de OpenAI o1 (por cierto, GRATIS)' />
 </a>
