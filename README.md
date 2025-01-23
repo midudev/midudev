@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/phL63O4nWC0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/phL63O4nWC0/mqdefault.jpg' alt='¡Nuevo editor de código para programadores!' />
+</a>
 <a href='https://youtu.be/H82u2B4Z1iY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/H82u2B4Z1iY/mqdefault.jpg' alt='¡Google ha lanzado un Curso para Aprender JavaScript!
 
@@ -35,18 +38,15 @@ Es Gratuito y está en Español. Incluye:
 - ¿Falta mucho? ¿Cuánto queda?
 - ¿Estará listo p' />
 </a>
-<a href='https://youtu.be/Ah5a2ttQF3U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ah5a2ttQF3U/mqdefault.jpg' alt='Biblioteca de JavaScript para crear tu propio Notion' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/BeOG7rCvBV0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BeOG7rCvBV0/mqdefault.jpg' alt='Google está promocionando anuncios peligrosos' />
+</a>
 <a href='https://youtu.be/2uMNZorxPa8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2uMNZorxPa8/mqdefault.jpg' alt='¡Cuidado con Firebase! Te puede salir caro si cometes este error…' />
 </a>
 <a href='https://youtu.be/w8r7dOXwmDk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/w8r7dOXwmDk/mqdefault.jpg' alt='DeepSeek-R1: El Killer de OpenAI o1 (por cierto, GRATIS)' />
-</a>
-<a href='https://youtu.be/mttNWSRU30A' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mttNWSRU30A/mqdefault.jpg' alt='Creador de WordPress avisa que esto podría ser el fin' />
 </a>
