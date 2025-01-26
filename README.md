@@ -23,17 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Vhl9_nHHRIo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Vhl9_nHHRIo/mqdefault.jpg' alt='Muchos backend le tienen miedo a CSS...' />
+</a>
 <a href='https://youtu.be/k1E5LzngP4Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/k1E5LzngP4Q/mqdefault.jpg' alt='¡Aprende Git en esta página interactiva!' />
 </a>
 <a href='https://youtu.be/phL63O4nWC0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/phL63O4nWC0/mqdefault.jpg' alt='¡Nuevo editor de código para programadores!' />
-</a>
-<a href='https://youtu.be/H82u2B4Z1iY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/H82u2B4Z1iY/mqdefault.jpg' alt='¡Google ha lanzado un Curso para Aprender JavaScript!
-
-Es Gratuito y está en Español. Incluye:
-- Tip' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
