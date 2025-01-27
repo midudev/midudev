@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/2qjL-MiTPAo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2qjL-MiTPAo/mqdefault.jpg' alt='Microsoft, no lo hagas..' />
+  <img width='30%' src='https://img.youtube.com/vi/2qjL-MiTPAo/mqdefault.jpg' alt='Microsoft, no lo hagas' />
 </a>
 <a href='https://youtu.be/V7R0fkCBcq4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/V7R0fkCBcq4/mqdefault.jpg' alt='No utilices JWT así' />
