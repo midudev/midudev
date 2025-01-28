@@ -24,10 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/YV8umc_pPo0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YV8umc_pPo0/mqdefault.jpg' alt='Este repositorio es oro puro y está en Español
-¡Las mejores prácticas para programar en Node.js!
-
-✓' />
+  <img width='30%' src='https://img.youtube.com/vi/YV8umc_pPo0/mqdefault.jpg' alt='Este repositorio es oro puro y está en Español ¡Las mejores prácticas para programar en Node.js!' />
 </a>
 <a href='https://youtu.be/aWZkF-mxAyA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/aWZkF-mxAyA/mqdefault.jpg' alt='Tailwind 4 es mejor de lo que imaginaba' />
