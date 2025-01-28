@@ -23,24 +23,27 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/YV8umc_pPo0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YV8umc_pPo0/mqdefault.jpg' alt='Este repositorio es oro puro y está en Español
+¡Las mejores prácticas para programar en Node.js!
+
+✓' />
+</a>
 <a href='https://youtu.be/aWZkF-mxAyA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/aWZkF-mxAyA/mqdefault.jpg' alt='Tailwind 4 es mejor de lo que imaginaba' />
 </a>
 <a href='https://youtu.be/Vhl9_nHHRIo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Vhl9_nHHRIo/mqdefault.jpg' alt='Muchos backend le tienen miedo a CSS...' />
 </a>
-<a href='https://youtu.be/k1E5LzngP4Q' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/k1E5LzngP4Q/mqdefault.jpg' alt='¡Aprende Git en esta página interactiva!' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/pLm4JPj-tUc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pLm4JPj-tUc/mqdefault.jpg' alt='El colapso de Stack Overflow' />
+</a>
 <a href='https://youtu.be/GmEuz0uNpn4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GmEuz0uNpn4/mqdefault.jpg' alt='Deepseek causa CAÍDA HISTÓRICA en las grandes tecnológicas' />
 </a>
 <a href='https://youtu.be/geMw0OZcaak' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/geMw0OZcaak/mqdefault.jpg' alt='La HISTORIA REAL de un Ingeniero de Software en prisión' />
-</a>
-<a href='https://youtu.be/2qjL-MiTPAo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2qjL-MiTPAo/mqdefault.jpg' alt='Microsoft, no lo hagas' />
 </a>
