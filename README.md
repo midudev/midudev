@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/CGStbELie_k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CGStbELie_k/mqdefault.jpg' alt='¿Deepseek es realmente seguro?' />
+</a>
 <a href='https://youtu.be/pLm4JPj-tUc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pLm4JPj-tUc/mqdefault.jpg' alt='El colapso de Stack Overflow' />
 </a>
 <a href='https://youtu.be/GmEuz0uNpn4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GmEuz0uNpn4/mqdefault.jpg' alt='Deepseek causa CAÍDA HISTÓRICA en las grandes tecnológicas' />
-</a>
-<a href='https://youtu.be/geMw0OZcaak' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/geMw0OZcaak/mqdefault.jpg' alt='La HISTORIA REAL de un Ingeniero de Software en prisión' />
 </a>
