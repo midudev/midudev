@@ -23,15 +23,19 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/n8Z8H8MKcOU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/n8Z8H8MKcOU/mqdefault.jpg' alt='¡Guía para entrevistas técnicas de programación!
+
+✓ Patrones de diseño
+✓ Arquitectura de software
+✓' />
+</a>
 <a href='https://youtu.be/73ZQAK_jV0U' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/73ZQAK_jV0U/mqdefault.jpg' alt='JavaScript por fin mejora el manejo de fechas (Adiós Date)' />
 </a>
 <a href='https://youtu.be/spoVuc1P1-w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/spoVuc1P1-w/mqdefault.jpg' alt='¡DeepSeek es la Inteligencia Artificial de moda!
 Es gratuita, de código abierto y está al nivel de C' />
-</a>
-<a href='https://youtu.be/YV8umc_pPo0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YV8umc_pPo0/mqdefault.jpg' alt='Este repositorio es oro puro y está en Español ¡Las mejores prácticas para programar en Node.js!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
