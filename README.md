@@ -36,12 +36,12 @@ Es gratuita, de código abierto y está al nivel de C' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/dCrWy9lqCfI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dCrWy9lqCfI/mqdefault.jpg' alt='10 perdedores secuestran a CEO de criptomonedas' />
+</a>
 <a href='https://youtu.be/03mMNFmHujU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/03mMNFmHujU/mqdefault.jpg' alt='Trump reacciona a Deepseek' />
 </a>
 <a href='https://youtu.be/MWCRyXaBGJA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MWCRyXaBGJA/mqdefault.jpg' alt='CSS puede eliminar a SASS con esto...' />
-</a>
-<a href='https://youtu.be/CGStbELie_k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CGStbELie_k/mqdefault.jpg' alt='¿Deepseek es realmente seguro?' />
 </a>
