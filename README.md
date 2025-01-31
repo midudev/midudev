@@ -36,12 +36,12 @@ Es gratuita, de código abierto y está al nivel de C' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/jCWwh-741SM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jCWwh-741SM/mqdefault.jpg' alt='Pasó 4 AÑOS desarrollando un SO en el navegador (Next.js + Open Source)' />
+</a>
 <a href='https://youtu.be/OeVNQoJrmX8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/OeVNQoJrmX8/mqdefault.jpg' alt='Tienen miedo de Deepseek. ¡LO ESTÁN BANEANDO!' />
 </a>
 <a href='https://youtu.be/dCrWy9lqCfI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dCrWy9lqCfI/mqdefault.jpg' alt='10 perdedores secuestran a CEO de criptomonedas' />
-</a>
-<a href='https://youtu.be/03mMNFmHujU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/03mMNFmHujU/mqdefault.jpg' alt='Trump reacciona a Deepseek' />
 </a>
