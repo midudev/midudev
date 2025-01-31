@@ -24,11 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/n8Z8H8MKcOU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/n8Z8H8MKcOU/mqdefault.jpg' alt='¡Guía para entrevistas técnicas de programación!
-
-✓ Patrones de diseño
-✓ Arquitectura de software
-✓' />
+  <img width='30%' src='https://img.youtube.com/vi/n8Z8H8MKcOU/mqdefault.jpg' alt='Guía COMPLETA para entrevistas de programación #software #programacion #javascript' />
 </a>
 <a href='https://youtu.be/73ZQAK_jV0U' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/73ZQAK_jV0U/mqdefault.jpg' alt='JavaScript por fin mejora el manejo de fechas (Adiós Date)' />
@@ -40,12 +36,12 @@ Es gratuita, de código abierto y está al nivel de C' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/OeVNQoJrmX8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OeVNQoJrmX8/mqdefault.jpg' alt='Tienen miedo de Deepseek. ¡LO ESTÁN BANEANDO!' />
+</a>
 <a href='https://youtu.be/dCrWy9lqCfI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dCrWy9lqCfI/mqdefault.jpg' alt='10 perdedores secuestran a CEO de criptomonedas' />
 </a>
 <a href='https://youtu.be/03mMNFmHujU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/03mMNFmHujU/mqdefault.jpg' alt='Trump reacciona a Deepseek' />
-</a>
-<a href='https://youtu.be/MWCRyXaBGJA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MWCRyXaBGJA/mqdefault.jpg' alt='CSS puede eliminar a SASS con esto...' />
 </a>
