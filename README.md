@@ -23,25 +23,26 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Xon1XPn5hDI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Xon1XPn5hDI/mqdefault.jpg' alt='Da igual si eres Programador, Diseñador, Product Manager o hasta Agile Coach.
+
+A esta técnica se le' />
+</a>
 <a href='https://youtu.be/n8Z8H8MKcOU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/n8Z8H8MKcOU/mqdefault.jpg' alt='Guía COMPLETA para entrevistas de programación #software #programacion #javascript' />
 </a>
 <a href='https://youtu.be/73ZQAK_jV0U' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/73ZQAK_jV0U/mqdefault.jpg' alt='JavaScript por fin mejora el manejo de fechas (Adiós Date)' />
 </a>
-<a href='https://youtu.be/spoVuc1P1-w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/spoVuc1P1-w/mqdefault.jpg' alt='¡DeepSeek es la Inteligencia Artificial de moda!
-Es gratuita, de código abierto y está al nivel de C' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/lMU1AQl-vSc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lMU1AQl-vSc/mqdefault.jpg' alt='El trabajo en remoto NO es un error' />
+</a>
 <a href='https://youtu.be/jCWwh-741SM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jCWwh-741SM/mqdefault.jpg' alt='4 AÑOS desarrollando un SO en el navegador (Next.js + Open Source)' />
 </a>
 <a href='https://youtu.be/OeVNQoJrmX8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/OeVNQoJrmX8/mqdefault.jpg' alt='Tienen miedo de Deepseek. ¡LO ESTÁN BANEANDO!' />
-</a>
-<a href='https://youtu.be/dCrWy9lqCfI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/dCrWy9lqCfI/mqdefault.jpg' alt='10 perdedores secuestran a CEO de criptomonedas' />
 </a>
