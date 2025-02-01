@@ -24,9 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/Xon1XPn5hDI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Xon1XPn5hDI/mqdefault.jpg' alt='Da igual si eres Programador, Diseñador, Product Manager o hasta Agile Coach.
-
-A esta técnica se le' />
+  <img width='30%' src='https://img.youtube.com/vi/Xon1XPn5hDI/mqdefault.jpg' alt='Yo aplicando a todas las ofertas en LinkedIn #programming #software #tech' />
 </a>
 <a href='https://youtu.be/n8Z8H8MKcOU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/n8Z8H8MKcOU/mqdefault.jpg' alt='Guía COMPLETA para entrevistas de programación #software #programacion #javascript' />
