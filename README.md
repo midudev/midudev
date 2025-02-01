@@ -23,14 +23,18 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/-_j03b-jlNk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/-_j03b-jlNk/mqdefault.jpg' alt='Las estimaciones son eso: estimaciones.
+
+Por eso, no se pueden tomar como verdades absolutas.
+
+Son m' />
+</a>
 <a href='https://youtu.be/Xon1XPn5hDI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Xon1XPn5hDI/mqdefault.jpg' alt='Yo aplicando a todas las ofertas en LinkedIn #programming #software #tech' />
 </a>
 <a href='https://youtu.be/n8Z8H8MKcOU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/n8Z8H8MKcOU/mqdefault.jpg' alt='Guía COMPLETA para entrevistas de programación #software #programacion #javascript' />
-</a>
-<a href='https://youtu.be/73ZQAK_jV0U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/73ZQAK_jV0U/mqdefault.jpg' alt='JavaScript por fin mejora el manejo de fechas (Adiós Date)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
