@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/mELfpPrsjX4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/mELfpPrsjX4/mqdefault.jpg' alt='Crea un mapa mental para estudiar con IA' />
+</a>
 <a href='https://youtu.be/-_j03b-jlNk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-_j03b-jlNk/mqdefault.jpg' alt='Las estimaciones son eso: estimaciones.
 
@@ -32,9 +35,6 @@ Son m' />
 </a>
 <a href='https://youtu.be/Xon1XPn5hDI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Xon1XPn5hDI/mqdefault.jpg' alt='Yo aplicando a todas las ofertas en LinkedIn #programming #software #tech' />
-</a>
-<a href='https://youtu.be/n8Z8H8MKcOU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/n8Z8H8MKcOU/mqdefault.jpg' alt='Guía COMPLETA para entrevistas de programación #software #programacion #javascript' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
