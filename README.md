@@ -40,12 +40,12 @@ Son m' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/se27Jw3zGo8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/se27Jw3zGo8/mqdefault.jpg' alt='Probé o3-mini' />
+</a>
 <a href='https://youtu.be/oQU27tfUl4o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/oQU27tfUl4o/mqdefault.jpg' alt='Probé Qwen 2.5 para desarrollar sitios web' />
 </a>
 <a href='https://youtu.be/lMU1AQl-vSc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lMU1AQl-vSc/mqdefault.jpg' alt='El trabajo en remoto NO es un error' />
-</a>
-<a href='https://youtu.be/jCWwh-741SM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jCWwh-741SM/mqdefault.jpg' alt='4 AÑOS desarrollando un SO en el navegador (Next.js + Open Source)' />
 </a>
