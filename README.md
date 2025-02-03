@@ -23,6 +23,10 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/5tGXDJg2Cdg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5tGXDJg2Cdg/mqdefault.jpg' alt='¡Por fin vamos a poder dejar de usar Date() en JavaScript!
+Temporal llega para arreglar las fechas e' />
+</a>
 <a href='https://youtu.be/mELfpPrsjX4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mELfpPrsjX4/mqdefault.jpg' alt='Crea un mapa mental para estudiar con IA' />
 </a>
@@ -32,9 +36,6 @@
 Por eso, no se pueden tomar como verdades absolutas.
 
 Son m' />
-</a>
-<a href='https://youtu.be/Xon1XPn5hDI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Xon1XPn5hDI/mqdefault.jpg' alt='Yo aplicando a todas las ofertas en LinkedIn #programming #software #tech' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
