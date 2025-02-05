@@ -23,25 +23,26 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/b2H6RC56XLo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/b2H6RC56XLo/mqdefault.jpg' alt='¿No sabes por dónde empezar a aprender programación? ¡Aquí tienes las mejores guías de estudio.
+
+Est' />
+</a>
 <a href='https://youtu.be/vBXX4s0aAns' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vBXX4s0aAns/mqdefault.jpg' alt='Facebook elimina create-react-app' />
 </a>
 <a href='https://youtu.be/SPkfAGWF6zk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SPkfAGWF6zk/mqdefault.jpg' alt='Hosting base de datos SQL en segundos y gratis' />
 </a>
-<a href='https://youtu.be/5tGXDJg2Cdg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5tGXDJg2Cdg/mqdefault.jpg' alt='¡Por fin vamos a poder dejar de usar Date() en JavaScript!
-Temporal llega para arreglar las fechas e' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/m82IeOmOwRQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/m82IeOmOwRQ/mqdefault.jpg' alt='No hables mal de las empresas' />
+</a>
 <a href='https://youtu.be/4IwsYNKvDNo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4IwsYNKvDNo/mqdefault.jpg' alt='¿El fin de Firefox? Su cuota de mercado baja peligrosamente... (alternativas)' />
 </a>
 <a href='https://youtu.be/Al7G8McIa04' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Al7G8McIa04/mqdefault.jpg' alt='Google.. ¿A que estás jugando?' />
-</a>
-<a href='https://youtu.be/se27Jw3zGo8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/se27Jw3zGo8/mqdefault.jpg' alt='Acabo de probar o3-mini' />
 </a>
