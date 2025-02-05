@@ -37,7 +37,7 @@ Temporal llega para arreglar las fechas e' />
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/4IwsYNKvDNo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4IwsYNKvDNo/mqdefault.jpg' alt='El fin de Firefox tal como lo conocemos (alternativas)' />
+  <img width='30%' src='https://img.youtube.com/vi/4IwsYNKvDNo/mqdefault.jpg' alt='¿El fin de Firefox? Su cuota de mercado baja peligrosamente... (alternativas)' />
 </a>
 <a href='https://youtu.be/Al7G8McIa04' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Al7G8McIa04/mqdefault.jpg' alt='Google.. ¿A que estás jugando?' />
