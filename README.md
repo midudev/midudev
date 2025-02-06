@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/vObqezA3YnQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/vObqezA3YnQ/mqdefault.jpg' alt='Curso para aprender Python en 100 días' />
+</a>
 <a href='https://youtu.be/145_QaxIy5I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/145_QaxIy5I/mqdefault.jpg' alt='Curso WordPress Headless 2025: Guía Completa para Integrar WP con Frameworks JavaScript' />
 </a>
@@ -30,9 +33,6 @@
   <img width='30%' src='https://img.youtube.com/vi/b2H6RC56XLo/mqdefault.jpg' alt='¿No sabes por dónde empezar a aprender programación? ¡Aquí tienes las mejores guías de estudio.
 
 Est' />
-</a>
-<a href='https://youtu.be/vBXX4s0aAns' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vBXX4s0aAns/mqdefault.jpg' alt='Facebook elimina create-react-app' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
