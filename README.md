@@ -37,12 +37,12 @@ Est' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/EVRzSmf2EzA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/EVRzSmf2EzA/mqdefault.jpg' alt='Google acaba de lanzar Gemini 2.0' />
+</a>
 <a href='https://youtu.be/HWO2CoZiaxs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HWO2CoZiaxs/mqdefault.jpg' alt='Node.js vs Hono.js' />
 </a>
 <a href='https://youtu.be/m82IeOmOwRQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/m82IeOmOwRQ/mqdefault.jpg' alt='No hables mal de las empresas' />
-</a>
-<a href='https://youtu.be/4IwsYNKvDNo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4IwsYNKvDNo/mqdefault.jpg' alt='¿El fin de Firefox? Su cuota de mercado baja peligrosamente... (alternativas)' />
 </a>
