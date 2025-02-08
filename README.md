@@ -23,14 +23,16 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/BBCLJpvzAHo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BBCLJpvzAHo/mqdefault.jpg' alt='¡No te compares en programación!
+
+¿Qué sentido tiene compararte con gente que lleva años programando' />
+</a>
 <a href='https://youtu.be/mLenHVyi42Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mLenHVyi42Y/mqdefault.jpg' alt='Este componente de UI es una locura' />
 </a>
 <a href='https://youtu.be/JDLmFWxVuJ8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JDLmFWxVuJ8/mqdefault.jpg' alt='¿Cliente o empresa no te pago por tu trabajo como programador?' />
-</a>
-<a href='https://youtu.be/vObqezA3YnQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vObqezA3YnQ/mqdefault.jpg' alt='Curso para aprender Python en 100 días' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
