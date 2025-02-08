@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/qbPm5LX18eE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qbPm5LX18eE/mqdefault.jpg' alt='El truco para hacerse millonario con ChatGPT y VSCode (no clickbait)' />
+</a>
 <a href='https://youtu.be/uBBiJ4rLvVw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uBBiJ4rLvVw/mqdefault.jpg' alt='Si descargas Deepseek vas a la carcel' />
 </a>
 <a href='https://youtu.be/EVRzSmf2EzA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/EVRzSmf2EzA/mqdefault.jpg' alt='Google acaba de lanzar Gemini 2.0' />
-</a>
-<a href='https://youtu.be/HWO2CoZiaxs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HWO2CoZiaxs/mqdefault.jpg' alt='Node.js vs Hono.js' />
 </a>
