@@ -24,9 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/BBCLJpvzAHo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BBCLJpvzAHo/mqdefault.jpg' alt='¡No te compares en programación!
-
-¿Qué sentido tiene compararte con gente que lleva años programando' />
+  <img width='30%' src='https://img.youtube.com/vi/BBCLJpvzAHo/mqdefault.jpg' alt='¡No te compares en programación!' />
 </a>
 <a href='https://youtu.be/mLenHVyi42Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mLenHVyi42Y/mqdefault.jpg' alt='Este componente de UI es una locura' />
