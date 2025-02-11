@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/0xGW8qhaeQI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0xGW8qhaeQI/mqdefault.jpg' alt='Laravel ahora mezcla PHP con React, Vue y Svelte | Fusion' />
+  <img width='30%' src='https://img.youtube.com/vi/0xGW8qhaeQI/mqdefault.jpg' alt='Laravel ahora mezcla PHP con Frontend Frameworks | Fusion' />
 </a>
 <a href='https://youtu.be/carkzI2Sa9w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/carkzI2Sa9w/mqdefault.jpg' alt='¡Curso de Google para Aprender Testing desde cero!' />
