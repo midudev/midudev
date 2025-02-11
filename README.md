@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/pj66vftqZZM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pj66vftqZZM/mqdefault.jpg' alt='Movistar bloquea Cloudflare en España' />
+</a>
 <a href='https://youtu.be/IWeg36_DA50' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/IWeg36_DA50/mqdefault.jpg' alt='Cambio su rostro con IA en Entrevista de programación' />
 </a>
 <a href='https://youtu.be/qbPm5LX18eE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qbPm5LX18eE/mqdefault.jpg' alt='El truco para hacerse millonario con ChatGPT y VSCode (así lo hace Cursor!)' />
-</a>
-<a href='https://youtu.be/uBBiJ4rLvVw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/uBBiJ4rLvVw/mqdefault.jpg' alt='Empiezan a prohibir DeepSeek en USA' />
 </a>
