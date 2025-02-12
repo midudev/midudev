@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/QIVMWwkOHow' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QIVMWwkOHow/mqdefault.jpg' alt='Proyectos para devs FrontEnd y BackEnd' />
+</a>
 <a href='https://youtu.be/Ft2F4kW6OpQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ft2F4kW6OpQ/mqdefault.jpg' alt='La Nueva API de JavaScript es increíble' />
+  <img width='30%' src='https://img.youtube.com/vi/Ft2F4kW6OpQ/mqdefault.jpg' alt='El nuevo método de JavaScript es increíble' />
 </a>
 <a href='https://youtu.be/0xGW8qhaeQI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0xGW8qhaeQI/mqdefault.jpg' alt='Laravel ahora mezcla PHP con Frontend Frameworks | Fusion' />
 </a>
-<a href='https://youtu.be/carkzI2Sa9w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/carkzI2Sa9w/mqdefault.jpg' alt='¡Curso de Google para Aprender Testing desde cero!' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/uKlNMW2QCng' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/uKlNMW2QCng/mqdefault.jpg' alt='ESTAFA EN STARTUP + conversación' />
+</a>
 <a href='https://youtu.be/KSIj-AyrDOk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/KSIj-AyrDOk/mqdefault.jpg' alt='"Si te gusta el trabajo en remoto eres más JR de lo que crees"' />
 </a>
 <a href='https://youtu.be/c-KV2t_uEyE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/c-KV2t_uEyE/mqdefault.jpg' alt='Elon intenta una adquisición BRUTAL de OpenAI' />
-</a>
-<a href='https://youtu.be/VvFC2qFHrfA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VvFC2qFHrfA/mqdefault.jpg' alt='El programador del sitio web de Kanye West SE ARREPIENTE' />
 </a>
