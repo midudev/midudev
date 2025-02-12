@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/c-KV2t_uEyE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/c-KV2t_uEyE/mqdefault.jpg' alt='Elon intenta una adquisición BRUTAL de OpenAI' />
+</a>
 <a href='https://youtu.be/VvFC2qFHrfA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VvFC2qFHrfA/mqdefault.jpg' alt='El programador del sitio web de Kanye West SE ARREPIENTE' />
 </a>
 <a href='https://youtu.be/pj66vftqZZM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pj66vftqZZM/mqdefault.jpg' alt='Movistar bloquea Cloudflare en España' />
-</a>
-<a href='https://youtu.be/IWeg36_DA50' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/IWeg36_DA50/mqdefault.jpg' alt='Cambio su rostro con IA en Entrevista de programación' />
 </a>
