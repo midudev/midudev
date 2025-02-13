@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/QIVMWwkOHow' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QIVMWwkOHow/mqdefault.jpg' alt='Proyectos para devs FrontEnd y BackEnd' />
+  <img width='30%' src='https://img.youtube.com/vi/QIVMWwkOHow/mqdefault.jpg' alt='Sube de nivel creando proyectos Frontend y Backend #tips #programming #software' />
 </a>
 <a href='https://youtu.be/Ft2F4kW6OpQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ft2F4kW6OpQ/mqdefault.jpg' alt='El nuevo método de JavaScript es increíble' />
