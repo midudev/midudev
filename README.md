@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/sGsNPJGSE_Q' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/sGsNPJGSE_Q/mqdefault.jpg' alt='¡Desarrolla webs Responsive 5 veces más rápido con esto!' />
+</a>
+<a href='https://youtu.be/OHgSb6Z5tks' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OHgSb6Z5tks/mqdefault.jpg' alt='Vapor: La revolución de Vue JS 🤯' />
+</a>
 <a href='https://youtu.be/QIVMWwkOHow' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QIVMWwkOHow/mqdefault.jpg' alt='Sube de nivel creando proyectos Frontend y Backend #tips #programming #software' />
-</a>
-<a href='https://youtu.be/Ft2F4kW6OpQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ft2F4kW6OpQ/mqdefault.jpg' alt='El nuevo método de JavaScript es increíble' />
-</a>
-<a href='https://youtu.be/0xGW8qhaeQI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0xGW8qhaeQI/mqdefault.jpg' alt='Laravel ahora mezcla PHP con Frontend Frameworks | Fusion' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
