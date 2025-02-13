@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/_MZO3Deb9oY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_MZO3Deb9oY/mqdefault.jpg' alt='Francia está humillando la IA de China y Estados Unidos' />
+</a>
 <a href='https://youtu.be/uKlNMW2QCng' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uKlNMW2QCng/mqdefault.jpg' alt='ESTAFA EN STARTUP + conversación' />
 </a>
 <a href='https://youtu.be/KSIj-AyrDOk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/KSIj-AyrDOk/mqdefault.jpg' alt='"Si te gusta el trabajo en remoto eres más JR de lo que crees"' />
-</a>
-<a href='https://youtu.be/c-KV2t_uEyE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/c-KV2t_uEyE/mqdefault.jpg' alt='Elon intenta una adquisición BRUTAL de OpenAI' />
 </a>
