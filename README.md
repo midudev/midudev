@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/_MZO3Deb9oY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_MZO3Deb9oY/mqdefault.jpg' alt='Francia está humillando la IA de China y Estados Unidos' />
+  <img width='30%' src='https://img.youtube.com/vi/_MZO3Deb9oY/mqdefault.jpg' alt='Francia saca una IA al nivel de China y Estados Unidos' />
 </a>
 <a href='https://youtu.be/uKlNMW2QCng' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uKlNMW2QCng/mqdefault.jpg' alt='ESTAFA EN STARTUP + conversación' />
