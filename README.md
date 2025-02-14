@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/PcyJtX8gBPI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PcyJtX8gBPI/mqdefault.jpg' alt='Dame 2 minutos de tu tiempo y te ahorraré el Burnout' />
+</a>
 <a href='https://youtu.be/sGsNPJGSE_Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/sGsNPJGSE_Q/mqdefault.jpg' alt='¡Desarrolla webs Responsive 5 veces más rápido con esto!' />
 </a>
 <a href='https://youtu.be/OHgSb6Z5tks' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/OHgSb6Z5tks/mqdefault.jpg' alt='Vapor: La revolución de Vue JS 🤯' />
 </a>
-<a href='https://youtu.be/QIVMWwkOHow' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QIVMWwkOHow/mqdefault.jpg' alt='Sube de nivel creando proyectos Frontend y Backend #tips #programming #software' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/WTHmGeW-yoM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/WTHmGeW-yoM/mqdefault.jpg' alt='Bandai Namco despide de la peor forma a sus empleados #gaming #programming #software' />
+</a>
 <a href='https://youtu.be/_MZO3Deb9oY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_MZO3Deb9oY/mqdefault.jpg' alt='Francia saca una IA al nivel de China y Estados Unidos' />
 </a>
 <a href='https://youtu.be/uKlNMW2QCng' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uKlNMW2QCng/mqdefault.jpg' alt='ESTAFA EN STARTUP + conversación' />
-</a>
-<a href='https://youtu.be/KSIj-AyrDOk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/KSIj-AyrDOk/mqdefault.jpg' alt='"Si te gusta el trabajo en remoto eres más JR de lo que crees"' />
 </a>
