@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/BdPlhIcJBzc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BdPlhIcJBzc/mqdefault.jpg' alt='Herramienta para revisar el rendimiento de tu web completo' />
+</a>
+<a href='https://youtu.be/g8eoq9b7U2c' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/g8eoq9b7U2c/mqdefault.jpg' alt='40 Preguntas y respuestas Interesantes' />
+</a>
 <a href='https://youtu.be/PcyJtX8gBPI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/PcyJtX8gBPI/mqdefault.jpg' alt='Dame 2 minutos de tu tiempo y te ahorraré el Burnout' />
-</a>
-<a href='https://youtu.be/sGsNPJGSE_Q' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/sGsNPJGSE_Q/mqdefault.jpg' alt='¡Desarrolla webs Responsive 5 veces más rápido con esto!' />
-</a>
-<a href='https://youtu.be/OHgSb6Z5tks' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/OHgSb6Z5tks/mqdefault.jpg' alt='Vapor: La revolución de Vue JS 🤯' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
