@@ -23,24 +23,26 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/--d0wyS2Vz8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/--d0wyS2Vz8/mqdefault.jpg' alt='Malas noticias para Ionic' />
+</a>
+<a href='https://youtu.be/A9VKYm5GPCY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/A9VKYm5GPCY/mqdefault.jpg' alt='Curso + Certificación de Python de IBM sin coste.
+
+De Programación General hasta Machine Learning o' />
+</a>
 <a href='https://youtu.be/BdPlhIcJBzc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/BdPlhIcJBzc/mqdefault.jpg' alt='Herramienta para revisar el rendimiento de tu web completo' />
-</a>
-<a href='https://youtu.be/g8eoq9b7U2c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/g8eoq9b7U2c/mqdefault.jpg' alt='40 Preguntas y respuestas Interesantes' />
-</a>
-<a href='https://youtu.be/PcyJtX8gBPI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PcyJtX8gBPI/mqdefault.jpg' alt='Dame 2 minutos de tu tiempo y te ahorraré el Burnout' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/pEREuWkesrQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pEREuWkesrQ/mqdefault.jpg' alt='"Los nuevos JR Devs no saben programar" (Gracias IA)' />
+</a>
 <a href='https://youtu.be/ixxTWBFaoU8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ixxTWBFaoU8/mqdefault.jpg' alt='La ESTAFA que JAVIER MILEI difundió: el caso $LIBRA' />
 </a>
 <a href='https://youtu.be/8FWeiFRRpeA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8FWeiFRRpeA/mqdefault.jpg' alt='Las ofertas de trabajo se infiltran en mi discord 💩' />
-</a>
-<a href='https://youtu.be/WTHmGeW-yoM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WTHmGeW-yoM/mqdefault.jpg' alt='Bandai Namco despide de la peor forma a sus empleados #gaming #programming #software' />
 </a>
