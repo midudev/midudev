@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/--d0wyS2Vz8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/--d0wyS2Vz8/mqdefault.jpg' alt='Malas noticias para Ionic' />
+  <img width='30%' src='https://img.youtube.com/vi/--d0wyS2Vz8/mqdefault.jpg' alt='Malas noticias para Ionic (alternativas)' />
 </a>
 <a href='https://youtu.be/A9VKYm5GPCY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/A9VKYm5GPCY/mqdefault.jpg' alt='Curso + Certificación de Python de IBM sin coste.
