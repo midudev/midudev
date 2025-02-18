@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/ixxTWBFaoU8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ixxTWBFaoU8/mqdefault.jpg' alt='La ESTAFA que JAVIER MILEI promocionó: el caso $LIBRA' />
+</a>
 <a href='https://youtu.be/8FWeiFRRpeA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8FWeiFRRpeA/mqdefault.jpg' alt='Las ofertas de trabajo se infiltran en mi discord 💩' />
 </a>
 <a href='https://youtu.be/WTHmGeW-yoM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/WTHmGeW-yoM/mqdefault.jpg' alt='Bandai Namco despide de la peor forma a sus empleados #gaming #programming #software' />
-</a>
-<a href='https://youtu.be/_MZO3Deb9oY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_MZO3Deb9oY/mqdefault.jpg' alt='Francia saca una IA al nivel de China y Estados Unidos' />
 </a>
