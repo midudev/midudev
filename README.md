@@ -37,12 +37,12 @@ De Programación General hasta Machine Learning o' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/W9NWlemBK44' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/W9NWlemBK44/mqdefault.jpg' alt='Milei sobre el escándalo de la criptomoneda Libra #milei #bitcoin' />
+</a>
+<a href='https://youtu.be/RG8f4H8XYBU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/RG8f4H8XYBU/mqdefault.jpg' alt='Cloudflare BANEADO en España' />
+</a>
 <a href='https://youtu.be/pEREuWkesrQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pEREuWkesrQ/mqdefault.jpg' alt='"Los nuevos JR Devs no saben programar" (Gracias IA)' />
-</a>
-<a href='https://youtu.be/ixxTWBFaoU8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ixxTWBFaoU8/mqdefault.jpg' alt='La ESTAFA que JAVIER MILEI difundió: el caso $LIBRA' />
-</a>
-<a href='https://youtu.be/8FWeiFRRpeA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8FWeiFRRpeA/mqdefault.jpg' alt='Las ofertas de trabajo se infiltran en mi discord 💩' />
 </a>
