@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/FwS0npq05GQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/FwS0npq05GQ/mqdefault.jpg' alt='Bootcamp FullStack de la Universidad de Helsinki a 0 euros' />
+</a>
 <a href='https://youtu.be/--d0wyS2Vz8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/--d0wyS2Vz8/mqdefault.jpg' alt='Malas noticias para Ionic (alternativas)' />
 </a>
@@ -31,18 +34,15 @@
 
 De Programación General hasta Machine Learning o' />
 </a>
-<a href='https://youtu.be/BdPlhIcJBzc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BdPlhIcJBzc/mqdefault.jpg' alt='Herramienta para revisar el rendimiento de tu web completo' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Aq22T1Q_P04' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Aq22T1Q_P04/mqdefault.jpg' alt='Programadores humillan a Elon Musk' />
+</a>
 <a href='https://youtu.be/RbjcHyhQwd8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RbjcHyhQwd8/mqdefault.jpg' alt='Se confirma LO MEJOR para ChatGPT-5' />
 </a>
 <a href='https://youtu.be/W9NWlemBK44' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/W9NWlemBK44/mqdefault.jpg' alt='Milei sobre el escándalo de la criptomoneda Libra #milei #shorts #software' />
-</a>
-<a href='https://youtu.be/RG8f4H8XYBU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RG8f4H8XYBU/mqdefault.jpg' alt='Cloudflare BANEADO en España' />
 </a>
