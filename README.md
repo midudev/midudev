@@ -23,16 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/6rcrRckkdWA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6rcrRckkdWA/mqdefault.jpg' alt='¡Colección de ICONOS animados para tu WEB!' />
+</a>
+<a href='https://youtu.be/J104WPJVYWM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/J104WPJVYWM/mqdefault.jpg' alt='La comunidad está molesta con React' />
+</a>
 <a href='https://youtu.be/FwS0npq05GQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FwS0npq05GQ/mqdefault.jpg' alt='Bootcamp FullStack de la Universidad de Helsinki a 0 euros' />
-</a>
-<a href='https://youtu.be/--d0wyS2Vz8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/--d0wyS2Vz8/mqdefault.jpg' alt='Malas noticias para Ionic (alternativas)' />
-</a>
-<a href='https://youtu.be/A9VKYm5GPCY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/A9VKYm5GPCY/mqdefault.jpg' alt='Curso + Certificación de Python de IBM sin coste.
-
-De Programación General hasta Machine Learning o' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
