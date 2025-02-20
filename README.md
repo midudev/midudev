@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/JaGHWI6ilSY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/JaGHWI6ilSY/mqdefault.jpg' alt='El 99% de programadores #software #programming #shorts #developer' />
+</a>
 <a href='https://youtu.be/Aq22T1Q_P04' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Aq22T1Q_P04/mqdefault.jpg' alt='Programadores humillan a Elon Musk' />
 </a>
 <a href='https://youtu.be/RbjcHyhQwd8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RbjcHyhQwd8/mqdefault.jpg' alt='Se confirma LO MEJOR para ChatGPT-5' />
-</a>
-<a href='https://youtu.be/W9NWlemBK44' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/W9NWlemBK44/mqdefault.jpg' alt='Milei sobre el escándalo de la criptomoneda Libra #milei #shorts #software' />
 </a>
