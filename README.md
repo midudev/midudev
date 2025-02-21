@@ -37,12 +37,12 @@ Yo he tenido tantas... La buena noticia es' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/qI_j3_ztqk0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qI_j3_ztqk0/mqdefault.jpg' alt='iPhone 16e ¿calidad/precio? #apple #samsung #iphone #software #shorts' />
+</a>
 <a href='https://youtu.be/j7jJG09ssuY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/j7jJG09ssuY/mqdefault.jpg' alt='El peor producto de IA jamás creado por humanos ha muerto' />
 </a>
 <a href='https://youtu.be/MrVpDx3aN-k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MrVpDx3aN-k/mqdefault.jpg' alt='Probé la IA de Elon Musk | Grok 3' />
-</a>
-<a href='https://youtu.be/JaGHWI6ilSY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/JaGHWI6ilSY/mqdefault.jpg' alt='El 99% de programadores #software #programming #shorts #developer' />
 </a>
