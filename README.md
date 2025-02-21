@@ -23,24 +23,26 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/_7DF9j1E2co' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_7DF9j1E2co/mqdefault.jpg' alt='El daño de Shadcn en el desarrollo Frontend' />
+</a>
+<a href='https://youtu.be/brNbwyVd_wM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/brNbwyVd_wM/mqdefault.jpg' alt='¿Cuál es el peor error que has cometido en programación?
+
+Yo he tenido tantas... La buena noticia es' />
+</a>
 <a href='https://youtu.be/6rcrRckkdWA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6rcrRckkdWA/mqdefault.jpg' alt='¡Colección de ICONOS animados para tu WEB!' />
-</a>
-<a href='https://youtu.be/J104WPJVYWM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/J104WPJVYWM/mqdefault.jpg' alt='La comunidad está molesta con React' />
-</a>
-<a href='https://youtu.be/FwS0npq05GQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FwS0npq05GQ/mqdefault.jpg' alt='Bootcamp FullStack de la Universidad de Helsinki a 0 euros' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/j7jJG09ssuY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/j7jJG09ssuY/mqdefault.jpg' alt='El peor producto de IA jamás creado por humanos ha muerto' />
+</a>
 <a href='https://youtu.be/MrVpDx3aN-k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MrVpDx3aN-k/mqdefault.jpg' alt='Probé la IA de Elon Musk | Grok 3' />
 </a>
 <a href='https://youtu.be/JaGHWI6ilSY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JaGHWI6ilSY/mqdefault.jpg' alt='El 99% de programadores #software #programming #shorts #developer' />
-</a>
-<a href='https://youtu.be/Aq22T1Q_P04' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Aq22T1Q_P04/mqdefault.jpg' alt='Programadores humillan a Elon Musk' />
 </a>
