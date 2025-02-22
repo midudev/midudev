@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Ib7-tE35xNY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Ib7-tE35xNY/mqdefault.jpg' alt='Escucha esto si eres programador y estás agobiado' />
+</a>
 <a href='https://youtu.be/_7DF9j1E2co' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_7DF9j1E2co/mqdefault.jpg' alt='El daño de Shadcn en el desarrollo Frontend' />
 </a>
@@ -31,9 +34,6 @@
 
 Yo he tenido tantas... La buena noticia es' />
 </a>
-<a href='https://youtu.be/6rcrRckkdWA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6rcrRckkdWA/mqdefault.jpg' alt='¡Colección de ICONOS animados para tu WEB!' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
@@ -41,7 +41,7 @@ Yo he tenido tantas... La buena noticia es' />
   <img width='30%' src='https://img.youtube.com/vi/2RzMNrTndsk/mqdefault.jpg' alt='"Cursor IA arruinó mis 4 meses de trabajo"' />
 </a>
 <a href='https://youtu.be/qI_j3_ztqk0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qI_j3_ztqk0/mqdefault.jpg' alt='iPhone 16e ¿calidad/precio? #apple #samsung #iphone #software #shorts' />
+  <img width='30%' src='https://img.youtube.com/vi/qI_j3_ztqk0/mqdefault.jpg' alt='iPhone 16e BARATO #apple #samsung #iphone #software #shorts' />
 </a>
 <a href='https://youtu.be/j7jJG09ssuY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/j7jJG09ssuY/mqdefault.jpg' alt='El peor producto de IA jamás creado por humanos ha muerto' />
