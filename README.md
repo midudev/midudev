@@ -37,12 +37,12 @@ Yo he tenido tantas... La buena noticia es' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/lsbLkONj-68' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lsbLkONj-68/mqdefault.jpg' alt='¿Me voy a Kick? Necesito tu opinión…' />
+</a>
 <a href='https://youtu.be/2RzMNrTndsk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2RzMNrTndsk/mqdefault.jpg' alt='"Cursor IA arruinó mis 4 meses de trabajo"' />
 </a>
 <a href='https://youtu.be/qI_j3_ztqk0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qI_j3_ztqk0/mqdefault.jpg' alt='Nuevo iPhone 16e ¿Calidad/Precio? #apple #samsung #iphone #software #shorts' />
-</a>
-<a href='https://youtu.be/j7jJG09ssuY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/j7jJG09ssuY/mqdefault.jpg' alt='El peor producto de IA jamás creado por humanos ha muerto' />
 </a>
