@@ -41,7 +41,7 @@ Yo he tenido tantas... La buena noticia es' />
   <img width='30%' src='https://img.youtube.com/vi/2RzMNrTndsk/mqdefault.jpg' alt='"Cursor IA arruinó mis 4 meses de trabajo"' />
 </a>
 <a href='https://youtu.be/qI_j3_ztqk0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qI_j3_ztqk0/mqdefault.jpg' alt='iPhone 16e BARATO #apple #samsung #iphone #software #shorts' />
+  <img width='30%' src='https://img.youtube.com/vi/qI_j3_ztqk0/mqdefault.jpg' alt='Nuevo iPhone 16e ¿Calidad/Precio? #apple #samsung #iphone #software #shorts' />
 </a>
 <a href='https://youtu.be/j7jJG09ssuY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/j7jJG09ssuY/mqdefault.jpg' alt='El peor producto de IA jamás creado por humanos ha muerto' />
