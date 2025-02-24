@@ -23,16 +23,18 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/n_BomT44QLI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/n_BomT44QLI/mqdefault.jpg' alt='Trucazo de GitHub que poca gente conoce.
+
+Crea mejores READMEs para tus proyectos o tu perfil.
+
+Son' />
+</a>
+<a href='https://youtu.be/7Qpq4Hcb62U' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7Qpq4Hcb62U/mqdefault.jpg' alt='El drama de Create React App evolucionó' />
+</a>
 <a href='https://youtu.be/Ib7-tE35xNY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ib7-tE35xNY/mqdefault.jpg' alt='Escucha esto si eres programador y estás agobiado' />
-</a>
-<a href='https://youtu.be/_7DF9j1E2co' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_7DF9j1E2co/mqdefault.jpg' alt='El daño de Shadcn en el desarrollo Frontend' />
-</a>
-<a href='https://youtu.be/brNbwyVd_wM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/brNbwyVd_wM/mqdefault.jpg' alt='¿Cuál es el peor error que has cometido en programación?
-
-Yo he tenido tantas... La buena noticia es' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
