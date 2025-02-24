@@ -39,12 +39,12 @@ Son' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/5q4tP2Czd-g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5q4tP2Czd-g/mqdefault.jpg' alt='Microsoft ¿Qué es esto?' />
+</a>
 <a href='https://youtu.be/lsbLkONj-68' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lsbLkONj-68/mqdefault.jpg' alt='¿Me voy a Kick? Necesito tu opinión…' />
 </a>
 <a href='https://youtu.be/2RzMNrTndsk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2RzMNrTndsk/mqdefault.jpg' alt='"Cursor IA arruinó mis 4 meses de trabajo"' />
-</a>
-<a href='https://youtu.be/qI_j3_ztqk0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qI_j3_ztqk0/mqdefault.jpg' alt='Nuevo iPhone 16e ¿Calidad/Precio? #apple #samsung #iphone #software #shorts' />
 </a>
