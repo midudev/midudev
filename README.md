@@ -23,28 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/n_BomT44QLI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/n_BomT44QLI/mqdefault.jpg' alt='Trucazo de GitHub que poca gente conoce.
-
-Crea mejores READMEs para tus proyectos o tu perfil.
-
-Son' />
+<a href='https://youtu.be/mLQ6Ody6tiw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/mLQ6Ody6tiw/mqdefault.jpg' alt='¡Curso oficial de Microsoft de Python + IA!' />
 </a>
-<a href='https://youtu.be/7Qpq4Hcb62U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7Qpq4Hcb62U/mqdefault.jpg' alt='El drama de Create React App evolucionó' />
+<a href='https://youtu.be/5yc-SxylSec' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5yc-SxylSec/mqdefault.jpg' alt='El truco para crear animaciones de scroll sin JavaScript' />
 </a>
-<a href='https://youtu.be/Ib7-tE35xNY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ib7-tE35xNY/mqdefault.jpg' alt='Escucha esto si eres programador y estás agobiado' />
+<a href='https://youtu.be/ouUabY4d1DY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ouUabY4d1DY/mqdefault.jpg' alt='Aprende SQL y base de datos de forma práctica' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/O4JT7iWIoxg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/O4JT7iWIoxg/mqdefault.jpg' alt='El mayor robo del siglo de las criptomonedas' />
+</a>
 <a href='https://youtu.be/5q4tP2Czd-g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5q4tP2Czd-g/mqdefault.jpg' alt='Microsoft ¿Qué es esto?' />
 </a>
 <a href='https://youtu.be/lsbLkONj-68' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lsbLkONj-68/mqdefault.jpg' alt='¿Me voy a Kick? Necesito tu opinión…' />
-</a>
-<a href='https://youtu.be/2RzMNrTndsk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2RzMNrTndsk/mqdefault.jpg' alt='"Cursor IA arruinó mis 4 meses de trabajo"' />
 </a>
