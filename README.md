@@ -23,24 +23,27 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/9iPKhcYKuaA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9iPKhcYKuaA/mqdefault.jpg' alt='El peligro de las extensiones de VSCode' />
+</a>
+<a href='https://youtu.be/6rneEv_k6R0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6rneEv_k6R0/mqdefault.jpg' alt='¿Te cuesta el CSS y el diseño de tu web?
+¡Este recurso te va a facilitar la vida!
+
+Crea layouts con' />
+</a>
 <a href='https://youtu.be/mLQ6Ody6tiw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mLQ6Ody6tiw/mqdefault.jpg' alt='¡Curso oficial de Microsoft de Python + IA!' />
-</a>
-<a href='https://youtu.be/5yc-SxylSec' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5yc-SxylSec/mqdefault.jpg' alt='Truco para crear animaciones de scroll sin JavaScript' />
-</a>
-<a href='https://youtu.be/ouUabY4d1DY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ouUabY4d1DY/mqdefault.jpg' alt='Aprende SQL y base de datos de forma práctica' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/RX1mWO26IUM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/RX1mWO26IUM/mqdefault.jpg' alt='Claude 3.7: El mejor modelo de IA para devs' />
+</a>
 <a href='https://youtu.be/G0Vb43HlTPI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/G0Vb43HlTPI/mqdefault.jpg' alt='Nuevo navegador con IA de Perplexity (lo siento, Chrome)' />
 </a>
 <a href='https://youtu.be/O4JT7iWIoxg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/O4JT7iWIoxg/mqdefault.jpg' alt='El mayor robo del siglo de las criptomonedas' />
-</a>
-<a href='https://youtu.be/5q4tP2Czd-g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5q4tP2Czd-g/mqdefault.jpg' alt='Microsoft ¿Qué es esto?' />
 </a>
