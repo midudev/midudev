@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/G0Vb43HlTPI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/G0Vb43HlTPI/mqdefault.jpg' alt='Nuevo navegador con IA' />
+  <img width='30%' src='https://img.youtube.com/vi/G0Vb43HlTPI/mqdefault.jpg' alt='Nuevo navegador con IA de Perplexity (lo siento, Chrome)' />
 </a>
 <a href='https://youtu.be/O4JT7iWIoxg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/O4JT7iWIoxg/mqdefault.jpg' alt='El mayor robo del siglo de las criptomonedas' />
