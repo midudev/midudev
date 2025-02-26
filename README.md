@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/9iPKhcYKuaA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9iPKhcYKuaA/mqdefault.jpg' alt='El peligro de las extensiones de VSCode' />
+  <img width='30%' src='https://img.youtube.com/vi/9iPKhcYKuaA/mqdefault.jpg' alt='VSCode tiene extensiones peligrosas' />
 </a>
 <a href='https://youtu.be/6rneEv_k6R0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6rneEv_k6R0/mqdefault.jpg' alt='¿Te cuesta el CSS y el diseño de tu web?
@@ -38,12 +38,12 @@ Crea layouts con' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/7YUbnNhA5Lw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7YUbnNhA5Lw/mqdefault.jpg' alt='El fin de trabajo en remoto' />
+</a>
 <a href='https://youtu.be/RX1mWO26IUM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RX1mWO26IUM/mqdefault.jpg' alt='Claude 3.7: El mejor modelo de IA para devs' />
 </a>
 <a href='https://youtu.be/G0Vb43HlTPI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/G0Vb43HlTPI/mqdefault.jpg' alt='Nuevo navegador con IA de Perplexity (lo siento, Chrome)' />
-</a>
-<a href='https://youtu.be/O4JT7iWIoxg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/O4JT7iWIoxg/mqdefault.jpg' alt='El mayor robo del siglo de las criptomonedas' />
 </a>
