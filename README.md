@@ -42,7 +42,7 @@ Crea layouts con' />
   <img width='30%' src='https://img.youtube.com/vi/epACUTzTfK4/mqdefault.jpg' alt='Astronauta experto humilla a Elon Musk #spacex #elonmusk #shorts #short' />
 </a>
 <a href='https://youtu.be/7YUbnNhA5Lw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7YUbnNhA5Lw/mqdefault.jpg' alt='El fin de trabajo en remoto' />
+  <img width='30%' src='https://img.youtube.com/vi/7YUbnNhA5Lw/mqdefault.jpg' alt='El fin de trabajo en remoto. ¿Se festeja y se celebra? El caso de Bigbox.' />
 </a>
 <a href='https://youtu.be/RX1mWO26IUM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RX1mWO26IUM/mqdefault.jpg' alt='Claude 3.7: El mejor modelo de IA para devs' />
