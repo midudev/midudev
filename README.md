@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ODyw8sLbp3w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ODyw8sLbp3w/mqdefault.jpg' alt='Comparte tu localhost con Visual Studio Code' />
+</a>
 <a href='https://youtu.be/9iPKhcYKuaA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9iPKhcYKuaA/mqdefault.jpg' alt='VSCode tiene extensiones peligrosas' />
 </a>
@@ -32,18 +35,15 @@
 
 Crea layouts con' />
 </a>
-<a href='https://youtu.be/mLQ6Ody6tiw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mLQ6Ody6tiw/mqdefault.jpg' alt='¡Curso oficial de Microsoft de Python + IA!' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/_0riAO_kRwo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_0riAO_kRwo/mqdefault.jpg' alt='Astronauta experto humilla a Elon Musk' />
+</a>
 <a href='https://youtu.be/epACUTzTfK4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/epACUTzTfK4/mqdefault.jpg' alt='Astronauta experto humilla a Elon Musk #spacex #elonmusk #shorts #short' />
 </a>
 <a href='https://youtu.be/7YUbnNhA5Lw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7YUbnNhA5Lw/mqdefault.jpg' alt='El fin de trabajo en remoto. ¿Se festeja y se celebra? El caso de Bigbox.' />
-</a>
-<a href='https://youtu.be/RX1mWO26IUM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RX1mWO26IUM/mqdefault.jpg' alt='Claude 3.7: El mejor modelo de IA para devs' />
 </a>
