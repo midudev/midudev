@@ -39,7 +39,7 @@ Crea layouts con' />
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/epACUTzTfK4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/epACUTzTfK4/mqdefault.jpg' alt='Elon Musk VS Astronauta #spacex #elonmusk #shorts #short' />
+  <img width='30%' src='https://img.youtube.com/vi/epACUTzTfK4/mqdefault.jpg' alt='Astronauta experto humilla a Elon Musk #spacex #elonmusk #shorts #short' />
 </a>
 <a href='https://youtu.be/7YUbnNhA5Lw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7YUbnNhA5Lw/mqdefault.jpg' alt='El fin de trabajo en remoto' />
