@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/yjNjU-nGE7w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/yjNjU-nGE7w/mqdefault.jpg' alt='JSCONF España 2025 - Conferencia de JavaScript de Programación y Desarrollo' />
+</a>
+<a href='https://youtu.be/Nngm8C5XCOs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Nngm8C5XCOs/mqdefault.jpg' alt='JSCONF España 2025 - Conferencia de JavaScript de Programación y Desarrollo' />
+</a>
 <a href='https://youtu.be/CD3fe4sXM70' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CD3fe4sXM70/mqdefault.jpg' alt='Todas las novedades importantes del Desarrollo web Frontend 2025' />
-</a>
-<a href='https://youtu.be/ODyw8sLbp3w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ODyw8sLbp3w/mqdefault.jpg' alt='Comparte tu localhost con Visual Studio Code' />
-</a>
-<a href='https://youtu.be/9iPKhcYKuaA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9iPKhcYKuaA/mqdefault.jpg' alt='VSCode tiene extensiones peligrosas' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/UqKdDIBhs1w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/UqKdDIBhs1w/mqdefault.jpg' alt='El sucio secreto de Elon y Trump' />
+</a>
 <a href='https://youtu.be/BjDCviOQCUQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/BjDCviOQCUQ/mqdefault.jpg' alt='Un día en la vida de un software engineer en Microsoft' />
 </a>
 <a href='https://youtu.be/_0riAO_kRwo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_0riAO_kRwo/mqdefault.jpg' alt='Astronauta experto humilla a Elon Musk' />
-</a>
-<a href='https://youtu.be/epACUTzTfK4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/epACUTzTfK4/mqdefault.jpg' alt='Astronauta humilla a Elon Musk #spacex #elonmusk #shorts #shorts' />
 </a>
