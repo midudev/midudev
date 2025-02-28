@@ -23,17 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/CD3fe4sXM70' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CD3fe4sXM70/mqdefault.jpg' alt='Todas las novedades importantes del Desarrollo web Frontend 2025' />
+</a>
 <a href='https://youtu.be/ODyw8sLbp3w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ODyw8sLbp3w/mqdefault.jpg' alt='Comparte tu localhost con Visual Studio Code' />
 </a>
 <a href='https://youtu.be/9iPKhcYKuaA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9iPKhcYKuaA/mqdefault.jpg' alt='VSCode tiene extensiones peligrosas' />
-</a>
-<a href='https://youtu.be/6rneEv_k6R0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6rneEv_k6R0/mqdefault.jpg' alt='¿Te cuesta el CSS y el diseño de tu web?
-¡Este recurso te va a facilitar la vida!
-
-Crea layouts con' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
