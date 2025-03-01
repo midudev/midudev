@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/yjNjU-nGE7w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/yjNjU-nGE7w/mqdefault.jpg' alt='JSCONF España 2025 - Conferencia de JavaScript de Programación y Desarrollo' />
+</a>
 <a href='https://youtu.be/pY_4ho8eNdM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pY_4ho8eNdM/mqdefault.jpg' alt='10 bibliotecas de iconos increíbles' />
 </a>
@@ -30,9 +33,6 @@
   <img width='30%' src='https://img.youtube.com/vi/o-rq1bjBAbw/mqdefault.jpg' alt='¡Colección de APIs para programadores sin pago!
 
 Compatibles con distintos lenguajes de programación' />
-</a>
-<a href='https://youtu.be/yjNjU-nGE7w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/yjNjU-nGE7w/mqdefault.jpg' alt='JSCONF España 2025 - Conferencia de JavaScript de Programación y Desarrollo' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
