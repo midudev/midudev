@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/pY_4ho8eNdM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pY_4ho8eNdM/mqdefault.jpg' alt='Top 10 bibliotecas de iconos que necesitas conocer' />
+  <img width='30%' src='https://img.youtube.com/vi/pY_4ho8eNdM/mqdefault.jpg' alt='10 bibliotecas de iconos increíbles' />
 </a>
 <a href='https://youtu.be/o-rq1bjBAbw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/o-rq1bjBAbw/mqdefault.jpg' alt='¡Colección de APIs para programadores sin pago!
