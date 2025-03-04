@@ -23,24 +23,26 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/tLtvkkQairI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/tLtvkkQairI/mqdefault.jpg' alt='VSCode Elimina la extensión de Material Theme' />
+</a>
+<a href='https://youtu.be/9RfAXbrzV34' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9RfAXbrzV34/mqdefault.jpg' alt='¡No uses el iframe de YouTube directamente en tu página web!
+
+Tiene un impacto muy negativo en el re' />
+</a>
 <a href='https://youtu.be/DuFuRX3gi1s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DuFuRX3gi1s/mqdefault.jpg' alt='Uno de los errores más típicos entre programadores. ¡No leer la documentación!' />
-</a>
-<a href='https://youtu.be/yjNjU-nGE7w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/yjNjU-nGE7w/mqdefault.jpg' alt='JSCONF España 2025 - Conferencia de JavaScript de Programación y Desarrollo' />
-</a>
-<a href='https://youtu.be/pY_4ho8eNdM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pY_4ho8eNdM/mqdefault.jpg' alt='10 bibliotecas de iconos increíbles' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Sq5EoFK-U9M' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Sq5EoFK-U9M/mqdefault.jpg' alt='OpenAI tenemos que hablar' />
+</a>
 <a href='https://youtu.be/5gyovzqG2no' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5gyovzqG2no/mqdefault.jpg' alt='Cómo pasar pruebas técnicas de código en modo fácil' />
 </a>
 <a href='https://youtu.be/UqKdDIBhs1w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UqKdDIBhs1w/mqdefault.jpg' alt='El sucio secreto de Elon y Trump' />
-</a>
-<a href='https://youtu.be/BjDCviOQCUQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BjDCviOQCUQ/mqdefault.jpg' alt='Un día en la vida de un software engineer en Microsoft' />
 </a>
