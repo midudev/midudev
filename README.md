@@ -37,12 +37,12 @@ Tiene un impacto muy negativo en el re' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/txPZC5EvVo0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/txPZC5EvVo0/mqdefault.jpg' alt='No somos un yogur con fecha de caducidad #software #programming #old #shorts #short' />
+</a>
 <a href='https://youtu.be/Sq5EoFK-U9M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Sq5EoFK-U9M/mqdefault.jpg' alt='OpenAI tenemos que hablar' />
 </a>
 <a href='https://youtu.be/5gyovzqG2no' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5gyovzqG2no/mqdefault.jpg' alt='Cómo pasar pruebas técnicas de código en modo fácil' />
-</a>
-<a href='https://youtu.be/UqKdDIBhs1w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UqKdDIBhs1w/mqdefault.jpg' alt='El sucio secreto de Elon y Trump' />
 </a>
