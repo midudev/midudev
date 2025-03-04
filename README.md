@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/5gyovzqG2no' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5gyovzqG2no/mqdefault.jpg' alt='Cómo HACKEAR pruebas técnicas de grandes tecnológicas (FAANG)' />
+  <img width='30%' src='https://img.youtube.com/vi/5gyovzqG2no/mqdefault.jpg' alt='Cómo pasar pruebas técnicas de código en modo fácil' />
 </a>
 <a href='https://youtu.be/UqKdDIBhs1w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UqKdDIBhs1w/mqdefault.jpg' alt='El sucio secreto de Elon y Trump' />
