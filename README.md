@@ -23,30 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/glW-7qbeI4s' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/glW-7qbeI4s/mqdefault.jpg' alt='Creando sitio web OFICIAL de LOLA LOLITA desde CERO' />
+</a>
 <a href='https://youtu.be/PvD7P0PFk8U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PvD7P0PFk8U/mqdefault.jpg' alt='¿Eres demasiado viejo para ser programador?
-
-¿Tienes 25? ¿35? ¿40? ¿50? Ah...
-
-Discriminar por edad' />
+  <img width='30%' src='https://img.youtube.com/vi/PvD7P0PFk8U/mqdefault.jpg' alt='¿Eres demasiado viejo para ser programador?' />
 </a>
 <a href='https://youtu.be/tLtvkkQairI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tLtvkkQairI/mqdefault.jpg' alt='VSCode Elimina la extensión de Material Theme' />
 </a>
-<a href='https://youtu.be/9RfAXbrzV34' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9RfAXbrzV34/mqdefault.jpg' alt='¡No uses el iframe de YouTube directamente en tu página web!
-
-Tiene un impacto muy negativo en el re' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/8tufiwUFk_o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8tufiwUFk_o/mqdefault.jpg' alt='El mejor asistente de voz casi REAL (lo siento, OpenAI)' />
+</a>
 <a href='https://youtu.be/ZS58T8xPkWA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZS58T8xPkWA/mqdefault.jpg' alt='Chema Alonso está en problemas' />
 </a>
 <a href='https://youtu.be/5hlW5RKYxQk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5hlW5RKYxQk/mqdefault.jpg' alt='¿Es momento de cambiar de navegador web?' />
-</a>
-<a href='https://youtu.be/txPZC5EvVo0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/txPZC5EvVo0/mqdefault.jpg' alt='No somos un yogur con fecha de caducidad #software #programming #old #shorts #short' />
 </a>
