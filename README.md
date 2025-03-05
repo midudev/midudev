@@ -38,7 +38,7 @@ Tiene un impacto muy negativo en el re' />
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/5hlW5RKYxQk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5hlW5RKYxQk/mqdefault.jpg' alt='¿Es momento de cambiar de navegador web?' />
+  <img width='30%' src='https://img.youtube.com/vi/5hlW5RKYxQk/mqdefault.jpg' alt='Firefox rompe su promesa fundamental: usarán tus datos' />
 </a>
 <a href='https://youtu.be/txPZC5EvVo0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/txPZC5EvVo0/mqdefault.jpg' alt='No somos un yogur con fecha de caducidad #software #programming #old #shorts #short' />
