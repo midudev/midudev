@@ -23,6 +23,13 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/PvD7P0PFk8U' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PvD7P0PFk8U/mqdefault.jpg' alt='¿Eres demasiado viejo para ser programador?
+
+¿Tienes 25? ¿35? ¿40? ¿50? Ah...
+
+Discriminar por edad' />
+</a>
 <a href='https://youtu.be/tLtvkkQairI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tLtvkkQairI/mqdefault.jpg' alt='VSCode Elimina la extensión de Material Theme' />
 </a>
@@ -31,18 +38,15 @@
 
 Tiene un impacto muy negativo en el re' />
 </a>
-<a href='https://youtu.be/DuFuRX3gi1s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DuFuRX3gi1s/mqdefault.jpg' alt='Uno de los errores más típicos entre programadores. ¡No leer la documentación!' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/ZS58T8xPkWA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZS58T8xPkWA/mqdefault.jpg' alt='Chema Alonso está en problemas' />
+</a>
 <a href='https://youtu.be/5hlW5RKYxQk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5hlW5RKYxQk/mqdefault.jpg' alt='Firefox rompe su promesa fundamental: usarán tus datos' />
+  <img width='30%' src='https://img.youtube.com/vi/5hlW5RKYxQk/mqdefault.jpg' alt='¿Es momento de cambiar de navegador web?' />
 </a>
 <a href='https://youtu.be/txPZC5EvVo0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/txPZC5EvVo0/mqdefault.jpg' alt='No somos un yogur con fecha de caducidad #software #programming #old #shorts #short' />
-</a>
-<a href='https://youtu.be/Sq5EoFK-U9M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Sq5EoFK-U9M/mqdefault.jpg' alt='OpenAI tenemos que hablar' />
 </a>
