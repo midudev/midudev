@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/dVq_y5n1K14' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dVq_y5n1K14/mqdefault.jpg' alt='Programa webs responsive más rápido' />
+</a>
+<a href='https://youtu.be/jjLjmRtwK00' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jjLjmRtwK00/mqdefault.jpg' alt='Gitlab fue hackeado de la manera mas fácil' />
+</a>
 <a href='https://youtu.be/glW-7qbeI4s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/glW-7qbeI4s/mqdefault.jpg' alt='Creando sitio web OFICIAL de LOLA LOLITA desde CERO' />
-</a>
-<a href='https://youtu.be/PvD7P0PFk8U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PvD7P0PFk8U/mqdefault.jpg' alt='¿Eres demasiado viejo para ser programador?' />
-</a>
-<a href='https://youtu.be/tLtvkkQairI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tLtvkkQairI/mqdefault.jpg' alt='VSCode Elimina la extensión de Material Theme' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
