@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/8tufiwUFk_o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8tufiwUFk_o/mqdefault.jpg' alt='Sonoma IA está en otro nivel' />
+  <img width='30%' src='https://img.youtube.com/vi/8tufiwUFk_o/mqdefault.jpg' alt='Sesame IA está en otro nivel' />
 </a>
 <a href='https://youtu.be/ZS58T8xPkWA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZS58T8xPkWA/mqdefault.jpg' alt='Chema Alonso está en problemas' />
