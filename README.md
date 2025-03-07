@@ -23,24 +23,26 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/tlDcT2BhZwA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/tlDcT2BhZwA/mqdefault.jpg' alt='Lynx: El Killer de React Native por Tiktok' />
+</a>
+<a href='https://youtu.be/RQqDyoHhu-Q' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/RQqDyoHhu-Q/mqdefault.jpg' alt='¡Una nueva IA perfecta para programadores!
+
+Llega Claude 3.7 sonnet, el modelo para código más avanz' />
+</a>
 <a href='https://youtu.be/dVq_y5n1K14' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dVq_y5n1K14/mqdefault.jpg' alt='Programa webs responsive más rápido' />
-</a>
-<a href='https://youtu.be/jjLjmRtwK00' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jjLjmRtwK00/mqdefault.jpg' alt='Gitlab fue hackeado de la manera mas fácil' />
-</a>
-<a href='https://youtu.be/glW-7qbeI4s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/glW-7qbeI4s/mqdefault.jpg' alt='Creando sitio web OFICIAL de LOLA LOLITA desde CERO' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/f0UiOZK_amY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/f0UiOZK_amY/mqdefault.jpg' alt='Si haces esto, mejor ni apliquees a ofertas de trabajo' />
+</a>
 <a href='https://youtu.be/C-wcmSt_d7o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/C-wcmSt_d7o/mqdefault.jpg' alt='Chema Alonso abandona su puesto en Telefónica' />
 </a>
 <a href='https://youtu.be/8tufiwUFk_o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8tufiwUFk_o/mqdefault.jpg' alt='Sesame IA está en otro nivel' />
-</a>
-<a href='https://youtu.be/ZS58T8xPkWA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZS58T8xPkWA/mqdefault.jpg' alt='Adiós a Chema Alonso' />
 </a>
