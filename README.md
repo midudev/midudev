@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/C-wcmSt_d7o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/C-wcmSt_d7o/mqdefault.jpg' alt='Chema Alonso abandona su puesto en Telefónica' />
+</a>
 <a href='https://youtu.be/8tufiwUFk_o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8tufiwUFk_o/mqdefault.jpg' alt='Sesame IA está en otro nivel' />
 </a>
 <a href='https://youtu.be/ZS58T8xPkWA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZS58T8xPkWA/mqdefault.jpg' alt='Chema Alonso está en problemas' />
-</a>
-<a href='https://youtu.be/5hlW5RKYxQk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5hlW5RKYxQk/mqdefault.jpg' alt='¿Es momento de cambiar de navegador web?' />
+  <img width='30%' src='https://img.youtube.com/vi/ZS58T8xPkWA/mqdefault.jpg' alt='Adiós a Chema Alonso' />
 </a>
