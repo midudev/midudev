@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/tlDcT2BhZwA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tlDcT2BhZwA/mqdefault.jpg' alt='Lynx: El Killer de React Native por Tiktok' />
+  <img width='30%' src='https://img.youtube.com/vi/tlDcT2BhZwA/mqdefault.jpg' alt='Tiktok acaba de lanzar el Killer de React Native | Lynxjs' />
 </a>
 <a href='https://youtu.be/RQqDyoHhu-Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RQqDyoHhu-Q/mqdefault.jpg' alt='¡Una nueva IA perfecta para programadores!
