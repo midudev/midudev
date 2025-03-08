@@ -37,12 +37,12 @@ Llega Claude 3.7 sonnet, el modelo para código más avanz' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/k1wRQR-F1DM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/k1wRQR-F1DM/mqdefault.jpg' alt='Un día como software engineer en San Francisco' />
+</a>
 <a href='https://youtu.be/f0UiOZK_amY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/f0UiOZK_amY/mqdefault.jpg' alt='Si haces esto, mejor ni apliquees a ofertas de trabajo' />
 </a>
 <a href='https://youtu.be/C-wcmSt_d7o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/C-wcmSt_d7o/mqdefault.jpg' alt='Chema Alonso abandona su puesto en Telefónica' />
-</a>
-<a href='https://youtu.be/8tufiwUFk_o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8tufiwUFk_o/mqdefault.jpg' alt='Sesame IA está en otro nivel' />
 </a>
