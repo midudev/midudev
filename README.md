@@ -23,16 +23,18 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/aRnvN5pfcog' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/aRnvN5pfcog/mqdefault.jpg' alt='Este bootcamp de programación online es gratuito y te da certificado final.
+
+Es de la universidad de' />
+</a>
+<a href='https://youtu.be/Fp1Z8N-kBfQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Fp1Z8N-kBfQ/mqdefault.jpg' alt='¡Atención programadores! Cuidado con esto si usas GitHub.
+
+Cuando cambias un repositorio de privado' />
+</a>
 <a href='https://youtu.be/tlDcT2BhZwA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tlDcT2BhZwA/mqdefault.jpg' alt='Tiktok acaba de lanzar el Killer de React Native | Lynxjs' />
-</a>
-<a href='https://youtu.be/RQqDyoHhu-Q' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RQqDyoHhu-Q/mqdefault.jpg' alt='¡Una nueva IA perfecta para programadores!
-
-Llega Claude 3.7 sonnet, el modelo para código más avanz' />
-</a>
-<a href='https://youtu.be/dVq_y5n1K14' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/dVq_y5n1K14/mqdefault.jpg' alt='Programa webs responsive más rápido' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
