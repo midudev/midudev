@@ -23,18 +23,16 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/3tU_PrYtZpE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/3tU_PrYtZpE/mqdefault.jpg' alt='Probé este nuevo editor de codigo con IA' />
+</a>
+<a href='https://youtu.be/IfDuCtCJV30' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/IfDuCtCJV30/mqdefault.jpg' alt='¿Tu CSS está optimizado? ¡Descúbrelo con esta herramienta!
+
+Ingresa cualquier página web y obtendrás' />
+</a>
 <a href='https://youtu.be/aRnvN5pfcog' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aRnvN5pfcog/mqdefault.jpg' alt='Este bootcamp de programación online es gratuito y te da certificado final.
-
-Es de la universidad de' />
-</a>
-<a href='https://youtu.be/Fp1Z8N-kBfQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Fp1Z8N-kBfQ/mqdefault.jpg' alt='¡Atención programadores! Cuidado con esto si usas GitHub.
-
-Cuando cambias un repositorio de privado' />
-</a>
-<a href='https://youtu.be/tlDcT2BhZwA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tlDcT2BhZwA/mqdefault.jpg' alt='Tiktok acaba de lanzar el Killer de React Native | Lynxjs' />
+  <img width='30%' src='https://img.youtube.com/vi/aRnvN5pfcog/mqdefault.jpg' alt='Este bootcamp de programación es gratuito' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
