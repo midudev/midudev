@@ -38,7 +38,7 @@ Ingresa cualquier página web y obtendrás' />
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/w8aWt0tVW2c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/w8aWt0tVW2c/mqdefault.jpg' alt='ELECTRONIC ARTS publica TODO el código de sus juegos' />
+  <img width='30%' src='https://img.youtube.com/vi/w8aWt0tVW2c/mqdefault.jpg' alt='ELECTRONIC ARTS publica TODO el código de juegos de Command & Conquer' />
 </a>
 <a href='https://youtu.be/k1wRQR-F1DM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/k1wRQR-F1DM/mqdefault.jpg' alt='Un día como software engineer en San Francisco' />
