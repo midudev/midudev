@@ -23,6 +23,11 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/89p3cPZRfGc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/89p3cPZRfGc/mqdefault.jpg' alt='En programación a veces nos da miedo preguntar por el síndrome del impostor.
+
+A mi también me ha pas' />
+</a>
 <a href='https://youtu.be/3tU_PrYtZpE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3tU_PrYtZpE/mqdefault.jpg' alt='Probé este nuevo editor de codigo con IA' />
 </a>
@@ -31,18 +36,15 @@
 
 Ingresa cualquier página web y obtendrás' />
 </a>
-<a href='https://youtu.be/aRnvN5pfcog' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aRnvN5pfcog/mqdefault.jpg' alt='Este bootcamp de programación es gratuito' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/WWk92CCb5LI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/WWk92CCb5LI/mqdefault.jpg' alt='ELECTRONIC ARTS publica TODO el código de sus juegos 😳 #gaming #programming #software' />
+</a>
 <a href='https://youtu.be/w8aWt0tVW2c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/w8aWt0tVW2c/mqdefault.jpg' alt='ELECTRONIC ARTS publica TODO el código de algunos juegos' />
 </a>
 <a href='https://youtu.be/k1wRQR-F1DM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/k1wRQR-F1DM/mqdefault.jpg' alt='Un día como software engineer en San Francisco' />
-</a>
-<a href='https://youtu.be/f0UiOZK_amY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/f0UiOZK_amY/mqdefault.jpg' alt='Si haces esto, mejor ni apliquees a ofertas de trabajo' />
 </a>
