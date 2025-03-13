@@ -39,12 +39,12 @@ Ingresa cualquier página web y obtendrás' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/jEAGaKPAmSk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jEAGaKPAmSk/mqdefault.jpg' alt='"OpenAI es una empresa de CREAR Productos" - Satya Nadella' />
+</a>
 <a href='https://youtu.be/thm5GsR_LRU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/thm5GsR_LRU/mqdefault.jpg' alt='El Vibe Coding es literalmente el futuro' />
 </a>
 <a href='https://youtu.be/WLMWZhufU1g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/WLMWZhufU1g/mqdefault.jpg' alt='TypeScript cambio para siempre (Lo siento, Rust)' />
-</a>
-<a href='https://youtu.be/WWk92CCb5LI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WWk92CCb5LI/mqdefault.jpg' alt='Electronic Arts EXPUSO su código de sus juegos  💀 #gaming #programming #software' />
 </a>
