@@ -23,6 +23,12 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/jEadqYWoi4o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jEadqYWoi4o/mqdefault.jpg' alt='API gratuita para saber la localización de una IP.
+¡Con peticiones ilimitadas y sin registros!
+
+Para' />
+</a>
 <a href='https://youtu.be/89p3cPZRfGc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/89p3cPZRfGc/mqdefault.jpg' alt='En programación a veces nos da miedo preguntar por el síndrome del impostor.
 
@@ -31,20 +37,15 @@ A mi también me ha pas' />
 <a href='https://youtu.be/3tU_PrYtZpE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3tU_PrYtZpE/mqdefault.jpg' alt='Probé este nuevo editor de codigo con IA' />
 </a>
-<a href='https://youtu.be/IfDuCtCJV30' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/IfDuCtCJV30/mqdefault.jpg' alt='¿Tu CSS está optimizado? ¡Descúbrelo con esta herramienta!
-
-Ingresa cualquier página web y obtendrás' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/w2vjUSV6XQg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/w2vjUSV6XQg/mqdefault.jpg' alt='Los programadores jovenes INDECISOS' />
+</a>
 <a href='https://youtu.be/jEAGaKPAmSk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jEAGaKPAmSk/mqdefault.jpg' alt='"OpenAI es una empresa que CREA Productos" - CEO de Microsoft' />
 </a>
 <a href='https://youtu.be/thm5GsR_LRU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/thm5GsR_LRU/mqdefault.jpg' alt='El Vibe Coding es literalmente el futuro' />
-</a>
-<a href='https://youtu.be/WLMWZhufU1g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WLMWZhufU1g/mqdefault.jpg' alt='TypeScript cambio para siempre (Lo siento, Rust)' />
 </a>
