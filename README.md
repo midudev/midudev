@@ -23,25 +23,22 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/R0Cop2zv4NE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/R0Cop2zv4NE/mqdefault.jpg' alt='Por fin llego el Texto Justificado en CSS' />
+</a>
 <a href='https://youtu.be/jEadqYWoi4o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jEadqYWoi4o/mqdefault.jpg' alt='API gratuita para saber la localización de una IP.
-¡Con peticiones ilimitadas y sin registros!
-
-Para' />
+  <img width='30%' src='https://img.youtube.com/vi/jEadqYWoi4o/mqdefault.jpg' alt='API gratuita para saber la localización de una IP.' />
 </a>
 <a href='https://youtu.be/89p3cPZRfGc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/89p3cPZRfGc/mqdefault.jpg' alt='En programación a veces nos da miedo preguntar por el síndrome del impostor.
 
 A mi también me ha pas' />
 </a>
-<a href='https://youtu.be/3tU_PrYtZpE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/3tU_PrYtZpE/mqdefault.jpg' alt='Probé este nuevo editor de codigo con IA' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/w2vjUSV6XQg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/w2vjUSV6XQg/mqdefault.jpg' alt='Los programadores jovenes INDECISOS' />
+  <img width='30%' src='https://img.youtube.com/vi/w2vjUSV6XQg/mqdefault.jpg' alt='Los programadores jovenes Tienen miedo' />
 </a>
 <a href='https://youtu.be/jEAGaKPAmSk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jEAGaKPAmSk/mqdefault.jpg' alt='"OpenAI es una empresa que CREA Productos" - CEO de Microsoft' />
