@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/R0Cop2zv4NE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/R0Cop2zv4NE/mqdefault.jpg' alt='Por fin llego el Texto Justificado en CSS' />
+  <img width='30%' src='https://img.youtube.com/vi/R0Cop2zv4NE/mqdefault.jpg' alt='Por fin llega el Texto Justificado a CSS en condiciones' />
 </a>
 <a href='https://youtu.be/jEadqYWoi4o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jEadqYWoi4o/mqdefault.jpg' alt='API gratuita para saber la localización de una IP.' />
@@ -37,12 +37,12 @@ A mi también me ha pas' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/qTol0C1Vy6Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qTol0C1Vy6Y/mqdefault.jpg' alt='Same AI: Clona CUALQUIER sitio web (bye v0)' />
+</a>
 <a href='https://youtu.be/w2vjUSV6XQg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/w2vjUSV6XQg/mqdefault.jpg' alt='Los programadores jovenes Tienen miedo' />
 </a>
 <a href='https://youtu.be/jEAGaKPAmSk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jEAGaKPAmSk/mqdefault.jpg' alt='"OpenAI es una empresa que CREA Productos" - CEO de Microsoft' />
-</a>
-<a href='https://youtu.be/thm5GsR_LRU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/thm5GsR_LRU/mqdefault.jpg' alt='El Vibe Coding es literalmente el futuro' />
 </a>
