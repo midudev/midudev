@@ -23,16 +23,16 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/n46_PCH1uqU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/n46_PCH1uqU/mqdefault.jpg' alt='¡NOVEDAD en HTML! Cierra modales sin escribir ni una línea de JavaScript.
+
+1. Puedes usar la etiquet' />
+</a>
 <a href='https://youtu.be/R0Cop2zv4NE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/R0Cop2zv4NE/mqdefault.jpg' alt='Por fin llega el Texto Justificado a CSS en condiciones' />
 </a>
 <a href='https://youtu.be/jEadqYWoi4o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jEadqYWoi4o/mqdefault.jpg' alt='API gratuita para saber la localización de una IP.' />
-</a>
-<a href='https://youtu.be/89p3cPZRfGc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/89p3cPZRfGc/mqdefault.jpg' alt='En programación a veces nos da miedo preguntar por el síndrome del impostor.
-
-A mi también me ha pas' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
