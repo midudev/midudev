@@ -37,12 +37,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/9NgS6ztlGt8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9NgS6ztlGt8/mqdefault.jpg' alt='Están abandonando Next.js para siempre' />
+</a>
 <a href='https://youtu.be/X2BITct3NCo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/X2BITct3NCo/mqdefault.jpg' alt='new.email: ¡El mejor generador de UI para Emails es una LOCURA!' />
 </a>
 <a href='https://youtu.be/qTol0C1Vy6Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qTol0C1Vy6Y/mqdefault.jpg' alt='Same AI: Clona CUALQUIER sitio web (bye v0)' />
-</a>
-<a href='https://youtu.be/w2vjUSV6XQg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/w2vjUSV6XQg/mqdefault.jpg' alt='Los programadores jovenes Tienen miedo' />
 </a>
