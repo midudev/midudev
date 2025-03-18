@@ -39,12 +39,12 @@ En cambio, un senior' />
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/ZMUdY6X9U4M' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZMUdY6X9U4M/mqdefault.jpg' alt='Cómo hacer que cualquier IA te obedezca' />
+</a>
 <a href='https://youtu.be/GEKT4Q2oGEY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GEKT4Q2oGEY/mqdefault.jpg' alt='ERNIR 4.5: El Google Made In China' />
 </a>
 <a href='https://youtu.be/9NgS6ztlGt8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9NgS6ztlGt8/mqdefault.jpg' alt='Están abandonando Next.js para siempre' />
-</a>
-<a href='https://youtu.be/X2BITct3NCo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/X2BITct3NCo/mqdefault.jpg' alt='new.email: ¡El mejor generador de UI para Emails es una LOCURA!' />
 </a>
