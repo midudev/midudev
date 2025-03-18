@@ -23,26 +23,28 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/5L_JtGfuNsI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5L_JtGfuNsI/mqdefault.jpg' alt='El drama de los Booleanos' />
+</a>
+<a href='https://youtu.be/hwrWqIv5OfU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/hwrWqIv5OfU/mqdefault.jpg' alt='Es común que un junior ponga un bug en producción y termine con sudores fríos…
+
+En cambio, un senior' />
+</a>
 <a href='https://youtu.be/n46_PCH1uqU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/n46_PCH1uqU/mqdefault.jpg' alt='¡NOVEDAD en HTML! Cierra modales sin escribir ni una línea de JavaScript.
 
 1. Puedes usar la etiquet' />
 </a>
-<a href='https://youtu.be/R0Cop2zv4NE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/R0Cop2zv4NE/mqdefault.jpg' alt='Por fin llega el Texto Justificado a CSS en condiciones' />
-</a>
-<a href='https://youtu.be/jEadqYWoi4o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jEadqYWoi4o/mqdefault.jpg' alt='API gratuita para saber la localización de una IP.' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/GEKT4Q2oGEY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GEKT4Q2oGEY/mqdefault.jpg' alt='ERNIR 4.5: El Google Made In China' />
+</a>
 <a href='https://youtu.be/9NgS6ztlGt8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9NgS6ztlGt8/mqdefault.jpg' alt='Están abandonando Next.js para siempre' />
 </a>
 <a href='https://youtu.be/X2BITct3NCo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/X2BITct3NCo/mqdefault.jpg' alt='new.email: ¡El mejor generador de UI para Emails es una LOCURA!' />
-</a>
-<a href='https://youtu.be/qTol0C1Vy6Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qTol0C1Vy6Y/mqdefault.jpg' alt='Same AI: Clona CUALQUIER sitio web (bye v0)' />
 </a>
