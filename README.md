@@ -43,7 +43,7 @@ En cambio, un senior' />
   <img width='30%' src='https://img.youtube.com/vi/ZMUdY6X9U4M/mqdefault.jpg' alt='Hice ESTO para que cualquier IA me obedezca' />
 </a>
 <a href='https://youtu.be/GEKT4Q2oGEY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GEKT4Q2oGEY/mqdefault.jpg' alt='ERNIR 4.5: El Google Made In China' />
+  <img width='30%' src='https://img.youtube.com/vi/GEKT4Q2oGEY/mqdefault.jpg' alt='ERNIR 4.5: El Google de China' />
 </a>
 <a href='https://youtu.be/9NgS6ztlGt8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9NgS6ztlGt8/mqdefault.jpg' alt='Están abandonando Next.js para siempre' />
