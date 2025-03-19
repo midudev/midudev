@@ -23,6 +23,11 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Po4ls0goHwc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Po4ls0goHwc/mqdefault.jpg' alt='¡Esta página te explica Patrones de Diseño en Programación, totalmente en Español!
+
+JavaScript, Pyth' />
+</a>
 <a href='https://youtu.be/5L_JtGfuNsI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5L_JtGfuNsI/mqdefault.jpg' alt='El drama de los Booleanos' />
 </a>
@@ -31,20 +36,15 @@
 
 En cambio, un senior' />
 </a>
-<a href='https://youtu.be/n46_PCH1uqU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/n46_PCH1uqU/mqdefault.jpg' alt='¡NOVEDAD en HTML! Cierra modales sin escribir ni una línea de JavaScript.
-
-1. Puedes usar la etiquet' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Rwm237nojvM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Rwm237nojvM/mqdefault.jpg' alt='No. Otra vez no' />
+</a>
 <a href='https://youtu.be/ZMUdY6X9U4M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZMUdY6X9U4M/mqdefault.jpg' alt='Hice ESTO para que cualquier IA me obedezca' />
 </a>
 <a href='https://youtu.be/GEKT4Q2oGEY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GEKT4Q2oGEY/mqdefault.jpg' alt='ERNIR 4.5: El Google de China' />
-</a>
-<a href='https://youtu.be/9NgS6ztlGt8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9NgS6ztlGt8/mqdefault.jpg' alt='Están abandonando Next.js para siempre' />
 </a>
