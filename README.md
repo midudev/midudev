@@ -40,7 +40,7 @@ En cambio, un senior' />
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/ZMUdY6X9U4M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZMUdY6X9U4M/mqdefault.jpg' alt='Cómo hacer que cualquier IA te obedezca' />
+  <img width='30%' src='https://img.youtube.com/vi/ZMUdY6X9U4M/mqdefault.jpg' alt='Hice ESTO para que cualquier IA me obedezca' />
 </a>
 <a href='https://youtu.be/GEKT4Q2oGEY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GEKT4Q2oGEY/mqdefault.jpg' alt='ERNIR 4.5: El Google Made In China' />
