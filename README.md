@@ -40,7 +40,7 @@ En cambio, un senior' />
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/JgYw8Cjlp_E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/JgYw8Cjlp_E/mqdefault.jpg' alt='La gente se esta volviendo loca por Gemini Flash (Adiós Photoshop)' />
+  <img width='30%' src='https://img.youtube.com/vi/JgYw8Cjlp_E/mqdefault.jpg' alt='La gente se está volviendo loca por Gemini Flash 2.0 (lo siento Photoshop)' />
 </a>
 <a href='https://youtu.be/Rwm237nojvM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Rwm237nojvM/mqdefault.jpg' alt='Lazarus vuelve al ataque' />
