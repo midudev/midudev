@@ -23,6 +23,11 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/CzQ1f09Br2w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CzQ1f09Br2w/mqdefault.jpg' alt='Herramientas para optimizar las imágenes de tu página web.
+
+¡No cometas este error de principiante c' />
+</a>
 <a href='https://youtu.be/Po4ls0goHwc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Po4ls0goHwc/mqdefault.jpg' alt='¡Esta página te explica Patrones de Diseño en Programación, totalmente en Español!
 
@@ -30,11 +35,6 @@ JavaScript, Pyth' />
 </a>
 <a href='https://youtu.be/5L_JtGfuNsI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5L_JtGfuNsI/mqdefault.jpg' alt='El drama de los Booleanos' />
-</a>
-<a href='https://youtu.be/hwrWqIv5OfU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hwrWqIv5OfU/mqdefault.jpg' alt='Es común que un junior ponga un bug en producción y termine con sudores fríos…
-
-En cambio, un senior' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
