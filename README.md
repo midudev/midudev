@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/npY4IPPTbTE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/npY4IPPTbTE/mqdefault.jpg' alt='Probé Hostinger Horizons para desarrollar Aplicaciones Web con IA' />
+  <img width='30%' src='https://img.youtube.com/vi/npY4IPPTbTE/mqdefault.jpg' alt='Probé Hostinger Horizons para desarrollar Sitios Web con IA' />
 </a>
 <a href='https://youtu.be/CzQ1f09Br2w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CzQ1f09Br2w/mqdefault.jpg' alt='Herramientas para optimizar las imágenes de tu página web.
