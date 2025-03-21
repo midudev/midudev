@@ -23,6 +23,11 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/eyFAOucz5XA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/eyFAOucz5XA/mqdefault.jpg' alt='¡Voy a programar la Web Oficial de La Velada V!
+
+El evento de boxeo entre creadores de contenido de' />
+</a>
 <a href='https://youtu.be/npY4IPPTbTE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/npY4IPPTbTE/mqdefault.jpg' alt='Probé Hostinger Horizons para desarrollar Sitios Web con IA' />
 </a>
@@ -31,11 +36,6 @@
 
 ¡No cometas este error de principiante c' />
 </a>
-<a href='https://youtu.be/Po4ls0goHwc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Po4ls0goHwc/mqdefault.jpg' alt='¡Esta página te explica Patrones de Diseño en Programación, totalmente en Español!
-
-JavaScript, Pyth' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
@@ -43,7 +43,7 @@ JavaScript, Pyth' />
   <img width='30%' src='https://img.youtube.com/vi/f3c9TjLTOIA/mqdefault.jpg' alt='Consejos para aplicar como programador a oferta de trabajo para La Velada' />
 </a>
 <a href='https://youtu.be/JgYw8Cjlp_E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/JgYw8Cjlp_E/mqdefault.jpg' alt='La gente se está volviendo loca por Gemini Flash 2.0 (lo siento Photoshop)' />
+  <img width='30%' src='https://img.youtube.com/vi/JgYw8Cjlp_E/mqdefault.jpg' alt='La gente se está volviendo loca por Gemini Flash 2.0 ¿el nuevo Photoshop?' />
 </a>
 <a href='https://youtu.be/Rwm237nojvM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Rwm237nojvM/mqdefault.jpg' alt='Lazarus vuelve al ataque' />
