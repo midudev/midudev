@@ -47,10 +47,15 @@ const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_MIDUDEV_CHA
 //   <img width='20%' src='${url}' alt='Instagram photo' />
 // </a>`
 
-const generateYoutubeHTML = ({ title, videoId }) => `
+const generateYoutubeHTML = ({ title, videoId }) => {
+  // Escapar comillas simples y eliminar saltos de línea en el título
+  const safeTitle = title.replace(/'/g, "\\'").replace(/\n/g, ' ')
+
+  return `
 <a href='https://youtu.be/${videoId}' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/${videoId}/mqdefault.jpg' alt='${title}' />
-</a>`;
+  <img width='30%' src='https://img.youtube.com/vi/${videoId}/mqdefault.jpg' alt='${safeTitle}' />
+</a>`
+};
 
 (async () => {
   // await getLatestTwitchStream()
