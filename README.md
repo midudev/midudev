@@ -23,6 +23,11 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/zuNexHx3Pgg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/zuNexHx3Pgg/mqdefault.jpg' alt='¡Colección de APIs para programadores! No te pierdas este recurso.
+
+Compatibles con distintos lengua' />
+</a>
 <a href='https://youtu.be/eyFAOucz5XA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/eyFAOucz5XA/mqdefault.jpg' alt='¡Voy a programar la Web Oficial de La Velada V!
 
@@ -30,9 +35,6 @@ El evento de boxeo entre creadores de contenido de' />
 </a>
 <a href='https://youtu.be/npY4IPPTbTE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/npY4IPPTbTE/mqdefault.jpg' alt='Probé Hostinger Horizons para desarrollar Sitios Web con IA' />
-</a>
-<a href='https://youtu.be/CzQ1f09Br2w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CzQ1f09Br2w/mqdefault.jpg' alt='Herramientas para optimizar las imágenes de tu página web.'/>
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
