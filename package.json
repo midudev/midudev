@@ -23,9 +23,7 @@
   },
   "homepage": "https://github.com/midudev/midudev#readme",
   "devDependencies": {
-    "standard": "17.1.2"
-  },
-  "eslintConfig": {
-    "extends": "standard"
+    "eslint": "^9.23.0",
+    "neostandard": "^0.12.1"
   }
 }
