@@ -1,9 +1,6 @@
 import { promises as fs } from 'fs'
 
-import { PLACEHOLDERS, NUMBER_OF } from './constants.js'
-
-const YOUTUBE_MIDUDEV_CHANNEL_ID = 'UU8LeXCWOalN8SxlrPcG-PaQ'
-const YOUTUBE_MIDULIVE_CHANNEL_ID = 'UU3aj05GEEyzdOqYM5FLSFeg'
+import { PLACEHOLDERS, NUMBER_OF, YOUTUBE_CHANNEL_IDS } from './constants.js'
 
 const {
   // INSTAGRAM_API_KEY,
@@ -35,7 +32,7 @@ const {
 //   return json?.edges
 // }
 
-const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_MIDUDEV_CHANNEL_ID }) =>
+const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_CHANNEL_IDS.MIDUDEV }) =>
   fetch(
     `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
   )
@@ -63,7 +60,7 @@ const generateYoutubeHTML = ({ title, videoId }) => {
   const [template, videos, secondaryChannelVideos] = await Promise.all([
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
     getLatestYoutubeVideos(),
-    getLatestYoutubeVideos({ channelId: YOUTUBE_MIDULIVE_CHANNEL_ID })
+    getLatestYoutubeVideos({ channelId: YOUTUBE_CHANNEL_IDS.MIDULIVE })
   ])
 
   // create latest youtube videos channel
