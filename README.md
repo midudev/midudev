@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/wyn0gb7zBTY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wyn0gb7zBTY/mqdefault.jpg' alt='Next.js tenemos que hablar' />
+  <img width='30%' src='https://img.youtube.com/vi/wyn0gb7zBTY/mqdefault.jpg' alt='Vulnerabilidad crítica en Vercel' />
 </a>
 <a href='https://youtu.be/f3c9TjLTOIA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/f3c9TjLTOIA/mqdefault.jpg' alt='Consejos para aplicar como programador a oferta de trabajo para La Velada' />
