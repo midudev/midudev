@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/TkN2i-_4N4g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TkN2i-_4N4g/mqdefault.jpg' alt='Curso Python desde Cero 2025' />
+</a>
 <a href='https://youtu.be/hjDV0VBAC7w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hjDV0VBAC7w/mqdefault.jpg' alt='¡Si eres programador, necesitas conocer este recurso!  Toda la documentación que necesitas en un sól' />
 </a>
 <a href='https://youtu.be/zuNexHx3Pgg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zuNexHx3Pgg/mqdefault.jpg' alt='¡Colección de APIs para programadores! No te pierdas este recurso.  Compatibles con distintos lengua' />
 </a>
-<a href='https://youtu.be/eyFAOucz5XA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/eyFAOucz5XA/mqdefault.jpg' alt='¡Voy a programar la Web Oficial de La Velada V!  El evento de boxeo entre creadores de contenido de' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Y7X0TE43G-o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Y7X0TE43G-o/mqdefault.jpg' alt='Los mejores programadores del planeta (por cierto, Chilenos)' />
+</a>
 <a href='https://youtu.be/GqvshhQbGlY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GqvshhQbGlY/mqdefault.jpg' alt='Vibe Coding: ¿Se acabó para todos los programadores?' />
 </a>
 <a href='https://youtu.be/wyn0gb7zBTY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wyn0gb7zBTY/mqdefault.jpg' alt='Vulnerabilidad crítica en Next.js. Solución y respuesta de Vercel.' />
-</a>
-<a href='https://youtu.be/f3c9TjLTOIA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/f3c9TjLTOIA/mqdefault.jpg' alt='Consejos para aplicar como programador a oferta de trabajo para La Velada' />
 </a>
