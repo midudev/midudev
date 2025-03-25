@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/wyn0gb7zBTY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wyn0gb7zBTY/mqdefault.jpg' alt='Next.js tenemos que hablar' />
+</a>
 <a href='https://youtu.be/f3c9TjLTOIA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/f3c9TjLTOIA/mqdefault.jpg' alt='Consejos para aplicar como programador a oferta de trabajo para La Velada' />
 </a>
 <a href='https://youtu.be/JgYw8Cjlp_E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JgYw8Cjlp_E/mqdefault.jpg' alt='La gente se está volviendo loca por Gemini Flash 2.0 ¿el nuevo Photoshop?' />
-</a>
-<a href='https://youtu.be/Rwm237nojvM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Rwm237nojvM/mqdefault.jpg' alt='Lazarus vuelve al ataque' />
 </a>
