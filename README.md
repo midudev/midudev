@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/TkN2i-_4N4g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TkN2i-_4N4g/mqdefault.jpg' alt='Curso de Python desde Cero 2025' />
+  <img width='30%' src='https://img.youtube.com/vi/TkN2i-_4N4g/mqdefault.jpg' alt='Curso completo de Python desde Cero 2025' />
 </a>
 <a href='https://youtu.be/hjDV0VBAC7w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hjDV0VBAC7w/mqdefault.jpg' alt='¡Si eres programador, necesitas conocer este recurso!  Toda la documentación que necesitas en un sól' />
