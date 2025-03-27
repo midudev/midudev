@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Y9AHZx0FKK0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Y9AHZx0FKK0/mqdefault.jpg' alt='¡Crea un diagrama del código de tu proyecto desde la terminal... con IA!  La terminal Warp ha añadid' />
+</a>
 <a href='https://youtu.be/PICeisf4xas' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/PICeisf4xas/mqdefault.jpg' alt='¡Consigue este libro en español de buenas prácticas de JavaScript!  ✓ De forma gratuita ✓ Para ayuda' />
 </a>
 <a href='https://youtu.be/TkN2i-_4N4g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TkN2i-_4N4g/mqdefault.jpg' alt='Curso COMPLETO de Python DESDE CERO para Principiantes 2025' />
 </a>
-<a href='https://youtu.be/hjDV0VBAC7w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hjDV0VBAC7w/mqdefault.jpg' alt='¡Si eres programador, necesitas conocer este recurso!  Toda la documentación que necesitas en un sól' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Qvs0KCya3Ns' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Qvs0KCya3Ns/mqdefault.jpg' alt='Probé la generación de imágenes de OpenAI' />
+</a>
 <a href='https://youtu.be/XokakJUAQew' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XokakJUAQew/mqdefault.jpg' alt='Indios estafaron a todos con su navegador web "seguro"' />
 </a>
 <a href='https://youtu.be/Y7X0TE43G-o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Y7X0TE43G-o/mqdefault.jpg' alt='Los MEJORES programadores del planeta (por cierto son Chilenos)' />
-</a>
-<a href='https://youtu.be/GqvshhQbGlY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GqvshhQbGlY/mqdefault.jpg' alt='Vibe Coding: ¿Se acabó para todos los programadores?' />
 </a>
