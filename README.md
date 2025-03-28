@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Q1qKWP5Eq7Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Q1qKWP5Eq7Y/mqdefault.jpg' alt='Se confirma lo mejor para Vite: ¡VITE PLUS!' />
+</a>
 <a href='https://youtu.be/5qvw6oF7szg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5qvw6oF7szg/mqdefault.jpg' alt='¡Visualiza cualquier proyecto de código de GitHub!  Cambia la palabra "hub" por "diagram" y te crea' />
 </a>
 <a href='https://youtu.be/kCS5FwjEd_g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kCS5FwjEd_g/mqdefault.jpg' alt='El nuevo atributo HTML cambia los modales para siempre' />
-</a>
-<a href='https://youtu.be/bODuOok1xr8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/bODuOok1xr8/mqdefault.jpg' alt='Desarrollando Sitio web OFICIAL de LA VELADA DEL AÑO 5 DESDE CERO' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
