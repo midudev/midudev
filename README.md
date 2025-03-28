@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/5qvw6oF7szg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5qvw6oF7szg/mqdefault.jpg' alt='¡Visualiza cualquier proyecto de código de GitHub!  Cambia la palabra "hub" por "diagram" y te crea' />
+</a>
+<a href='https://youtu.be/kCS5FwjEd_g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/kCS5FwjEd_g/mqdefault.jpg' alt='El nuevo atributo HTML cambia los modales para siempre' />
+</a>
 <a href='https://youtu.be/bODuOok1xr8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/bODuOok1xr8/mqdefault.jpg' alt='Desarrollando Sitio web OFICIAL de LA VELADA DEL AÑO 5 DESDE CERO' />
-</a>
-<a href='https://youtu.be/Y9AHZx0FKK0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Y9AHZx0FKK0/mqdefault.jpg' alt='¡Crea un diagrama del código de tu proyecto desde la terminal... con IA!' />
-</a>
-<a href='https://youtu.be/PICeisf4xas' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PICeisf4xas/mqdefault.jpg' alt='¡Consigue este libro en español de buenas prácticas de JavaScript!  ✓ De forma gratuita ✓ Para ayuda' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
