@@ -27,7 +27,7 @@
   <img width='30%' src='https://img.youtube.com/vi/bODuOok1xr8/mqdefault.jpg' alt='Desarrollando Sitio web OFICIAL de LA VELADA DEL AÑO 5 DESDE CERO' />
 </a>
 <a href='https://youtu.be/Y9AHZx0FKK0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Y9AHZx0FKK0/mqdefault.jpg' alt='¡Crea un diagrama del código de tu proyecto desde la terminal... con IA!  La terminal Warp ha añadid' />
+  <img width='30%' src='https://img.youtube.com/vi/Y9AHZx0FKK0/mqdefault.jpg' alt='¡Crea un diagrama del código de tu proyecto desde la terminal... con IA!' />
 </a>
 <a href='https://youtu.be/PICeisf4xas' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/PICeisf4xas/mqdefault.jpg' alt='¡Consigue este libro en español de buenas prácticas de JavaScript!  ✓ De forma gratuita ✓ Para ayuda' />
