@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/Q1qKWP5Eq7Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Q1qKWP5Eq7Y/mqdefault.jpg' alt='Se confirma lo mejor para Vite: ¡VITE PLUS!' />
+  <img width='30%' src='https://img.youtube.com/vi/Q1qKWP5Eq7Y/mqdefault.jpg' alt='Se confirma lo mejor para Vite: ¡VITE.JS PLUS!' />
 </a>
 <a href='https://youtu.be/5qvw6oF7szg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5qvw6oF7szg/mqdefault.jpg' alt='¡Visualiza cualquier proyecto de código de GitHub!  Cambia la palabra "hub" por "diagram" y te crea' />
