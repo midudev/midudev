@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/0NfpRlBF7kA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0NfpRlBF7kA/mqdefault.jpg' alt='Ya no puedes instalar Windows sin cuenta' />
+</a>
 <a href='https://youtu.be/Qvs0KCya3Ns' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Qvs0KCya3Ns/mqdefault.jpg' alt='Probé la generación de imágenes de OpenAI' />
 </a>
 <a href='https://youtu.be/XokakJUAQew' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XokakJUAQew/mqdefault.jpg' alt='Indios estafaron a todos con su navegador web "seguro"' />
-</a>
-<a href='https://youtu.be/Y7X0TE43G-o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Y7X0TE43G-o/mqdefault.jpg' alt='Los MEJORES programadores del planeta (por cierto son Chilenos)' />
 </a>
