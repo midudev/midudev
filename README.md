@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/kxtH6chdiI8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/kxtH6chdiI8/mqdefault.jpg' alt='¿Cómo organizar correctamente las carpetas de tu proyecto?  Da igual si utilizas React, Vue, Angular' />
+</a>
 <a href='https://youtu.be/F8IsaX_WQJ4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/F8IsaX_WQJ4/mqdefault.jpg' alt='Estás aprendiendo a programar y ¿te cuesta entender cómo funciona el código? Este recurso te puede c' />
 </a>
 <a href='https://youtu.be/Q1qKWP5Eq7Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Q1qKWP5Eq7Y/mqdefault.jpg' alt='Se confirma lo mejor para Vite: ¡VITE.JS PLUS!' />
 </a>
-<a href='https://youtu.be/5qvw6oF7szg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5qvw6oF7szg/mqdefault.jpg' alt='¡Visualiza cualquier proyecto de código de GitHub!  Cambia la palabra "hub" por "diagram" y te crea' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/9HxnBjb3jco' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9HxnBjb3jco/mqdefault.jpg' alt='No deberías aprender programación - CEO de Replit' />
+</a>
 <a href='https://youtu.be/0NfpRlBF7kA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0NfpRlBF7kA/mqdefault.jpg' alt='Ya no puedes instalar Windows sin cuenta' />
 </a>
 <a href='https://youtu.be/Qvs0KCya3Ns' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Qvs0KCya3Ns/mqdefault.jpg' alt='Probé la generación de imágenes de OpenAI' />
-</a>
-<a href='https://youtu.be/XokakJUAQew' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XokakJUAQew/mqdefault.jpg' alt='Indios estafaron a todos con su navegador web "seguro"' />
 </a>
