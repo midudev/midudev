@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/BgGIXRTKsi8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BgGIXRTKsi8/mqdefault.jpg' alt='Vite vs Turbopack' />
+  <img width='30%' src='https://img.youtube.com/vi/BgGIXRTKsi8/mqdefault.jpg' alt='¿Vite es más rápido que Turbopack?' />
 </a>
 <a href='https://youtu.be/kxtH6chdiI8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kxtH6chdiI8/mqdefault.jpg' alt='¿Cómo organizar correctamente las carpetas de tu proyecto?  Da igual si utilizas React, Vue, Angular' />
