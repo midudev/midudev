@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/taK-DtjNXGI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/taK-DtjNXGI/mqdefault.jpg' alt='Creando Ficha de Boxeadores + Presentación para la web Velada del Año 5 - HTML, Tailwindcss & Astro' />
+</a>
+<a href='https://youtu.be/xaVdbNM72zw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xaVdbNM72zw/mqdefault.jpg' alt='¡Este es mi curso de React.js para que aprendas desde cero!  No tiene coste. Es para programadores q' />
+</a>
 <a href='https://youtu.be/BgGIXRTKsi8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/BgGIXRTKsi8/mqdefault.jpg' alt='¿Vite es más rápido que Turbopack?' />
-</a>
-<a href='https://youtu.be/kxtH6chdiI8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kxtH6chdiI8/mqdefault.jpg' alt='¿Cómo organizar correctamente las carpetas de tu proyecto?  Da igual si utilizas React, Vue, Angular' />
-</a>
-<a href='https://youtu.be/F8IsaX_WQJ4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/F8IsaX_WQJ4/mqdefault.jpg' alt='Estás aprendiendo a programar y ¿te cuesta entender cómo funciona el código? Este recurso te puede c' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/zkS1Tr9ZA9o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/zkS1Tr9ZA9o/mqdefault.jpg' alt='Cloudflare vs LaLiga: ¿Hasta cuándo esta locura?' />
+</a>
 <a href='https://youtu.be/mnt2bCPyJDw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mnt2bCPyJDw/mqdefault.jpg' alt='El DRAMA de los React Server Components' />
 </a>
 <a href='https://youtu.be/9HxnBjb3jco' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9HxnBjb3jco/mqdefault.jpg' alt='No deberías aprender programación - CEO de Replit' />
-</a>
-<a href='https://youtu.be/0NfpRlBF7kA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0NfpRlBF7kA/mqdefault.jpg' alt='Ya no puedes instalar Windows sin cuenta de Microsoft (incluye truco para hacerlo)' />
 </a>
