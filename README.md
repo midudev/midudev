@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/r1NoA-9hNys' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/r1NoA-9hNys/mqdefault.jpg' alt='No debió decir esto sobre los Backend... (termina mal)' />
+</a>
 <a href='https://youtu.be/taK-DtjNXGI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/taK-DtjNXGI/mqdefault.jpg' alt='Creando Ficha de Boxeadores + Presentación para la web Velada del Año 5 - HTML, Tailwindcss & Astro' />
 </a>
 <a href='https://youtu.be/xaVdbNM72zw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xaVdbNM72zw/mqdefault.jpg' alt='¡Este es mi curso de React.js para que aprendas desde cero!  No tiene coste. Es para programadores q' />
-</a>
-<a href='https://youtu.be/BgGIXRTKsi8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BgGIXRTKsi8/mqdefault.jpg' alt='¿Vite es más rápido que Turbopack?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
