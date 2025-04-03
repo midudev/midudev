@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/nS9azH15uEs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/nS9azH15uEs/mqdefault.jpg' alt='¿ChatGPT gasta mucha agua?' />
+</a>
 <a href='https://youtu.be/vuC4mrNbvxE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vuC4mrNbvxE/mqdefault.jpg' alt='Los precios de NINTENDO SWITCH 2 NO tienen sentido' />
 </a>
 <a href='https://youtu.be/zkS1Tr9ZA9o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zkS1Tr9ZA9o/mqdefault.jpg' alt='Cloudflare vs LaLiga: ¿Hasta cuándo esta locura?' />
-</a>
-<a href='https://youtu.be/mnt2bCPyJDw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mnt2bCPyJDw/mqdefault.jpg' alt='El DRAMA de los React Server Components' />
 </a>
