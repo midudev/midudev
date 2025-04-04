@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/W_Fpw_hbAPg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/W_Fpw_hbAPg/mqdefault.jpg' alt='La IA es demasiado buena' />
+  <img width='30%' src='https://img.youtube.com/vi/W_Fpw_hbAPg/mqdefault.jpg' alt='La IA ha enfadado a los artistas… otra vez' />
 </a>
 <a href='https://youtu.be/nS9azH15uEs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/nS9azH15uEs/mqdefault.jpg' alt='¿ChatGPT gasta mucha agua?' />
