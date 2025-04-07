@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/u9SEwB8JTz4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/u9SEwB8JTz4/mqdefault.jpg' alt='¡Lo que acaba de llegar a CSS es brutal! Crea sliders con botones sin escribir JavaScript.  Con los' />
+</a>
 <a href='https://youtu.be/gtAavhbBK-M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/gtAavhbBK-M/mqdefault.jpg' alt='¡Domina AWS desde cero! Curso de Cloud desde cero y sin coste.  Hoy en día, es una de las habilidade' />
 </a>
 <a href='https://youtu.be/C7PmMBPxiac' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/C7PmMBPxiac/mqdefault.jpg' alt='¿Quieres aprender a programar pero no sabes por dónde tirar? Te dejo uno de los mejores recursos gra' />
-</a>
-<a href='https://youtu.be/r1NoA-9hNys' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/r1NoA-9hNys/mqdefault.jpg' alt='No debió decir esto sobre los Backend... (termina mal)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
