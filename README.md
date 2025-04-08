@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/BSjlXstg3DI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BSjlXstg3DI/mqdefault.jpg' alt='Caen las bolsas Tech por la guerra de aranceles de Donald Trump' />
+</a>
 <a href='https://youtu.be/ffm1_oq1EvA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ffm1_oq1EvA/mqdefault.jpg' alt='Emisión en directo de midulive' />
 </a>
 <a href='https://youtu.be/W_Fpw_hbAPg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/W_Fpw_hbAPg/mqdefault.jpg' alt='La IA ha enfadado a los artistas… otra vez' />
-</a>
-<a href='https://youtu.be/nS9azH15uEs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/nS9azH15uEs/mqdefault.jpg' alt='¿ChatGPT gasta mucha agua?' />
 </a>
