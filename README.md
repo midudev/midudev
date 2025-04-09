@@ -39,7 +39,7 @@
   <img width='30%' src='https://img.youtube.com/vi/kp2NxAQZx20/mqdefault.jpg' alt='Complejo de superioridad como Programador' />
 </a>
 <a href='https://youtu.be/cvHhH3HtttM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/cvHhH3HtttM/mqdefault.jpg' alt='El escándalo de Llama 4' />
+  <img width='30%' src='https://img.youtube.com/vi/cvHhH3HtttM/mqdefault.jpg' alt='Llama 4 no es lo que parece' />
 </a>
 <a href='https://youtu.be/BSjlXstg3DI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/BSjlXstg3DI/mqdefault.jpg' alt='Caen las bolsas Tech por la guerra de aranceles de Donald Trump' />
