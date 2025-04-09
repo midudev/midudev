@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/9GiosVIaDSY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9GiosVIaDSY/mqdefault.jpg' alt='El fin de los Styled Components' />
+</a>
+<a href='https://youtu.be/i8EhHxVj8bA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/i8EhHxVj8bA/mqdefault.jpg' alt='Trucazo en CSS para crear sombras inteligentes para tus imágenes y fondos.  No uses box-shadow para' />
+</a>
 <a href='https://youtu.be/s-X9e1Rn1e4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/s-X9e1Rn1e4/mqdefault.jpg' alt='La mejor biblioteca de JavaScript para añadir animaciones TOP en tu página web. Anima CSS, SVGs y el' />
-</a>
-<a href='https://youtu.be/u9SEwB8JTz4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/u9SEwB8JTz4/mqdefault.jpg' alt='¡Lo que acaba de llegar a CSS es brutal! Crea sliders con botones sin escribir JavaScript.  Con los' />
-</a>
-<a href='https://youtu.be/gtAavhbBK-M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/gtAavhbBK-M/mqdefault.jpg' alt='¡Domina AWS desde cero! Curso de Cloud desde cero y sin coste.  Hoy en día, es una de las habilidade' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
