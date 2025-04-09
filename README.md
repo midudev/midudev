@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/cuM63epuf9M' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cuM63epuf9M/mqdefault.jpg' alt='La verdad sobre npm que nadie te cuenta' />
+</a>
 <a href='https://youtu.be/9GiosVIaDSY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9GiosVIaDSY/mqdefault.jpg' alt='El fin de los Styled Components' />
 </a>
 <a href='https://youtu.be/i8EhHxVj8bA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/i8EhHxVj8bA/mqdefault.jpg' alt='Trucazo en CSS para crear sombras inteligentes para tus imágenes y fondos.  No uses box-shadow para' />
-</a>
-<a href='https://youtu.be/s-X9e1Rn1e4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/s-X9e1Rn1e4/mqdefault.jpg' alt='La mejor biblioteca de JavaScript para añadir animaciones TOP en tu página web. Anima CSS, SVGs y el' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
