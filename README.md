@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/cuM63epuf9M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/cuM63epuf9M/mqdefault.jpg' alt='La verdad sobre npm que nadie te cuenta' />
+  <img width='30%' src='https://img.youtube.com/vi/cuM63epuf9M/mqdefault.jpg' alt='La verdad sobre npm run que nadie te cuenta' />
 </a>
 <a href='https://youtu.be/9GiosVIaDSY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9GiosVIaDSY/mqdefault.jpg' alt='El fin de los Styled Components' />
