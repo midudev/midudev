@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/5ErswRHYq1E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5ErswRHYq1E/mqdefault.jpg' alt='Cursos y certificaciones de Programación, Inglés e Inteligencia Artificial gratis. ¡Por tiempo limit' />
+</a>
 <a href='https://youtu.be/61WRATtRe74' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/61WRATtRe74/mqdefault.jpg' alt='Microsoft bloquea extensiones de VSCode para Cursor AI' />
+  <img width='30%' src='https://img.youtube.com/vi/61WRATtRe74/mqdefault.jpg' alt='Microsoft bloquea extension C/C++ de VSCode' />
 </a>
 <a href='https://youtu.be/2dYocOPhVgY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2dYocOPhVgY/mqdefault.jpg' alt='Estas Novedades de CSS son INCREÍBLES (adiós JavaScript)' />
-</a>
-<a href='https://youtu.be/XSF6Qq4KaY8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XSF6Qq4KaY8/mqdefault.jpg' alt='¡Google acaba de lanzar su nuevo editor Firebase Studio!  Una alternativa a Visual Studio Code + Cur' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
