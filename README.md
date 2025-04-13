@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/0o2w2RE-R-o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0o2w2RE-R-o/mqdefault.jpg' alt='Así son las ofertas de empleo para Junior FullStack Developer' />
+</a>
 <a href='https://youtu.be/USVzVPF4YE0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/USVzVPF4YE0/mqdefault.jpg' alt='¡Brutal herramienta para ver tus bases de datos SQL!' />
 </a>
 <a href='https://youtu.be/hv5fbxTt9yw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hv5fbxTt9yw/mqdefault.jpg' alt='Lo que ves (Frontend) vs lo que hay detrás (Backend)  Todos ven el coche reluciente, con sus luces y' />
-</a>
-<a href='https://youtu.be/5ErswRHYq1E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5ErswRHYq1E/mqdefault.jpg' alt='Cursos y certificaciones de Programación, Inglés e Inteligencia Artificial gratis. ¡Por tiempo limit' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
