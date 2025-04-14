@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/-vWVhqecB50' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/-vWVhqecB50/mqdefault.jpg' alt='ChatGPT-4.1 es...' />
+</a>
 <a href='https://youtu.be/r0aQniU2D2I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/r0aQniU2D2I/mqdefault.jpg' alt='Usar IA es OBLIGATORIO En SHOPIFY' />
 </a>
 <a href='https://youtu.be/kp2NxAQZx20' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kp2NxAQZx20/mqdefault.jpg' alt='Complejo de superioridad como Programador' />
-</a>
-<a href='https://youtu.be/cvHhH3HtttM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/cvHhH3HtttM/mqdefault.jpg' alt='Llama 4 no es lo que parece' />
 </a>
