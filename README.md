@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/0A7PDs8NRM0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0A7PDs8NRM0/mqdefault.jpg' alt='Se confirma lo peor para JavaScript' />
+</a>
 <a href='https://youtu.be/0h4R3V1TxzQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0h4R3V1TxzQ/mqdefault.jpg' alt='¿Aprendiendo SQL? ¡Necesitas esta página! Un editor en línea para practicar y prototipar  ✓ Funciona' />
 </a>
 <a href='https://youtu.be/B_cpThcL-nM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/B_cpThcL-nM/mqdefault.jpg' alt='El elemento h1 de HTML acaba de sufrir una actualización' />
-</a>
-<a href='https://youtu.be/rBJ73yD0WQs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rBJ73yD0WQs/mqdefault.jpg' alt='Google creó un editor de código y es bueno ¿Asesino de Cursor Gratis?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
