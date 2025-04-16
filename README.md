@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/0h4R3V1TxzQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0h4R3V1TxzQ/mqdefault.jpg' alt='¿Aprendiendo SQL? ¡Necesitas esta página! Un editor en línea para practicar y prototipar  ✓ Funciona' />
+</a>
+<a href='https://youtu.be/B_cpThcL-nM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/B_cpThcL-nM/mqdefault.jpg' alt='El elemento h1 de HTML acaba de sufrir una actualización' />
+</a>
 <a href='https://youtu.be/rBJ73yD0WQs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/rBJ73yD0WQs/mqdefault.jpg' alt='Google creó un editor de código y es bueno ¿Asesino de Cursor Gratis?' />
-</a>
-<a href='https://youtu.be/4FW2JSamLbo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4FW2JSamLbo/mqdefault.jpg' alt='¡Añade un efecto parallax a cualquier imagen de tu página! Muy fácil de usar y personalizable al det' />
-</a>
-<a href='https://youtu.be/0o2w2RE-R-o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0o2w2RE-R-o/mqdefault.jpg' alt='Así son las ofertas de empleo para Junior FullStack Developer' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
