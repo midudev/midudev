@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/wnHczxwukYY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wnHczxwukYY/mqdefault.jpg' alt='¡Aprende MCP! Para principiantes + Crear nuestro primer MCP DESDE CERO' />
+</a>
+<a href='https://youtu.be/K-knvsn4FZc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/K-knvsn4FZc/mqdefault.jpg' alt='OpenAI lanza Codex, un agente de IA para ayudarte a programar… ¡directamente desde la terminal!  Le' />
+</a>
 <a href='https://youtu.be/0A7PDs8NRM0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0A7PDs8NRM0/mqdefault.jpg' alt='Se confirma lo peor para JavaScript: Adiós Records y Tuplas' />
-</a>
-<a href='https://youtu.be/0h4R3V1TxzQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0h4R3V1TxzQ/mqdefault.jpg' alt='¿Aprendiendo SQL? ¡Necesitas esta página! Un editor en línea para practicar y prototipar  ✓ Funciona' />
-</a>
-<a href='https://youtu.be/B_cpThcL-nM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/B_cpThcL-nM/mqdefault.jpg' alt='El elemento h1 de HTML acaba de sufrir una actualización' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/3yh9hLTRSA0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/3yh9hLTRSA0/mqdefault.jpg' alt='OpenAI lo hizo de nuevo... o3 + o4 mini' />
+</a>
 <a href='https://youtu.be/ZQwRGUCtsQM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZQwRGUCtsQM/mqdefault.jpg' alt='El cambio que necesita Vercel' />
 </a>
 <a href='https://youtu.be/pFc9QSsscVU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pFc9QSsscVU/mqdefault.jpg' alt='No creeras quien estará en la conferencia de Postman' />
-</a>
-<a href='https://youtu.be/-vWVhqecB50' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-vWVhqecB50/mqdefault.jpg' alt='ChatGPT-4.1 es...' />
 </a>
