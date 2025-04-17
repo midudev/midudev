@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/0A7PDs8NRM0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0A7PDs8NRM0/mqdefault.jpg' alt='Se confirma lo peor para JavaScript' />
+  <img width='30%' src='https://img.youtube.com/vi/0A7PDs8NRM0/mqdefault.jpg' alt='Se confirma lo peor para JavaScript: Adiós Records y Tuplas' />
 </a>
 <a href='https://youtu.be/0h4R3V1TxzQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0h4R3V1TxzQ/mqdefault.jpg' alt='¿Aprendiendo SQL? ¡Necesitas esta página! Un editor en línea para practicar y prototipar  ✓ Funciona' />
@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/ZQwRGUCtsQM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZQwRGUCtsQM/mqdefault.jpg' alt='Vercel necesita un gran cambio' />
+  <img width='30%' src='https://img.youtube.com/vi/ZQwRGUCtsQM/mqdefault.jpg' alt='El cambio que necesita Vercel' />
 </a>
 <a href='https://youtu.be/pFc9QSsscVU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pFc9QSsscVU/mqdefault.jpg' alt='No creeras quien estará en la conferencia de Postman' />
