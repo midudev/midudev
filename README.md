@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/FSelq5VnLro' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/FSelq5VnLro/mqdefault.jpg' alt='El estado de la IA 2025' />
+</a>
 <a href='https://youtu.be/7Eyl95CgheM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7Eyl95CgheM/mqdefault.jpg' alt='4chan fue hackeado y se filtró el código fuente' />
 </a>
 <a href='https://youtu.be/3yh9hLTRSA0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3yh9hLTRSA0/mqdefault.jpg' alt='OpenAI lo hizo de nuevo...' />
-</a>
-<a href='https://youtu.be/ZQwRGUCtsQM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZQwRGUCtsQM/mqdefault.jpg' alt='El cambio que necesita Vercel' />
 </a>
