@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/W6PY9Rtrg0g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/W6PY9Rtrg0g/mqdefault.jpg' alt='IBM me robó mi curso de Python' />
+  <img width='30%' src='https://img.youtube.com/vi/W6PY9Rtrg0g/mqdefault.jpg' alt='IBM usa mi curso de Python' />
 </a>
 <a href='https://youtu.be/wnHczxwukYY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wnHczxwukYY/mqdefault.jpg' alt='¡Aprende MCP! Para principiantes + Crear nuestro primer MCP DESDE CERO' />
@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/5fweISWDwvk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5fweISWDwvk/mqdefault.jpg' alt='La estafa del siglo de una Startup' />
+  <img width='30%' src='https://img.youtube.com/vi/5fweISWDwvk/mqdefault.jpg' alt='Inversores denuncian a StartUp española por presunta estafa' />
 </a>
 <a href='https://youtu.be/FSelq5VnLro' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FSelq5VnLro/mqdefault.jpg' alt='El estado de la IA 2025' />
