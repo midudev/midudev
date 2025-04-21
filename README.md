@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/7V6ABPYkQ1U' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7V6ABPYkQ1U/mqdefault.jpg' alt='¡Brutal biblioteca de JavaScript para crear dashboards! Paneles arrastrables y redimensionables  ✓ C' />
+</a>
 <a href='https://youtu.be/W6PY9Rtrg0g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/W6PY9Rtrg0g/mqdefault.jpg' alt='IBM usa mi curso de Python' />
 </a>
 <a href='https://youtu.be/wnHczxwukYY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wnHczxwukYY/mqdefault.jpg' alt='¡Aprende MCP! Para principiantes + Crear nuestro primer MCP DESDE CERO' />
-</a>
-<a href='https://youtu.be/K-knvsn4FZc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/K-knvsn4FZc/mqdefault.jpg' alt='OpenAI lanza Codex, un agente de IA para ayudarte a programar… ¡directamente desde la terminal!  Le' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
