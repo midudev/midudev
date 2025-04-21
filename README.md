@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/W81jwW5uJGw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/W81jwW5uJGw/mqdefault.jpg' alt='El drama de Figma "Dev Mode"' />
+</a>
 <a href='https://youtu.be/5fweISWDwvk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5fweISWDwvk/mqdefault.jpg' alt='Inversores denuncian a StartUp española por presunta estafa' />
 </a>
 <a href='https://youtu.be/FSelq5VnLro' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FSelq5VnLro/mqdefault.jpg' alt='El estado de la IA 2025' />
-</a>
-<a href='https://youtu.be/7Eyl95CgheM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7Eyl95CgheM/mqdefault.jpg' alt='4chan fue hackeado y se filtró el código fuente' />
 </a>
