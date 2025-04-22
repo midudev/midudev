@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Zdpo6w0smoE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Zdpo6w0smoE/mqdefault.jpg' alt='Las cookies de JavaScript sufrieron una actualización' />
+</a>
 <a href='https://youtu.be/rbaOPpuxVlc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/rbaOPpuxVlc/mqdefault.jpg' alt='¿Buscas ideas para practicar desarrollo Backend y Frontend?  Te dejo una lista con proyectos para to' />
 </a>
 <a href='https://youtu.be/7V6ABPYkQ1U' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7V6ABPYkQ1U/mqdefault.jpg' alt='¡Brutal biblioteca de JavaScript para crear dashboards! Paneles arrastrables y redimensionables  ✓ C' />
-</a>
-<a href='https://youtu.be/W6PY9Rtrg0g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/W6PY9Rtrg0g/mqdefault.jpg' alt='IBM usa mi curso de Python' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
