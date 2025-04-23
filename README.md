@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/9p8cxLoGI08' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9p8cxLoGI08/mqdefault.jpg' alt='La vieja confiable de los programadores. Pasan los años, y sigue siendo la primera opción' />
+</a>
 <a href='https://youtu.be/Zdpo6w0smoE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Zdpo6w0smoE/mqdefault.jpg' alt='Las cookies de JavaScript sufrieron una actualización' />
 </a>
 <a href='https://youtu.be/rbaOPpuxVlc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/rbaOPpuxVlc/mqdefault.jpg' alt='¿Buscas ideas para practicar desarrollo Backend y Frontend?  Te dejo una lista con proyectos para to' />
 </a>
-<a href='https://youtu.be/7V6ABPYkQ1U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7V6ABPYkQ1U/mqdefault.jpg' alt='¡Brutal biblioteca de JavaScript para crear dashboards! Paneles arrastrables y redimensionables  ✓ C' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Z5DjKvglAK8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Z5DjKvglAK8/mqdefault.jpg' alt='Microsoft hizo copy & paste de su código' />
+</a>
 <a href='https://youtu.be/_dS_Rh4Up1s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_dS_Rh4Up1s/mqdefault.jpg' alt='Google está jugando sucio' />
 </a>
 <a href='https://youtu.be/W81jwW5uJGw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/W81jwW5uJGw/mqdefault.jpg' alt='El drama de Figma "Dev Mode"' />
-</a>
-<a href='https://youtu.be/5fweISWDwvk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5fweISWDwvk/mqdefault.jpg' alt='Inversores denuncian a StartUp española por presunta estafa' />
 </a>
