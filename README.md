@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/LMuIULKLwIw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LMuIULKLwIw/mqdefault.jpg' alt='La Liga tiene secuestrada a España' />
+</a>
 <a href='https://youtu.be/zg8jNvGGE_Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zg8jNvGGE_Q/mqdefault.jpg' alt='"La IA es mejor que el 70% de todos los programadores" - Barack Obama' />
 </a>
 <a href='https://youtu.be/Z5DjKvglAK8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Z5DjKvglAK8/mqdefault.jpg' alt='Microsoft... Esto es ilegal' />
-</a>
-<a href='https://youtu.be/_dS_Rh4Up1s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_dS_Rh4Up1s/mqdefault.jpg' alt='Google está jugando sucio' />
 </a>
