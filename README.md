@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Jf3RmUEJPpc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Jf3RmUEJPpc/mqdefault.jpg' alt='¿Sabías que con solo unas pocas líneas de CSS puedes crear animaciones increíbles al hacer scroll?' />
+</a>
 <a href='https://youtu.be/9p8cxLoGI08' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9p8cxLoGI08/mqdefault.jpg' alt='La vieja confiable de los programadores. Pasan los años, y sigue siendo la primera opción' />
 </a>
 <a href='https://youtu.be/Zdpo6w0smoE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Zdpo6w0smoE/mqdefault.jpg' alt='Las cookies de JavaScript sufrieron una actualización' />
 </a>
-<a href='https://youtu.be/rbaOPpuxVlc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rbaOPpuxVlc/mqdefault.jpg' alt='¿Buscas ideas para practicar desarrollo Backend y Frontend?  Te dejo una lista con proyectos para to' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/i-FRc2s2fd8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/i-FRc2s2fd8/mqdefault.jpg' alt='OpenAI quiere mi DNI para usar ChatGPT' />
+</a>
 <a href='https://youtu.be/LMuIULKLwIw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LMuIULKLwIw/mqdefault.jpg' alt='La Liga tiene secuestrada a España' />
 </a>
 <a href='https://youtu.be/zg8jNvGGE_Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zg8jNvGGE_Q/mqdefault.jpg' alt='"La IA es mejor que el 70% de todos los programadores" - Barack Obama' />
-</a>
-<a href='https://youtu.be/Z5DjKvglAK8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Z5DjKvglAK8/mqdefault.jpg' alt='Microsoft... Esto es ilegal' />
 </a>
