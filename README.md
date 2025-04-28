@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/qlfSCj-srOU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qlfSCj-srOU/mqdefault.jpg' alt='Si eres programador y algún lunes te ha pasado esto, deja un ☕️ en los comentarios. 🤣  ¡Feliz lunes' />
+</a>
 <a href='https://youtu.be/Jf3RmUEJPpc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Jf3RmUEJPpc/mqdefault.jpg' alt='¿Sabías que con solo unas pocas líneas de CSS puedes crear animaciones increíbles al hacer scroll?' />
 </a>
 <a href='https://youtu.be/9p8cxLoGI08' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9p8cxLoGI08/mqdefault.jpg' alt='La vieja confiable de los programadores. Pasan los años, y sigue siendo la primera opción' />
-</a>
-<a href='https://youtu.be/Zdpo6w0smoE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Zdpo6w0smoE/mqdefault.jpg' alt='Las cookies de JavaScript sufrieron una actualización' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
