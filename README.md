@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/5YPO-qPmuoE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5YPO-qPmuoE/mqdefault.jpg' alt='Apagón BRUTAL en España' />
+</a>
 <a href='https://youtu.be/i-FRc2s2fd8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/i-FRc2s2fd8/mqdefault.jpg' alt='OpenAI quiere mi DNI para usar ChatGPT' />
 </a>
 <a href='https://youtu.be/LMuIULKLwIw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LMuIULKLwIw/mqdefault.jpg' alt='La Liga tiene secuestrada a España' />
-</a>
-<a href='https://youtu.be/zg8jNvGGE_Q' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zg8jNvGGE_Q/mqdefault.jpg' alt='"La IA es mejor que el 70% de todos los programadores" - Barack Obama' />
 </a>
