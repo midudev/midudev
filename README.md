@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/-g39lAgkvtE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/-g39lAgkvtE/mqdefault.jpg' alt='¿Quieres convertir una web en JSON?  Puedes detectar precios, crear tu propia API, monitorear cambio' />
+</a>
 <a href='https://youtu.be/qlfSCj-srOU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qlfSCj-srOU/mqdefault.jpg' alt='Si eres programador y algún lunes te ha pasado esto, deja un ☕️ en los comentarios. 🤣  ¡Feliz lunes' />
 </a>
 <a href='https://youtu.be/Jf3RmUEJPpc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Jf3RmUEJPpc/mqdefault.jpg' alt='¿Sabías que con solo unas pocas líneas de CSS puedes crear animaciones increíbles al hacer scroll?' />
 </a>
-<a href='https://youtu.be/9p8cxLoGI08' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9p8cxLoGI08/mqdefault.jpg' alt='La vieja confiable de los programadores. Pasan los años, y sigue siendo la primera opción' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/nMX5QtMrEHw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/nMX5QtMrEHw/mqdefault.jpg' alt='Malas noticias para Google Chrome' />
+</a>
 <a href='https://youtu.be/5YPO-qPmuoE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5YPO-qPmuoE/mqdefault.jpg' alt='Apagón BRUTAL en España' />
 </a>
 <a href='https://youtu.be/i-FRc2s2fd8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/i-FRc2s2fd8/mqdefault.jpg' alt='OpenAI quiere mi DNI para usar ChatGPT' />
-</a>
-<a href='https://youtu.be/LMuIULKLwIw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LMuIULKLwIw/mqdefault.jpg' alt='La Liga tiene secuestrada a España' />
 </a>
