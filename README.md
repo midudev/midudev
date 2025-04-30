@@ -23,20 +23,20 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Evv6xmPexhI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Evv6xmPexhI/mqdefault.jpg' alt='Los programadores hacen mal uso de Node.js' />
+</a>
 <a href='https://youtu.be/-g39lAgkvtE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-g39lAgkvtE/mqdefault.jpg' alt='¿Quieres convertir una web en JSON?  Puedes detectar precios, crear tu propia API, monitorear cambio' />
 </a>
 <a href='https://youtu.be/qlfSCj-srOU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qlfSCj-srOU/mqdefault.jpg' alt='Si eres programador y algún lunes te ha pasado esto, deja un ☕️ en los comentarios. 🤣  ¡Feliz lunes' />
 </a>
-<a href='https://youtu.be/Jf3RmUEJPpc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Jf3RmUEJPpc/mqdefault.jpg' alt='¿Sabías que con solo unas pocas líneas de CSS puedes crear animaciones increíbles al hacer scroll?' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/HjYtqIjcwxQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HjYtqIjcwxQ/mqdefault.jpg' alt='No te puedes quejar de las ofertas basura para Junior' />
+  <img width='30%' src='https://img.youtube.com/vi/HjYtqIjcwxQ/mqdefault.jpg' alt='No te puedes enojar de las ofertas de trabajo basura para Junior' />
 </a>
 <a href='https://youtu.be/XPuPlXc3oyY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XPuPlXc3oyY/mqdefault.jpg' alt='Una IA invisible para engañar en entrevistas de trabajo' />
