@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/XPuPlXc3oyY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XPuPlXc3oyY/mqdefault.jpg' alt='IA para engañar en entrevistas de trabajo' />
+  <img width='30%' src='https://img.youtube.com/vi/XPuPlXc3oyY/mqdefault.jpg' alt='Una IA invisible para engañar en entrevistas de trabajo' />
 </a>
 <a href='https://youtu.be/nMX5QtMrEHw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/nMX5QtMrEHw/mqdefault.jpg' alt='Malas noticias para Google Chrome' />
