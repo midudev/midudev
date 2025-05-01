@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/5oiOR0vZj9k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5oiOR0vZj9k/mqdefault.jpg' alt='Finalmente React evolucionó' />
+</a>
+<a href='https://youtu.be/24PvFCSfAPs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/24PvFCSfAPs/mqdefault.jpg' alt='¿Quiere hacer un bootcamp sin gastar dinero?  La Universidad de Helsinki ofrece uno totalmente gratu' />
+</a>
 <a href='https://youtu.be/Evv6xmPexhI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Evv6xmPexhI/mqdefault.jpg' alt='Los devs utilizan mal Node.js' />
-</a>
-<a href='https://youtu.be/-g39lAgkvtE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-g39lAgkvtE/mqdefault.jpg' alt='¿Quieres convertir una web en JSON?  Puedes detectar precios, crear tu propia API, monitorear cambio' />
-</a>
-<a href='https://youtu.be/qlfSCj-srOU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qlfSCj-srOU/mqdefault.jpg' alt='Si eres programador y algún lunes te ha pasado esto, deja un ☕️ en los comentarios. 🤣  ¡Feliz lunes' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
