@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/R5EXap3vNDA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/R5EXap3vNDA/mqdefault.jpg' alt='Curso de Tailwindcss 4 para principiantes + aplicación \'link in bio\' DESDE CERO' />
+</a>
 <a href='https://youtu.be/5oiOR0vZj9k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5oiOR0vZj9k/mqdefault.jpg' alt='Finalmente React evolucionó' />
 </a>
 <a href='https://youtu.be/24PvFCSfAPs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/24PvFCSfAPs/mqdefault.jpg' alt='¿Quiere hacer un bootcamp sin gastar dinero?  La Universidad de Helsinki ofrece uno totalmente gratu' />
-</a>
-<a href='https://youtu.be/Evv6xmPexhI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Evv6xmPexhI/mqdefault.jpg' alt='Los devs utilizan mal Node.js' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
