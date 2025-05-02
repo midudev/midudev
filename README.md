@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/qmOgDv3uXUc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qmOgDv3uXUc/mqdefault.jpg' alt='¿Quieres hacer que una imagen se desvanezca hasta volverse transparente?  Se puede hacer solo con CS' />
+</a>
 <a href='https://youtu.be/R5EXap3vNDA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/R5EXap3vNDA/mqdefault.jpg' alt='Curso de Tailwindcss 4 para principiantes + aplicación \'link in bio\' DESDE CERO' />
 </a>
 <a href='https://youtu.be/5oiOR0vZj9k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5oiOR0vZj9k/mqdefault.jpg' alt='Finalmente React evolucionó' />
-</a>
-<a href='https://youtu.be/24PvFCSfAPs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/24PvFCSfAPs/mqdefault.jpg' alt='¿Quiere hacer un bootcamp sin gastar dinero?  La Universidad de Helsinki ofrece uno totalmente gratu' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
