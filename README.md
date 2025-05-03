@@ -27,7 +27,7 @@
   <img width='30%' src='https://img.youtube.com/vi/qmOgDv3uXUc/mqdefault.jpg' alt='¿Quieres hacer que una imagen se desvanezca hasta volverse transparente?  Se puede hacer solo con CS' />
 </a>
 <a href='https://youtu.be/R5EXap3vNDA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/R5EXap3vNDA/mqdefault.jpg' alt='Curso de Tailwindcss 4 para principiantes + aplicación \'link in bio\' DESDE CERO' />
+  <img width='30%' src='https://img.youtube.com/vi/R5EXap3vNDA/mqdefault.jpg' alt='Curso Tailwind CSS 4 desde cero' />
 </a>
 <a href='https://youtu.be/5oiOR0vZj9k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5oiOR0vZj9k/mqdefault.jpg' alt='Finalmente React evolucionó' />
