@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/spu_bvNpB_8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/spu_bvNpB_8/mqdefault.jpg' alt='Apple prueba su propia medicina' />
+</a>
 <a href='https://youtu.be/HjYtqIjcwxQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HjYtqIjcwxQ/mqdefault.jpg' alt='No te puedes enojar de las ofertas de trabajo basura para Junior' />
 </a>
 <a href='https://youtu.be/XPuPlXc3oyY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XPuPlXc3oyY/mqdefault.jpg' alt='Una IA invisible para engañar en entrevistas de trabajo' />
-</a>
-<a href='https://youtu.be/nMX5QtMrEHw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/nMX5QtMrEHw/mqdefault.jpg' alt='Malas noticias para Google Chrome' />
 </a>
