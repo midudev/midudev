@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/mGUjY8oeIEA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/mGUjY8oeIEA/mqdefault.jpg' alt='¡Cursos de programación de Microsoft y Visual Studio Code!  No tienen coste y son oficiales. Destaca' />
+</a>
+<a href='https://youtu.be/xvcxT8ZES04' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xvcxT8ZES04/mqdefault.jpg' alt='¡Aprende SQL Ahora!' />
+</a>
 <a href='https://youtu.be/qmOgDv3uXUc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qmOgDv3uXUc/mqdefault.jpg' alt='¿Quieres hacer que una imagen se desvanezca hasta volverse transparente?  Se puede hacer solo con CS' />
-</a>
-<a href='https://youtu.be/R5EXap3vNDA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/R5EXap3vNDA/mqdefault.jpg' alt='Curso Tailwind CSS 4 desde cero' />
-</a>
-<a href='https://youtu.be/5oiOR0vZj9k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5oiOR0vZj9k/mqdefault.jpg' alt='Finalmente React evolucionó' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
