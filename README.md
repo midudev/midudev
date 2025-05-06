@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/dsw3JePcA_0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/dsw3JePcA_0/mqdefault.jpg' alt='Añade Login de Usuarios en tu app de Astro y Next.js con Clerk' />
+  <img width='30%' src='https://img.youtube.com/vi/dsw3JePcA_0/mqdefault.jpg' alt='Agrega Autenticación en tu app de Astro y Next.js con Clerk' />
 </a>
 <a href='https://youtu.be/Kgz-jvcHVG0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Kgz-jvcHVG0/mqdefault.jpg' alt='¡Novedad brutal de HTML y CSS! Estila elementos select sin bibliotecas y muy fácilmente.  No hace fa' />
@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/wlGSsDBna2w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wlGSsDBna2w/mqdefault.jpg' alt='¿Por qué no deberías utilizar SQL?' />
+</a>
 <a href='https://youtu.be/LGF5KNAh8cw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LGF5KNAh8cw/mqdefault.jpg' alt='"La contratación tecnológica está muerta" Mi opinión' />
 </a>
 <a href='https://youtu.be/spu_bvNpB_8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/spu_bvNpB_8/mqdefault.jpg' alt='Apple prueba su propia medicina' />
-</a>
-<a href='https://youtu.be/HjYtqIjcwxQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HjYtqIjcwxQ/mqdefault.jpg' alt='No te puedes enojar de las ofertas de trabajo basura para Junior' />
 </a>
