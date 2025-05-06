@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/dsw3JePcA_0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dsw3JePcA_0/mqdefault.jpg' alt='Añade Login de Usuarios en tu app de Astro y Next.js con Clerk' />
+</a>
+<a href='https://youtu.be/Kgz-jvcHVG0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Kgz-jvcHVG0/mqdefault.jpg' alt='¡Novedad brutal de HTML y CSS! Estila elementos select sin bibliotecas y muy fácilmente.  No hace fa' />
+</a>
 <a href='https://youtu.be/mGUjY8oeIEA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mGUjY8oeIEA/mqdefault.jpg' alt='¡Cursos de programación de Microsoft y Visual Studio Code!  No tienen coste y son oficiales. Destaca' />
-</a>
-<a href='https://youtu.be/xvcxT8ZES04' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xvcxT8ZES04/mqdefault.jpg' alt='¡Aprende SQL Ahora!' />
-</a>
-<a href='https://youtu.be/qmOgDv3uXUc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qmOgDv3uXUc/mqdefault.jpg' alt='¿Quieres hacer que una imagen se desvanezca hasta volverse transparente?  Se puede hacer solo con CS' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/LGF5KNAh8cw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LGF5KNAh8cw/mqdefault.jpg' alt='"La contratación tecnológica está muerta" Mi opinión' />
+</a>
 <a href='https://youtu.be/spu_bvNpB_8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/spu_bvNpB_8/mqdefault.jpg' alt='Apple prueba su propia medicina' />
 </a>
 <a href='https://youtu.be/HjYtqIjcwxQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HjYtqIjcwxQ/mqdefault.jpg' alt='No te puedes enojar de las ofertas de trabajo basura para Junior' />
-</a>
-<a href='https://youtu.be/XPuPlXc3oyY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XPuPlXc3oyY/mqdefault.jpg' alt='Una IA invisible para engañar en entrevistas de trabajo' />
 </a>
