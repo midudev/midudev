@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/wlGSsDBna2w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wlGSsDBna2w/mqdefault.jpg' alt='¿Por qué no deberías utilizar SQL?' />
+  <img width='30%' src='https://img.youtube.com/vi/wlGSsDBna2w/mqdefault.jpg' alt='“No utilices SQL” - Uncle Bob' />
 </a>
 <a href='https://youtu.be/LGF5KNAh8cw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LGF5KNAh8cw/mqdefault.jpg' alt='"La contratación tecnológica está muerta" Mi opinión' />
