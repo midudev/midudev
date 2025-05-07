@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/cttQy3t5KfA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cttQy3t5KfA/mqdefault.jpg' alt='El sitio web de GTA VI es una locura' />
+</a>
+<a href='https://youtu.be/P0-NwxvDrEw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/P0-NwxvDrEw/mqdefault.jpg' alt='¿Eres dev? Entonces este sitio es una mina de oro.  Recursos gratuitos para desarrolladores: desde h' />
+</a>
 <a href='https://youtu.be/dsw3JePcA_0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dsw3JePcA_0/mqdefault.jpg' alt='Agrega Autenticación en tu app de Astro y Next.js con Clerk' />
-</a>
-<a href='https://youtu.be/Kgz-jvcHVG0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Kgz-jvcHVG0/mqdefault.jpg' alt='¡Novedad brutal de HTML y CSS! Estila elementos select sin bibliotecas y muy fácilmente.  No hace fa' />
-</a>
-<a href='https://youtu.be/mGUjY8oeIEA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mGUjY8oeIEA/mqdefault.jpg' alt='¡Cursos de programación de Microsoft y Visual Studio Code!  No tienen coste y son oficiales. Destaca' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
