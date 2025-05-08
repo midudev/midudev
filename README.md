@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/0wEPgsSoya4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0wEPgsSoya4/mqdefault.jpg' alt='La Union Europea dice "Adiós, Windows"' />
+  <img width='30%' src='https://img.youtube.com/vi/0wEPgsSoya4/mqdefault.jpg' alt='Proyecto europeo para decir “Adiós, Windows"' />
 </a>
 <a href='https://youtu.be/wlGSsDBna2w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wlGSsDBna2w/mqdefault.jpg' alt='“No utilices SQL” - Uncle Bob' />
