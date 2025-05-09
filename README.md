@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/KrJwqsuhZ8U' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/KrJwqsuhZ8U/mqdefault.jpg' alt='DevinAI: Convierte tu repositorio de GitHub en documentación' />
+</a>
 <a href='https://youtu.be/p4aYX3d7qOE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p4aYX3d7qOE/mqdefault.jpg' alt='¿Conocías este truco de HTML? Puedes crear un editor CSS en cualquier página.  Usas la etiqueta styl' />
 </a>
 <a href='https://youtu.be/c168088kEfM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/c168088kEfM/mqdefault.jpg' alt='¡Brutal TRUCAZO para tus repositorios de GitHub! Accede a una documentación con diagramas y IA.  Cam' />
 </a>
-<a href='https://youtu.be/cttQy3t5KfA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/cttQy3t5KfA/mqdefault.jpg' alt='El sitio web de GTA VI es una locura' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/jUoWAQqDSrQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jUoWAQqDSrQ/mqdefault.jpg' alt='Figma está a punto de cambiar' />
+</a>
 <a href='https://youtu.be/-YEKupUMPMs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-YEKupUMPMs/mqdefault.jpg' alt='"La IA viene por tu trabajo" - CEO de Fiverr' />
+  <img width='30%' src='https://img.youtube.com/vi/-YEKupUMPMs/mqdefault.jpg' alt='"La IA quiere tu trabajo" - CEO de Fiverr' />
 </a>
 <a href='https://youtu.be/TIDi2mji0Yg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TIDi2mji0Yg/mqdefault.jpg' alt='OpenAI quiere comprar un Fork de VSCode por 3 mil millones' />
-</a>
-<a href='https://youtu.be/zfH6hf8KGkk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zfH6hf8KGkk/mqdefault.jpg' alt='Esta línea de CSS mejora tus parrafos (no es broma)' />
 </a>
