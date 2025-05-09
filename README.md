@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/TIDi2mji0Yg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TIDi2mji0Yg/mqdefault.jpg' alt='¿Por qué OpenAI quiere comprar un Fork de VSCode?' />
+  <img width='30%' src='https://img.youtube.com/vi/TIDi2mji0Yg/mqdefault.jpg' alt='OpenAI quiere comprar un Fork de VSCode por 3 mil millones' />
 </a>
 <a href='https://youtu.be/zfH6hf8KGkk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zfH6hf8KGkk/mqdefault.jpg' alt='Esta línea de CSS mejora tus parrafos (no es broma)' />
