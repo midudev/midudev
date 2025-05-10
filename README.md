@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/KrJwqsuhZ8U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/KrJwqsuhZ8U/mqdefault.jpg' alt='DevinAI: Convierte tu repositorio de GitHub en documentación' />
+  <img width='30%' src='https://img.youtube.com/vi/KrJwqsuhZ8U/mqdefault.jpg' alt='Trucazo de GitHub. Convierte un repositorio en documentación con IA' />
 </a>
 <a href='https://youtu.be/p4aYX3d7qOE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p4aYX3d7qOE/mqdefault.jpg' alt='¿Conocías este truco de HTML? Puedes crear un editor CSS en cualquier página.  Usas la etiqueta styl' />
