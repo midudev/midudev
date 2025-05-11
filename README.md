@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/9-IhwKIoE8Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9-IhwKIoE8Y/mqdefault.jpg' alt='¡Esta página te explica Patrones de Diseño en Programación, totalmente en Español!  JavaScript, Pyth' />
+</a>
 <a href='https://youtu.be/LJE8mcJPTeo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LJE8mcJPTeo/mqdefault.jpg' alt='Nuevo editor de código con IA sin coste (ChatGPT, Claude Sonnet) oficial de TikTok' />
 </a>
 <a href='https://youtu.be/KrJwqsuhZ8U' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/KrJwqsuhZ8U/mqdefault.jpg' alt='Trucazo de GitHub. Convierte un repositorio en documentación con IA' />
-</a>
-<a href='https://youtu.be/p4aYX3d7qOE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/p4aYX3d7qOE/mqdefault.jpg' alt='¿Conocías este truco de HTML? Puedes crear un editor CSS en cualquier página.  Usas la etiqueta styl' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
