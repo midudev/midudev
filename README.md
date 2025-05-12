@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/MQbXRjwg-Jw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MQbXRjwg-Jw/mqdefault.jpg' alt='Probé el killer de Google Chrome' />
+</a>
 <a href='https://youtu.be/jUoWAQqDSrQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jUoWAQqDSrQ/mqdefault.jpg' alt='Figma está a punto de cambiar' />
 </a>
 <a href='https://youtu.be/-YEKupUMPMs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-YEKupUMPMs/mqdefault.jpg' alt='"La IA quiere tu trabajo" - CEO de Fiverr' />
-</a>
-<a href='https://youtu.be/TIDi2mji0Yg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TIDi2mji0Yg/mqdefault.jpg' alt='OpenAI quiere comprar un Fork de VSCode por 3 mil millones' />
 </a>
