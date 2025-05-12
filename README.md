@@ -23,20 +23,20 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/_2NzvYPDn4s' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_2NzvYPDn4s/mqdefault.jpg' alt='¡Un auténtico tesoro con las mejores prácticas para programar en Node.js! Encima tiene ejemplos en E' />
+</a>
 <a href='https://youtu.be/wMj4GuvTwHI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wMj4GuvTwHI/mqdefault.jpg' alt='Arquitectura hexagonal + DDD (Domain Drive Design), una migración diferente con EdPuzzle' />
 </a>
 <a href='https://youtu.be/9-IhwKIoE8Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9-IhwKIoE8Y/mqdefault.jpg' alt='¡Esta página te explica Patrones de Diseño en Programación, totalmente en Español!  JavaScript, Pyth' />
 </a>
-<a href='https://youtu.be/LJE8mcJPTeo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LJE8mcJPTeo/mqdefault.jpg' alt='Nuevo editor de código con IA sin coste (ChatGPT, Claude Sonnet) oficial de TikTok' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/MQbXRjwg-Jw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MQbXRjwg-Jw/mqdefault.jpg' alt='Probé el killer de Google Chrome' />
+  <img width='30%' src='https://img.youtube.com/vi/MQbXRjwg-Jw/mqdefault.jpg' alt='Nuevo navegador creado DESDE CERO ¿El killer de Google Chrome?' />
 </a>
 <a href='https://youtu.be/jUoWAQqDSrQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jUoWAQqDSrQ/mqdefault.jpg' alt='Figma está a punto de cambiar' />
