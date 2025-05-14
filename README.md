@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/smuK_Eatoq8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/smuK_Eatoq8/mqdefault.jpg' alt='¡Aprende la nueva Sintaxis de Media Queries en CSS! Ya no necesitas usar min-width ni max-width  ¡El' />
+</a>
 <a href='https://youtu.be/_2NzvYPDn4s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_2NzvYPDn4s/mqdefault.jpg' alt='¡Un auténtico tesoro con las mejores prácticas para programar en Node.js! Encima tiene ejemplos en E' />
 </a>
 <a href='https://youtu.be/wMj4GuvTwHI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wMj4GuvTwHI/mqdefault.jpg' alt='Arquitectura hexagonal + DDD (Domain Drive Design), una migración diferente con EdPuzzle' />
 </a>
-<a href='https://youtu.be/9-IhwKIoE8Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9-IhwKIoE8Y/mqdefault.jpg' alt='¡Esta página te explica Patrones de Diseño en Programación, totalmente en Español!  JavaScript, Pyth' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/uZorXpO4FTc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/uZorXpO4FTc/mqdefault.jpg' alt='Adiós al trabajo tal como lo conocemos' />
+</a>
 <a href='https://youtu.be/HbeFBpfY8yU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HbeFBpfY8yU/mqdefault.jpg' alt='La Liga quiere eliminar internet en España' />
 </a>
 <a href='https://youtu.be/i-ZygtIWyFg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/i-ZygtIWyFg/mqdefault.jpg' alt='La Revolución de Apple' />
-</a>
-<a href='https://youtu.be/MQbXRjwg-Jw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MQbXRjwg-Jw/mqdefault.jpg' alt='Nuevo navegador creado DESDE CERO ¿El killer de Google Chrome?' />
 </a>
