@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Y-Jy_ClFIos' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Y-Jy_ClFIos/mqdefault.jpg' alt='El killer de Git (A Linus Torvalds le gusta)' />
+</a>
 <a href='https://youtu.be/smuK_Eatoq8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/smuK_Eatoq8/mqdefault.jpg' alt='¡Aprende la nueva Sintaxis de Media Queries en CSS! Ya no necesitas usar min-width ni max-width  ¡El' />
 </a>
 <a href='https://youtu.be/_2NzvYPDn4s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_2NzvYPDn4s/mqdefault.jpg' alt='¡Un auténtico tesoro con las mejores prácticas para programar en Node.js! Encima tiene ejemplos en E' />
-</a>
-<a href='https://youtu.be/wMj4GuvTwHI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wMj4GuvTwHI/mqdefault.jpg' alt='Arquitectura hexagonal + DDD (Domain Drive Design), una migración diferente con EdPuzzle' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
