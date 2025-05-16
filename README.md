@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/CMDQWXHWT0E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CMDQWXHWT0E/mqdefault.jpg' alt='El drama de Microsoft' />
+  <img width='30%' src='https://img.youtube.com/vi/CMDQWXHWT0E/mqdefault.jpg' alt='7000 despidos en Microsoft. ¿Qué está pasando?' />
 </a>
 <a href='https://youtu.be/uZorXpO4FTc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uZorXpO4FTc/mqdefault.jpg' alt='Adiós al trabajo tal como lo conocemos' />
