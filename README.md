@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/0J4lcgI-P-4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0J4lcgI-P-4/mqdefault.jpg' alt='Mitos de programación que no necesitas' />
+</a>
 <a href='https://youtu.be/MMf9tFGKRN0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MMf9tFGKRN0/mqdefault.jpg' alt='¿Por qué Silicon Valley abandona React?' />
 </a>
 <a href='https://youtu.be/Y-Jy_ClFIos' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Y-Jy_ClFIos/mqdefault.jpg' alt='El killer de Git (A Linus Torvalds le gusta)' />
-</a>
-<a href='https://youtu.be/smuK_Eatoq8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/smuK_Eatoq8/mqdefault.jpg' alt='¡Aprende la nueva Sintaxis de Media Queries en CSS! Ya no necesitas usar min-width ni max-width  ¡El' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
