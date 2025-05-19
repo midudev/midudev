@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Nngm8C5XCOs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Nngm8C5XCOs/mqdefault.jpg' alt='MICROSOFT BUILD 2025 - Novedades + IA + VSCode + GitHub' />
+</a>
+<a href='https://youtu.be/4QEBCF9edV8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/4QEBCF9edV8/mqdefault.jpg' alt='¿Tienes una app o web y quieres explicar cómo se usa? Como programadores, la idea es que se entienda' />
+</a>
 <a href='https://youtu.be/dbD1LQaLsrE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dbD1LQaLsrE/mqdefault.jpg' alt='¡Aprende este truco de CSS para tu página web!  ¿Quieres que tu footer se quede siempre al final de' />
-</a>
-<a href='https://youtu.be/89gTAXFEXFY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/89gTAXFEXFY/mqdefault.jpg' alt='La experiencia no surge de la nada. En programación, todos empezamos como juniors llenos de curiosid' />
-</a>
-<a href='https://youtu.be/0J4lcgI-P-4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0J4lcgI-P-4/mqdefault.jpg' alt='Mitos de programación que no necesitas' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
