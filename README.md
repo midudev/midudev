@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/wMj4GuvTwHI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wMj4GuvTwHI/mqdefault.jpg' alt='Arquitectura hexagonal + DDD (Domain Drive Design), una migración diferente con Edpuzzle' />
+</a>
+<a href='https://youtu.be/86eFgnXVByc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/86eFgnXVByc/mqdefault.jpg' alt='¡Microsoft lo cambia todo en programación! GitHub Copilot evoluciona. Ahora será un Agente de código' />
+</a>
 <a href='https://youtu.be/RpBzgFWVZ7k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RpBzgFWVZ7k/mqdefault.jpg' alt='MICROSOFT BUILD 2025 - Novedades + IA + VSCode + GitHub' />
-</a>
-<a href='https://youtu.be/Nngm8C5XCOs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Nngm8C5XCOs/mqdefault.jpg' alt='MICROSOFT BUILD 2025 - Novedades + IA + VSCode + GitHub' />
-</a>
-<a href='https://youtu.be/4QEBCF9edV8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4QEBCF9edV8/mqdefault.jpg' alt='¿Tienes una app o web y quieres explicar cómo se usa? Como programadores, la idea es que se entienda' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
