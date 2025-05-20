@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/RpBzgFWVZ7k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/RpBzgFWVZ7k/mqdefault.jpg' alt='GOOGLE I/O 2025 - Reaccionando al evento' />
+</a>
 <a href='https://youtu.be/wMj4GuvTwHI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wMj4GuvTwHI/mqdefault.jpg' alt='Arquitectura hexagonal + DDD (Domain Drive Design), una migración diferente con Edpuzzle' />
 </a>
 <a href='https://youtu.be/86eFgnXVByc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/86eFgnXVByc/mqdefault.jpg' alt='¡Microsoft lo cambia todo en programación! GitHub Copilot evoluciona. Ahora será un Agente de código' />
-</a>
-<a href='https://youtu.be/RpBzgFWVZ7k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RpBzgFWVZ7k/mqdefault.jpg' alt='MICROSOFT BUILD 2025 - Novedades + IA + VSCode + GitHub' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
