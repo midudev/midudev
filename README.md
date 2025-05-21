@@ -27,7 +27,7 @@
   <img width='30%' src='https://img.youtube.com/vi/RpBzgFWVZ7k/mqdefault.jpg' alt='GOOGLE I/O 2025 - Reaccionando al evento' />
 </a>
 <a href='https://youtu.be/wMj4GuvTwHI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wMj4GuvTwHI/mqdefault.jpg' alt='Arquitectura hexagonal + DDD (Domain Drive Design), una migración diferente con Edpuzzle' />
+  <img width='30%' src='https://img.youtube.com/vi/wMj4GuvTwHI/mqdefault.jpg' alt='Arquitectura hexagonal + DDD (Domain Driven Design), una migración diferente con Edpuzzle' />
 </a>
 <a href='https://youtu.be/86eFgnXVByc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/86eFgnXVByc/mqdefault.jpg' alt='¡Microsoft lo cambia todo en programación! GitHub Copilot evoluciona. Ahora será un Agente de código' />
@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/T9kSPKY7Z_A' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/T9kSPKY7Z_A/mqdefault.jpg' alt='Probé la nueva IA de Google' />
+  <img width='30%' src='https://img.youtube.com/vi/T9kSPKY7Z_A/mqdefault.jpg' alt='Probé la nueva IA de Google | Google I/O 2025' />
 </a>
 <a href='https://youtu.be/zOcsRF4JdSE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zOcsRF4JdSE/mqdefault.jpg' alt='La Microsoft Build 2025 ES SALVAJE' />
