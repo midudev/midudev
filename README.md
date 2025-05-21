@@ -23,20 +23,20 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/RpBzgFWVZ7k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RpBzgFWVZ7k/mqdefault.jpg' alt='GOOGLE I/O 2025 - Reaccionando al evento' />
+<a href='https://youtu.be/qk5KUdUxdOk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qk5KUdUxdOk/mqdefault.jpg' alt='NOTICIAS DEV: Tebas nos llama ladrones + Apple en problemas + El secreto de Cloudflare...' />
 </a>
-<a href='https://youtu.be/wMj4GuvTwHI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wMj4GuvTwHI/mqdefault.jpg' alt='Arquitectura hexagonal + DDD (Domain Driven Design), una migración diferente con Edpuzzle' />
+<a href='https://youtu.be/kwVNpfru6pk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/kwVNpfru6pk/mqdefault.jpg' alt='¿Por qué deberías hacer deploy en un VPS?' />
 </a>
-<a href='https://youtu.be/86eFgnXVByc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/86eFgnXVByc/mqdefault.jpg' alt='¡Microsoft lo cambia todo en programación! GitHub Copilot evoluciona. Ahora será un Agente de código' />
+<a href='https://youtu.be/c98XHf8yb14' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/c98XHf8yb14/mqdefault.jpg' alt='¿Tienes una web y quieres conocer su rendimiento? Esta herramienta te escanea el sitio completo y te' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/T9kSPKY7Z_A' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/T9kSPKY7Z_A/mqdefault.jpg' alt='Probé la nueva IA de Google | Google I/O 2025' />
+  <img width='30%' src='https://img.youtube.com/vi/T9kSPKY7Z_A/mqdefault.jpg' alt='Probé la nueva IA de Google: Gemini Live | Google I/O 2025' />
 </a>
 <a href='https://youtu.be/zOcsRF4JdSE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zOcsRF4JdSE/mqdefault.jpg' alt='La Microsoft Build 2025 ES SALVAJE' />
