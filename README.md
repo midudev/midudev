@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/_sRq0drYDd8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_sRq0drYDd8/mqdefault.jpg' alt='Apple está jugando sucio' />
+</a>
 <a href='https://youtu.be/T9kSPKY7Z_A' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/T9kSPKY7Z_A/mqdefault.jpg' alt='Probé la nueva IA de Google: Gemini Live | Google I/O 2025' />
 </a>
 <a href='https://youtu.be/zOcsRF4JdSE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zOcsRF4JdSE/mqdefault.jpg' alt='La Microsoft Build 2025 ES SALVAJE' />
-</a>
-<a href='https://youtu.be/CMDQWXHWT0E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CMDQWXHWT0E/mqdefault.jpg' alt='7000 despidos en Microsoft. ¿Qué está pasando?' />
 </a>
