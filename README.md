@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/aZK0Q-6KAts' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aZK0Q-6KAts/mqdefault.jpg' alt='Los Programadores olvidan el poder el Software' />
+  <img width='30%' src='https://img.youtube.com/vi/aZK0Q-6KAts/mqdefault.jpg' alt='Los Programadores olvidan el poder del Software' />
 </a>
 <a href='https://youtu.be/7Um55iGqNUA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7Um55iGqNUA/mqdefault.jpg' alt='El secreto de Cloudflare' />
