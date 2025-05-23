@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/iR_bX79iBzQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/iR_bX79iBzQ/mqdefault.jpg' alt='OpenAI compra empresa de Software IO' />
+</a>
 <a href='https://youtu.be/aZK0Q-6KAts' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/aZK0Q-6KAts/mqdefault.jpg' alt='Los Programadores olvidan el poder del Software' />
 </a>
 <a href='https://youtu.be/7Um55iGqNUA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7Um55iGqNUA/mqdefault.jpg' alt='El secreto de Cloudflare' />
-</a>
-<a href='https://youtu.be/_sRq0drYDd8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_sRq0drYDd8/mqdefault.jpg' alt='Apple está jugando sucio: el caso Fornite' />
 </a>
