@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/krU5XDAZ9fk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/krU5XDAZ9fk/mqdefault.jpg' alt='100 archivos para mostrar un "Hello World"' />
+</a>
+<a href='https://youtu.be/bOUh8BHvcyQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/bOUh8BHvcyQ/mqdefault.jpg' alt='Cursos y certificados de IBM para Programadores y Data Science.  El contenido está traducido al Espa' />
+</a>
 <a href='https://youtu.be/jnqBZgzbnOQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jnqBZgzbnOQ/mqdefault.jpg' alt='¿Hace falta mentir en el currículum para conseguir trabajo como desarrollador?  La respuesta corta:' />
-</a>
-<a href='https://youtu.be/kwVNpfru6pk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kwVNpfru6pk/mqdefault.jpg' alt='¿Por qué deberías hacer deploy en un VPS?' />
-</a>
-<a href='https://youtu.be/c98XHf8yb14' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/c98XHf8yb14/mqdefault.jpg' alt='¿Tienes una web y quieres conocer su rendimiento? Esta herramienta te escanea el sitio completo y te' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
