@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/w7VMhSbTLfA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/w7VMhSbTLfA/mqdefault.jpg' alt='En CSS ahora puedes animar height: auto con la nueva propiedad interpolate-size. 🤯  ✨ ¿Por qué es i' />
+</a>
 <a href='https://youtu.be/9fNrjoZCbHU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9fNrjoZCbHU/mqdefault.jpg' alt='Probé Claude 4 para crear un videojuego' />
 </a>
 <a href='https://youtu.be/LV5YzvCvV9o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LV5YzvCvV9o/mqdefault.jpg' alt='🎯 PM: “Hay que mejorar la experiencia del usuario”.  🎨 Diseño: “¿Y si hacemos el botón más redondi' />
-</a>
-<a href='https://youtu.be/Ge45hWndv34' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ge45hWndv34/mqdefault.jpg' alt='Retransmisión en directo de React Summit - Día 1, Summit Track' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
