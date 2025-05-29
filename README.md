@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/9mOAZn2aR-8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9mOAZn2aR-8/mqdefault.jpg' alt='Stack Overflow está en peligro' />
+</a>
 <a href='https://youtu.be/iQFgkNt6sLg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iQFgkNt6sLg/mqdefault.jpg' alt='Ignorar CSS puede arruinar toda tu web.  Hay algo que se ve peor que un bug: ¡una imagen estirada qu' />
 </a>
 <a href='https://youtu.be/w7VMhSbTLfA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/w7VMhSbTLfA/mqdefault.jpg' alt='En CSS ahora puedes animar height: auto con la nueva propiedad interpolate-size. 🤯  ✨ ¿Por qué es i' />
-</a>
-<a href='https://youtu.be/9fNrjoZCbHU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9fNrjoZCbHU/mqdefault.jpg' alt='Probé Claude 4 para crear un videojuego' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
