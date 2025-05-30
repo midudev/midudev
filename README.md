@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/t5D5bog54Mk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/t5D5bog54Mk/mqdefault.jpg' alt='Scrum es un cancer... de nuevo' />
+</a>
 <a href='https://youtu.be/snnL5ed16U8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/snnL5ed16U8/mqdefault.jpg' alt='Resumen novedades Microsoft Build' />
 </a>
 <a href='https://youtu.be/9mOAZn2aR-8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9mOAZn2aR-8/mqdefault.jpg' alt='Stack Overflow está en peligro' />
-</a>
-<a href='https://youtu.be/iQFgkNt6sLg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/iQFgkNt6sLg/mqdefault.jpg' alt='Ignorar CSS puede arruinar toda tu web.  Hay algo que se ve peor que un bug: ¡una imagen estirada qu' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
