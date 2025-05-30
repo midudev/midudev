@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/dvGeCdaVlLg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/dvGeCdaVlLg/mqdefault.jpg' alt='Crisis Brutales de Apple' />
+  <img width='30%' src='https://img.youtube.com/vi/dvGeCdaVlLg/mqdefault.jpg' alt='Apple se hunde' />
 </a>
 <a href='https://youtu.be/XiTE_o7mHgI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XiTE_o7mHgI/mqdefault.jpg' alt='¿Las VPN son una estafa?' />
