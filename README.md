@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/snnL5ed16U8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/snnL5ed16U8/mqdefault.jpg' alt='Resumen novedades Microsoft Build' />
+</a>
 <a href='https://youtu.be/9mOAZn2aR-8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9mOAZn2aR-8/mqdefault.jpg' alt='Stack Overflow está en peligro' />
 </a>
 <a href='https://youtu.be/iQFgkNt6sLg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iQFgkNt6sLg/mqdefault.jpg' alt='Ignorar CSS puede arruinar toda tu web.  Hay algo que se ve peor que un bug: ¡una imagen estirada qu' />
 </a>
-<a href='https://youtu.be/w7VMhSbTLfA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/w7VMhSbTLfA/mqdefault.jpg' alt='En CSS ahora puedes animar height: auto con la nueva propiedad interpolate-size. 🤯  ✨ ¿Por qué es i' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/dvGeCdaVlLg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dvGeCdaVlLg/mqdefault.jpg' alt='Crisis Brutales de Apple' />
+</a>
 <a href='https://youtu.be/XiTE_o7mHgI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XiTE_o7mHgI/mqdefault.jpg' alt='¿Las VPN son una estafa?' />
 </a>
 <a href='https://youtu.be/iR_bX79iBzQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iR_bX79iBzQ/mqdefault.jpg' alt='OpenAI compra empresa de Software IO' />
-</a>
-<a href='https://youtu.be/aZK0Q-6KAts' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aZK0Q-6KAts/mqdefault.jpg' alt='Los Programadores olvidan el poder del Software' />
 </a>
