@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/X3mXJ5GJybY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/X3mXJ5GJybY/mqdefault.jpg' alt='Angular 20 es pura esencia (lo siento, React)' />
+</a>
 <a href='https://youtu.be/ehiNLjEaz_c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ehiNLjEaz_c/mqdefault.jpg' alt='¡Evita este error en las imágenes de tu web! Una propiedad de CSS para evitar que salgan estiradas.' />
 </a>
 <a href='https://youtu.be/t5D5bog54Mk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/t5D5bog54Mk/mqdefault.jpg' alt='"Scrum" es un cáncer' />
 </a>
-<a href='https://youtu.be/snnL5ed16U8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/snnL5ed16U8/mqdefault.jpg' alt='Resumen novedades Microsoft Build' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/J1x7bet9p98' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/J1x7bet9p98/mqdefault.jpg' alt='¿Hackean Amazon España? 5 Millones de datos expuestos' />
+</a>
 <a href='https://youtu.be/Pen5tD53re0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Pen5tD53re0/mqdefault.jpg' alt='Microsoft la lia parda con su rediseño' />
 </a>
 <a href='https://youtu.be/dvGeCdaVlLg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dvGeCdaVlLg/mqdefault.jpg' alt='Apple se hunde' />
-</a>
-<a href='https://youtu.be/XiTE_o7mHgI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XiTE_o7mHgI/mqdefault.jpg' alt='¿Las VPN son una estafa?' />
 </a>
