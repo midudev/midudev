@@ -36,11 +36,11 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/J1x7bet9p98' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/J1x7bet9p98/mqdefault.jpg' alt='¿Hackean Amazon España? 5 Millones de datos expuestos' />
+  <img width='30%' src='https://img.youtube.com/vi/J1x7bet9p98/mqdefault.jpg' alt='¿Hackean Amazon España? 5 Millones de datos expuestos (presuntamente)' />
 </a>
 <a href='https://youtu.be/Pen5tD53re0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Pen5tD53re0/mqdefault.jpg' alt='Microsoft la lia parda con su rediseño' />
+  <img width='30%' src='https://img.youtube.com/vi/Pen5tD53re0/mqdefault.jpg' alt='Microsoft la lia parda con el rediseño del menú de Inicio' />
 </a>
 <a href='https://youtu.be/dvGeCdaVlLg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/dvGeCdaVlLg/mqdefault.jpg' alt='Apple se hunde' />
+  <img width='30%' src='https://img.youtube.com/vi/dvGeCdaVlLg/mqdefault.jpg' alt='Las 3 crisis de Apple' />
 </a>
