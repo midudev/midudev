@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/N-83EIn8nAM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/N-83EIn8nAM/mqdefault.jpg' alt='¡Aprende inglés con enfoque en programación y consigue un certificado gratis!  FreeCodeCamp ha lanza' />
+</a>
 <a href='https://youtu.be/X3mXJ5GJybY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/X3mXJ5GJybY/mqdefault.jpg' alt='Angular 20 es pura esencia (lo siento, React)' />
 </a>
 <a href='https://youtu.be/ehiNLjEaz_c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ehiNLjEaz_c/mqdefault.jpg' alt='¡Evita este error en las imágenes de tu web! Una propiedad de CSS para evitar que salgan estiradas.' />
-</a>
-<a href='https://youtu.be/t5D5bog54Mk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/t5D5bog54Mk/mqdefault.jpg' alt='"Scrum" es un cáncer' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
