@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/3o-fAkJBol0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/3o-fAkJBol0/mqdefault.jpg' alt='Noticias Dev: ¡Explosión en la burbuja IA! + Adiós Math.random() + ¡App secreta de Google!' />
+</a>
 <a href='https://youtu.be/WPfy6Pzycxs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/WPfy6Pzycxs/mqdefault.jpg' alt='Recurso para crear diagramas interactivos de tu SQL. Funciona con mySQL, PostgreSQL, SQLite y más.' />
 </a>
 <a href='https://youtu.be/N-83EIn8nAM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/N-83EIn8nAM/mqdefault.jpg' alt='¡Aprende inglés con enfoque en programación y consigue un certificado gratis!  FreeCodeCamp ha lanza' />
-</a>
-<a href='https://youtu.be/X3mXJ5GJybY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/X3mXJ5GJybY/mqdefault.jpg' alt='Angular 20 es pura esencia (lo siento, React)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
