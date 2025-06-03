@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Nox9zmRmw-o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Nox9zmRmw-o/mqdefault.jpg' alt='TU WEB A JUICIO: Revisamos portfolios de la comunidad + Resolvemos la ENCUESTA de StackOverflow' />
+</a>
+<a href='https://youtu.be/iOTdWwPDwss' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/iOTdWwPDwss/mqdefault.jpg' alt='¿Buscas ahorrar tiempo desarrollando interfaces? Esta web es un tesoro escondido para devs.  Más de' />
+</a>
 <a href='https://youtu.be/pAWTBfR2PkQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pAWTBfR2PkQ/mqdefault.jpg' alt='Otro framework que abandona React' />
-</a>
-<a href='https://youtu.be/WPfy6Pzycxs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WPfy6Pzycxs/mqdefault.jpg' alt='Recurso para crear diagramas interactivos de tu SQL. Funciona con mySQL, PostgreSQL, SQLite y más.' />
-</a>
-<a href='https://youtu.be/N-83EIn8nAM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/N-83EIn8nAM/mqdefault.jpg' alt='¡Aprende inglés con enfoque en programación y consigue un certificado gratis!  FreeCodeCamp ha lanza' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/urWyEBM_RCM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/urWyEBM_RCM/mqdefault.jpg' alt='La sabiduría de Elon Musk y Google para ser productivos' />
+</a>
 <a href='https://youtu.be/9_vWPLrRTo0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9_vWPLrRTo0/mqdefault.jpg' alt='EXPLOSIÓN EN LA BURBUJA IA' />
 </a>
 <a href='https://youtu.be/J1x7bet9p98' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/J1x7bet9p98/mqdefault.jpg' alt='¿Hackean Amazon España? 5 Millones de datos expuestos (presuntamente)' />
-</a>
-<a href='https://youtu.be/Pen5tD53re0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Pen5tD53re0/mqdefault.jpg' alt='Microsoft la lia parda con el rediseño del menú de Inicio' />
 </a>
