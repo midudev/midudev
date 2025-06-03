@@ -26,21 +26,21 @@
 <a href='https://youtu.be/Nox9zmRmw-o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Nox9zmRmw-o/mqdefault.jpg' alt='TU WEB A JUICIO: Revisamos portfolios de la comunidad + Resolvemos la ENCUESTA de StackOverflow' />
 </a>
+<a href='https://youtu.be/lW-x15Pp4po' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lW-x15Pp4po/mqdefault.jpg' alt='JavaScript dice "Adiós Math Random"' />
+</a>
 <a href='https://youtu.be/iOTdWwPDwss' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iOTdWwPDwss/mqdefault.jpg' alt='¿Buscas ahorrar tiempo desarrollando interfaces? Esta web es un tesoro escondido para devs.  Más de' />
-</a>
-<a href='https://youtu.be/pAWTBfR2PkQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pAWTBfR2PkQ/mqdefault.jpg' alt='Otro framework que abandona React' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/c8Rr4n7FeRo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/c8Rr4n7FeRo/mqdefault.jpg' alt='El principio del fin para Apple' />
+</a>
 <a href='https://youtu.be/urWyEBM_RCM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/urWyEBM_RCM/mqdefault.jpg' alt='La sabiduría de Elon Musk y Google para ser productivos' />
 </a>
 <a href='https://youtu.be/9_vWPLrRTo0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9_vWPLrRTo0/mqdefault.jpg' alt='EXPLOSIÓN EN LA BURBUJA IA' />
-</a>
-<a href='https://youtu.be/J1x7bet9p98' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/J1x7bet9p98/mqdefault.jpg' alt='¿Hackean Amazon España? 5 Millones de datos expuestos (presuntamente)' />
 </a>
