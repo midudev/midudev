@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/Nox9zmRmw-o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Nox9zmRmw-o/mqdefault.jpg' alt='TU WEB A JUICIO: Revisamos portfolios de la comunidad + Resolvemos la ENCUESTA de StackOverflow' />
-</a>
 <a href='https://youtu.be/lW-x15Pp4po' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lW-x15Pp4po/mqdefault.jpg' alt='JavaScript dice "Adiós Math Random"' />
 </a>
 <a href='https://youtu.be/iOTdWwPDwss' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iOTdWwPDwss/mqdefault.jpg' alt='¿Buscas ahorrar tiempo desarrollando interfaces? Esta web es un tesoro escondido para devs.  Más de' />
+</a>
+<a href='https://youtu.be/pAWTBfR2PkQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pAWTBfR2PkQ/mqdefault.jpg' alt='Otro framework que abandona React' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
