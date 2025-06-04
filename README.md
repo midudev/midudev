@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/ReWOVBoMBEA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ReWOVBoMBEA/mqdefault.jpg' alt='CURSO de GSAP desde CERO - Animaciones con JS para tu página web + trucos' />
+<a href='https://youtu.be/KW8eSFlbr9E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/KW8eSFlbr9E/mqdefault.jpg' alt='El nuevo Next.js' />
+</a>
+<a href='https://youtu.be/cfVaJQ1qWZE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cfVaJQ1qWZE/mqdefault.jpg' alt='CURSO de GSAP desde CERO - Animaciones con JS para tu página web + trucos' />
 </a>
 <a href='https://youtu.be/uln_YUwIToA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uln_YUwIToA/mqdefault.jpg' alt='Este cambio en JavaScript lo esperaste toda tu vida (Temporal)' />
-</a>
-<a href='https://youtu.be/lW-x15Pp4po' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/lW-x15Pp4po/mqdefault.jpg' alt='¡Nuevo objeto Random para JavaScript!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
