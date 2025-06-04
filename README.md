@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/c8Rr4n7FeRo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/c8Rr4n7FeRo/mqdefault.jpg' alt='El principio del fin para Apple' />
+  <img width='30%' src='https://img.youtube.com/vi/c8Rr4n7FeRo/mqdefault.jpg' alt='¿El principio del fin para Apple?' />
 </a>
 <a href='https://youtu.be/urWyEBM_RCM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/urWyEBM_RCM/mqdefault.jpg' alt='La sabiduría de Elon Musk y Google para ser productivos' />
