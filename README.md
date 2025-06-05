@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/28gRSxiVYy0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/28gRSxiVYy0/mqdefault.jpg' alt='Crearon Minecraft con CSS y HTML *CERO JAVASCRIPT*' />
+  <img width='30%' src='https://img.youtube.com/vi/28gRSxiVYy0/mqdefault.jpg' alt='Alguien desarrollo Minecraft con HTML y CSS *NO JAVASCRIPT*' />
 </a>
 <a href='https://youtu.be/tIJ2HvL03Kk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tIJ2HvL03Kk/mqdefault.jpg' alt='Aprende Python mientras juegas gracias a Code Strike.  Lo tienes sin coste en Steam por tiempo limit' />
