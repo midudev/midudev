@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/KW8eSFlbr9E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/KW8eSFlbr9E/mqdefault.jpg' alt='El nuevo Next.js' />
+  <img width='30%' src='https://img.youtube.com/vi/KW8eSFlbr9E/mqdefault.jpg' alt='Next.js + React Router. ¿Esto qué es?' />
 </a>
 <a href='https://youtu.be/cfVaJQ1qWZE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/cfVaJQ1qWZE/mqdefault.jpg' alt='CURSO de GSAP desde CERO - Animaciones con JS para tu página web + trucos' />
