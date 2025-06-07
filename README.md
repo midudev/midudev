@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/5NGKkkYGC9Q' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5NGKkkYGC9Q/mqdefault.jpg' alt='Una joyita para devs web: Guía completa de patrones de diseño y arquitectura para tus proyectos con' />
+</a>
 <a href='https://youtu.be/28gRSxiVYy0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/28gRSxiVYy0/mqdefault.jpg' alt='Alguien desarrollo Minecraft con HTML y CSS *NO JAVASCRIPT*' />
 </a>
 <a href='https://youtu.be/tIJ2HvL03Kk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tIJ2HvL03Kk/mqdefault.jpg' alt='Aprende Python mientras juegas gracias a Code Strike.  Lo tienes sin coste en Steam por tiempo limit' />
-</a>
-<a href='https://youtu.be/KW8eSFlbr9E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/KW8eSFlbr9E/mqdefault.jpg' alt='Next.js + React Router. ¿Esto qué es?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
