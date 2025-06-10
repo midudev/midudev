@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/cfVaJQ1qWZE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cfVaJQ1qWZE/mqdefault.jpg' alt='NOTICIAS DEV: ¡Caída de ChatGPT! + Revolución CSS + Problemas UI de Apple + Explota Cursor' />
+</a>
 <a href='https://youtu.be/HIXUHToZ2xg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HIXUHToZ2xg/mqdefault.jpg' alt='¡Revolución en CSS! if() llega al lenguaje. Nueva sintaxis para crear estilos condicionales. Ya disp' />
 </a>
 <a href='https://youtu.be/5NGKkkYGC9Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5NGKkkYGC9Q/mqdefault.jpg' alt='Una joyita para devs web: Guía completa de patrones de diseño y arquitectura para tus proyectos con' />
-</a>
-<a href='https://youtu.be/28gRSxiVYy0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/28gRSxiVYy0/mqdefault.jpg' alt='Alguien desarrollo Minecraft con HTML y CSS *NO JAVASCRIPT*' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
