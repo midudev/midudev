@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/cfVaJQ1qWZE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/cfVaJQ1qWZE/mqdefault.jpg' alt='NOTICIAS DEV: ¡Caída de ChatGPT! + Revolución CSS + Problemas UI de Apple + Explota Cursor' />
+<a href='https://youtu.be/6KNQFAbbmkA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6KNQFAbbmkA/mqdefault.jpg' alt='NOTICIAS DEV: ¡Caída de ChatGPT! + Revolución CSS + Problemas UI de Apple + Explota Cursor' />
 </a>
 <a href='https://youtu.be/HIXUHToZ2xg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HIXUHToZ2xg/mqdefault.jpg' alt='¡Revolución en CSS! if() llega al lenguaje. Nueva sintaxis para crear estilos condicionales. Ya disp' />
@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/cALYd0SXWgc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cALYd0SXWgc/mqdefault.jpg' alt='Ay, Apple...' />
+</a>
 <a href='https://youtu.be/c8Rr4n7FeRo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/c8Rr4n7FeRo/mqdefault.jpg' alt='¿El principio del fin para Apple?' />
 </a>
 <a href='https://youtu.be/urWyEBM_RCM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/urWyEBM_RCM/mqdefault.jpg' alt='La sabiduría de Elon Musk y Google para ser productivos' />
-</a>
-<a href='https://youtu.be/9_vWPLrRTo0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9_vWPLrRTo0/mqdefault.jpg' alt='EXPLOSIÓN EN LA BURBUJA IA' />
 </a>
