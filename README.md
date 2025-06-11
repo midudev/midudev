@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/6KNQFAbbmkA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6KNQFAbbmkA/mqdefault.jpg' alt='DESARROLLO la web de GTA VI desde CERO paso a paso' />
+<a href='https://youtu.be/OAsJyj4Wr8k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OAsJyj4Wr8k/mqdefault.jpg' alt='DESARROLLO la web de GTA VI desde CERO paso a paso' />
 </a>
 <a href='https://youtu.be/J4hH2iOjrWQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/J4hH2iOjrWQ/mqdefault.jpg' alt='No importa si eres Programador, Diseñador, Product Manager o hasta Agile Coach.  A veces nos ponemos' />
@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/OjAjMkMBA08' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OjAjMkMBA08/mqdefault.jpg' alt='Estados Unidos quiere comprar Tiktok' />
+</a>
 <a href='https://youtu.be/MJs0esmaf-I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MJs0esmaf-I/mqdefault.jpg' alt='La IA no piensa como tú crees' />
 </a>
 <a href='https://youtu.be/cALYd0SXWgc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/cALYd0SXWgc/mqdefault.jpg' alt='Ay, Apple...' />
-</a>
-<a href='https://youtu.be/c8Rr4n7FeRo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/c8Rr4n7FeRo/mqdefault.jpg' alt='¿El principio del fin para Apple?' />
 </a>
