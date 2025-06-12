@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/alaresW-4KE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/alaresW-4KE/mqdefault.jpg' alt='¿Buscas un calendario ligero y fácil de integrar en tu web?  Este componente tiene todo lo que neces' />
+</a>
+<a href='https://youtu.be/YAgkFlyw_i0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YAgkFlyw_i0/mqdefault.jpg' alt='Clon del sitio web GTA VI DESDE CERO - HTML, JavaScript & GSAP' />
+</a>
 <a href='https://youtu.be/opbI2BrPn7w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/opbI2BrPn7w/mqdefault.jpg' alt='Retransmisión en directo de JSNation - Día 1, Community Track' />
-</a>
-<a href='https://youtu.be/OAsJyj4Wr8k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/OAsJyj4Wr8k/mqdefault.jpg' alt='DESARROLLO la web de GTA VI desde CERO paso a paso' />
-</a>
-<a href='https://youtu.be/J4hH2iOjrWQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/J4hH2iOjrWQ/mqdefault.jpg' alt='No importa si eres Programador, Diseñador, Product Manager o hasta Agile Coach.  A veces nos ponemos' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
