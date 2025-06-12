@@ -29,18 +29,18 @@
 <a href='https://youtu.be/YAgkFlyw_i0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YAgkFlyw_i0/mqdefault.jpg' alt='Clon del sitio web GTA VI DESDE CERO - HTML, JavaScript & GSAP' />
 </a>
-<a href='https://youtu.be/opbI2BrPn7w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/opbI2BrPn7w/mqdefault.jpg' alt='Retransmisión en directo de JSNation - Día 1, Community Track' />
+<a href='https://youtu.be/OAsJyj4Wr8k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OAsJyj4Wr8k/mqdefault.jpg' alt='DESARROLLO la web de GTA VI desde CERO paso a paso' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/sFpgjAql_zk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/sFpgjAql_zk/mqdefault.jpg' alt='Cloudflare, ¿Qué es esto?' />
+</a>
 <a href='https://youtu.be/OjAjMkMBA08' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/OjAjMkMBA08/mqdefault.jpg' alt='Estados Unidos quiere comprar Tiktok' />
 </a>
 <a href='https://youtu.be/MJs0esmaf-I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MJs0esmaf-I/mqdefault.jpg' alt='La IA no piensa como tú crees' />
-</a>
-<a href='https://youtu.be/cALYd0SXWgc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/cALYd0SXWgc/mqdefault.jpg' alt='Ay, Apple...' />
 </a>
