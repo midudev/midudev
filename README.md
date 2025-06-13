@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ZNKVIDKSpb4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZNKVIDKSpb4/mqdefault.jpg' alt='¿Cuál es el peor error que has cometido en programación?  Yo he tenido tantas... La buena noticia es' />
+</a>
+<a href='https://youtu.be/Kh0nIhaV1po' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Kh0nIhaV1po/mqdefault.jpg' alt='Cursor AI acaba de explotar' />
+</a>
 <a href='https://youtu.be/Ge45hWndv34' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ge45hWndv34/mqdefault.jpg' alt='Retransmisión en directo de React Summit - Día 1, Summit Track' />
-</a>
-<a href='https://youtu.be/alaresW-4KE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/alaresW-4KE/mqdefault.jpg' alt='¿Buscas un calendario ligero y fácil de integrar en tu web?  Este componente tiene todo lo que neces' />
-</a>
-<a href='https://youtu.be/YAgkFlyw_i0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YAgkFlyw_i0/mqdefault.jpg' alt='Clon del sitio web GTA VI DESDE CERO - HTML, JavaScript & GSAP' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
