@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/SlZ8xeEBJms' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SlZ8xeEBJms/mqdefault.jpg' alt='Aprende a usar las condiciones en CSS' />
+  <img width='30%' src='https://img.youtube.com/vi/SlZ8xeEBJms/mqdefault.jpg' alt='Las condiciones en CSS ¡ESTAN AQUÍ!' />
 </a>
 <a href='https://youtu.be/ZNKVIDKSpb4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZNKVIDKSpb4/mqdefault.jpg' alt='¿Cuál es el peor error que has cometido en programación?  Yo he tenido tantas... La buena noticia es' />
