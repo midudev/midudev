@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/p7cFnF_-_vE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/p7cFnF_-_vE/mqdefault.jpg' alt='Ahora puedes compartir tu proyecto local directamente desde Visual Studio Code, sin instalar nada.' />
+</a>
 <a href='https://youtu.be/SlZ8xeEBJms' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SlZ8xeEBJms/mqdefault.jpg' alt='Las condiciones en CSS ¡ESTAN AQUÍ!' />
+  <img width='30%' src='https://img.youtube.com/vi/SlZ8xeEBJms/mqdefault.jpg' alt='¡CSS evoluciona! Llega if. ¿Ya es un lenguaje de programación?' />
 </a>
 <a href='https://youtu.be/ZNKVIDKSpb4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZNKVIDKSpb4/mqdefault.jpg' alt='¿Cuál es el peor error que has cometido en programación?  Yo he tenido tantas... La buena noticia es' />
-</a>
-<a href='https://youtu.be/Kh0nIhaV1po' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Kh0nIhaV1po/mqdefault.jpg' alt='Cursor AI acaba de explotar' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
