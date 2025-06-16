@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/OAsJyj4Wr8k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OAsJyj4Wr8k/mqdefault.jpg' alt='Noticias Dev: Caída mundial Cloudflare + Pruebas técnicas disfrazadas de trabajo + Despidos Globant' />
+</a>
+<a href='https://youtu.be/C4J2pMiWQH0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/C4J2pMiWQH0/mqdefault.jpg' alt='¿Preparando una entrevista técnica? Recurso con una guía que te ayuda con:  - Patrones de diseño y a' />
+</a>
 <a href='https://youtu.be/p7cFnF_-_vE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p7cFnF_-_vE/mqdefault.jpg' alt='Ahora puedes compartir tu proyecto local directamente desde Visual Studio Code, sin instalar nada.' />
-</a>
-<a href='https://youtu.be/SlZ8xeEBJms' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SlZ8xeEBJms/mqdefault.jpg' alt='¡CSS evoluciona! Llega if. ¿Ya es un lenguaje de programación?' />
-</a>
-<a href='https://youtu.be/ZNKVIDKSpb4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZNKVIDKSpb4/mqdefault.jpg' alt='¿Cuál es el peor error que has cometido en programación?  Yo he tenido tantas... La buena noticia es' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
