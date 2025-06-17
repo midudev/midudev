@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/zhTxFAwRVPg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zhTxFAwRVPg/mqdefault.jpg' alt='Globant está fuera de control' />
+  <img width='30%' src='https://img.youtube.com/vi/zhTxFAwRVPg/mqdefault.jpg' alt='Globant cierra oficinas y usará IA que cuenta como 5 seniors' />
 </a>
 <a href='https://youtu.be/sFpgjAql_zk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/sFpgjAql_zk/mqdefault.jpg' alt='Cloudflare, ¿Qué es esto?' />
