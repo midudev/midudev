@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Kbsk5zDkH0Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Kbsk5zDkH0Y/mqdefault.jpg' alt='Esto no es bueno' />
+</a>
 <a href='https://youtu.be/oDu4SBRLDaw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/oDu4SBRLDaw/mqdefault.jpg' alt='Probé este nuevo Navegador Web con IA' />
 </a>
 <a href='https://youtu.be/DrhoWjw__nI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DrhoWjw__nI/mqdefault.jpg' alt='La caída mundial de Cloudflare. ¿Qué pasó?' />
-</a>
-<a href='https://youtu.be/zhTxFAwRVPg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zhTxFAwRVPg/mqdefault.jpg' alt='El fin de Globant' />
 </a>
