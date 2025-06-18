@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/c2Xoqji5oxI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/c2Xoqji5oxI/mqdefault.jpg' alt='Pruebas técnicas disfrazadas de trabajo gratuito' />
+</a>
+<a href='https://youtu.be/oGPmgW7b5sk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/oGPmgW7b5sk/mqdefault.jpg' alt='¡Aprende Programación, Cloud y DevOps practicando! Servidores gratis con ejercicios reales.  ✓ Pract' />
+</a>
 <a href='https://youtu.be/C4J2pMiWQH0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/C4J2pMiWQH0/mqdefault.jpg' alt='¿Preparando una entrevista técnica? Recurso con una guía que te ayuda con:  - Patrones de diseño y a' />
-</a>
-<a href='https://youtu.be/p7cFnF_-_vE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/p7cFnF_-_vE/mqdefault.jpg' alt='Ahora puedes compartir tu proyecto local directamente desde Visual Studio Code, sin instalar nada.' />
-</a>
-<a href='https://youtu.be/SlZ8xeEBJms' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SlZ8xeEBJms/mqdefault.jpg' alt='¡CSS evoluciona! Llega if. ¿Ya es un lenguaje de programación?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
