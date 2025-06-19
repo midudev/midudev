@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/wBowRKZXx0I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wBowRKZXx0I/mqdefault.jpg' alt='Por qué aprender la ingeniería IA como desarrollador y cómo empezar' />
+</a>
+<a href='https://youtu.be/QLQge6nEPU0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QLQge6nEPU0/mqdefault.jpg' alt='¿Quieres aprender Python desde cero y no sabes por dónde empezar?  Hay un curso gratuito que te guía' />
+</a>
 <a href='https://youtu.be/c2Xoqji5oxI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/c2Xoqji5oxI/mqdefault.jpg' alt='Pruebas técnicas abusivas' />
-</a>
-<a href='https://youtu.be/oGPmgW7b5sk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/oGPmgW7b5sk/mqdefault.jpg' alt='¡Aprende Programación, Cloud y DevOps practicando! Servidores gratis con ejercicios reales.  ✓ Pract' />
-</a>
-<a href='https://youtu.be/C4J2pMiWQH0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/C4J2pMiWQH0/mqdefault.jpg' alt='¿Preparando una entrevista técnica? Recurso con una guía que te ayuda con:  - Patrones de diseño y a' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
