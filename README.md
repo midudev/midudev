@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/35Ov4DccveA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/35Ov4DccveA/mqdefault.jpg' alt='Que está pasando con React' />
+</a>
+<a href='https://youtu.be/MktkSD5JZzE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MktkSD5JZzE/mqdefault.jpg' alt='Desplegar sin tests, sin probar tus cambios, sin tener rollback, sin revisar los logs, sin un plan c' />
+</a>
 <a href='https://youtu.be/wBowRKZXx0I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wBowRKZXx0I/mqdefault.jpg' alt='Por qué aprender la ingeniería IA como desarrollador y cómo empezar' />
-</a>
-<a href='https://youtu.be/QLQge6nEPU0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QLQge6nEPU0/mqdefault.jpg' alt='¿Quieres aprender Python desde cero y no sabes por dónde empezar?  Hay un curso gratuito que te guía' />
-</a>
-<a href='https://youtu.be/c2Xoqji5oxI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/c2Xoqji5oxI/mqdefault.jpg' alt='Pruebas técnicas abusivas' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
