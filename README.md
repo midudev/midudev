@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/35Ov4DccveA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/35Ov4DccveA/mqdefault.jpg' alt='Que está pasando con React' />
+  <img width='30%' src='https://img.youtube.com/vi/35Ov4DccveA/mqdefault.jpg' alt='Que está pasando con React: El estado de la comunidad' />
 </a>
 <a href='https://youtu.be/MktkSD5JZzE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MktkSD5JZzE/mqdefault.jpg' alt='Desplegar sin tests, sin probar tus cambios, sin tener rollback, sin revisar los logs, sin un plan c' />
