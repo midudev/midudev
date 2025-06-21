@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/FkxUap1HK0E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/FkxUap1HK0E/mqdefault.jpg' alt='¿Te cuesta el CSS y el diseño de tu web? ¡Este recurso te va a facilitar la vida!  Crea layouts con' />
+</a>
 <a href='https://youtu.be/35Ov4DccveA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/35Ov4DccveA/mqdefault.jpg' alt='Que está pasando con React: El estado de la comunidad' />
 </a>
 <a href='https://youtu.be/MktkSD5JZzE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MktkSD5JZzE/mqdefault.jpg' alt='Desplegar sin tests, sin probar tus cambios, sin tener rollback, sin revisar los logs, sin un plan c' />
-</a>
-<a href='https://youtu.be/wBowRKZXx0I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wBowRKZXx0I/mqdefault.jpg' alt='Por qué aprender la ingeniería IA como desarrollador y cómo empezar' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
