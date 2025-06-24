@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/z6udOK1LBTw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/z6udOK1LBTw/mqdefault.jpg' alt='¿Problemas con el SEO de Next.js?' />
+  <img width='30%' src='https://img.youtube.com/vi/z6udOK1LBTw/mqdefault.jpg' alt='¿Problemas con el SEO de Next.js? La solución' />
 </a>
 <a href='https://youtu.be/xU2zC2N4v2Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xU2zC2N4v2Q/mqdefault.jpg' alt='Plataforma que te enseña Programación con Python, bases de datos SQL, IA, Machine Learning y Ciencia' />
