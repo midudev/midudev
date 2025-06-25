@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/kesoESnJC3s' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/kesoESnJC3s/mqdefault.jpg' alt='¡Google acaba de lanzar su agente de IA para terminal!  ✓ CLI para Gemini 2.5 Pro ✓ Contexto de 1 mi' />
+</a>
+<a href='https://youtu.be/5L4M4-WOGwo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5L4M4-WOGwo/mqdefault.jpg' alt='Brutales transiciones entre páginas con CSS (0 JavaScript)' />
+</a>
 <a href='https://youtu.be/QkrH7GC1360' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QkrH7GC1360/mqdefault.jpg' alt='Extensión oficial de Visual Studio Code para trabajar con bases de datos PostgreSQL.  La acaba de la' />
-</a>
-<a href='https://youtu.be/z6udOK1LBTw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/z6udOK1LBTw/mqdefault.jpg' alt='¿Problemas con el SEO de Next.js? La solución' />
-</a>
-<a href='https://youtu.be/xU2zC2N4v2Q' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xU2zC2N4v2Q/mqdefault.jpg' alt='Plataforma que te enseña Programación con Python, bases de datos SQL, IA, Machine Learning y Ciencia' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
