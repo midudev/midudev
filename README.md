@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/vwEANGPL9CU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/vwEANGPL9CU/mqdefault.jpg' alt='Figma lo vuelve a hacer' />
+</a>
 <a href='https://youtu.be/kesoESnJC3s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kesoESnJC3s/mqdefault.jpg' alt='¡Google acaba de lanzar su agente de IA para terminal!  ✓ CLI para Gemini 2.5 Pro ✓ Contexto de 1 mi' />
 </a>
 <a href='https://youtu.be/5L4M4-WOGwo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5L4M4-WOGwo/mqdefault.jpg' alt='Brutales transiciones entre páginas con CSS (0 JavaScript)' />
-</a>
-<a href='https://youtu.be/QkrH7GC1360' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QkrH7GC1360/mqdefault.jpg' alt='Extensión oficial de Visual Studio Code para trabajar con bases de datos PostgreSQL.  La acaba de la' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
