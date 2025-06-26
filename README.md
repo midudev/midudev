@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/izO6KwN-CTQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/izO6KwN-CTQ/mqdefault.jpg' alt='Esta foto es histórica' />
+</a>
+<a href='https://youtu.be/vvD5VVlmu9I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/vvD5VVlmu9I/mqdefault.jpg' alt='¡Nueva API de JavaScript disponible en Chrome 138! Traduce textos con IA. Sin coste, en local y priv' />
+</a>
 <a href='https://youtu.be/vwEANGPL9CU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vwEANGPL9CU/mqdefault.jpg' alt='Figma lo vuelve a hacer... ¡Compra Payload!' />
-</a>
-<a href='https://youtu.be/kesoESnJC3s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kesoESnJC3s/mqdefault.jpg' alt='¡Google acaba de lanzar su agente de IA para terminal!  ✓ CLI para Gemini 2.5 Pro ✓ Contexto de 1 mi' />
-</a>
-<a href='https://youtu.be/5L4M4-WOGwo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5L4M4-WOGwo/mqdefault.jpg' alt='Brutales transiciones entre páginas con CSS (0 JavaScript)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
