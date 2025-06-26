@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/vwEANGPL9CU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vwEANGPL9CU/mqdefault.jpg' alt='Figma lo vuelve a hacer' />
+  <img width='30%' src='https://img.youtube.com/vi/vwEANGPL9CU/mqdefault.jpg' alt='Figma lo vuelve a hacer... ¡Compra Payload!' />
 </a>
 <a href='https://youtu.be/kesoESnJC3s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kesoESnJC3s/mqdefault.jpg' alt='¡Google acaba de lanzar su agente de IA para terminal!  ✓ CLI para Gemini 2.5 Pro ✓ Contexto de 1 mi' />
