@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Su57cBBV8qo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Su57cBBV8qo/mqdefault.jpg' alt='Comparte tu localhost de forma pública en segundos con esta herramienta.  Perfecto para programadore' />
+</a>
 <a href='https://youtu.be/-O749a_Nb2o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-O749a_Nb2o/mqdefault.jpg' alt='Extension de vscode para Bases de Datos con MCP' />
 </a>
 <a href='https://youtu.be/izO6KwN-CTQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/izO6KwN-CTQ/mqdefault.jpg' alt='Esta foto es histórica' />
-</a>
-<a href='https://youtu.be/vvD5VVlmu9I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vvD5VVlmu9I/mqdefault.jpg' alt='¡Nueva API de JavaScript disponible en Chrome 138! Traduce textos con IA. Sin coste, en local y priv' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
