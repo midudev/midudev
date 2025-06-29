@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/UntWx9X5LCc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/UntWx9X5LCc/mqdefault.jpg' alt='Truco para tus repositorios de GitHub. Una documentación completa, con IA y en segundos de cualquier' />
+</a>
 <a href='https://youtu.be/TG6_c--4KBs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TG6_c--4KBs/mqdefault.jpg' alt='Comparte tu sitio web en segundos con un comando' />
 </a>
 <a href='https://youtu.be/Su57cBBV8qo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Su57cBBV8qo/mqdefault.jpg' alt='Comparte tu localhost de forma pública en segundos con esta herramienta.  Perfecto para programadore' />
-</a>
-<a href='https://youtu.be/-O749a_Nb2o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-O749a_Nb2o/mqdefault.jpg' alt='Extension de vscode para Bases de Datos con MCP' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
