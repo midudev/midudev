@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/NEI80ua5ivM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/NEI80ua5ivM/mqdefault.jpg' alt='Esta extensión de Visual Studio Code te ayuda a entender cualquier proyecto.  Crea un diagrama inter' />
+</a>
 <a href='https://youtu.be/A8TMRvDDmHk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/A8TMRvDDmHk/mqdefault.jpg' alt='¿Cómo organizar las carpetas de tu proyecto?  Da igual si programas en React, Vue, TypeScript o Java' />
 </a>
 <a href='https://youtu.be/UntWx9X5LCc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UntWx9X5LCc/mqdefault.jpg' alt='Truco para tus repositorios de GitHub. Una documentación completa, con IA y en segundos de cualquier' />
-</a>
-<a href='https://youtu.be/TG6_c--4KBs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TG6_c--4KBs/mqdefault.jpg' alt='Comparte tu sitio web en segundos con un comando' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
