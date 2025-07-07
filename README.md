@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/lY-5Gg9dJOk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lY-5Gg9dJOk/mqdefault.jpg' alt='Cursor nos timó, Copilot de código abierto, IA te pagará por tu contenido, multiempleo dev, JS 2025' />
+</a>
+<a href='https://youtu.be/5ZqDDCMp2Rk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5ZqDDCMp2Rk/mqdefault.jpg' alt='Google lanzó una alternativa de Cursor y GitHub Copilot Es una extensión llamada Gemini Code Assist:' />
+</a>
 <a href='https://youtu.be/LnRI0i7ZW9s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LnRI0i7ZW9s/mqdefault.jpg' alt='Las API de Google remplazan a ChatGPT *gratis*' />
-</a>
-<a href='https://youtu.be/EFWa44pf0sk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/EFWa44pf0sk/mqdefault.jpg' alt='Recurso para practicar SQL con ejercicios reales de empresas del sector.  Para programadores y anali' />
-</a>
-<a href='https://youtu.be/8Wg5OEo2QNc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8Wg5OEo2QNc/mqdefault.jpg' alt='¿Alguna vez ChatGPT te ha dado un código que no entiendes del todo? Lo copias, lo pegas… ¡y después' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
