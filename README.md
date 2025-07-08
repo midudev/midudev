@@ -23,11 +23,11 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Xkei4NtEZAM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Xkei4NtEZAM/mqdefault.jpg' alt='Vercel compra Nuxt + Info Bootcamp JS + VSCode ataca a Cursor + Revisión de portafolios' />
+</a>
 <a href='https://youtu.be/as9N6_b732I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/as9N6_b732I/mqdefault.jpg' alt='Cursor AI está jugando sucio' />
-</a>
-<a href='https://youtu.be/Xkei4NtEZAM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Xkei4NtEZAM/mqdefault.jpg' alt='Cursor nos timó, Copilot de código abierto, IA te pagará por tu contenido, multiempleo dev, JS 2025' />
 </a>
 <a href='https://youtu.be/5ZqDDCMp2Rk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5ZqDDCMp2Rk/mqdefault.jpg' alt='Google lanzó una alternativa de Cursor y GitHub Copilot Es una extensión llamada Gemini Code Assist:' />
@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/PZQo4m5OAwg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PZQo4m5OAwg/mqdefault.jpg' alt='Meta le roba talento a OpenAI' />
+</a>
 <a href='https://youtu.be/kQPu_k7ae0I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kQPu_k7ae0I/mqdefault.jpg' alt='Facebook, WTF...' />
 </a>
 <a href='https://youtu.be/Kbsk5zDkH0Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Kbsk5zDkH0Y/mqdefault.jpg' alt='Esto no es bueno' />
-</a>
-<a href='https://youtu.be/oDu4SBRLDaw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/oDu4SBRLDaw/mqdefault.jpg' alt='Probé este Navegador Web con IA' />
 </a>
