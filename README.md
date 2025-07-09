@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/0g4vjDsDkWA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0g4vjDsDkWA/mqdefault.jpg' alt='¿Vercel se está convirtiendo en un Google?' />
+</a>
+<a href='https://youtu.be/kYvwhOcatPM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/kYvwhOcatPM/mqdefault.jpg' alt='¿Quieres analizar una web a fondo? Con esta herramienta puedes:  - Verificar buenas prácticas de seg' />
+</a>
 <a href='https://youtu.be/XH1_iRExVgQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XH1_iRExVgQ/mqdefault.jpg' alt='El DRAMA de Soham Parekh' />
-</a>
-<a href='https://youtu.be/as9N6_b732I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/as9N6_b732I/mqdefault.jpg' alt='Cursor AI está jugando sucio' />
-</a>
-<a href='https://youtu.be/5ZqDDCMp2Rk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5ZqDDCMp2Rk/mqdefault.jpg' alt='Google lanzó una alternativa de Cursor y GitHub Copilot Es una extensión llamada Gemini Code Assist:' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
