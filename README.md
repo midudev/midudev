@@ -26,11 +26,11 @@
 <a href='https://youtu.be/XH1_iRExVgQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XH1_iRExVgQ/mqdefault.jpg' alt='El DRAMA de Soham Parekh' />
 </a>
-<a href='https://youtu.be/Xkei4NtEZAM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Xkei4NtEZAM/mqdefault.jpg' alt='Vercel compra Nuxt + Info Bootcamp JS + VSCode ataca a Cursor + Revisión de portafolios' />
-</a>
 <a href='https://youtu.be/as9N6_b732I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/as9N6_b732I/mqdefault.jpg' alt='Cursor AI está jugando sucio' />
+</a>
+<a href='https://youtu.be/5ZqDDCMp2Rk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5ZqDDCMp2Rk/mqdefault.jpg' alt='Google lanzó una alternativa de Cursor y GitHub Copilot Es una extensión llamada Gemini Code Assist:' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
