@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/0g4vjDsDkWA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0g4vjDsDkWA/mqdefault.jpg' alt='¿Vercel se está convirtiendo en un Google?' />
+  <img width='30%' src='https://img.youtube.com/vi/0g4vjDsDkWA/mqdefault.jpg' alt='¡Nuxt se une a Vercel!' />
 </a>
 <a href='https://youtu.be/kYvwhOcatPM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kYvwhOcatPM/mqdefault.jpg' alt='¿Quieres analizar una web a fondo? Con esta herramienta puedes:  - Verificar buenas prácticas de seg' />
@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/HD95Ap0oaa0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/HD95Ap0oaa0/mqdefault.jpg' alt='¿Qué haces, Microsoft?' />
+</a>
 <a href='https://youtu.be/PZQo4m5OAwg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/PZQo4m5OAwg/mqdefault.jpg' alt='Meta le roba talento a OpenAI' />
 </a>
 <a href='https://youtu.be/kQPu_k7ae0I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kQPu_k7ae0I/mqdefault.jpg' alt='Facebook, WTF...' />
-</a>
-<a href='https://youtu.be/Kbsk5zDkH0Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Kbsk5zDkH0Y/mqdefault.jpg' alt='Esto no es bueno' />
 </a>
