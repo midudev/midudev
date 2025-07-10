@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/IT4GCdB42N8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/IT4GCdB42N8/mqdefault.jpg' alt='Cómo ganar dinero con la IA gracias a tu contenido' />
+</a>
 <a href='https://youtu.be/0g4vjDsDkWA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0g4vjDsDkWA/mqdefault.jpg' alt='¡Nuxt se une a Vercel!' />
 </a>
 <a href='https://youtu.be/kYvwhOcatPM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kYvwhOcatPM/mqdefault.jpg' alt='¿Quieres analizar una web a fondo? Con esta herramienta puedes:  - Verificar buenas prácticas de seg' />
-</a>
-<a href='https://youtu.be/XH1_iRExVgQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XH1_iRExVgQ/mqdefault.jpg' alt='El DRAMA de Soham Parekh' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
