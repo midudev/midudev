@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/CdZ5-lg7UwY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CdZ5-lg7UwY/mqdefault.jpg' alt='Somos programadores, por supuesto que todo lo que hacemos lo copiamos de Internet o nos lo da ChatGP' />
+</a>
 <a href='https://youtu.be/8EQmx2srKrU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8EQmx2srKrU/mqdefault.jpg' alt='Productos tech para programadores - AMAZON PRIME DAY' />
 </a>
 <a href='https://youtu.be/IT4GCdB42N8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/IT4GCdB42N8/mqdefault.jpg' alt='Cómo ganar dinero con la IA gracias a tu contenido' />
-</a>
-<a href='https://youtu.be/0g4vjDsDkWA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0g4vjDsDkWA/mqdefault.jpg' alt='¡Nuxt se une a Vercel!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
