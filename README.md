@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/FG6e0JHQcPs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FG6e0JHQcPs/mqdefault.jpg' alt='¡Google compra Windsurf y la lía! + Grok se vuelve loco + Salidas en Vercel + Hackeando la IA' />
-</a>
 <a href='https://youtu.be/ZNbp2iJbJmE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZNbp2iJbJmE/mqdefault.jpg' alt='Llega el lunes y en la daily toca compartir en qué trabajamos la semana pasada...  Y yo que ya tengo' />
 </a>
 <a href='https://youtu.be/mbHfOORdulg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mbHfOORdulg/mqdefault.jpg' alt='¡TRUCO escondido de GitHub para programadores!  ① Entra a un repositorio ② Pulsa la tecla . ③ Te abr' />
+</a>
+<a href='https://youtu.be/o4MjD_rXAds' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/o4MjD_rXAds/mqdefault.jpg' alt='¿Quieres un CV que realmente funcione?  Harvard recomienda esta plantilla como la mejor para destaca' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
