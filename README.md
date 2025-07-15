@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/1uvDtqEYUJQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1uvDtqEYUJQ/mqdefault.jpg' alt='Resuelvo Prueba Técnica de FrontEnd con Editor IA + ¡Más lío con Windsurf! + Encontré vulnerabilidad' />
+</a>
+<a href='https://youtu.be/42ZWjgz6lMo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/42ZWjgz6lMo/mqdefault.jpg' alt='¡Navegador brutal para Desarrollar Webs Responsive! Se llama LT Browser:  ✓ Navega la misma página e' />
+</a>
 <a href='https://youtu.be/_25jFmhvL3E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_25jFmhvL3E/mqdefault.jpg' alt='¡Google desvalija el editor Windsurf sin comprarlo!' />
-</a>
-<a href='https://youtu.be/ZNbp2iJbJmE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZNbp2iJbJmE/mqdefault.jpg' alt='Llega el lunes y en la daily toca compartir en qué trabajamos la semana pasada...  Y yo que ya tengo' />
-</a>
-<a href='https://youtu.be/mbHfOORdulg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mbHfOORdulg/mqdefault.jpg' alt='¡TRUCO escondido de GitHub para programadores!  ① Entra a un repositorio ② Pulsa la tecla . ③ Te abr' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
