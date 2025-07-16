@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/SGx9cLK6OnM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/SGx9cLK6OnM/mqdefault.jpg' alt='Esta nueva IA es MUY RÁPIDA (lo siento, ChatGPT)' />
+</a>
 <a href='https://youtu.be/GkJNP_Pgqh4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GkJNP_Pgqh4/mqdefault.jpg' alt='Cómo hackear la IA con prompts ocultos para artículos o CVs' />
 </a>
 <a href='https://youtu.be/HD95Ap0oaa0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HD95Ap0oaa0/mqdefault.jpg' alt='¿Qué haces, Microsoft?' />
-</a>
-<a href='https://youtu.be/PZQo4m5OAwg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PZQo4m5OAwg/mqdefault.jpg' alt='Meta le roba talento a OpenAI' />
 </a>
