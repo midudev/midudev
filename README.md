@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/VYLDVi6fXb8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/VYLDVi6fXb8/mqdefault.jpg' alt='No te subieron el sueldo. ¿Y ahora qué? Duele. No vamos a negarlo...  Te esfuerzas, das más de lo qu' />
+</a>
 <a href='https://youtu.be/GIYlQZWVxms' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GIYlQZWVxms/mqdefault.jpg' alt='Salidas brutales en Vercel' />
 </a>
 <a href='https://youtu.be/42ZWjgz6lMo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/42ZWjgz6lMo/mqdefault.jpg' alt='¡Navegador brutal para Desarrollar Webs Responsive! Se llama LT Browser:  ✓ Navega la misma página e' />
 </a>
-<a href='https://youtu.be/_25jFmhvL3E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_25jFmhvL3E/mqdefault.jpg' alt='¡Google desvalija el editor Windsurf sin comprarlo!' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/8XZTpdlcyKw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8XZTpdlcyKw/mqdefault.jpg' alt='¿Qué gana Google con su nuevo cable submarino?' />
+</a>
 <a href='https://youtu.be/SGx9cLK6OnM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SGx9cLK6OnM/mqdefault.jpg' alt='Esta nueva IA es otro nivel (lo siento, ChatGPT)' />
 </a>
 <a href='https://youtu.be/GkJNP_Pgqh4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GkJNP_Pgqh4/mqdefault.jpg' alt='Cómo hackear la IA con prompts ocultos para artículos o CVs' />
-</a>
-<a href='https://youtu.be/HD95Ap0oaa0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HD95Ap0oaa0/mqdefault.jpg' alt='¿Qué haces, Microsoft?' />
 </a>
