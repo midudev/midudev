@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/SGx9cLK6OnM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SGx9cLK6OnM/mqdefault.jpg' alt='Esta nueva IA es MUY RÁPIDA (lo siento, ChatGPT)' />
+  <img width='30%' src='https://img.youtube.com/vi/SGx9cLK6OnM/mqdefault.jpg' alt='Esta nueva IA es otro nivel (lo siento, ChatGPT)' />
 </a>
 <a href='https://youtu.be/GkJNP_Pgqh4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GkJNP_Pgqh4/mqdefault.jpg' alt='Cómo hackear la IA con prompts ocultos para artículos o CVs' />
