@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/NtlBcdQOSLg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/NtlBcdQOSLg/mqdefault.jpg' alt='Ataque a Microsoft + GPT-5 pronto + Impactante estudio sobre la IA + Revolución VUE + Antiframeworks' />
+</a>
+<a href='https://youtu.be/aJf_Cd1YpWU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/aJf_Cd1YpWU/mqdefault.jpg' alt='Si quieres aprender Python, acaban de publicar este libro digital gratuito con todo lo que necesitas' />
+</a>
 <a href='https://youtu.be/YgHOhPalas0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YgHOhPalas0/mqdefault.jpg' alt='Contenedores con Docker + IA Generativa con Gisela Torres' />
-</a>
-<a href='https://youtu.be/VYLDVi6fXb8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VYLDVi6fXb8/mqdefault.jpg' alt='No te subieron el sueldo. ¿Y ahora qué? Duele. No vamos a negarlo...  Te esfuerzas, das más de lo qu' />
-</a>
-<a href='https://youtu.be/GIYlQZWVxms' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GIYlQZWVxms/mqdefault.jpg' alt='Salidas brutales en Vercel' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
