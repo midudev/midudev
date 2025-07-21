@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/YgHOhPalas0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YgHOhPalas0/mqdefault.jpg' alt='Contenedores con Docker + IA Generativa con Gisela Torres' />
+</a>
 <a href='https://youtu.be/VYLDVi6fXb8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VYLDVi6fXb8/mqdefault.jpg' alt='No te subieron el sueldo. ¿Y ahora qué? Duele. No vamos a negarlo...  Te esfuerzas, das más de lo qu' />
 </a>
 <a href='https://youtu.be/GIYlQZWVxms' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GIYlQZWVxms/mqdefault.jpg' alt='Salidas brutales en Vercel' />
-</a>
-<a href='https://youtu.be/42ZWjgz6lMo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/42ZWjgz6lMo/mqdefault.jpg' alt='¡Navegador brutal para Desarrollar Webs Responsive! Se llama LT Browser:  ✓ Navega la misma página e' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
