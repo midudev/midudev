@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/NtlBcdQOSLg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/NtlBcdQOSLg/mqdefault.jpg' alt='Ataque a Microsoft + GPT-5 pronto + Impactante estudio sobre la IA + Revolución VUE + Antiframeworks' />
+<a href='https://youtu.be/ZvXZaDojoho' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZvXZaDojoho/mqdefault.jpg' alt='Ataque a Microsoft + GPT-5 pronto + Impactante estudio sobre la IA + Revolución VUE + Antiframeworks' />
 </a>
 <a href='https://youtu.be/aJf_Cd1YpWU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/aJf_Cd1YpWU/mqdefault.jpg' alt='Si quieres aprender Python, acaban de publicar este libro digital gratuito con todo lo que necesitas' />
@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/wgzSObNT-ZE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wgzSObNT-ZE/mqdefault.jpg' alt='Microsoft pone en riesgo a Gobiernos y empresas' />
+</a>
 <a href='https://youtu.be/8XZTpdlcyKw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8XZTpdlcyKw/mqdefault.jpg' alt='¿Qué gana Google con su nuevo cable submarino?' />
 </a>
 <a href='https://youtu.be/SGx9cLK6OnM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SGx9cLK6OnM/mqdefault.jpg' alt='Esta nueva IA es otro nivel (lo siento, ChatGPT)' />
-</a>
-<a href='https://youtu.be/GkJNP_Pgqh4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GkJNP_Pgqh4/mqdefault.jpg' alt='Cómo hackear la IA con prompts ocultos para artículos o CVs' />
 </a>
