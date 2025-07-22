@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/ZvXZaDojoho' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZvXZaDojoho/mqdefault.jpg' alt='Ataque a Microsoft + GPT-5 pronto + Impactante estudio sobre la IA + Revolución VUE + Antiframeworks' />
-</a>
-<a href='https://youtu.be/aJf_Cd1YpWU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aJf_Cd1YpWU/mqdefault.jpg' alt='Si quieres aprender Python, acaban de publicar este libro digital gratuito con todo lo que necesitas' />
-</a>
 <a href='https://youtu.be/YgHOhPalas0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YgHOhPalas0/mqdefault.jpg' alt='Contenedores con Docker + IA Generativa con Gisela Torres' />
+</a>
+<a href='https://youtu.be/Xi3EzQ-jnXI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Xi3EzQ-jnXI/mqdefault.jpg' alt='5 cosas que debes aprender como programador en 2025' />
+</a>
+<a href='https://youtu.be/ZvXZaDojoho' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZvXZaDojoho/mqdefault.jpg' alt='Ataque a Microsoft + GPT-5 pronto + Impactante estudio sobre la IA + Revolución VUE + Antiframeworks' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
