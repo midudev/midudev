@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/wgzSObNT-ZE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wgzSObNT-ZE/mqdefault.jpg' alt='Microsoft pone en riesgo a Gobiernos y empresas' />
+  <img width='30%' src='https://img.youtube.com/vi/wgzSObNT-ZE/mqdefault.jpg' alt='Microsoft advierte de ciberataque global en uno de sus productos' />
 </a>
 <a href='https://youtu.be/8XZTpdlcyKw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8XZTpdlcyKw/mqdefault.jpg' alt='¿Qué gana Google con su nuevo cable submarino?' />
