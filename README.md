@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/YgHOhPalas0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YgHOhPalas0/mqdefault.jpg' alt='Contenedores con Docker + IA Generativa con Gisela Torres' />
+  <img width='30%' src='https://img.youtube.com/vi/YgHOhPalas0/mqdefault.jpg' alt='Introducción a contenedores con Docker + IA Generativa con Gisela Torres' />
 </a>
 <a href='https://youtu.be/Xi3EzQ-jnXI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Xi3EzQ-jnXI/mqdefault.jpg' alt='5 cosas que debes aprender como programador en 2025' />
@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/AqyqRLrosWI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AqyqRLrosWI/mqdefault.jpg' alt='ChatGPT Agent esta aquí' />
+</a>
 <a href='https://youtu.be/wgzSObNT-ZE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wgzSObNT-ZE/mqdefault.jpg' alt='Microsoft advierte de ciberataque global en uno de sus productos' />
 </a>
 <a href='https://youtu.be/8XZTpdlcyKw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8XZTpdlcyKw/mqdefault.jpg' alt='¿Qué gana Google con su nuevo cable submarino?' />
-</a>
-<a href='https://youtu.be/SGx9cLK6OnM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SGx9cLK6OnM/mqdefault.jpg' alt='Esta nueva IA es otro nivel (lo siento, ChatGPT)' />
 </a>
