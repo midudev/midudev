@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/AqyqRLrosWI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AqyqRLrosWI/mqdefault.jpg' alt='ChatGPT Agent esta aquí' />
+  <img width='30%' src='https://img.youtube.com/vi/AqyqRLrosWI/mqdefault.jpg' alt='ChatGPT Agent ESTA AQUÍ' />
 </a>
 <a href='https://youtu.be/wgzSObNT-ZE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wgzSObNT-ZE/mqdefault.jpg' alt='Microsoft advierte de ciberataque global en uno de sus productos' />
