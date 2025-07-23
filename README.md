@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/7z-sXVrampg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7z-sXVrampg/mqdefault.jpg' alt='Conseguir trabajo como programador hoy' />
+</a>
+<a href='https://youtu.be/iWz4J8nt9dE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/iWz4J8nt9dE/mqdefault.jpg' alt='Esta web los muestra paso a paso, con código y visualizaciones interactivas los algoritmos más impor' />
+</a>
 <a href='https://youtu.be/YgHOhPalas0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YgHOhPalas0/mqdefault.jpg' alt='Introducción a contenedores con Docker + IA Generativa con Gisela Torres' />
-</a>
-<a href='https://youtu.be/Xi3EzQ-jnXI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Xi3EzQ-jnXI/mqdefault.jpg' alt='5 cosas que debes aprender como programador en 2025' />
-</a>
-<a href='https://youtu.be/ZvXZaDojoho' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZvXZaDojoho/mqdefault.jpg' alt='Ataque a Microsoft + GPT-5 pronto + Impactante estudio sobre la IA + Revolución VUE + Antiframeworks' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
