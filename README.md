@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/rsbYm-Id5LY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/rsbYm-Id5LY/mqdefault.jpg' alt='La revolución de Vue.js: nuevo modo sin Virtual DOM' />
+</a>
 <a href='https://youtu.be/cMLqa7cJ64I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/cMLqa7cJ64I/mqdefault.jpg' alt='¿Puede sobrevivir Cursor AI? Crecimiento rápido, poca rentabilidad' />
 </a>
 <a href='https://youtu.be/FWNmVpaw8jk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FWNmVpaw8jk/mqdefault.jpg' alt='Probé TRAE 2.0. ¿La evolución de los editores de código?' />
-</a>
-<a href='https://youtu.be/7z-sXVrampg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7z-sXVrampg/mqdefault.jpg' alt='Conseguir trabajo como programador hoy' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
