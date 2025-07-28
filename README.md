@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/ZvXZaDojoho' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZvXZaDojoho/mqdefault.jpg' alt='Hackeo militar francés, leak masivo en app de citas, Anthropic en problemas, GitHub lanza Spark...' />
+<a href='https://youtu.be/pSkKSEwJaX0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pSkKSEwJaX0/mqdefault.jpg' alt='¡Esto es lo nuevo de GitHub! Lo probamos a fondo' />
 </a>
 <a href='https://youtu.be/W5P_6_1kW1g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/W5P_6_1kW1g/mqdefault.jpg' alt='¡Certificaciones gratis en IA y Cloud por tiempo limitado! Oracle lanza "Race to Certification 2025"' />
