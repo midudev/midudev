@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ZvXZaDojoho' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZvXZaDojoho/mqdefault.jpg' alt='Hackeo militar francés, leak masivo en app de citas, Anthropic en problemas, GitHub lanza Spark...' />
+</a>
+<a href='https://youtu.be/W5P_6_1kW1g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/W5P_6_1kW1g/mqdefault.jpg' alt='¡Certificaciones gratis en IA y Cloud por tiempo limitado! Oracle lanza "Race to Certification 2025"' />
+</a>
 <a href='https://youtu.be/kep9czLV9xE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kep9czLV9xE/mqdefault.jpg' alt='"La UI va a desaparecer" - Ex CEO de Google' />
-</a>
-<a href='https://youtu.be/rsbYm-Id5LY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rsbYm-Id5LY/mqdefault.jpg' alt='La revolución de Vue.js: nuevo modo sin Virtual DOM' />
-</a>
-<a href='https://youtu.be/cMLqa7cJ64I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/cMLqa7cJ64I/mqdefault.jpg' alt='¿Puede sobrevivir Cursor AI? Crecimiento rápido, poca rentabilidad' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
