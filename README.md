@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/qwqfUDTgUf4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qwqfUDTgUf4/mqdefault.jpg' alt='Comparativa Editores de Código con IA: VSCode, Cursor, Windsurf, Kiro y Trae' />
-</a>
 <a href='https://youtu.be/Hg1PxVNur7I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Hg1PxVNur7I/mqdefault.jpg' alt='Cursos de Inglés para Programadores sin coste  FreeCodeCamp ha lanzado un curso de inglés pensado pa' />
 </a>
 <a href='https://youtu.be/pSkKSEwJaX0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pSkKSEwJaX0/mqdefault.jpg' alt='¡Esto es lo nuevo de GitHub! Lo probamos a fondo' />
 </a>
+<a href='https://youtu.be/W5P_6_1kW1g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/W5P_6_1kW1g/mqdefault.jpg' alt='¡Certificaciones gratis en IA y Cloud por tiempo limitado! Oracle lanza "Race to Certification 2025"' />
+</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/IwbyfPEB6pI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/IwbyfPEB6pI/mqdefault.jpg' alt='Esto tenía que pasar..' />
+</a>
 <a href='https://youtu.be/F9GIVt65s_g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/F9GIVt65s_g/mqdefault.jpg' alt='El Hackeo militar de Francia' />
 </a>
 <a href='https://youtu.be/3dmtAbowXf4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3dmtAbowXf4/mqdefault.jpg' alt='Inversor de OpenAI no debió publicar este video' />
-</a>
-<a href='https://youtu.be/AqyqRLrosWI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AqyqRLrosWI/mqdefault.jpg' alt='ChatGPT Agent ESTA AQUÍ' />
 </a>
