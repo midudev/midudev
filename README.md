@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/BlAvAOa_68M' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BlAvAOa_68M/mqdefault.jpg' alt='¿Un frontend NO puede hacer backend? Mi opinión' />
+</a>
 <a href='https://youtu.be/Hg1PxVNur7I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Hg1PxVNur7I/mqdefault.jpg' alt='Cursos de Inglés para Programadores sin coste  FreeCodeCamp ha lanzado un curso de inglés pensado pa' />
 </a>
 <a href='https://youtu.be/pSkKSEwJaX0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pSkKSEwJaX0/mqdefault.jpg' alt='¡Esto es lo nuevo de GitHub! Lo probamos a fondo' />
-</a>
-<a href='https://youtu.be/W5P_6_1kW1g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/W5P_6_1kW1g/mqdefault.jpg' alt='¡Certificaciones gratis en IA y Cloud por tiempo limitado! Oracle lanza "Race to Certification 2025"' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
