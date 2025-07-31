@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Glns8xtF0Lw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Glns8xtF0Lw/mqdefault.jpg' alt='Anthropic AI podría estar en quiebra' />
+</a>
 <a href='https://youtu.be/ItH7iFjJU3Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ItH7iFjJU3Y/mqdefault.jpg' alt='Esta App de citas para mujeres filtró miles de fotos' />
 </a>
 <a href='https://youtu.be/IwbyfPEB6pI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/IwbyfPEB6pI/mqdefault.jpg' alt='Esto tenía que pasar..' />
-</a>
-<a href='https://youtu.be/F9GIVt65s_g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/F9GIVt65s_g/mqdefault.jpg' alt='El Hackeo militar de Francia' />
 </a>
