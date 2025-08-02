@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/Ao_zPIfaNPY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ao_zPIfaNPY/mqdefault.jpg' alt='El ecosistema de JavaScript fue comprometido + solución' />
+  <img width='30%' src='https://img.youtube.com/vi/Ao_zPIfaNPY/mqdefault.jpg' alt='El ecosistema de JavaScript fue atacado + solución' />
 </a>
 <a href='https://youtu.be/fn9CXFRK6Fc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/fn9CXFRK6Fc/mqdefault.jpg' alt='Este recurso para programadores es un tesoro.  ¡Más de 1500 plantillas HTML gratis con componentes d' />
