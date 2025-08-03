@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/QkEojOByHyk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QkEojOByHyk/mqdefault.jpg' alt='console.log(“aquiiii”)  #software #programador #programacion #programadores' />
+</a>
 <a href='https://youtu.be/Ao_zPIfaNPY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ao_zPIfaNPY/mqdefault.jpg' alt='El ecosistema de JavaScript fue atacado + solución' />
 </a>
 <a href='https://youtu.be/fn9CXFRK6Fc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/fn9CXFRK6Fc/mqdefault.jpg' alt='Este recurso para programadores es un tesoro.  ¡Más de 1500 plantillas HTML gratis con componentes d' />
-</a>
-<a href='https://youtu.be/NUVUm229u0k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/NUVUm229u0k/mqdefault.jpg' alt='¡Trucazo para devs! ¿Sabías que puedes tener autocompletado en la terminal de Visual Studio Code, Cu' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
