@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/RyYDBndS1dU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/RyYDBndS1dU/mqdefault.jpg' alt='Noticias Dev: GPT-5 inminente + Epic derriba a Google + ¿Microsoft dice qué empleos desaparecerán?' />
+</a>
+<a href='https://youtu.be/h5LyG1I2Ugs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/h5LyG1I2Ugs/mqdefault.jpg' alt='Trucazo para liberar gigas de tu disco duro.  Si eres programador y usas un gestor de dependencias c' />
+</a>
 <a href='https://youtu.be/QkEojOByHyk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QkEojOByHyk/mqdefault.jpg' alt='console.log(“aquiiii”)  #software #programador #programacion #programadores' />
-</a>
-<a href='https://youtu.be/Ao_zPIfaNPY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ao_zPIfaNPY/mqdefault.jpg' alt='El ecosistema de JavaScript fue atacado + solución' />
-</a>
-<a href='https://youtu.be/fn9CXFRK6Fc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fn9CXFRK6Fc/mqdefault.jpg' alt='Este recurso para programadores es un tesoro.  ¡Más de 1500 plantillas HTML gratis con componentes d' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
