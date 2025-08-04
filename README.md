@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/RyYDBndS1dU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RyYDBndS1dU/mqdefault.jpg' alt='Noticias Dev: GPT-5 inminente + Epic derriba a Google + ¿Microsoft dice qué empleos desaparecerán?' />
-</a>
 <a href='https://youtu.be/h5LyG1I2Ugs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/h5LyG1I2Ugs/mqdefault.jpg' alt='Trucazo para liberar gigas de tu disco duro.  Si eres programador y usas un gestor de dependencias c' />
 </a>
 <a href='https://youtu.be/QkEojOByHyk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QkEojOByHyk/mqdefault.jpg' alt='console.log(“aquiiii”)  #software #programador #programacion #programadores' />
 </a>
+<a href='https://youtu.be/Ao_zPIfaNPY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Ao_zPIfaNPY/mqdefault.jpg' alt='El ecosistema de JavaScript fue atacado + solución' />
+</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/VLRqbFU4IdE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/VLRqbFU4IdE/mqdefault.jpg' alt='¿Microsoft dice qué empleos morirán?' />
+</a>
 <a href='https://youtu.be/Glns8xtF0Lw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Glns8xtF0Lw/mqdefault.jpg' alt='Anthropic AI podría quebrar pronto por demanda' />
 </a>
 <a href='https://youtu.be/ItH7iFjJU3Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ItH7iFjJU3Y/mqdefault.jpg' alt='Esta App de citas para mujeres filtró miles de fotos' />
-</a>
-<a href='https://youtu.be/IwbyfPEB6pI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/IwbyfPEB6pI/mqdefault.jpg' alt='Esto tenía que pasar..' />
 </a>
