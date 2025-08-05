@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/HZkfolrw9b0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HZkfolrw9b0/mqdefault.jpg' alt='Desarrollo un Google Translate desde cero, sin dependencias y con la IA de Chrome' />
+<a href='https://youtu.be/y15Ws-udeU8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/y15Ws-udeU8/mqdefault.jpg' alt='Desarrollo un Google Translate desde cero, sin dependencias y con la IA de Chrome' />
 </a>
 <a href='https://youtu.be/gsAaet9OcnA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/gsAaet9OcnA/mqdefault.jpg' alt='"Microsoft acaba de publicar un estudio que muestra los trabajos más susceptibles a ser reemplazados' />
@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/8D7ZLGjjvrU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8D7ZLGjjvrU/mqdefault.jpg' alt='Tu DNI vale oro en la dark web' />
+</a>
 <a href='https://youtu.be/VAWVPYspm5s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VAWVPYspm5s/mqdefault.jpg' alt='Se confirma lo mejor para Chema Alonso' />
+  <img width='30%' src='https://img.youtube.com/vi/VAWVPYspm5s/mqdefault.jpg' alt='Chema Alonso ingresa a Cloudflare' />
 </a>
 <a href='https://youtu.be/VLRqbFU4IdE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VLRqbFU4IdE/mqdefault.jpg' alt='¿Microsoft dice qué trabajos morirán? Se equivocan' />
-</a>
-<a href='https://youtu.be/Glns8xtF0Lw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Glns8xtF0Lw/mqdefault.jpg' alt='Anthropic AI podría quebrar pronto por demanda' />
 </a>
