@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/VLRqbFU4IdE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VLRqbFU4IdE/mqdefault.jpg' alt='¿Microsoft dice qué empleos morirán? Se equivocan' />
+  <img width='30%' src='https://img.youtube.com/vi/VLRqbFU4IdE/mqdefault.jpg' alt='¿Microsoft dice qué trabajos morirán? Se equivocan' />
 </a>
 <a href='https://youtu.be/Glns8xtF0Lw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Glns8xtF0Lw/mqdefault.jpg' alt='Anthropic AI podría quebrar pronto por demanda' />
