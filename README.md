@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/8D7ZLGjjvrU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8D7ZLGjjvrU/mqdefault.jpg' alt='Tu DNI vale oro en la dark web' />
+  <img width='30%' src='https://img.youtube.com/vi/8D7ZLGjjvrU/mqdefault.jpg' alt='Tu DNI vale oro en la dark web y no lo sabías' />
 </a>
 <a href='https://youtu.be/VAWVPYspm5s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VAWVPYspm5s/mqdefault.jpg' alt='Chema Alonso ingresa a Cloudflare' />
