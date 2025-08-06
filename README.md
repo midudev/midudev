@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/XtbtuytXtWk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/XtbtuytXtWk/mqdefault.jpg' alt='No hace ni 24 horas desde que OpenAI anunció sus modelos de código abierto...  Y aquí te traigo un t' />
+</a>
+<a href='https://youtu.be/IJx_G3IjamE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/IJx_G3IjamE/mqdefault.jpg' alt='Instala los modelos Open Source de OpenAI en tu PC y Visual Studio Code' />
+</a>
 <a href='https://youtu.be/y15Ws-udeU8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/y15Ws-udeU8/mqdefault.jpg' alt='Desarrollo un Google Translate desde cero, sin dependencias y con la IA de Chrome' />
-</a>
-<a href='https://youtu.be/gsAaet9OcnA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/gsAaet9OcnA/mqdefault.jpg' alt='"Microsoft acaba de publicar un estudio que muestra los trabajos más susceptibles a ser reemplazados' />
-</a>
-<a href='https://youtu.be/h5LyG1I2Ugs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/h5LyG1I2Ugs/mqdefault.jpg' alt='Trucazo para liberar gigas de tu disco duro.  Si eres programador y usas un gestor de dependencias c' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
