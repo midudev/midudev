@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/y15Ws-udeU8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/y15Ws-udeU8/mqdefault.jpg' alt='Lanzamiento GPT-5 de OpenAI en directo: ¡presentación del nuevo ChatGPT!' />
+</a>
 <a href='https://youtu.be/TIo024XgX00' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TIo024XgX00/mqdefault.jpg' alt='Probé 5 editores de código con IA ¿Cuál es el mejor? + Recomendación' />
 </a>
 <a href='https://youtu.be/XtbtuytXtWk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XtbtuytXtWk/mqdefault.jpg' alt='No hace ni 24 horas desde que OpenAI anunció sus modelos de código abierto...  Y aquí te traigo un t' />
 </a>
-<a href='https://youtu.be/IJx_G3IjamE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/IJx_G3IjamE/mqdefault.jpg' alt='Instala los modelos Open Source de OpenAI en tu PC y Visual Studio Code' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/jZD4biuuf7I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jZD4biuuf7I/mqdefault.jpg' alt='"China es el futuro de la IA, NO Silicon Valley" - Ex-CTO Alibaba' />
+</a>
 <a href='https://youtu.be/8D7ZLGjjvrU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8D7ZLGjjvrU/mqdefault.jpg' alt='Tu DNI vale oro en la dark web y no lo sabías' />
 </a>
 <a href='https://youtu.be/VAWVPYspm5s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VAWVPYspm5s/mqdefault.jpg' alt='Chema Alonso ingresa a Cloudflare' />
-</a>
-<a href='https://youtu.be/VLRqbFU4IdE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VLRqbFU4IdE/mqdefault.jpg' alt='¿Microsoft dice qué trabajos morirán? Se equivocan' />
 </a>
