@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/TIo024XgX00' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TIo024XgX00/mqdefault.jpg' alt='Probé 5 editores de código con IA ¿Cuál es el mejor? + Recomendación' />
+</a>
 <a href='https://youtu.be/XtbtuytXtWk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XtbtuytXtWk/mqdefault.jpg' alt='No hace ni 24 horas desde que OpenAI anunció sus modelos de código abierto...  Y aquí te traigo un t' />
 </a>
 <a href='https://youtu.be/IJx_G3IjamE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/IJx_G3IjamE/mqdefault.jpg' alt='Instala los modelos Open Source de OpenAI en tu PC y Visual Studio Code' />
-</a>
-<a href='https://youtu.be/y15Ws-udeU8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/y15Ws-udeU8/mqdefault.jpg' alt='Desarrollo un Google Translate desde cero, sin dependencias y con la IA de Chrome' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
