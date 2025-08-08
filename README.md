@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/y15Ws-udeU8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/y15Ws-udeU8/mqdefault.jpg' alt='Lanzamiento GPT-5 de OpenAI en directo: ¡presentación del nuevo ChatGPT!' />
+<a href='https://youtu.be/QIzDubg3Zfg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QIzDubg3Zfg/mqdefault.jpg' alt='Mi opinion sobre GPT-5' />
 </a>
 <a href='https://youtu.be/TIo024XgX00' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TIo024XgX00/mqdefault.jpg' alt='Probé 5 editores de código con IA ¿Cuál es el mejor? + Recomendación' />
