@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/HJkWBheS5c0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/HJkWBheS5c0/mqdefault.jpg' alt='Reseña Geekom IT15 - Mini PC con Intel' />
+</a>
 <a href='https://youtu.be/QIzDubg3Zfg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QIzDubg3Zfg/mqdefault.jpg' alt='Mi opinion sobre GPT-5' />
 </a>
 <a href='https://youtu.be/TIo024XgX00' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TIo024XgX00/mqdefault.jpg' alt='Probé 5 editores de código con IA ¿Cuál es el mejor? + Recomendación' />
-</a>
-<a href='https://youtu.be/XtbtuytXtWk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XtbtuytXtWk/mqdefault.jpg' alt='No hace ni 24 horas desde que OpenAI anunció sus modelos de código abierto...  Y aquí te traigo un t' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
