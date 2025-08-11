@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/voaWH5kOcME' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/voaWH5kOcME/mqdefault.jpg' alt='Noticias Dev: ¿Decepción GPT5? + Europa quiere espiarte + Linus Torvalds destruye dev de Google' />
+<a href='https://youtu.be/YuN3XqLsuxs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YuN3XqLsuxs/mqdefault.jpg' alt='"Esa basura de código hace del mundo un lugar peor" - Linus Torvalds' />
+</a>
+<a href='https://youtu.be/ktPgPTeLLpA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ktPgPTeLLpA/mqdefault.jpg' alt='Noticias Dev: ¿Decepción GPT5? + Europa quiere espiarte + Linus Torvalds destruye dev de Google' />
 </a>
 <a href='https://youtu.be/CUMMjpExl6I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CUMMjpExl6I/mqdefault.jpg' alt='NVIDIA acaba de publicar 5 cursos sin coste para dominar la IA, para que te pongas al día sin gastar' />
-</a>
-<a href='https://youtu.be/HJkWBheS5c0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HJkWBheS5c0/mqdefault.jpg' alt='Mini PC con Intel Ultra 9 - Reseña GEEKCOM IT15' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
