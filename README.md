@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/HJkWBheS5c0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HJkWBheS5c0/mqdefault.jpg' alt='Mini PC con Intel Ultra 9 - Reseña Geekom IT15' />
+  <img width='30%' src='https://img.youtube.com/vi/HJkWBheS5c0/mqdefault.jpg' alt='Mini PC con Intel Ultra 9 - Reseña GEEKCOM IT15' />
 </a>
 <a href='https://youtu.be/QIzDubg3Zfg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QIzDubg3Zfg/mqdefault.jpg' alt='Mi opinion sobre GPT-5' />
