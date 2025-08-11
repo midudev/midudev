@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/voaWH5kOcME' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/voaWH5kOcME/mqdefault.jpg' alt='Noticias Dev: ¿Decepción GPT5? + Europa quiere espiarte + Linus Torvalds destruye dev de Google' />
+</a>
+<a href='https://youtu.be/CUMMjpExl6I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CUMMjpExl6I/mqdefault.jpg' alt='NVIDIA acaba de publicar 5 cursos sin coste para dominar la IA, para que te pongas al día sin gastar' />
+</a>
 <a href='https://youtu.be/HJkWBheS5c0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HJkWBheS5c0/mqdefault.jpg' alt='Mini PC con Intel Ultra 9 - Reseña GEEKCOM IT15' />
-</a>
-<a href='https://youtu.be/QIzDubg3Zfg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QIzDubg3Zfg/mqdefault.jpg' alt='Mi opinion sobre GPT-5' />
-</a>
-<a href='https://youtu.be/TIo024XgX00' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TIo024XgX00/mqdefault.jpg' alt='Probé 5 editores de código con IA ¿Cuál es el mejor? + Recomendación' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
