@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/YuN3XqLsuxs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YuN3XqLsuxs/mqdefault.jpg' alt='Linus Torvalds contesta de la peor manera a un usuario' />
-</a>
 <a href='https://youtu.be/ktPgPTeLLpA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ktPgPTeLLpA/mqdefault.jpg' alt='Noticias Dev: ¿Decepción GPT5? + Europa quiere espiarte + Linus Torvalds destruye dev de Google' />
+  <img width='30%' src='https://img.youtube.com/vi/ktPgPTeLLpA/mqdefault.jpg' alt='CHATGPT 5 A PRUEBA - Desarrollo proyecto desde cero y paso a paso usando el nuevo modelo de OpenAI' />
 </a>
-<a href='https://youtu.be/CUMMjpExl6I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CUMMjpExl6I/mqdefault.jpg' alt='NVIDIA acaba de publicar 5 cursos sin coste para dominar la IA, para que te pongas al día sin gastar' />
+<a href='https://youtu.be/7JQLiQJzirw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7JQLiQJzirw/mqdefault.jpg' alt='¿OpenAI decepcionó a la gente con GPT-5?' />
+</a>
+<a href='https://youtu.be/5oK-83BJzwU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5oK-83BJzwU/mqdefault.jpg' alt='Guía visual para aprender ALGORITMOS en programación 25 algoritmos explicados paso a paso con pseudo' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
