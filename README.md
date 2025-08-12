@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/ktPgPTeLLpA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ktPgPTeLLpA/mqdefault.jpg' alt='CHATGPT 5 A PRUEBA - Desarrollo proyecto desde cero y paso a paso usando el nuevo modelo de OpenAI' />
-</a>
 <a href='https://youtu.be/7JQLiQJzirw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7JQLiQJzirw/mqdefault.jpg' alt='¿OpenAI decepcionó a la gente con GPT-5?' />
 </a>
 <a href='https://youtu.be/5oK-83BJzwU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5oK-83BJzwU/mqdefault.jpg' alt='Guía visual para aprender ALGORITMOS en programación 25 algoritmos explicados paso a paso con pseudo' />
 </a>
+<a href='https://youtu.be/YuN3XqLsuxs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YuN3XqLsuxs/mqdefault.jpg' alt='Linus Torvalds contesta de la peor manera a un usuario' />
+</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Hvgly-upI6Q' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Hvgly-upI6Q/mqdefault.jpg' alt='Nunca pensé que vería esto en iPhone' />
+</a>
 <a href='https://youtu.be/jZD4biuuf7I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jZD4biuuf7I/mqdefault.jpg' alt='"China es el futuro de la IA, NO Silicon Valley" - Ex-CTO Alibaba' />
 </a>
 <a href='https://youtu.be/8D7ZLGjjvrU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8D7ZLGjjvrU/mqdefault.jpg' alt='Tu DNI vale oro en la dark web y no lo sabías' />
-</a>
-<a href='https://youtu.be/VAWVPYspm5s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VAWVPYspm5s/mqdefault.jpg' alt='Chema Alonso ingresa a Cloudflare' />
 </a>
