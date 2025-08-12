@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/YuN3XqLsuxs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YuN3XqLsuxs/mqdefault.jpg' alt='"Esa basura de código hace del mundo un lugar peor" - Linus Torvalds' />
+  <img width='30%' src='https://img.youtube.com/vi/YuN3XqLsuxs/mqdefault.jpg' alt='Linus Torvalds contesta de la peor manera a un usuario' />
 </a>
 <a href='https://youtu.be/ktPgPTeLLpA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ktPgPTeLLpA/mqdefault.jpg' alt='Noticias Dev: ¿Decepción GPT5? + Europa quiere espiarte + Linus Torvalds destruye dev de Google' />
