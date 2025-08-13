@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/lbzsdUlPhkc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lbzsdUlPhkc/mqdefault.jpg' alt='El Plan Más Invasivo Que He Visto' />
+</a>
 <a href='https://youtu.be/Hvgly-upI6Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Hvgly-upI6Q/mqdefault.jpg' alt='Nunca pensé que vería esto en iPhone' />
 </a>
 <a href='https://youtu.be/jZD4biuuf7I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jZD4biuuf7I/mqdefault.jpg' alt='"China es el futuro de la IA, NO Silicon Valley" - Ex-CTO Alibaba' />
-</a>
-<a href='https://youtu.be/8D7ZLGjjvrU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8D7ZLGjjvrU/mqdefault.jpg' alt='Tu DNI vale oro en la dark web y no lo sabías' />
 </a>
