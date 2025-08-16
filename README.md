@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Dxiw11S7Niw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Dxiw11S7Niw/mqdefault.jpg' alt='Si buscas animaciones fluidas y con estilo para tu web, anime.js es una pasada.  Con ella puedes ani' />
+</a>
 <a href='https://youtu.be/BVrpy_MpH9g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/BVrpy_MpH9g/mqdefault.jpg' alt='Nuevo editor de código. Llega TRAE 2.0 y su nuevo modo SOLO.  A diferencia de otros editores, este g' />
 </a>
 <a href='https://youtu.be/jZ5iSgm7U7g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jZ5iSgm7U7g/mqdefault.jpg' alt='Nueva función para sumas precisas en JavaScript' />
-</a>
-<a href='https://youtu.be/ocqF5obzOjE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ocqF5obzOjE/mqdefault.jpg' alt='¡Microsoft lanza un Bootcamp en Español! Para aprender MCP (Model Context Protocol) y IA.  Es gratis' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
