@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/rRuO4YphpUY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rRuO4YphpUY/mqdefault.jpg' alt='La Liga vuelve a bloquear Internet + ¡Cursor sube precio! + Peligro Roblox + ¿Chrome en venta?' />
-</a>
 <a href='https://youtu.be/PEWBwmCC9ac' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/PEWBwmCC9ac/mqdefault.jpg' alt='Recurso para programadores para crear unos diagramas isométricos atractivos de tu software o arquite' />
 </a>
 <a href='https://youtu.be/Dxiw11S7Niw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Dxiw11S7Niw/mqdefault.jpg' alt='Si buscas animaciones fluidas y con estilo para tu web, anime.js es una pasada.  Con ella puedes ani' />
+</a>
+<a href='https://youtu.be/BVrpy_MpH9g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BVrpy_MpH9g/mqdefault.jpg' alt='Nuevo editor de código. Llega TRAE 2.0 y su nuevo modo SOLO.  A diferencia de otros editores, este g' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
