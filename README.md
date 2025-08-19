@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/cLK5lHjDWro' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cLK5lHjDWro/mqdefault.jpg' alt='¿La IA hace más productivos a los programadores?' />
+</a>
+<a href='https://youtu.be/k-A8Id9VG8I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/k-A8Id9VG8I/mqdefault.jpg' alt='“Tenemos que mejorar la experiencia del usuario 🧐” dice el PM.  Diseño: “¿Y si hacemos el botón un' />
+</a>
 <a href='https://youtu.be/PEWBwmCC9ac' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/PEWBwmCC9ac/mqdefault.jpg' alt='Recurso para programadores para crear unos diagramas isométricos atractivos de tu software o arquite' />
-</a>
-<a href='https://youtu.be/Dxiw11S7Niw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Dxiw11S7Niw/mqdefault.jpg' alt='Si buscas animaciones fluidas y con estilo para tu web, anime.js es una pasada.  Con ella puedes ani' />
-</a>
-<a href='https://youtu.be/BVrpy_MpH9g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BVrpy_MpH9g/mqdefault.jpg' alt='Nuevo editor de código. Llega TRAE 2.0 y su nuevo modo SOLO.  A diferencia de otros editores, este g' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
