@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/Y8FObD_3dts' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Y8FObD_3dts/mqdefault.jpg' alt='EVENTO de GOOGLE. ¡Reaccionamos en vivo! ¿Nueva IA? ¿Android? ¿Dispositivos Pixel? y CHARLA DEV' />
-</a>
 <a href='https://youtu.be/cLK5lHjDWro' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/cLK5lHjDWro/mqdefault.jpg' alt='¿La IA hace más productivos a los programadores?' />
 </a>
 <a href='https://youtu.be/k-A8Id9VG8I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/k-A8Id9VG8I/mqdefault.jpg' alt='“Tenemos que mejorar la experiencia del usuario 🧐” dice el PM.  Diseño: “¿Y si hacemos el botón un' />
+</a>
+<a href='https://youtu.be/PEWBwmCC9ac' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PEWBwmCC9ac/mqdefault.jpg' alt='Recurso para programadores para crear unos diagramas isométricos atractivos de tu software o arquite' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
