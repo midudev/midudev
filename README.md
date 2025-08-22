@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/kbsy25lXBeI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/kbsy25lXBeI/mqdefault.jpg' alt='¿Quieres mejorar tus skills en SQL como programador? Prueba este editor online para practicar y crea' />
+</a>
 <a href='https://youtu.be/zok0-1_lEfA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zok0-1_lEfA/mqdefault.jpg' alt='Lo que ves (Frontend) vs lo que hay detrás (Backend)  Todos ven el coche reluciente, con sus luces y' />
 </a>
 <a href='https://youtu.be/cLK5lHjDWro' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/cLK5lHjDWro/mqdefault.jpg' alt='¿La IA hace más productivos a los programadores?' />
-</a>
-<a href='https://youtu.be/k-A8Id9VG8I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/k-A8Id9VG8I/mqdefault.jpg' alt='“Tenemos que mejorar la experiencia del usuario 🧐” dice el PM.  Diseño: “¿Y si hacemos el botón un' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
