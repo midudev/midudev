@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ip7dY0q-yO0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ip7dY0q-yO0/mqdefault.jpg' alt='¡Revolución en CSS! Ya tiene if en su código. Nueva sintaxis para hacer estilos condicionales.  Disp' />
+</a>
 <a href='https://youtu.be/m8mMwPB7edM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/m8mMwPB7edM/mqdefault.jpg' alt='¿Sabías que puedes crear un editor CSS en vivo directamente en el navegador con solo HTML?  Con este' />
 </a>
 <a href='https://youtu.be/gSeyFuFfp_g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/gSeyFuFfp_g/mqdefault.jpg' alt='Cursos gratuitos y oficiales de Microsoft con Visual Studio Code.  Los más interesantes:  - Introduc' />
-</a>
-<a href='https://youtu.be/kbsy25lXBeI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kbsy25lXBeI/mqdefault.jpg' alt='¿Quieres mejorar tus skills en SQL como programador? Prueba este editor online para practicar y crea' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
