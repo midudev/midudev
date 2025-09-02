@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/fr70YV1B2Jg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fr70YV1B2Jg/mqdefault.jpg' alt='¡Microsoft lanza su curso oficial de Python + IA! Enseña LLMs, RAG, MCP, agentes y más  ✓ Gratis y e' />
+<a href='https://youtu.be/lpKeNTuljWY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lpKeNTuljWY/mqdefault.jpg' alt='La burbuja de IA, burnout del programador, burofax a la Liga, estoy enfadado...' />
 </a>
-<a href='https://youtu.be/2RMQNFFKZE0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2RMQNFFKZE0/mqdefault.jpg' alt='¡Visualiza como diagrama cualquier proyecto de código de GitHub!  Cambia la palabra "hub" por "diagr' />
+<a href='https://youtu.be/-xcE85cmaHs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/-xcE85cmaHs/mqdefault.jpg' alt='Un recurso brutal para practicar programación y análisis de datos.  Aquí encontrarás ejercicios de S' />
 </a>
-<a href='https://youtu.be/ip7dY0q-yO0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ip7dY0q-yO0/mqdefault.jpg' alt='¡Revolución en CSS! Ya tiene if en su código. Nueva sintaxis para hacer estilos condicionales.  Disp' />
+<a href='https://youtu.be/qJs-zjV82cE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qJs-zjV82cE/mqdefault.jpg' alt='TikTok no quiere migrar de Go a Rust por una razón' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
