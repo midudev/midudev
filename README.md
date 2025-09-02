@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/YGLeMhKvu1I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YGLeMhKvu1I/mqdefault.jpg' alt='Hizo un bootcamp y le quedó una deuda de 8000 euros' />
+</a>
 <a href='https://youtu.be/PJp-VAr6IIo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/PJp-VAr6IIo/mqdefault.jpg' alt='LALIGA nos engañó a todos' />
 </a>
 <a href='https://youtu.be/0hylA2hH5tI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0hylA2hH5tI/mqdefault.jpg' alt='Quieren comprar Google Chrome...' />
-</a>
-<a href='https://youtu.be/savFFyjJECg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/savFFyjJECg/mqdefault.jpg' alt='Cursor AI lo hizo... otra vez' />
 </a>
