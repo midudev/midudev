@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/6iONb-o9Xl4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6iONb-o9Xl4/mqdefault.jpg' alt='Desarrollo con Nano Banana de Google + React + Next.js' />
+</a>
+<a href='https://youtu.be/47M1UnYpMaY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/47M1UnYpMaY/mqdefault.jpg' alt='¿Necesitas un calendario en tu web o app? Este componente es justo lo que buscas 👇  ✓ Solo 9 KB ✓ 1' />
+</a>
 <a href='https://youtu.be/-xcE85cmaHs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-xcE85cmaHs/mqdefault.jpg' alt='Un recurso brutal para practicar programación y análisis de datos.  Aquí encontrarás ejercicios de S' />
-</a>
-<a href='https://youtu.be/qJs-zjV82cE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qJs-zjV82cE/mqdefault.jpg' alt='TikTok no quiere migrar de Go a Rust por una razón' />
-</a>
-<a href='https://youtu.be/fr70YV1B2Jg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fr70YV1B2Jg/mqdefault.jpg' alt='¡Microsoft lanza su curso oficial de Python + IA! Enseña LLMs, RAG, MCP, agentes y más  ✓ Gratis y e' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/2Rxl5G-vbMU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/2Rxl5G-vbMU/mqdefault.jpg' alt='El estado actual de la burbuja de la IA. La opinión de Uncle Bob.' />
+</a>
 <a href='https://youtu.be/ra6TsXRq2RQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ra6TsXRq2RQ/mqdefault.jpg' alt='LALIGA fue demasiado lejos...' />
 </a>
 <a href='https://youtu.be/YGLeMhKvu1I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YGLeMhKvu1I/mqdefault.jpg' alt='Hizo un bootcamp y le quedó una deuda de 8000 euros' />
-</a>
-<a href='https://youtu.be/PJp-VAr6IIo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PJp-VAr6IIo/mqdefault.jpg' alt='LALIGA nos engañó a todos' />
 </a>
