@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/4Glh9Y6CjOA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/4Glh9Y6CjOA/mqdefault.jpg' alt='Mi stack favorito como programador en 2025' />
+</a>
 <a href='https://youtu.be/47M1UnYpMaY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/47M1UnYpMaY/mqdefault.jpg' alt='¿Necesitas un calendario en tu web o app? Este componente es justo lo que buscas 👇  ✓ Solo 9 KB ✓ 1' />
 </a>
 <a href='https://youtu.be/-xcE85cmaHs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-xcE85cmaHs/mqdefault.jpg' alt='Un recurso brutal para practicar programación y análisis de datos.  Aquí encontrarás ejercicios de S' />
 </a>
-<a href='https://youtu.be/qJs-zjV82cE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qJs-zjV82cE/mqdefault.jpg' alt='TikTok no quiere migrar de Go a Rust por una razón' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/_GW05_yDT6Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_GW05_yDT6Y/mqdefault.jpg' alt='Robar información de navegador con IA' />
+</a>
 <a href='https://youtu.be/hvnvdQdW7zM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hvnvdQdW7zM/mqdefault.jpg' alt='Profesor de Bootcamp reacciona a mi video y le respondo' />
 </a>
 <a href='https://youtu.be/2Rxl5G-vbMU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2Rxl5G-vbMU/mqdefault.jpg' alt='El estado actual de la burbuja de la IA. La opinión de Uncle Bob.' />
-</a>
-<a href='https://youtu.be/ra6TsXRq2RQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ra6TsXRq2RQ/mqdefault.jpg' alt='LALIGA fue demasiado lejos...' />
 </a>
