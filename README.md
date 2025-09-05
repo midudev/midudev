@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/ETAVDV1mZTw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ETAVDV1mZTw/mqdefault.jpg' alt='La alcaldesa de Filipinas presume... y la internet se ríe' />
+</a>
 <a href='https://youtu.be/_GW05_yDT6Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_GW05_yDT6Y/mqdefault.jpg' alt='Así roban tu información en un navegador con IA' />
 </a>
 <a href='https://youtu.be/hvnvdQdW7zM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hvnvdQdW7zM/mqdefault.jpg' alt='Profesor de Bootcamp reacciona a mi video y le respondo' />
-</a>
-<a href='https://youtu.be/2Rxl5G-vbMU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2Rxl5G-vbMU/mqdefault.jpg' alt='El estado actual de la burbuja de la IA. La opinión de Uncle Bob.' />
 </a>
