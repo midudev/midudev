@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/hn9qFxnT98U' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/hn9qFxnT98U/mqdefault.jpg' alt='Desarrollo con Nano Banana de Google + React + Next.js' />
+</a>
 <a href='https://youtu.be/pQ4wDsuIBd0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pQ4wDsuIBd0/mqdefault.jpg' alt='Estoy enfadado... Oferta de Trabajo para Programadores interminable' />
 </a>
 <a href='https://youtu.be/4Glh9Y6CjOA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4Glh9Y6CjOA/mqdefault.jpg' alt='Mi stack favorito como programador en 2025' />
-</a>
-<a href='https://youtu.be/47M1UnYpMaY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/47M1UnYpMaY/mqdefault.jpg' alt='¿Necesitas un calendario en tu web o app? Este componente es justo lo que buscas 👇  ✓ Solo 9 KB ✓ 1' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
