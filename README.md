@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/pQ4wDsuIBd0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pQ4wDsuIBd0/mqdefault.jpg' alt='Estoy enfadado de estas ofertas de trabajo' />
+  <img width='30%' src='https://img.youtube.com/vi/pQ4wDsuIBd0/mqdefault.jpg' alt='Estoy enfadado...' />
 </a>
 <a href='https://youtu.be/4Glh9Y6CjOA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4Glh9Y6CjOA/mqdefault.jpg' alt='Mi stack favorito como programador en 2025' />
