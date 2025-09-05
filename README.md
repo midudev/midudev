@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/pQ4wDsuIBd0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pQ4wDsuIBd0/mqdefault.jpg' alt='Estoy enfadado...' />
+  <img width='30%' src='https://img.youtube.com/vi/pQ4wDsuIBd0/mqdefault.jpg' alt='Estoy enfadado... Oferta de Trabajo para Programadores interminable' />
 </a>
 <a href='https://youtu.be/4Glh9Y6CjOA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4Glh9Y6CjOA/mqdefault.jpg' alt='Mi stack favorito como programador en 2025' />
@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/_GW05_yDT6Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_GW05_yDT6Y/mqdefault.jpg' alt='Robar información de navegador con IA' />
+  <img width='30%' src='https://img.youtube.com/vi/_GW05_yDT6Y/mqdefault.jpg' alt='Así roban tu información en un navegador con IA' />
 </a>
 <a href='https://youtu.be/hvnvdQdW7zM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hvnvdQdW7zM/mqdefault.jpg' alt='Profesor de Bootcamp reacciona a mi video y le respondo' />
