@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/hn9qFxnT98U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hn9qFxnT98U/mqdefault.jpg' alt='Desarrollo con Nano Banana de Google + React + Next.js' />
+  <img width='30%' src='https://img.youtube.com/vi/hn9qFxnT98U/mqdefault.jpg' alt='Desarrollo de Chat IA con Nano Banana de Google + React + Next.js' />
 </a>
 <a href='https://youtu.be/pQ4wDsuIBd0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pQ4wDsuIBd0/mqdefault.jpg' alt='Estoy enfadado... Oferta de Trabajo para Programadores interminable' />
