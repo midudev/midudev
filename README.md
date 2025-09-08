@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/FMgw576dBek' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FMgw576dBek/mqdefault.jpg' alt='¡Cuidado con extensiones de Cursor! + Muere empleado de Microsoft + Vibe Coding ya crea trabajo...' />
+<a href='https://youtu.be/wX78EMyuIdE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wX78EMyuIdE/mqdefault.jpg' alt='¡Cuidado con extensiones de Cursor! + Muere empleado de Microsoft + Vibe Coding ya crea trabajo...' />
 </a>
 <a href='https://youtu.be/qZjHj_WO0f4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qZjHj_WO0f4/mqdefault.jpg' alt='¿El CSS Grid te hace sudar frío cada vez que intentas maquetar tu web? Este recurso es la clave para' />
