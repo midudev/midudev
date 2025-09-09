@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ANuWvZ7ed4o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ANuWvZ7ed4o/mqdefault.jpg' alt='Los editores de código están en peligro' />
+</a>
 <a href='https://youtu.be/wX78EMyuIdE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wX78EMyuIdE/mqdefault.jpg' alt='¡Cuidado con extensiones de Cursor! + Muere empleado de Microsoft + Vibe Coding ya crea trabajo...' />
 </a>
 <a href='https://youtu.be/qZjHj_WO0f4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qZjHj_WO0f4/mqdefault.jpg' alt='¿El CSS Grid te hace sudar frío cada vez que intentas maquetar tu web? Este recurso es la clave para' />
-</a>
-<a href='https://youtu.be/hn9qFxnT98U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hn9qFxnT98U/mqdefault.jpg' alt='Desarrollo de Chat IA con Nano Banana de Google + React + Next.js' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
