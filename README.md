@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/wX78EMyuIdE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wX78EMyuIdE/mqdefault.jpg' alt='Evento de Apple 🍎 Reaccionando en directo a las novedades. ¡Nuevos iPhone, Apple Watch y Airpods!' />
+</a>
+<a href='https://youtu.be/qyL6l0l584k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qyL6l0l584k/mqdefault.jpg' alt='¡Añade un efecto parallax a cualquier imagen de tu página! Muy fácil de usar y personalizable al det' />
+</a>
 <a href='https://youtu.be/ANuWvZ7ed4o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ANuWvZ7ed4o/mqdefault.jpg' alt='Los editores de código están en peligro' />
-</a>
-<a href='https://youtu.be/wX78EMyuIdE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wX78EMyuIdE/mqdefault.jpg' alt='¡Cuidado con extensiones de Cursor! + Muere empleado de Microsoft + Vibe Coding ya crea trabajo...' />
-</a>
-<a href='https://youtu.be/qZjHj_WO0f4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qZjHj_WO0f4/mqdefault.jpg' alt='¿El CSS Grid te hace sudar frío cada vez que intentas maquetar tu web? Este recurso es la clave para' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/icrjY8zq_AE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/icrjY8zq_AE/mqdefault.jpg' alt='La noticia que sacudió a Microsoft es salvaje' />
+</a>
 <a href='https://youtu.be/ETAVDV1mZTw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ETAVDV1mZTw/mqdefault.jpg' alt='La alcaldesa de Filipinas presume... y la internet se ríe' />
 </a>
 <a href='https://youtu.be/_GW05_yDT6Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_GW05_yDT6Y/mqdefault.jpg' alt='Así roban tu información en un navegador con IA' />
-</a>
-<a href='https://youtu.be/hvnvdQdW7zM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hvnvdQdW7zM/mqdefault.jpg' alt='Profesor de Bootcamp reacciona a mi video y le respondo' />
 </a>
