@@ -30,17 +30,17 @@
   <img width='30%' src='https://img.youtube.com/vi/qyL6l0l584k/mqdefault.jpg' alt='¡Añade un efecto parallax a cualquier imagen de tu página! Muy fácil de usar y personalizable al det' />
 </a>
 <a href='https://youtu.be/ANuWvZ7ed4o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ANuWvZ7ed4o/mqdefault.jpg' alt='Los editores de código están en peligro' />
+  <img width='30%' src='https://img.youtube.com/vi/ANuWvZ7ed4o/mqdefault.jpg' alt='Peligro con las extensiones de los editores de código' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
-<a href='https://youtu.be/icrjY8zq_AE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/icrjY8zq_AE/mqdefault.jpg' alt='Tragedia en oficinas de Microsoft' />
+<a href='https://youtu.be/WdXER1eZLGA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/WdXER1eZLGA/mqdefault.jpg' alt='IA en el navegador con Alba Silvente | #MIDUCONF2025' />
 </a>
-<a href='https://youtu.be/ETAVDV1mZTw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ETAVDV1mZTw/mqdefault.jpg' alt='La alcaldesa de Filipinas presume... y la internet se ríe' />
+<a href='https://youtu.be/ZXBRGjC7fn0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZXBRGjC7fn0/mqdefault.jpg' alt='Ciberseguridad y su rol en Cloudflare con Chema Alonso | #MIDUCONF2025' />
 </a>
-<a href='https://youtu.be/_GW05_yDT6Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_GW05_yDT6Y/mqdefault.jpg' alt='Así roban tu información en un navegador con IA' />
+<a href='https://youtu.be/e1PqYpfkk7o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/e1PqYpfkk7o/mqdefault.jpg' alt='Keynote: Cursos nuevos, Bootcamp Octubre y más | #MIDUCONF2025' />
 </a>
