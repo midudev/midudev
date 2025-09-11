@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
-<a href='https://youtu.be/WdXER1eZLGA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WdXER1eZLGA/mqdefault.jpg' alt='IA en el navegador con Alba Silvente | #MIDUCONF2025' />
+<a href='https://youtu.be/NldH5eojZPc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/NldH5eojZPc/mqdefault.jpg' alt='Programando tus MCPs - Gisela Torres | #MIDUCONF2025' />
 </a>
-<a href='https://youtu.be/ZXBRGjC7fn0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZXBRGjC7fn0/mqdefault.jpg' alt='Ciberseguridad y su rol en Cloudflare con Chema Alonso | #MIDUCONF2025' />
+<a href='https://youtu.be/cEhdna0r_h0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cEhdna0r_h0/mqdefault.jpg' alt='Inglés para Devs - Darwinglish | #MIDUCONF2025' />
 </a>
-<a href='https://youtu.be/e1PqYpfkk7o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/e1PqYpfkk7o/mqdefault.jpg' alt='Keynote: Cursos nuevos, Bootcamp Octubre y más | #MIDUCONF2025' />
+<a href='https://youtu.be/N-tXnT_UbbA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/N-tXnT_UbbA/mqdefault.jpg' alt='¿Qué nos espera en la IA? - dotCSV | #MIDUCONF2025' />
 </a>
