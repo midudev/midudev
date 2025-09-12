@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/zbZfYeRh014' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/zbZfYeRh014/mqdefault.jpg' alt='Curso y certificado de Python en Español sin coste de la Universidad de Stanford y los Andes' />
+</a>
 <a href='https://youtu.be/b4M7FYa3STU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/b4M7FYa3STU/mqdefault.jpg' alt='NPM sufrió un ataque' />
 </a>
 <a href='https://youtu.be/qyL6l0l584k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qyL6l0l584k/mqdefault.jpg' alt='¡Añade un efecto parallax a cualquier imagen de tu página! Muy fácil de usar y personalizable al det' />
 </a>
-<a href='https://youtu.be/ANuWvZ7ed4o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ANuWvZ7ed4o/mqdefault.jpg' alt='Peligro con las extensiones de los editores de código' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/GIHowv6yt84' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GIHowv6yt84/mqdefault.jpg' alt='Google se salvó' />
+</a>
 <a href='https://youtu.be/oGLLVdWJlX4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/oGLLVdWJlX4/mqdefault.jpg' alt='Charla con Theo | #MIDUCONF2025' />
 </a>
 <a href='https://youtu.be/NldH5eojZPc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NldH5eojZPc/mqdefault.jpg' alt='Programando tus MCPs - Gisela Torres | #MIDUCONF2025' />
-</a>
-<a href='https://youtu.be/cEhdna0r_h0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/cEhdna0r_h0/mqdefault.jpg' alt='Inglés para Devs - Darwinglish | #MIDUCONF2025' />
 </a>
