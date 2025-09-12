@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/oGLLVdWJlX4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/oGLLVdWJlX4/mqdefault.jpg' alt='Charla con Theo | #MIDUCONF2025' />
+</a>
 <a href='https://youtu.be/NldH5eojZPc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NldH5eojZPc/mqdefault.jpg' alt='Programando tus MCPs - Gisela Torres | #MIDUCONF2025' />
 </a>
 <a href='https://youtu.be/cEhdna0r_h0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/cEhdna0r_h0/mqdefault.jpg' alt='Inglés para Devs - Darwinglish | #MIDUCONF2025' />
-</a>
-<a href='https://youtu.be/N-tXnT_UbbA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/N-tXnT_UbbA/mqdefault.jpg' alt='¿Qué nos espera en la IA? - dotCSV | #MIDUCONF2025' />
 </a>
