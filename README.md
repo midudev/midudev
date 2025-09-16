@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/LSHwuBap1Vs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LSHwuBap1Vs/mqdefault.jpg' alt='Charla Dev: ¡Nuevo modelo de ChatGPT 5 para Devs! + Más ataques a npm + Pregunta lo que quieras' />
+</a>
+<a href='https://youtu.be/wG2B4IlLKRI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wG2B4IlLKRI/mqdefault.jpg' alt='Nuevo Framework de JavaScript ¿Mejor que React?' />
+</a>
 <a href='https://youtu.be/XjFj51rn3M8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XjFj51rn3M8/mqdefault.jpg' alt='¡Busco 2 Programadores/as Junior! Para la web del Calendario de Adviento de Ibai.  ✓ 1500€ netos / 2' />
-</a>
-<a href='https://youtu.be/zbZfYeRh014' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zbZfYeRh014/mqdefault.jpg' alt='Curso y certificado de Python en Español sin coste de la Universidad de Stanford y los Andes' />
-</a>
-<a href='https://youtu.be/b4M7FYa3STU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/b4M7FYa3STU/mqdefault.jpg' alt='NPM sufrió un ataque' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
