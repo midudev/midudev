@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/LSHwuBap1Vs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LSHwuBap1Vs/mqdefault.jpg' alt='Charla Dev: ¡Nuevo modelo de ChatGPT 5 para Devs! + Más ataques a npm + Pregunta lo que quieras' />
+<a href='https://youtu.be/c3s0ZEwpolI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/c3s0ZEwpolI/mqdefault.jpg' alt='Ataque masivo a paquetes npm y CrowdStrike + Solución' />
+</a>
+<a href='https://youtu.be/ZpMQ9fw7LgE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZpMQ9fw7LgE/mqdefault.jpg' alt='Charla Dev: ¡Nuevo modelo de ChatGPT 5 para Devs! + Más ataques a npm + Pregunta lo que quieras' />
 </a>
 <a href='https://youtu.be/wG2B4IlLKRI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wG2B4IlLKRI/mqdefault.jpg' alt='Nuevo Framework de JavaScript ¿Mejor que React?' />
-</a>
-<a href='https://youtu.be/XjFj51rn3M8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XjFj51rn3M8/mqdefault.jpg' alt='¡Busco 2 Programadores/as Junior! Para la web del Calendario de Adviento de Ibai.  ✓ 1500€ netos / 2' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
