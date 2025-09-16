@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/wBg3rmpDOxA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wBg3rmpDOxA/mqdefault.jpg' alt='Cuidado con Nvidia' />
+  <img width='30%' src='https://img.youtube.com/vi/wBg3rmpDOxA/mqdefault.jpg' alt='Cuidado con Nvidia, llega la competencia' />
 </a>
 <a href='https://youtu.be/GIHowv6yt84' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GIHowv6yt84/mqdefault.jpg' alt='Google se salvó' />
