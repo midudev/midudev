@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/8bss-oL4_cs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8bss-oL4_cs/mqdefault.jpg' alt='Una librería de JavaScript que te ahorra horas creando dashboards. Paneles que puedes arrastrar y re' />
+</a>
+<a href='https://youtu.be/Kin0xZP4WpI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Kin0xZP4WpI/mqdefault.jpg' alt='Probé Codex de OpenAI y es...' />
+</a>
 <a href='https://youtu.be/c3s0ZEwpolI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/c3s0ZEwpolI/mqdefault.jpg' alt='Ataque masivo a paquetes npm y CrowdStrike + Solución' />
-</a>
-<a href='https://youtu.be/ZpMQ9fw7LgE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZpMQ9fw7LgE/mqdefault.jpg' alt='Charla Dev: ¡Nuevo modelo de ChatGPT 5 para Devs! + Más ataques a npm + Pregunta lo que quieras' />
-</a>
-<a href='https://youtu.be/wG2B4IlLKRI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wG2B4IlLKRI/mqdefault.jpg' alt='Nuevo Framework de JavaScript ¿Mejor que React?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
