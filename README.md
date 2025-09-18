@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/84JlPblMINc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/84JlPblMINc/mqdefault.jpg' alt='La burbuja de la IA llegó demasiado lejos (Gracias, Jake Paul)' />
+</a>
 <a href='https://youtu.be/xM62ni5_Q34' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xM62ni5_Q34/mqdefault.jpg' alt='Sam Altman responde sobre la muerte del ex-empleado de OpenAI' />
 </a>
 <a href='https://youtu.be/wBg3rmpDOxA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wBg3rmpDOxA/mqdefault.jpg' alt='Cuidado con Nvidia, llega la competencia' />
-</a>
-<a href='https://youtu.be/GIHowv6yt84' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GIHowv6yt84/mqdefault.jpg' alt='Google se salvó' />
 </a>
