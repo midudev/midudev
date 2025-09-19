@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/2DtcAJfu2no' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/2DtcAJfu2no/mqdefault.jpg' alt='¿Quieres mejorar tu inglés y prepararte para obtener un certificado gratis?  FreeCodeCamp acaba de p' />
+</a>
 <a href='https://youtu.be/B_5KGzIoSVc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/B_5KGzIoSVc/mqdefault.jpg' alt='¿Sabías que con HTML puedes improvisar un editor de CSS directamente en cualquier página?  Solo nece' />
 </a>
 <a href='https://youtu.be/Nt1x_UeNMCo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Nt1x_UeNMCo/mqdefault.jpg' alt='iOS 26 hizo enojar a todos los desarrolladores web' />
-</a>
-<a href='https://youtu.be/8bss-oL4_cs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8bss-oL4_cs/mqdefault.jpg' alt='Una librería de JavaScript que te ahorra horas creando dashboards. Paneles que puedes arrastrar y re' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
