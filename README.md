@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/EfTpP3tH66Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/EfTpP3tH66Y/mqdefault.jpg' alt='¿Cómo afecta la Visa H1B a los programadores?' />
+</a>
 <a href='https://youtu.be/JH_vMdE2qIw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JH_vMdE2qIw/mqdefault.jpg' alt='Se confirma lo PEOR de ChatGPT: privacidad y control de edad' />
 </a>
 <a href='https://youtu.be/84JlPblMINc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/84JlPblMINc/mqdefault.jpg' alt='La burbuja de la IA llegó demasiado lejos (Gracias, Jake Paul)' />
-</a>
-<a href='https://youtu.be/xM62ni5_Q34' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xM62ni5_Q34/mqdefault.jpg' alt='Sam Altman responde sobre la muerte del ex-empleado de OpenAI' />
 </a>
