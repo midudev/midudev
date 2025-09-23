@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/W3KzXMhGBsM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/W3KzXMhGBsM/mqdefault.jpg' alt='¿Quieres aprender Bases de Datos SQL de forma práctica y desde cero?  SQLBolt es un recurso pensado' />
+</a>
 <a href='https://youtu.be/fS7ZmGU3q_Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/fS7ZmGU3q_Q/mqdefault.jpg' alt='¡Di adiós a los comentarios TODO de tu código! Visual Studio Code ha añadido una nueva funcionalidad' />
 </a>
 <a href='https://youtu.be/2DtcAJfu2no' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2DtcAJfu2no/mqdefault.jpg' alt='¿Quieres mejorar tu inglés y prepararte para obtener un certificado gratis?  FreeCodeCamp acaba de p' />
 </a>
-<a href='https://youtu.be/B_5KGzIoSVc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/B_5KGzIoSVc/mqdefault.jpg' alt='¿Sabías que con HTML puedes improvisar un editor de CSS directamente en cualquier página?  Solo nece' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/w-S3cqorQf4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/w-S3cqorQf4/mqdefault.jpg' alt='Lo de Nvidia es SALVAJE' />
+</a>
 <a href='https://youtu.be/varGSVqtZn4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/varGSVqtZn4/mqdefault.jpg' alt='Las presentaciones tech están sobrevaloradas' />
 </a>
 <a href='https://youtu.be/EfTpP3tH66Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/EfTpP3tH66Y/mqdefault.jpg' alt='¿Cómo afecta la Visa H1B a los programadores?' />
-</a>
-<a href='https://youtu.be/JH_vMdE2qIw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/JH_vMdE2qIw/mqdefault.jpg' alt='Se confirma lo PEOR de ChatGPT: privacidad y control de edad' />
 </a>
