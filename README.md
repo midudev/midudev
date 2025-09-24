@@ -42,5 +42,5 @@
   <img width='30%' src='https://img.youtube.com/vi/varGSVqtZn4/mqdefault.jpg' alt='Las presentaciones tech están sobrevaloradas' />
 </a>
 <a href='https://youtu.be/EfTpP3tH66Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/EfTpP3tH66Y/mqdefault.jpg' alt='¿Cómo afecta la Visa H1B a los programadores?' />
+  <img width='30%' src='https://img.youtube.com/vi/EfTpP3tH66Y/mqdefault.jpg' alt='El precio de vivir el sueño americano como programador' />
 </a>
