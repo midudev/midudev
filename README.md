@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/aXbxXG1_wTA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aXbxXG1_wTA/mqdefault.jpg' alt='Los devs arruinaron Borderlands 4' />
+  <img width='30%' src='https://img.youtube.com/vi/aXbxXG1_wTA/mqdefault.jpg' alt='Los programadores de Borderlands 4 arruinaron el juego' />
 </a>
 <a href='https://youtu.be/W3KzXMhGBsM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/W3KzXMhGBsM/mqdefault.jpg' alt='¿Quieres aprender Bases de Datos SQL de forma práctica y desde cero?  SQLBolt es un recurso pensado' />
