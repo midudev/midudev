@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/aXbxXG1_wTA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aXbxXG1_wTA/mqdefault.jpg' alt='Los programadores de Borderlands 4 arruinaron el juego' />
+  <img width='30%' src='https://img.youtube.com/vi/aXbxXG1_wTA/mqdefault.jpg' alt='El problema de la optimización en el software, el caso de Borderlands 4' />
 </a>
 <a href='https://youtu.be/W3KzXMhGBsM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/W3KzXMhGBsM/mqdefault.jpg' alt='¿Quieres aprender Bases de Datos SQL de forma práctica y desde cero?  SQLBolt es un recurso pensado' />
@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/YYza78KIDVs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YYza78KIDVs/mqdefault.jpg' alt='La gente se está volviendo loca con la IA de Google' />
+</a>
 <a href='https://youtu.be/w-S3cqorQf4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/w-S3cqorQf4/mqdefault.jpg' alt='Lo de Nvidia es SALVAJE' />
 </a>
 <a href='https://youtu.be/varGSVqtZn4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/varGSVqtZn4/mqdefault.jpg' alt='Las presentaciones tech están sobrevaloradas' />
-</a>
-<a href='https://youtu.be/EfTpP3tH66Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/EfTpP3tH66Y/mqdefault.jpg' alt='El precio de vivir el sueño americano como programador' />
 </a>
