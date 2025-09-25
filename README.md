@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/7w2wfTCEicc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7w2wfTCEicc/mqdefault.jpg' alt='¿HTML soporta modelos 3D?' />
+</a>
 <a href='https://youtu.be/aXbxXG1_wTA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/aXbxXG1_wTA/mqdefault.jpg' alt='El problema de la optimización en el software, el caso de Borderlands 4' />
 </a>
 <a href='https://youtu.be/W3KzXMhGBsM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/W3KzXMhGBsM/mqdefault.jpg' alt='¿Quieres aprender Bases de Datos SQL de forma práctica y desde cero?  SQLBolt es un recurso pensado' />
-</a>
-<a href='https://youtu.be/fS7ZmGU3q_Q' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fS7ZmGU3q_Q/mqdefault.jpg' alt='¡Di adiós a los comentarios TODO de tu código! Visual Studio Code ha añadido una nueva funcionalidad' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
