@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/vFRxTa98LaE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vFRxTa98LaE/mqdefault.jpg' alt='La burbuja de IA sostiene a USA, console.log es peligroso, Chrome MCP, GitHub Copilot CLI y salseos' />
+<a href='https://youtu.be/voKDFr72mfo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/voKDFr72mfo/mqdefault.jpg' alt='Probé la IA de GitHub Copilot en la terminal' />
+</a>
+<a href='https://youtu.be/i0d-ns0BHRc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/i0d-ns0BHRc/mqdefault.jpg' alt='La burbuja de IA sostiene a USA, console.log es peligroso, Chrome MCP, GitHub Copilot CLI y salseos' />
 </a>
 <a href='https://youtu.be/N1qIHKPXkUs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/N1qIHKPXkUs/mqdefault.jpg' alt='¡Microsoft ha lanzado un nuevo curso para aprender a crear Agentes de IA desde cero y en Español!  ✓' />
-</a>
-<a href='https://youtu.be/kn3mfe9NOy4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kn3mfe9NOy4/mqdefault.jpg' alt='Aprende Programación, Cloud y DevOps practicando con laboratorios gratuitos.  ✓ Pon en práctica Git' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
