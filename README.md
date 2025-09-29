@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/vFRxTa98LaE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/vFRxTa98LaE/mqdefault.jpg' alt='La burbuja de IA sostiene a USA, console.log es peligroso, Chrome MCP, GitHub Copilot CLI y salseos' />
+</a>
+<a href='https://youtu.be/N1qIHKPXkUs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/N1qIHKPXkUs/mqdefault.jpg' alt='¡Microsoft ha lanzado un nuevo curso para aprender a crear Agentes de IA desde cero y en Español!  ✓' />
+</a>
 <a href='https://youtu.be/kn3mfe9NOy4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kn3mfe9NOy4/mqdefault.jpg' alt='Aprende Programación, Cloud y DevOps practicando con laboratorios gratuitos.  ✓ Pon en práctica Git' />
-</a>
-<a href='https://youtu.be/7w2wfTCEicc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7w2wfTCEicc/mqdefault.jpg' alt='¿HTML soporta modelos 3D?' />
-</a>
-<a href='https://youtu.be/aXbxXG1_wTA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aXbxXG1_wTA/mqdefault.jpg' alt='El problema de la optimización en el software, el caso de Borderlands 4' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
