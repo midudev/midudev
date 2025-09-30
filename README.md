@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/voKDFr72mfo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/voKDFr72mfo/mqdefault.jpg' alt='Probé la IA de GitHub Copilot en la terminal' />
+  <img width='30%' src='https://img.youtube.com/vi/voKDFr72mfo/mqdefault.jpg' alt='Probé GitHub Copilot en la terminal' />
 </a>
 <a href='https://youtu.be/i0d-ns0BHRc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/i0d-ns0BHRc/mqdefault.jpg' alt='La burbuja de IA sostiene a USA, console.log es peligroso, Chrome MCP, GitHub Copilot CLI y salseos' />
