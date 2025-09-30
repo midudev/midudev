@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/RK0JHpa-JTY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/RK0JHpa-JTY/mqdefault.jpg' alt='Cómo controlar Chrome desde tu editor de código con Google MCP' />
+</a>
 <a href='https://youtu.be/Li2WrpzLdQc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Li2WrpzLdQc/mqdefault.jpg' alt='El 1 de octubre empiezo mi Bootcamp FullStack gratuito.  Aprenderemos desde HTML, JavaScript y React' />
 </a>
 <a href='https://youtu.be/-1R3qR8N7MQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-1R3qR8N7MQ/mqdefault.jpg' alt='Claude Sonnet 4.5 es...' />
 </a>
-<a href='https://youtu.be/voKDFr72mfo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/voKDFr72mfo/mqdefault.jpg' alt='Probé GitHub Copilot en la terminal' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/F5CaO54ZkpY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/F5CaO54ZkpY/mqdefault.jpg' alt='EA ha sido comprada por Arabia Saudí #gaming #programming #software #sports' />
+</a>
 <a href='https://youtu.be/YYza78KIDVs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YYza78KIDVs/mqdefault.jpg' alt='La gente se está volviendo loca con la IA de Google' />
 </a>
 <a href='https://youtu.be/w-S3cqorQf4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/w-S3cqorQf4/mqdefault.jpg' alt='Lo de Nvidia es SALVAJE' />
-</a>
-<a href='https://youtu.be/varGSVqtZn4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/varGSVqtZn4/mqdefault.jpg' alt='Las presentaciones tech están sobrevaloradas' />
 </a>
