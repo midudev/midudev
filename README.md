@@ -26,11 +26,11 @@
 <a href='https://youtu.be/hjnFUHM3JzU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hjnFUHM3JzU/mqdefault.jpg' alt='Bootcamp FullStack gratuito: JSCamp InfoJobs' />
 </a>
-<a href='https://youtu.be/RK0JHpa-JTY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RK0JHpa-JTY/mqdefault.jpg' alt='¡Google saca un MCP para controlar Chrome!' />
+<a href='https://youtu.be/FtKwz6VZGLI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/FtKwz6VZGLI/mqdefault.jpg' alt='¡Hoy empiezo el Bootcamp FullStack para todos! Contenido gratuito y nuevas clases los miércoles.  HT' />
 </a>
-<a href='https://youtu.be/Li2WrpzLdQc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Li2WrpzLdQc/mqdefault.jpg' alt='El 1 de octubre empiezo mi Bootcamp FullStack gratuito.  Aprenderemos desde HTML, JavaScript y React' />
+<a href='https://youtu.be/GvqZuVgRKWw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GvqZuVgRKWw/mqdefault.jpg' alt='Deja de utilizar console.log en tus aplicaciones web' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
