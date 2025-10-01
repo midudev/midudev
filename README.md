@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/RK0JHpa-JTY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RK0JHpa-JTY/mqdefault.jpg' alt='Cómo controlar Chrome desde tu editor de código con Google MCP' />
+  <img width='30%' src='https://img.youtube.com/vi/RK0JHpa-JTY/mqdefault.jpg' alt='¡Google saca un MCP para controlar Chrome!' />
 </a>
 <a href='https://youtu.be/Li2WrpzLdQc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Li2WrpzLdQc/mqdefault.jpg' alt='El 1 de octubre empiezo mi Bootcamp FullStack gratuito.  Aprenderemos desde HTML, JavaScript y React' />
