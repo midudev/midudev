@@ -30,7 +30,7 @@
   <img width='30%' src='https://img.youtube.com/vi/FtKwz6VZGLI/mqdefault.jpg' alt='¡Hoy empiezo el Bootcamp FullStack para todos! Contenido gratuito y nuevas clases los miércoles.  HT' />
 </a>
 <a href='https://youtu.be/GvqZuVgRKWw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GvqZuVgRKWw/mqdefault.jpg' alt='Deja de utilizar console.log en tus aplicaciones web' />
+  <img width='30%' src='https://img.youtube.com/vi/GvqZuVgRKWw/mqdefault.jpg' alt='Deja de utilizar console.log en tus aplicaciones web así' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
