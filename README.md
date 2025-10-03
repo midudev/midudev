@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Zs5eSppKZzM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Zs5eSppKZzM/mqdefault.jpg' alt='NVIDIA ha publicado 5 cursos gratuitos para que te pongas al día con la IA sin coste.  Son directos,' />
+</a>
+<a href='https://youtu.be/vEmd7y55K_M' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/vEmd7y55K_M/mqdefault.jpg' alt='Auth.js está en problemas' />
+</a>
 <a href='https://youtu.be/VhPH6phW8Nw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VhPH6phW8Nw/mqdefault.jpg' alt='Australia prohíbe Github para menores' />
-</a>
-<a href='https://youtu.be/FtKwz6VZGLI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FtKwz6VZGLI/mqdefault.jpg' alt='¡Hoy empiezo el Bootcamp FullStack para todos! Contenido gratuito y nuevas clases los miércoles.  HT' />
-</a>
-<a href='https://youtu.be/GvqZuVgRKWw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GvqZuVgRKWw/mqdefault.jpg' alt='Deja de utilizar console.log en tus aplicaciones web así' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
