@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/hc9kosCzN38' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/hc9kosCzN38/mqdefault.jpg' alt='Este repositorio es oro puro y está en Español ¡Las mejores prácticas para programar en Node.js!' />
+</a>
 <a href='https://youtu.be/Zs5eSppKZzM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Zs5eSppKZzM/mqdefault.jpg' alt='NVIDIA ha publicado 5 cursos gratuitos para que te pongas al día con la IA sin coste.  Son directos,' />
 </a>
 <a href='https://youtu.be/vEmd7y55K_M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vEmd7y55K_M/mqdefault.jpg' alt='Auth.js está en problemas' />
-</a>
-<a href='https://youtu.be/VhPH6phW8Nw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VhPH6phW8Nw/mqdefault.jpg' alt='Australia prohíbe Github para menores' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
