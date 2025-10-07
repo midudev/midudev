@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/whGtLc4wvzo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/whGtLc4wvzo/mqdefault.jpg' alt='Desarrollo web de BigIbai, un proyecto de Ibai, de código abierto y paso a paso' />
+</a>
+<a href='https://youtu.be/_RNidfcmW7w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_RNidfcmW7w/mqdefault.jpg' alt='¡Bombazo de OpenAI! Han lanzado Apps SDK. Para crear tus propias aplicaciones dentro de ChatGPT.  ✓' />
+</a>
 <a href='https://youtu.be/sQwxGG7IjKs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/sQwxGG7IjKs/mqdefault.jpg' alt='Spoiler: nunca abarcarás todo lo nuevo en programación. Y no pasa nada.  Al principio toca estudiar' />
-</a>
-<a href='https://youtu.be/hc9kosCzN38' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hc9kosCzN38/mqdefault.jpg' alt='Este repositorio es oro puro y está en Español ¡Las mejores prácticas para programar en Node.js!' />
-</a>
-<a href='https://youtu.be/Zs5eSppKZzM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Zs5eSppKZzM/mqdefault.jpg' alt='NVIDIA ha publicado 5 cursos gratuitos para que te pongas al día con la IA sin coste.  Son directos,' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/HnRIFacGgds' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/HnRIFacGgds/mqdefault.jpg' alt='Lo de AMD es SALVAJE (lo siento, NVIDIA)' />
+</a>
 <a href='https://youtu.be/ZtXan4esGtc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZtXan4esGtc/mqdefault.jpg' alt='Hablemos del post en X de Guillermo Rauch' />
 </a>
 <a href='https://youtu.be/3WOmfQi_kj8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3WOmfQi_kj8/mqdefault.jpg' alt='¿Qué paso con Deepseek?' />
-</a>
-<a href='https://youtu.be/kIDRLSX0DBg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kIDRLSX0DBg/mqdefault.jpg' alt='Un día trabajando en la mejor empresa Scopely' />
 </a>
