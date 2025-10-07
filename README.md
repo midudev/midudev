@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/ZtXan4esGtc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZtXan4esGtc/mqdefault.jpg' alt='Hablemos del post en X de Guillermo Rauch' />
+</a>
 <a href='https://youtu.be/3WOmfQi_kj8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3WOmfQi_kj8/mqdefault.jpg' alt='¿Qué paso con Deepseek?' />
 </a>
 <a href='https://youtu.be/kIDRLSX0DBg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kIDRLSX0DBg/mqdefault.jpg' alt='Un día trabajando en la mejor empresa Scopely' />
-</a>
-<a href='https://youtu.be/F5CaO54ZkpY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/F5CaO54ZkpY/mqdefault.jpg' alt='EA ha sido comprada por Arabia Saudí #gaming #programming #software #sports' />
 </a>
