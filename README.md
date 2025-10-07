@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/whGtLc4wvzo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/whGtLc4wvzo/mqdefault.jpg' alt='Desarrollo web de BigIbai, un proyecto de Ibai, de código abierto y paso a paso' />
+<a href='https://youtu.be/5DEDxkoZllM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5DEDxkoZllM/mqdefault.jpg' alt='React 19.2 es...' />
 </a>
 <a href='https://youtu.be/_RNidfcmW7w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_RNidfcmW7w/mqdefault.jpg' alt='¡Bombazo de OpenAI! Han lanzado Apps SDK. Para crear tus propias aplicaciones dentro de ChatGPT.  ✓' />
