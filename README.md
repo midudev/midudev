@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/plmtqYjF3u8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/plmtqYjF3u8/mqdefault.jpg' alt='Bootcamp FullStack gratuito: JSCamp InfoJobs en directo' />
+<a href='https://youtu.be/XpZ_VpYjkfE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/XpZ_VpYjkfE/mqdefault.jpg' alt='Node.js está de regreso' />
 </a>
 <a href='https://youtu.be/W_sjQ-xXYJM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/W_sjQ-xXYJM/mqdefault.jpg' alt='Ideas de proyectos para Backend y para Frontend. ¡De principiante, intermedio y avanzado!  Para que' />
