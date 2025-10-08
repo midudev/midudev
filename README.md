@@ -26,11 +26,11 @@
 <a href='https://youtu.be/plmtqYjF3u8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/plmtqYjF3u8/mqdefault.jpg' alt='Bootcamp FullStack gratuito: JSCamp InfoJobs en directo' />
 </a>
-<a href='https://youtu.be/5DEDxkoZllM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5DEDxkoZllM/mqdefault.jpg' alt='React 19.2 es...' />
+<a href='https://youtu.be/W_sjQ-xXYJM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/W_sjQ-xXYJM/mqdefault.jpg' alt='Ideas de proyectos para Backend y para Frontend. ¡De principiante, intermedio y avanzado!  Para que' />
 </a>
-<a href='https://youtu.be/_RNidfcmW7w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_RNidfcmW7w/mqdefault.jpg' alt='¡Bombazo de OpenAI! Han lanzado Apps SDK. Para crear tus propias aplicaciones dentro de ChatGPT.  ✓' />
+<a href='https://youtu.be/GGuvEH16rXU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GGuvEH16rXU/mqdefault.jpg' alt='Desarrollando Sitio web OFICIAL de BIG IBAI 2025 DESDE CERO con Astro, TypeScript, Supabase' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
