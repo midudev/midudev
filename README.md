@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/plmtqYjF3u8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/plmtqYjF3u8/mqdefault.jpg' alt='Bootcamp FullStack gratuito: JSCamp InfoJobs en directo' />
+</a>
 <a href='https://youtu.be/5DEDxkoZllM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5DEDxkoZllM/mqdefault.jpg' alt='React 19.2 es...' />
 </a>
 <a href='https://youtu.be/_RNidfcmW7w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_RNidfcmW7w/mqdefault.jpg' alt='¡Bombazo de OpenAI! Han lanzado Apps SDK. Para crear tus propias aplicaciones dentro de ChatGPT.  ✓' />
-</a>
-<a href='https://youtu.be/sQwxGG7IjKs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/sQwxGG7IjKs/mqdefault.jpg' alt='Spoiler: nunca abarcarás todo lo nuevo en programación. Y no pasa nada.  Al principio toca estudiar' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
