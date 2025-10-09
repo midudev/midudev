@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/cf13U-_xQ3M' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cf13U-_xQ3M/mqdefault.jpg' alt='Fundadores del Internet vs LALIGA' />
+</a>
 <a href='https://youtu.be/HnRIFacGgds' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HnRIFacGgds/mqdefault.jpg' alt='Lo de AMD es SALVAJE (lo siento, NVIDIA)' />
 </a>
 <a href='https://youtu.be/ZtXan4esGtc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZtXan4esGtc/mqdefault.jpg' alt='Hablemos del post en X de Guillermo Rauch' />
-</a>
-<a href='https://youtu.be/3WOmfQi_kj8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/3WOmfQi_kj8/mqdefault.jpg' alt='¿Qué paso con Deepseek?' />
 </a>
