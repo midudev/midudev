@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Sg6l7ZUnP28' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Sg6l7ZUnP28/mqdefault.jpg' alt='¡Novedad importante en CSS! POR FIN lo podremos hacer sin JavaScript ni hacks raros.  Por defecto, s' />
+</a>
 <a href='https://youtu.be/InYt61E0LBU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/InYt61E0LBU/mqdefault.jpg' alt='¡Aprende Git en esta página interactiva! En Español y gratuita.' />
 </a>
 <a href='https://youtu.be/n1LzTu2-rr0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/n1LzTu2-rr0/mqdefault.jpg' alt='Desarrollo mi propio Google Translate con HTML, CSS y JS con IA del navegador (sin pagos)' />
-</a>
-<a href='https://youtu.be/XpZ_VpYjkfE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XpZ_VpYjkfE/mqdefault.jpg' alt='Node.js está de regreso' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
