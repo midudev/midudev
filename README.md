@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/03yfRBGhaE8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/03yfRBGhaE8/mqdefault.jpg' alt='Caída del Vibe Coding + ¿Vite de pago? + React deja de ser de Meta + Descalabro Crypto' />
-</a>
 <a href='https://youtu.be/yThqvQ23cTw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yThqvQ23cTw/mqdefault.jpg' alt='¡La mejor alternativa a Postman en Español! Apidog es la herramienta definitiva para trabajar con AP' />
 </a>
 <a href='https://youtu.be/Sg6l7ZUnP28' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Sg6l7ZUnP28/mqdefault.jpg' alt='¡Novedad importante en CSS! POR FIN lo podremos hacer sin JavaScript ni hacks raros.  Por defecto, s' />
 </a>
+<a href='https://youtu.be/InYt61E0LBU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/InYt61E0LBU/mqdefault.jpg' alt='¡Aprende Git en esta página interactiva! En Español y gratuita.' />
+</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/AbvNf1qrihU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AbvNf1qrihU/mqdefault.jpg' alt='Lo de las Criptomonedas es...' />
+</a>
 <a href='https://youtu.be/cf13U-_xQ3M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/cf13U-_xQ3M/mqdefault.jpg' alt='INTERNET vs LALIGA' />
 </a>
 <a href='https://youtu.be/HnRIFacGgds' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HnRIFacGgds/mqdefault.jpg' alt='Lo de AMD es SALVAJE (lo siento, NVIDIA)' />
-</a>
-<a href='https://youtu.be/ZtXan4esGtc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZtXan4esGtc/mqdefault.jpg' alt='Hablemos del post en X de Guillermo Rauch' />
 </a>
