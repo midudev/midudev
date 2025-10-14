@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/kgC5jpLpqmg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/kgC5jpLpqmg/mqdefault.jpg' alt='Se confirma lo MEJOR de React (Lo siento, Facebook)' />
+</a>
 <a href='https://youtu.be/yThqvQ23cTw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yThqvQ23cTw/mqdefault.jpg' alt='¡La mejor alternativa a Postman en Español! Apidog es la herramienta definitiva para trabajar con AP' />
 </a>
 <a href='https://youtu.be/Sg6l7ZUnP28' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Sg6l7ZUnP28/mqdefault.jpg' alt='¡Novedad importante en CSS! POR FIN lo podremos hacer sin JavaScript ni hacks raros.  Por defecto, s' />
-</a>
-<a href='https://youtu.be/InYt61E0LBU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/InYt61E0LBU/mqdefault.jpg' alt='¡Aprende Git en esta página interactiva! En Español y gratuita.' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
