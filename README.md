@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/G4oYpksdc_4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/G4oYpksdc_4/mqdefault.jpg' alt='Bootcamp FullStack gratuito: JSCamp InfoJobs en directo' />
+</a>
 <a href='https://youtu.be/rgFAQwEnrI8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/rgFAQwEnrI8/mqdefault.jpg' alt='¿Se desinfla el Vibe Coding?' />
 </a>
 <a href='https://youtu.be/kgC5jpLpqmg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kgC5jpLpqmg/mqdefault.jpg' alt='Se confirma lo MEJOR de React (Lo siento, Facebook)' />
-</a>
-<a href='https://youtu.be/yThqvQ23cTw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/yThqvQ23cTw/mqdefault.jpg' alt='¡La mejor alternativa a Postman en Español! Apidog es la herramienta definitiva para trabajar con AP' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
