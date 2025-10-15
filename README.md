@@ -26,11 +26,11 @@
 <a href='https://youtu.be/G4oYpksdc_4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/G4oYpksdc_4/mqdefault.jpg' alt='Bootcamp FullStack gratuito: JSCamp InfoJobs en directo' />
 </a>
-<a href='https://youtu.be/rgFAQwEnrI8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rgFAQwEnrI8/mqdefault.jpg' alt='¿Se desinfla el Vibe Coding?' />
+<a href='https://youtu.be/NHWBBpDA9mU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/NHWBBpDA9mU/mqdefault.jpg' alt='Esto va en contra del Open Source' />
 </a>
-<a href='https://youtu.be/kgC5jpLpqmg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kgC5jpLpqmg/mqdefault.jpg' alt='Se confirma lo MEJOR de React (Lo siento, Facebook)' />
+<a href='https://youtu.be/NLW9gKFH0SI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/NLW9gKFH0SI/mqdefault.jpg' alt='¡TOP extensiones de Visual Studio Code para Programadores Web!  • Error Lens: Resalta los errores di' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
