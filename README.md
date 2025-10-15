@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/rgFAQwEnrI8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rgFAQwEnrI8/mqdefault.jpg' alt='El FIN del Vibe coding ¿Ganamos?' />
+  <img width='30%' src='https://img.youtube.com/vi/rgFAQwEnrI8/mqdefault.jpg' alt='¿Se desinfla el Vibe Coding?' />
 </a>
 <a href='https://youtu.be/kgC5jpLpqmg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kgC5jpLpqmg/mqdefault.jpg' alt='Se confirma lo MEJOR de React (Lo siento, Facebook)' />
