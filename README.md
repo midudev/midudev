@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/G4oYpksdc_4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/G4oYpksdc_4/mqdefault.jpg' alt='Bootcamp FullStack gratuito: JSCamp InfoJobs en directo' />
+<a href='https://youtu.be/pdbpSxXQGNM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pdbpSxXQGNM/mqdefault.jpg' alt='Vite es de pago...' />
 </a>
 <a href='https://youtu.be/NHWBBpDA9mU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NHWBBpDA9mU/mqdefault.jpg' alt='Esto va en contra del Open Source' />
