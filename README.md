@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/QueTAG4VAjI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QueTAG4VAjI/mqdefault.jpg' alt='¡Por fin vas a dejar de liarte con las Media Queries en CSS!  Llega una nueva sintaxis mucho más sen' />
+</a>
 <a href='https://youtu.be/3ZVhk82UDCg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3ZVhk82UDCg/mqdefault.jpg' alt='¡Estudia en Harvard programación con Python e Inteligencia Artificial! No tienes que pagar y tiene s' />
 </a>
 <a href='https://youtu.be/k-w98AvW6-8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/k-w98AvW6-8/mqdefault.jpg' alt='¡Acelera el desarrollo y diseño de tus sitios web con esta herramienta!  Te permite visualizar tu pá' />
-</a>
-<a href='https://youtu.be/pdbpSxXQGNM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pdbpSxXQGNM/mqdefault.jpg' alt='Vite tendrá pago' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
