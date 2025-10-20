@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/_2CoqX5gQ-E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_2CoqX5gQ-E/mqdefault.jpg' alt='AWS caída mundial + buena noticia de Firefox + Windows rompe localhost + Apple lanza nuevo MacBook' />
+<a href='https://youtu.be/f-OCBhuc5Jk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/f-OCBhuc5Jk/mqdefault.jpg' alt='Se confirma lo mejor para Firefox' />
+</a>
+<a href='https://youtu.be/ZdDfeodpqKM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZdDfeodpqKM/mqdefault.jpg' alt='AWS caída mundial + buena noticia de Firefox + Windows rompe localhost + Apple lanza nuevo MacBook' />
 </a>
 <a href='https://youtu.be/15lrnRLZrrQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/15lrnRLZrrQ/mqdefault.jpg' alt='¡No sufras maquetando emails nunca más! Deja de usar tablas gracias a React Email.  Un catálogo de c' />
-</a>
-<a href='https://youtu.be/QueTAG4VAjI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QueTAG4VAjI/mqdefault.jpg' alt='¡Por fin vas a dejar de liarte con las Media Queries en CSS!  Llega una nueva sintaxis mucho más sen' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
