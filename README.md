@@ -26,21 +26,21 @@
 <a href='https://youtu.be/iu0w9oTuOVM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iu0w9oTuOVM/mqdefault.jpg' alt='Bootcamp FullStack gratuito: JSCamp InfoJobs en directo' />
 </a>
+<a href='https://youtu.be/Y9dQtngAjUw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Y9dQtngAjUw/mqdefault.jpg' alt='OpenAI acaba de lanzar ChatGPT Atlas, su propio navegador web.  Y no, no es “otro Chrome más”. Atlas' />
+</a>
 <a href='https://youtu.be/f-OCBhuc5Jk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/f-OCBhuc5Jk/mqdefault.jpg' alt='Se confirma lo mejor para Firefox' />
-</a>
-<a href='https://youtu.be/ZdDfeodpqKM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZdDfeodpqKM/mqdefault.jpg' alt='AWS caída mundial + buena noticia de Firefox + Windows rompe localhost + Apple lanza nuevo MacBook' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/hCmhNuQAXbU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/hCmhNuQAXbU/mqdefault.jpg' alt='Windows 11 deja sin localhost a millones de devs' />
+</a>
 <a href='https://youtu.be/e053hIrlEns' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/e053hIrlEns/mqdefault.jpg' alt='Apple no pone el cargador en Europa. ¿Por qué?' />
 </a>
 <a href='https://youtu.be/GOlXRG1uMRI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GOlXRG1uMRI/mqdefault.jpg' alt='La caída de Amazon Web Services es SALVAJE' />
-</a>
-<a href='https://youtu.be/AbvNf1qrihU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AbvNf1qrihU/mqdefault.jpg' alt='Lo de las Criptomonedas es...' />
 </a>
