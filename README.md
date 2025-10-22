@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/e053hIrlEns' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/e053hIrlEns/mqdefault.jpg' alt='Apple lo hace otra vez' />
+  <img width='30%' src='https://img.youtube.com/vi/e053hIrlEns/mqdefault.jpg' alt='Apple no pone el cargador en Europa. ¿Por qué?' />
 </a>
 <a href='https://youtu.be/GOlXRG1uMRI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GOlXRG1uMRI/mqdefault.jpg' alt='La caída de Amazon Web Services es SALVAJE' />
