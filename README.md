@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/6WNqXxsQxjQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6WNqXxsQxjQ/mqdefault.jpg' alt='El mercado de la IA es...' />
+</a>
 <a href='https://youtu.be/1fHauxkdXVc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1fHauxkdXVc/mqdefault.jpg' alt='La verdad sobre la AGI' />
 </a>
 <a href='https://youtu.be/hCmhNuQAXbU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hCmhNuQAXbU/mqdefault.jpg' alt='Windows 11 deja sin localhost a millones de devs' />
-</a>
-<a href='https://youtu.be/e053hIrlEns' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/e053hIrlEns/mqdefault.jpg' alt='Polémica porque Apple no pondrá más el cargador' />
 </a>
