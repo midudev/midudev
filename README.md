@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/iu0w9oTuOVM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/iu0w9oTuOVM/mqdefault.jpg' alt='Bootcamp FullStack gratuito: JSCamp InfoJobs en directo' />
-</a>
 <a href='https://youtu.be/Y9dQtngAjUw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Y9dQtngAjUw/mqdefault.jpg' alt='OpenAI acaba de lanzar ChatGPT Atlas, su propio navegador web.  Y no, no es “otro Chrome más”. Atlas' />
 </a>
 <a href='https://youtu.be/f-OCBhuc5Jk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/f-OCBhuc5Jk/mqdefault.jpg' alt='Se confirma lo mejor para Firefox' />
+</a>
+<a href='https://youtu.be/ZdDfeodpqKM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZdDfeodpqKM/mqdefault.jpg' alt='AWS caída mundial + buena noticia de Firefox + Windows rompe localhost + Apple lanza nuevo MacBook' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
