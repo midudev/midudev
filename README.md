@@ -42,5 +42,5 @@
   <img width='30%' src='https://img.youtube.com/vi/hCmhNuQAXbU/mqdefault.jpg' alt='Windows 11 deja sin localhost a millones de devs' />
 </a>
 <a href='https://youtu.be/e053hIrlEns' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/e053hIrlEns/mqdefault.jpg' alt='Apple no pone el cargador en Europa. ¿Por qué?' />
+  <img width='30%' src='https://img.youtube.com/vi/e053hIrlEns/mqdefault.jpg' alt='Polémica porque Apple no pondrá más el cargador' />
 </a>
