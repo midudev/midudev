@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/D3xVMZmLw1c' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/D3xVMZmLw1c/mqdefault.jpg' alt='La discriminación laboral es...' />
+</a>
 <a href='https://youtu.be/Y0Q6p7g7RSw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Y0Q6p7g7RSw/mqdefault.jpg' alt='Probé el navegador Comet AI de Perplexity' />
 </a>
 <a href='https://youtu.be/6WNqXxsQxjQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6WNqXxsQxjQ/mqdefault.jpg' alt='El mercado de la IA es...' />
-</a>
-<a href='https://youtu.be/1fHauxkdXVc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/1fHauxkdXVc/mqdefault.jpg' alt='La verdad sobre la AGI' />
 </a>
