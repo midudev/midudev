@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/tMSlAzZWOCk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/tMSlAzZWOCk/mqdefault.jpg' alt='Si eres programador seguro que te ha pasado.  Ves código de hace tiempo y dices: "¿Cómo pude hacer e' />
+</a>
 <a href='https://youtu.be/YK4aXQeKjNs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YK4aXQeKjNs/mqdefault.jpg' alt='Las directivas de React son...' />
+  <img width='30%' src='https://img.youtube.com/vi/YK4aXQeKjNs/mqdefault.jpg' alt='No me gusta ésto' />
 </a>
 <a href='https://youtu.be/MNXuG23HH_w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MNXuG23HH_w/mqdefault.jpg' alt='Crea un servidor con IA en minutos con este mini PC' />
 </a>
-<a href='https://youtu.be/Rz2aG7vn2DE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Rz2aG7vn2DE/mqdefault.jpg' alt='¡Brutal herramienta para revisar el rendimiento web! Escanea toda tu página y puntúa cada una de ell' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/hrzcF75Q7lE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/hrzcF75Q7lE/mqdefault.jpg' alt='El navegador Atlas de OpenAI no es seguro' />
+</a>
 <a href='https://youtu.be/D3xVMZmLw1c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/D3xVMZmLw1c/mqdefault.jpg' alt='La discriminación laboral es...' />
 </a>
 <a href='https://youtu.be/Y0Q6p7g7RSw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Y0Q6p7g7RSw/mqdefault.jpg' alt='Probé el navegador Comet AI de Perplexity' />
-</a>
-<a href='https://youtu.be/6WNqXxsQxjQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6WNqXxsQxjQ/mqdefault.jpg' alt='El mercado de la IA es...' />
 </a>
