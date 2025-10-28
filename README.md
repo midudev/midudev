@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/YK4aXQeKjNs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YK4aXQeKjNs/mqdefault.jpg' alt='Las directivas de React son...' />
+</a>
 <a href='https://youtu.be/MNXuG23HH_w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MNXuG23HH_w/mqdefault.jpg' alt='Crea un servidor con IA en minutos con este mini PC' />
 </a>
 <a href='https://youtu.be/Rz2aG7vn2DE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Rz2aG7vn2DE/mqdefault.jpg' alt='¡Brutal herramienta para revisar el rendimiento web! Escanea toda tu página y puntúa cada una de ell' />
-</a>
-<a href='https://youtu.be/yNy0of8qxSY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/yNy0of8qxSY/mqdefault.jpg' alt='¡Brutal herramienta para ver tus bases de datos SQL!  ✓ Diagrama interactivo con tus tablas ✓ Descar' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
