@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/MNXuG23HH_w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MNXuG23HH_w/mqdefault.jpg' alt='El mejor Mini PC para ejecutar modelos de IA Open Source | Geekom A6' />
+  <img width='30%' src='https://img.youtube.com/vi/MNXuG23HH_w/mqdefault.jpg' alt='Crea un servidor con IA en minutos con este mini PC' />
 </a>
 <a href='https://youtu.be/Rz2aG7vn2DE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Rz2aG7vn2DE/mqdefault.jpg' alt='¡Brutal herramienta para revisar el rendimiento web! Escanea toda tu página y puntúa cada una de ell' />
