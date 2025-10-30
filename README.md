@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/yURS869_o7E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/yURS869_o7E/mqdefault.jpg' alt='¿Es un peligro la IA para los pueblos y ciudades?' />
+</a>
 <a href='https://youtu.be/mBOlMtABtZU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mBOlMtABtZU/mqdefault.jpg' alt='Google lo consiguió' />
 </a>
 <a href='https://youtu.be/9Ve-SAo4-ss' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9Ve-SAo4-ss/mqdefault.jpg' alt='Si utilizas Microsoft Teams estás acabado' />
-</a>
-<a href='https://youtu.be/hrzcF75Q7lE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hrzcF75Q7lE/mqdefault.jpg' alt='El navegador Atlas de OpenAI no es seguro' />
 </a>
