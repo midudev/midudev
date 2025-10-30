@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/mBOlMtABtZU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mBOlMtABtZU/mqdefault.jpg' alt='La COMPUTADORA CUÁNTICA ya es REAL' />
+  <img width='30%' src='https://img.youtube.com/vi/mBOlMtABtZU/mqdefault.jpg' alt='Google lo consiguió' />
 </a>
 <a href='https://youtu.be/9Ve-SAo4-ss' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9Ve-SAo4-ss/mqdefault.jpg' alt='Si utilizas Microsoft Teams estás acabado' />
