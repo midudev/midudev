@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/_kDp8ATr3xQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_kDp8ATr3xQ/mqdefault.jpg' alt='Microsoft acaba de lanzar "MCP para principiantes". Diseñado para desarrolladores y desde cero.  ✓ D' />
+</a>
 <a href='https://youtu.be/h4W7Q6EnLzQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/h4W7Q6EnLzQ/mqdefault.jpg' alt='¡Brutal TRUCAZO para tus repositorios de GitHub! Accede a una documentación con diagramas y IA.  Cam' />
 </a>
 <a href='https://youtu.be/O1Ipl2ge-PQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/O1Ipl2ge-PQ/mqdefault.jpg' alt='¿Adiós JSON? El formato que podría reemplazarlo en la era de la IA + Cursor 2.0 anunciado' />
-</a>
-<a href='https://youtu.be/jgGspGeQ53I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jgGspGeQ53I/mqdefault.jpg' alt='Mejora tu lógica de programación' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
