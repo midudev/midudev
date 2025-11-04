@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/HrRTdt76qqQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/HrRTdt76qqQ/mqdefault.jpg' alt='BRUTAL recurso para crear Bases de Datos SQL  ✓ Crea tablas y datos con IA ✓ Dibuja los diagramas y' />
+</a>
 <a href='https://youtu.be/_kDp8ATr3xQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_kDp8ATr3xQ/mqdefault.jpg' alt='Microsoft acaba de lanzar "MCP para principiantes". Diseñado para desarrolladores y desde cero.  ✓ D' />
 </a>
 <a href='https://youtu.be/h4W7Q6EnLzQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/h4W7Q6EnLzQ/mqdefault.jpg' alt='¡Brutal TRUCAZO para tus repositorios de GitHub! Accede a una documentación con diagramas y IA.  Cam' />
 </a>
-<a href='https://youtu.be/O1Ipl2ge-PQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/O1Ipl2ge-PQ/mqdefault.jpg' alt='¿Adiós JSON? El formato que podría reemplazarlo en la era de la IA + Cursor 2.0 anunciado' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/lY2CSw5aVNU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lY2CSw5aVNU/mqdefault.jpg' alt='Una IA de Google está siendo cancelada. ¿Por qué?' />
+</a>
 <a href='https://youtu.be/2u75EcgZS7c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2u75EcgZS7c/mqdefault.jpg' alt='Lo siento... Microsoft. OpenAI se va con otro.' />
 </a>
 <a href='https://youtu.be/yURS869_o7E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yURS869_o7E/mqdefault.jpg' alt='¿Es un peligro la IA para los pueblos y ciudades?' />
-</a>
-<a href='https://youtu.be/mBOlMtABtZU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mBOlMtABtZU/mqdefault.jpg' alt='Google lo consiguió' />
 </a>
