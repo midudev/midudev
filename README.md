@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/0tGfnkf69SI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0tGfnkf69SI/mqdefault.jpg' alt='¿Next.js 16 es lento?' />
+</a>
 <a href='https://youtu.be/HrRTdt76qqQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HrRTdt76qqQ/mqdefault.jpg' alt='BRUTAL recurso para crear Bases de Datos SQL  ✓ Crea tablas y datos con IA ✓ Dibuja los diagramas y' />
 </a>
 <a href='https://youtu.be/_kDp8ATr3xQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_kDp8ATr3xQ/mqdefault.jpg' alt='Microsoft acaba de lanzar "MCP para principiantes". Diseñado para desarrolladores y desde cero.  ✓ D' />
-</a>
-<a href='https://youtu.be/h4W7Q6EnLzQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/h4W7Q6EnLzQ/mqdefault.jpg' alt='¡Brutal TRUCAZO para tus repositorios de GitHub! Accede a una documentación con diagramas y IA.  Cam' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
