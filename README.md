@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/9N0_d4snBho' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9N0_d4snBho/mqdefault.jpg' alt='¡Se ha filtrado el código fuente del frontend de la App Store de Apple!  ¿El motivo? Olvidaron desac' />
+</a>
 <a href='https://youtu.be/0tGfnkf69SI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0tGfnkf69SI/mqdefault.jpg' alt='Polémico truco para que tu página vuele con Next.js' />
 </a>
 <a href='https://youtu.be/HrRTdt76qqQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HrRTdt76qqQ/mqdefault.jpg' alt='BRUTAL recurso para crear Bases de Datos SQL  ✓ Crea tablas y datos con IA ✓ Dibuja los diagramas y' />
 </a>
-<a href='https://youtu.be/_kDp8ATr3xQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_kDp8ATr3xQ/mqdefault.jpg' alt='Microsoft acaba de lanzar "MCP para principiantes". Diseñado para desarrolladores y desde cero.  ✓ D' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/HMzqtKNtEbI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/HMzqtKNtEbI/mqdefault.jpg' alt='Lo de NVIDIA es salvaje' />
+</a>
 <a href='https://youtu.be/lY2CSw5aVNU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lY2CSw5aVNU/mqdefault.jpg' alt='Una IA de Google está siendo cancelada. ¿Por qué?' />
 </a>
 <a href='https://youtu.be/2u75EcgZS7c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2u75EcgZS7c/mqdefault.jpg' alt='Lo siento... Microsoft. OpenAI se va con otro.' />
-</a>
-<a href='https://youtu.be/yURS869_o7E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/yURS869_o7E/mqdefault.jpg' alt='¿Es un peligro la IA para los pueblos y ciudades?' />
 </a>
