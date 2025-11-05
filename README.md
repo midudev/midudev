@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/0tGfnkf69SI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0tGfnkf69SI/mqdefault.jpg' alt='¿Next.js 16 es lento?' />
+  <img width='30%' src='https://img.youtube.com/vi/0tGfnkf69SI/mqdefault.jpg' alt='Polémico truco para que tu página vuele con Next.js' />
 </a>
 <a href='https://youtu.be/HrRTdt76qqQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HrRTdt76qqQ/mqdefault.jpg' alt='BRUTAL recurso para crear Bases de Datos SQL  ✓ Crea tablas y datos con IA ✓ Dibuja los diagramas y' />
