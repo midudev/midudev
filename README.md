@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/ZoPSlQ-bp1g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZoPSlQ-bp1g/mqdefault.jpg' alt='Amazon despide 30,000 empleados' />
+</a>
 <a href='https://youtu.be/l7zRW0FeBp4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/l7zRW0FeBp4/mqdefault.jpg' alt='Estados Unidos no tiene energía para la IA' />
 </a>
 <a href='https://youtu.be/HMzqtKNtEbI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HMzqtKNtEbI/mqdefault.jpg' alt='Lo de NVIDIA es salvaje' />
-</a>
-<a href='https://youtu.be/lY2CSw5aVNU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/lY2CSw5aVNU/mqdefault.jpg' alt='Una IA de Google está siendo cancelada. ¿Por qué?' />
 </a>
