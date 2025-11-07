@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/VzaejFHDcAw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/VzaejFHDcAw/mqdefault.jpg' alt='Revisé el código de la AppStore de Apple' />
+</a>
 <a href='https://youtu.be/9N0_d4snBho' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9N0_d4snBho/mqdefault.jpg' alt='¡Se ha filtrado el código fuente del frontend de la App Store de Apple!  ¿El motivo? Olvidaron desac' />
 </a>
 <a href='https://youtu.be/0tGfnkf69SI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0tGfnkf69SI/mqdefault.jpg' alt='Polémico truco para que tu página vuele con Next.js' />
-</a>
-<a href='https://youtu.be/HrRTdt76qqQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HrRTdt76qqQ/mqdefault.jpg' alt='BRUTAL recurso para crear Bases de Datos SQL  ✓ Crea tablas y datos con IA ✓ Dibuja los diagramas y' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
