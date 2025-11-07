@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/WLUZXDB7lAw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/WLUZXDB7lAw/mqdefault.jpg' alt='¡Guía visual para aprender ALGORITMOS en programación!  25 algoritmos explicados paso a paso con pse' />
+</a>
 <a href='https://youtu.be/b8bsnkc2y3w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/b8bsnkc2y3w/mqdefault.jpg' alt='Este sitio web vale $10,000 dólares' />
 </a>
 <a href='https://youtu.be/VzaejFHDcAw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VzaejFHDcAw/mqdefault.jpg' alt='Revisé el código de la AppStore de Apple' />
-</a>
-<a href='https://youtu.be/9N0_d4snBho' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9N0_d4snBho/mqdefault.jpg' alt='¡Se ha filtrado el código fuente del frontend de la App Store de Apple!  ¿El motivo? Olvidaron desac' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
