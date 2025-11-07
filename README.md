@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/b8bsnkc2y3w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/b8bsnkc2y3w/mqdefault.jpg' alt='Este sitio web vale $10,000 dólares' />
+</a>
 <a href='https://youtu.be/VzaejFHDcAw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VzaejFHDcAw/mqdefault.jpg' alt='Revisé el código de la AppStore de Apple' />
 </a>
 <a href='https://youtu.be/9N0_d4snBho' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9N0_d4snBho/mqdefault.jpg' alt='¡Se ha filtrado el código fuente del frontend de la App Store de Apple!  ¿El motivo? Olvidaron desac' />
 </a>
-<a href='https://youtu.be/0tGfnkf69SI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0tGfnkf69SI/mqdefault.jpg' alt='Polémico truco para que tu página vuele con Next.js' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/DnnsBZPROvE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/DnnsBZPROvE/mqdefault.jpg' alt='OpenAI traiciona a Microsoft y se une a AWS 🤝 #tech #software #ia #chatgpt' />
+</a>
 <a href='https://youtu.be/ZoPSlQ-bp1g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZoPSlQ-bp1g/mqdefault.jpg' alt='Amazon despide 30,000 empleados' />
 </a>
 <a href='https://youtu.be/l7zRW0FeBp4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/l7zRW0FeBp4/mqdefault.jpg' alt='Estados Unidos no tiene energía para la IA' />
-</a>
-<a href='https://youtu.be/HMzqtKNtEbI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HMzqtKNtEbI/mqdefault.jpg' alt='Lo de NVIDIA es salvaje' />
 </a>
