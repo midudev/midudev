@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/VosHdPQr6nI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VosHdPQr6nI/mqdefault.jpg' alt='Next.js 16 + Strapi 5: despliegue gratis a producción' />
+  <img width='30%' src='https://img.youtube.com/vi/VosHdPQr6nI/mqdefault.jpg' alt='Next.js 16 + Strapi 5: Caché components, autenticación y despliegue gratis a producción' />
 </a>
 <a href='https://youtu.be/WLUZXDB7lAw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/WLUZXDB7lAw/mqdefault.jpg' alt='¡Guía visual para aprender ALGORITMOS en programación!  25 algoritmos explicados paso a paso con pse' />
