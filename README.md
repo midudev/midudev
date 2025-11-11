@@ -26,11 +26,11 @@
 <a href='https://youtu.be/TG_eTjFAr3M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TG_eTjFAr3M/mqdefault.jpg' alt='Código filtrado web de Apple + truco conseguir entrevistas + adiós cookies en UE + lío burbuja IA' />
 </a>
+<a href='https://youtu.be/uyrMZILBKv8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/uyrMZILBKv8/mqdefault.jpg' alt='TOP 7 extensiones para mejorar VSCode, Cursor y Windsurf:  ① Console Ninja Muestra la salida de cons' />
+</a>
 <a href='https://youtu.be/VosHdPQr6nI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VosHdPQr6nI/mqdefault.jpg' alt='Next.js 16 + Strapi 5: Caché components, autenticación y despliegue gratis a producción' />
-</a>
-<a href='https://youtu.be/WLUZXDB7lAw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WLUZXDB7lAw/mqdefault.jpg' alt='¡Guía visual para aprender ALGORITMOS en programación!  25 algoritmos explicados paso a paso con pse' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
