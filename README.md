@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/6_H1u-vtBRI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6_H1u-vtBRI/mqdefault.jpg' alt='FullStack Bootcamp: React, useEffect, Custom Hooks, SEO y navegación SPA' />
+</a>
 <a href='https://youtu.be/UsBRyhvHBtc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UsBRyhvHBtc/mqdefault.jpg' alt='IBM tiene una plataforma educativa llamada Cognitive Class, con cursos y certificados oficiales tota' />
 </a>
 <a href='https://youtu.be/Iiegb31Vpu0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Iiegb31Vpu0/mqdefault.jpg' alt='Las entrevistas de trabajo están rotas' />
-</a>
-<a href='https://youtu.be/6_H1u-vtBRI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6_H1u-vtBRI/mqdefault.jpg' alt='FullStack Bootcamp: React, useEffect, Custom Hooks, SEO y navegación SPA' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
