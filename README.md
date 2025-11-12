@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/G_wl6KF5kMA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/G_wl6KF5kMA/mqdefault.jpg' alt='La burbuja de la IA' />
+</a>
 <a href='https://youtu.be/DnnsBZPROvE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DnnsBZPROvE/mqdefault.jpg' alt='OpenAI traiciona a Microsoft y se une a AWS 🤝 #tech #software #ia #chatgpt' />
 </a>
 <a href='https://youtu.be/ZoPSlQ-bp1g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZoPSlQ-bp1g/mqdefault.jpg' alt='Amazon despide 30,000 empleados' />
-</a>
-<a href='https://youtu.be/l7zRW0FeBp4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/l7zRW0FeBp4/mqdefault.jpg' alt='Estados Unidos no tiene energía para la IA' />
 </a>
