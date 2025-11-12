@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/6_H1u-vtBRI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6_H1u-vtBRI/mqdefault.jpg' alt='FullStack Bootcamp: React, useEffect, Custom Hooks, SEO y navegación SPA' />
+</a>
 <a href='https://youtu.be/uyrMZILBKv8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uyrMZILBKv8/mqdefault.jpg' alt='TOP 7 extensiones para mejorar VSCode, Cursor y Windsurf:  ① Console Ninja Muestra la salida de cons' />
 </a>
 <a href='https://youtu.be/VosHdPQr6nI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VosHdPQr6nI/mqdefault.jpg' alt='Next.js 16 + Strapi 5: Caché components, autenticación y despliegue gratis a producción' />
-</a>
-<a href='https://youtu.be/WLUZXDB7lAw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WLUZXDB7lAw/mqdefault.jpg' alt='¡Guía visual para aprender ALGORITMOS en programación!  25 algoritmos explicados paso a paso con pse' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
