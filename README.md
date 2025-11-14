@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/xCKsWzAKUAI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xCKsWzAKUAI/mqdefault.jpg' alt='Corea del Norte se quiere infiltrar en empresas tech' />
+  <img width='30%' src='https://img.youtube.com/vi/xCKsWzAKUAI/mqdefault.jpg' alt='Lo de Corea del Norte y las entrevistas tech es salvaje' />
 </a>
 <a href='https://youtu.be/G_wl6KF5kMA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/G_wl6KF5kMA/mqdefault.jpg' alt='La burbuja de la IA' />
