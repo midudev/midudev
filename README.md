@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/IofKatqt-6g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/IofKatqt-6g/mqdefault.jpg' alt='¡Google acaba de lanzar Code Wiki!' />
+</a>
 <a href='https://youtu.be/TG2R9jybY_I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TG2R9jybY_I/mqdefault.jpg' alt='TOON: el nuevo idioma para hablar con LLMs sin malgastar tokens  Si JSON fue creado para humanos, TO' />
 </a>
 <a href='https://youtu.be/2VsM7g3rFBg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2VsM7g3rFBg/mqdefault.jpg' alt='El código de la Apple App Store no se eliminó...' />
-</a>
-<a href='https://youtu.be/UsBRyhvHBtc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UsBRyhvHBtc/mqdefault.jpg' alt='IBM tiene una plataforma educativa llamada Cognitive Class, con cursos y certificados oficiales tota' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
