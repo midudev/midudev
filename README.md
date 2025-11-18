@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/OV5rKQPACE0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OV5rKQPACE0/mqdefault.jpg' alt='El primer ciberataque por una IA' />
+</a>
 <a href='https://youtu.be/xCKsWzAKUAI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xCKsWzAKUAI/mqdefault.jpg' alt='Lo de Corea del Norte y las entrevistas tech es salvaje' />
 </a>
 <a href='https://youtu.be/G_wl6KF5kMA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/G_wl6KF5kMA/mqdefault.jpg' alt='La burbuja de la IA' />
-</a>
-<a href='https://youtu.be/DnnsBZPROvE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DnnsBZPROvE/mqdefault.jpg' alt='OpenAI traiciona a Microsoft y se une a AWS 🤝 #tech #software #ia #chatgpt' />
 </a>
