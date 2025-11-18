@@ -26,11 +26,11 @@
 <a href='https://youtu.be/8-ACwdmYtv4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8-ACwdmYtv4/mqdefault.jpg' alt='Google Gemini 3 está por llegar' />
 </a>
-<a href='https://youtu.be/3mUa5M69Vic' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/3mUa5M69Vic/mqdefault.jpg' alt='Gemini 3, Primer ciberataque por una IA, lo de TOON es salvaje, drama Open Source, lo de Firefox…' />
-</a>
 <a href='https://youtu.be/CRhyX2Jx2iE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CRhyX2Jx2iE/mqdefault.jpg' alt='Recurso para programadores para crear unos diagramas isométricos atractivos de tu software o arquite' />
+</a>
+<a href='https://youtu.be/IofKatqt-6g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/IofKatqt-6g/mqdefault.jpg' alt='¡Google acaba de lanzar Code Wiki!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
