@@ -29,8 +29,8 @@
 <a href='https://youtu.be/uOAWNwPfcEY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uOAWNwPfcEY/mqdefault.jpg' alt='Google vs FFmpeg' />
 </a>
-<a href='https://youtu.be/0daEV8yGZNU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0daEV8yGZNU/mqdefault.jpg' alt='FullStack Bootcamp: React Router, useRef, useContext y más' />
+<a href='https://youtu.be/hQNnFzcmQkk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/hQNnFzcmQkk/mqdefault.jpg' alt='La caída de Cloudflare está siendo SALVAJE' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
