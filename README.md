@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/t7bU070J4CQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/t7bU070J4CQ/mqdefault.jpg' alt='¿Qué ha hecho NVIDIA y Google?' />
+</a>
 <a href='https://youtu.be/0I6n8B2rOEE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0I6n8B2rOEE/mqdefault.jpg' alt='Google lanza su propio editor de código. Se llama Antigravity y es un fork de Visual Studio Code.  P' />
 </a>
 <a href='https://youtu.be/uOAWNwPfcEY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uOAWNwPfcEY/mqdefault.jpg' alt='Google vs FFmpeg' />
-</a>
-<a href='https://youtu.be/hQNnFzcmQkk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hQNnFzcmQkk/mqdefault.jpg' alt='La caída de Cloudflare está siendo SALVAJE' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
