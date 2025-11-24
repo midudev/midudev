@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Id78MsHt5LA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Id78MsHt5LA/mqdefault.jpg' alt='Gemini 3 arrasa, Cloudflare cae, Windows se arrastra, la DGT filtra contraseñas y adiós Javier Tebas' />
+</a>
 <a href='https://youtu.be/sGkjSwOmr2Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/sGkjSwOmr2Y/mqdefault.jpg' alt='Mi nueva silla para programar' />
 </a>
 <a href='https://youtu.be/X6-9-3giALI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/X6-9-3giALI/mqdefault.jpg' alt='¿Cómo ordenas las carpetas cuando arrancas un proyecto nuevo?  Hay mil formas de hacerlo y ninguna e' />
-</a>
-<a href='https://youtu.be/HxelqBCICZU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HxelqBCICZU/mqdefault.jpg' alt='El nuevo editor de código de Google es SALVAJE (lo siento, Cursor)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
