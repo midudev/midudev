@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/_nCwxI0CNNo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_nCwxI0CNNo/mqdefault.jpg' alt='¡Cursos de programación de Microsoft y Visual Studio Code!  No tienen coste y son oficiales. Destaca' />
+</a>
 <a href='https://youtu.be/wuwqodWWJBo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wuwqodWWJBo/mqdefault.jpg' alt='Cloudflare se rompió por una consulta SQL mal hecha' />
 </a>
 <a href='https://youtu.be/Id78MsHt5LA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Id78MsHt5LA/mqdefault.jpg' alt='Gemini 3 arrasa, Cloudflare cae, Windows se arrastra, la DGT filtra contraseñas y adiós Javier Tebas' />
 </a>
-<a href='https://youtu.be/sGkjSwOmr2Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/sGkjSwOmr2Y/mqdefault.jpg' alt='Mi nueva silla para programar' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/rPazW56I3Wo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/rPazW56I3Wo/mqdefault.jpg' alt='Google Gemini Pro es...' />
+</a>
 <a href='https://youtu.be/pNiRI9YrNu4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pNiRI9YrNu4/mqdefault.jpg' alt='Lo de Windows 11 es SALVAJE' />
 </a>
 <a href='https://youtu.be/NkHCCxnIan8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NkHCCxnIan8/mqdefault.jpg' alt='Lo de la RAM es...' />
-</a>
-<a href='https://youtu.be/OV5rKQPACE0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/OV5rKQPACE0/mqdefault.jpg' alt='El primer ciberataque por una IA' />
 </a>
