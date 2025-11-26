@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/rPazW56I3Wo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rPazW56I3Wo/mqdefault.jpg' alt='Google Gemini Pro es...' />
+  <img width='30%' src='https://img.youtube.com/vi/rPazW56I3Wo/mqdefault.jpg' alt='Google Gemini Pro es BRUTAL' />
 </a>
 <a href='https://youtu.be/pNiRI9YrNu4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pNiRI9YrNu4/mqdefault.jpg' alt='Lo de Windows 11 es SALVAJE' />
