@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/AUPqwUvgxLQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AUPqwUvgxLQ/mqdefault.jpg' alt='FullStack Bootcamp: Estado global con React Context + zustand' />
+</a>
 <a href='https://youtu.be/_nCwxI0CNNo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_nCwxI0CNNo/mqdefault.jpg' alt='¡Cursos de programación de Microsoft y Visual Studio Code!  No tienen coste y son oficiales. Destaca' />
 </a>
 <a href='https://youtu.be/wuwqodWWJBo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wuwqodWWJBo/mqdefault.jpg' alt='Cloudflare se rompió por una consulta SQL mal hecha' />
-</a>
-<a href='https://youtu.be/Id78MsHt5LA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Id78MsHt5LA/mqdefault.jpg' alt='Gemini 3 arrasa, Cloudflare cae, Windows se arrastra, la DGT filtra contraseñas y adiós Javier Tebas' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
