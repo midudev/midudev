@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/199ljLI_pWg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/199ljLI_pWg/mqdefault.jpg' alt='¿Quieres que tu footer no salga volando por la página cuando el contenido es corto? Hay una forma se' />
+</a>
 <a href='https://youtu.be/L2doXPWJme4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/L2doXPWJme4/mqdefault.jpg' alt='Crea diagramas en 3D de tu arquitectura de software e infraestructura.  Es un recurso brutal para do' />
 </a>
 <a href='https://youtu.be/yP0PM-fpnXo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yP0PM-fpnXo/mqdefault.jpg' alt='Introducción a N8N, automatiza tus flujos de trabajo' />
-</a>
-<a href='https://youtu.be/_nCwxI0CNNo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_nCwxI0CNNo/mqdefault.jpg' alt='¡Cursos de programación de Microsoft y Visual Studio Code!  No tienen coste y son oficiales. Destaca' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
