@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/dNa5afJALSo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dNa5afJALSo/mqdefault.jpg' alt='NVIDIA está en problemas' />
+</a>
 <a href='https://youtu.be/rPazW56I3Wo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/rPazW56I3Wo/mqdefault.jpg' alt='Google Gemini Pro es BRUTAL' />
 </a>
 <a href='https://youtu.be/pNiRI9YrNu4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pNiRI9YrNu4/mqdefault.jpg' alt='Lo de Windows 11 es SALVAJE' />
-</a>
-<a href='https://youtu.be/NkHCCxnIan8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/NkHCCxnIan8/mqdefault.jpg' alt='Lo de la RAM es...' />
 </a>
