@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/4t3b_7VJoBg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4t3b_7VJoBg/mqdefault.jpg' alt='La seguridad de los gobiernos es Salvaje' />
+  <img width='30%' src='https://img.youtube.com/vi/4t3b_7VJoBg/mqdefault.jpg' alt='La seguridad de los gobiernos es...' />
 </a>
 <a href='https://youtu.be/Lq6KtasRhLQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Lq6KtasRhLQ/mqdefault.jpg' alt='Gracias, Google...' />
