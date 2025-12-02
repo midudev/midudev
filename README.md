@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/MySUxOP-gY4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MySUxOP-gY4/mqdefault.jpg' alt='Google no es rival para DeepSeek' />
+</a>
 <a href='https://youtu.be/vH8_dG9XUNY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vH8_dG9XUNY/mqdefault.jpg' alt='El Apocalipsis de la RAM' />
 </a>
 <a href='https://youtu.be/QF7SRLgn_Bw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QF7SRLgn_Bw/mqdefault.jpg' alt='¿El fin de Javier Tebas?' />
-</a>
-<a href='https://youtu.be/4t3b_7VJoBg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4t3b_7VJoBg/mqdefault.jpg' alt='La seguridad de los gobiernos es...' />
 </a>
