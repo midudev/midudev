@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/7ncASNAFuIQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7ncASNAFuIQ/mqdefault.jpg' alt='He creado un proyecto para que practiques programación. Se llama AdventJS y podrás resolver 24 retos' />
+</a>
 <a href='https://youtu.be/iCIC-FTme90' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iCIC-FTme90/mqdefault.jpg' alt='Descubre lo que se puede lograr solo con CSS.  Con unas pocas reglas puedes crear efectos que reacci' />
 </a>
 <a href='https://youtu.be/k06b2q1wd3c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/k06b2q1wd3c/mqdefault.jpg' alt='Productos tech para programadores - Black Friday 2025' />
 </a>
-<a href='https://youtu.be/199ljLI_pWg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/199ljLI_pWg/mqdefault.jpg' alt='¿Quieres que tu footer no salga volando por la página cuando el contenido es corto? Hay una forma se' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/TTOvfDsZucI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TTOvfDsZucI/mqdefault.jpg' alt='Nvidia está en graves problemas' />
+</a>
 <a href='https://youtu.be/MySUxOP-gY4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MySUxOP-gY4/mqdefault.jpg' alt='Google no es rival para DeepSeek' />
 </a>
 <a href='https://youtu.be/vH8_dG9XUNY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vH8_dG9XUNY/mqdefault.jpg' alt='El Apocalipsis de la RAM' />
-</a>
-<a href='https://youtu.be/QF7SRLgn_Bw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QF7SRLgn_Bw/mqdefault.jpg' alt='¿El fin de Javier Tebas?' />
 </a>
