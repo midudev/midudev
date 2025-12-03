@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/TTOvfDsZucI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TTOvfDsZucI/mqdefault.jpg' alt='Nvidia está en graves problemas' />
+  <img width='30%' src='https://img.youtube.com/vi/TTOvfDsZucI/mqdefault.jpg' alt='Nvidia no puede contra Google' />
 </a>
 <a href='https://youtu.be/MySUxOP-gY4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MySUxOP-gY4/mqdefault.jpg' alt='Google no es rival para DeepSeek' />
