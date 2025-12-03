@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/dn5tt2W8tlE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dn5tt2W8tlE/mqdefault.jpg' alt='El mayor robo del siglo en Github' />
+</a>
 <a href='https://youtu.be/7ncASNAFuIQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7ncASNAFuIQ/mqdefault.jpg' alt='He creado un proyecto para que practiques programación. Se llama AdventJS y podrás resolver 24 retos' />
 </a>
 <a href='https://youtu.be/iCIC-FTme90' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iCIC-FTme90/mqdefault.jpg' alt='Descubre lo que se puede lograr solo con CSS.  Con unas pocas reglas puedes crear efectos que reacci' />
-</a>
-<a href='https://youtu.be/k06b2q1wd3c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/k06b2q1wd3c/mqdefault.jpg' alt='Productos tech para programadores - Black Friday 2025' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
