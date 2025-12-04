@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/DJuDbOroaUE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/DJuDbOroaUE/mqdefault.jpg' alt='¡CISCO tiene 2 cursos de Python en Español y gratis!  ✓ Con certificado final ✓ 70 horas de contenid' />
+</a>
 <a href='https://youtu.be/Jzo1inARMd4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Jzo1inARMd4/mqdefault.jpg' alt='El futúro del desarrollo web' />
 </a>
 <a href='https://youtu.be/dn5tt2W8tlE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dn5tt2W8tlE/mqdefault.jpg' alt='El mayor robo del siglo en Github' />
 </a>
-<a href='https://youtu.be/7ncASNAFuIQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7ncASNAFuIQ/mqdefault.jpg' alt='He creado un proyecto para que practiques programación. Se llama AdventJS y podrás resolver 24 retos' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/1VYmgHWf1Sg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1VYmgHWf1Sg/mqdefault.jpg' alt='Lo del explorador de Windows 11 es SALVAJE' />
+</a>
 <a href='https://youtu.be/TTOvfDsZucI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TTOvfDsZucI/mqdefault.jpg' alt='Nvidia no puede contra Google' />
 </a>
 <a href='https://youtu.be/MySUxOP-gY4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MySUxOP-gY4/mqdefault.jpg' alt='Google no es rival para DeepSeek' />
-</a>
-<a href='https://youtu.be/vH8_dG9XUNY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vH8_dG9XUNY/mqdefault.jpg' alt='El Apocalipsis de la RAM' />
 </a>
