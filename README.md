@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/p-zQ1xYuDyY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/p-zQ1xYuDyY/mqdefault.jpg' alt='Los ANUNCIOS masivos en ChatGPT #software #chatgpt #tech #programming' />
+</a>
 <a href='https://youtu.be/1VYmgHWf1Sg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1VYmgHWf1Sg/mqdefault.jpg' alt='Lo del explorador de Windows 11 es SALVAJE' />
 </a>
 <a href='https://youtu.be/TTOvfDsZucI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TTOvfDsZucI/mqdefault.jpg' alt='Nvidia no puede contra Google' />
-</a>
-<a href='https://youtu.be/MySUxOP-gY4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MySUxOP-gY4/mqdefault.jpg' alt='Google no es rival para DeepSeek' />
 </a>
