@@ -30,7 +30,7 @@
   <img width='30%' src='https://img.youtube.com/vi/DJuDbOroaUE/mqdefault.jpg' alt='¡CISCO tiene 2 cursos de Python en Español y gratis!  ✓ Con certificado final ✓ 70 horas de contenid' />
 </a>
 <a href='https://youtu.be/Jzo1inARMd4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Jzo1inARMd4/mqdefault.jpg' alt='El futúro del desarrollo web' />
+  <img width='30%' src='https://img.youtube.com/vi/Jzo1inARMd4/mqdefault.jpg' alt='El futuro del desarrollo web' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
