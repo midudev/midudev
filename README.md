@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/YPokBQGt7Js' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YPokBQGt7Js/mqdefault.jpg' alt='Noticias Dev: ¡Vulnerabilidad crítica en React! + Bun comprada + fugas en Apple + la RAM explota' />
-</a>
 <a href='https://youtu.be/idOq9y_ntJw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/idOq9y_ntJw/mqdefault.jpg' alt='¿Necesitas una API para practicar programación? Esta es la mejor para hacer aplicaciones del tiempo.' />
 </a>
 <a href='https://youtu.be/iouTvSMQtoc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iouTvSMQtoc/mqdefault.jpg' alt='¡He creado una extensión de Visual Studio Code! #tecnologia #tips #trucos' />
+</a>
+<a href='https://youtu.be/DJuDbOroaUE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/DJuDbOroaUE/mqdefault.jpg' alt='¡CISCO tiene 2 cursos de Python en Español y gratis!  ✓ Con certificado final ✓ 70 horas de contenid' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
