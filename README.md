@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/LWH4_4t5jWo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LWH4_4t5jWo/mqdefault.jpg' alt='¡Nueva joyita en CSS! Ahora puedes personalizar la barra de scroll con solo dos líneas.  Hasta ahora' />
+</a>
 <a href='https://youtu.be/Lni3aQ5ofaE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Lni3aQ5ofaE/mqdefault.jpg' alt='Es momento de utilizar Bun' />
 </a>
 <a href='https://youtu.be/idOq9y_ntJw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/idOq9y_ntJw/mqdefault.jpg' alt='¿Necesitas una API para practicar programación? Esta es la mejor para hacer aplicaciones del tiempo.' />
-</a>
-<a href='https://youtu.be/iouTvSMQtoc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/iouTvSMQtoc/mqdefault.jpg' alt='¡He creado una extensión de Visual Studio Code! #tecnologia #tips #trucos' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
