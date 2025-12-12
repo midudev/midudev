@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/2wWRmab88nw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/2wWRmab88nw/mqdefault.jpg' alt='¿Por qué Windows? ¿Por qué?' />
+</a>
 <a href='https://youtu.be/1b5UCioWwcs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1b5UCioWwcs/mqdefault.jpg' alt='Netflix hace la mayor adquisición histórica del Streaming' />
 </a>
 <a href='https://youtu.be/us3ZEYWhIUc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/us3ZEYWhIUc/mqdefault.jpg' alt='Fugas en Apple' />
-</a>
-<a href='https://youtu.be/vM8jtdkXe4s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vM8jtdkXe4s/mqdefault.jpg' alt='El estado actual de la RAM' />
 </a>
