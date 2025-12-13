@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/1tNGJL0o9NI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1tNGJL0o9NI/mqdefault.jpg' alt='Probé Trae SOLO Coder en un proyecto real' />
+</a>
 <a href='https://youtu.be/FoMOEEwK4-c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FoMOEEwK4-c/mqdefault.jpg' alt='¡CUIDADO si usas REACT! Vulnerabilidad críticas:  Afectan a React Server Components y a frameworks q' />
 </a>
 <a href='https://youtu.be/GQSoy7TRoxs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GQSoy7TRoxs/mqdefault.jpg' alt='Adiós a los códigos por email - Email Verification Protocol' />
-</a>
-<a href='https://youtu.be/qAdcOiabrNs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qAdcOiabrNs/mqdefault.jpg' alt='¡Notición! OpenAI ha lanzado GPT 5.2, su modela de IA más inteligente.  Ya disponible en Visual Stud' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
