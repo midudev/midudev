@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Our9Df5xaHE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Our9Df5xaHE/mqdefault.jpg' alt='Noticias Dev: Alerta React, nuevo navegador Google, GPT 5.2, adiós ingenieros, muere un editor...' />
+</a>
+<a href='https://youtu.be/jlpgW8zYjAQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jlpgW8zYjAQ/mqdefault.jpg' alt='Noticias Dev: Alerta React, nuevo navegador Google, GPT 5.2, adiós ingenieros, muere un editor...' />
+</a>
 <a href='https://youtu.be/IbW8QaELzSk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/IbW8QaELzSk/mqdefault.jpg' alt='¡Adiós document.cookie! Hola, Cookie Store. La API moderna, asíncrona y nativa para cookies.  Además' />
-</a>
-<a href='https://youtu.be/qvdpqwbDBM4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qvdpqwbDBM4/mqdefault.jpg' alt='¡Este trucazo es indispensable si eres programador!  Comparte tu localhost con cualquiera en segundo' />
-</a>
-<a href='https://youtu.be/1tNGJL0o9NI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/1tNGJL0o9NI/mqdefault.jpg' alt='Probé TRAE SOLO Coder en un proyecto real' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
