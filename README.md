@@ -27,7 +27,7 @@
   <img width='30%' src='https://img.youtube.com/vi/-DlFC11Egzw/mqdefault.jpg' alt='Hace 10 años cuando empecé a crear contenido iba a rendirme.  Ya estaba trabajando de programador y' />
 </a>
 <a href='https://youtu.be/i8__C8etv4M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/i8__C8etv4M/mqdefault.jpg' alt='Ya no necesitan más Ingenieros de software' />
+  <img width='30%' src='https://img.youtube.com/vi/i8__C8etv4M/mqdefault.jpg' alt='Dicen que ya no necesitan Ingenieros de Software. Mi opinión.' />
 </a>
 <a href='https://youtu.be/jlpgW8zYjAQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jlpgW8zYjAQ/mqdefault.jpg' alt='Noticias Dev: Alerta React, nuevo navegador Google, GPT 5.2, adiós ingenieros, muere un editor...' />
