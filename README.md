@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ncSpd8z6vNU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ncSpd8z6vNU/mqdefault.jpg' alt='Necesitas instalar esta extensión de Visual Studio Code' />
+</a>
 <a href='https://youtu.be/6cLvZQ2RFdM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6cLvZQ2RFdM/mqdefault.jpg' alt='¡Anima con CSS elementos según la posición del scroll! Sin necesidad de usar JavaScript ni dependenc' />
 </a>
 <a href='https://youtu.be/2uundBc_KUc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2uundBc_KUc/mqdefault.jpg' alt='Este editor de código murió como si nunca hubiera existido' />
-</a>
-<a href='https://youtu.be/hJcMR7pd4xU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hJcMR7pd4xU/mqdefault.jpg' alt='Se repite la historia...' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
