@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/azDwnZ7EsAs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/azDwnZ7EsAs/mqdefault.jpg' alt='Micrófono oculto en un KVM Chino' />
+</a>
 <a href='https://youtu.be/wNj69vk-Tjo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wNj69vk-Tjo/mqdefault.jpg' alt='Primer vistazo al nuevo Navegador web de Google: Disco' />
 </a>
 <a href='https://youtu.be/3A3odyecS0g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3A3odyecS0g/mqdefault.jpg' alt='¿Venezuela crea chips de NVIDIA?' />
-</a>
-<a href='https://youtu.be/c2lhTosmtRU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/c2lhTosmtRU/mqdefault.jpg' alt='Por fin la Burbuja de la IA' />
 </a>
