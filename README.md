@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/1K12kYd6Z3w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1K12kYd6Z3w/mqdefault.jpg' alt='¡Practica SQL con esta página! Con ejercicios interactivos: → sql-practice․com  Si te quedas atascad' />
+</a>
 <a href='https://youtu.be/5fHD9CqhSi0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5fHD9CqhSi0/mqdefault.jpg' alt='La victoria del procrastinador' />
 </a>
 <a href='https://youtu.be/ncSpd8z6vNU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ncSpd8z6vNU/mqdefault.jpg' alt='Necesitas instalar esta extensión de Visual Studio Code' />
-</a>
-<a href='https://youtu.be/6cLvZQ2RFdM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6cLvZQ2RFdM/mqdefault.jpg' alt='¡Anima con CSS elementos según la posición del scroll! Sin necesidad de usar JavaScript ni dependenc' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
