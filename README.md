@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/5_5MgcwZvKU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5_5MgcwZvKU/mqdefault.jpg' alt='Cuidado con los Masters de IA' />
+</a>
 <a href='https://youtu.be/-XzVHcc1554' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-XzVHcc1554/mqdefault.jpg' alt='¿Tu CV es un PDF peleado con márgenes, fuentes y plantillas rotas? 👀  Con RenderCV escribes tu CV e' />
 </a>
 <a href='https://youtu.be/1K12kYd6Z3w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1K12kYd6Z3w/mqdefault.jpg' alt='¡Practica SQL con esta página! Con ejercicios interactivos: → sql-practice․com  Si te quedas atascad' />
-</a>
-<a href='https://youtu.be/5fHD9CqhSi0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5fHD9CqhSi0/mqdefault.jpg' alt='La victoria del procrastinador' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
