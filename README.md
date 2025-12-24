@@ -28,14 +28,14 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/xTVjAJ6iNuc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xTVjAJ6iNuc/mqdefault.jpg' alt='Windows 11 está acabando muy mal...' />
+</a>
 <a href='https://youtu.be/p6dznjWokE8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p6dznjWokE8/mqdefault.jpg' alt='La peor pesadilla de Nvidia acaba de ocurrir' />
 </a>
 <a href='https://youtu.be/azDwnZ7EsAs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/azDwnZ7EsAs/mqdefault.jpg' alt='Micrófono oculto en un KVM Chino' />
-</a>
-<a href='https://youtu.be/wNj69vk-Tjo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wNj69vk-Tjo/mqdefault.jpg' alt='Primer vistazo al nuevo Navegador web de Google: Disco' />
 </a> />
 </a>
 <a href='https://youtu.be/UW6T7IAc3UU' target='_blank'>
