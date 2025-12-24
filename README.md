@@ -23,15 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/UW6T7IAc3UU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UW6T7IAc3UU/mqdefault.jpg' alt='¿Te cuesta el CSS y el diseño de tu web? ¡Este recurso te va a facilitar la vida!  Crea layouts con' />
-</a>
-<a href='https://youtu.be/5_5MgcwZvKU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5_5MgcwZvKU/mqdefault.jpg' alt='Humo con las formaciones de IA' />
-</a>
-<a href='https://youtu.be/-XzVHcc1554' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-XzVHcc1554/mqdefault.jpg' alt='¿Tu CV es un PDF peleado con márgenes, fuentes y plantillas rotas? 👀  Con RenderCV escribes tu CV e' />
-</a>
+<a href='https://youtu.be/oZeT-IGEgWU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/oZeT-IGEgWU/mqdefault.jpg' alt='Cómo hackearon Discord y solo ganaron 5000
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
@@ -43,4 +36,14 @@
 </a>
 <a href='https://youtu.be/wNj69vk-Tjo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wNj69vk-Tjo/mqdefault.jpg' alt='Primer vistazo al nuevo Navegador web de Google: Disco' />
+</a> />
 </a>
+<a href='https://youtu.be/UW6T7IAc3UU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/UW6T7IAc3UU/mqdefault.jpg' alt='¿Te cuesta el CSS y el diseño de tu web? ¡Este recurso te va a facilitar la vida!  Crea layouts con' />
+</a>
+<a href='https://youtu.be/5_5MgcwZvKU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5_5MgcwZvKU/mqdefault.jpg' alt='Humo con las formaciones de IA' />
+</a>
+
+### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
+%{{latest_youtube_secondary}}%
