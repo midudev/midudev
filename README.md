@@ -28,21 +28,21 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/h82C-JmxL2s' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/h82C-JmxL2s/mqdefault.jpg' alt='La Liga está rompiendo el internet en España' />
+</a>
 <a href='https://youtu.be/xTVjAJ6iNuc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xTVjAJ6iNuc/mqdefault.jpg' alt='Windows 11 está acabando muy mal...' />
 </a>
 <a href='https://youtu.be/p6dznjWokE8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p6dznjWokE8/mqdefault.jpg' alt='La peor pesadilla de Nvidia acaba de ocurrir' />
-</a>
-<a href='https://youtu.be/azDwnZ7EsAs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/azDwnZ7EsAs/mqdefault.jpg' alt='Micrófono oculto en un KVM Chino' />
 </a> />
 </a>
 <a href='https://youtu.be/UW6T7IAc3UU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UW6T7IAc3UU/mqdefault.jpg' alt='¿Te cuesta el CSS y el diseño de tu web? ¡Este recurso te va a facilitar la vida!  Crea layouts con' />
 </a>
 <a href='https://youtu.be/5_5MgcwZvKU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5_5MgcwZvKU/mqdefault.jpg' alt='Humo con las formaciones de IA' />
+  <img width='30%' src='https://img.youtube.com/vi/5_5MgcwZvKU/mqdefault.jpg' alt='Antes de pagar un máster de IA, mira esto' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
