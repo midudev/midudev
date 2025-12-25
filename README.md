@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/TsZN6mc4BwM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TsZN6mc4BwM/mqdefault.jpg' alt='¡Certificados de Inglés para Programadores! No tienen coste y ya está el examen final disponible par' />
+</a>
 <a href='https://youtu.be/oZeT-IGEgWU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/oZeT-IGEgWU/mqdefault.jpg' alt='Cómo hackearon Discord y solo ganaron 5000
 
@@ -40,9 +43,6 @@
 </a>
 <a href='https://youtu.be/UW6T7IAc3UU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UW6T7IAc3UU/mqdefault.jpg' alt='¿Te cuesta el CSS y el diseño de tu web? ¡Este recurso te va a facilitar la vida!  Crea layouts con' />
-</a>
-<a href='https://youtu.be/5_5MgcwZvKU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5_5MgcwZvKU/mqdefault.jpg' alt='Antes de pagar un máster de IA, mira esto' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
