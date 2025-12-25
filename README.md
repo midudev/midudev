@@ -29,7 +29,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/h82C-JmxL2s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/h82C-JmxL2s/mqdefault.jpg' alt='La Liga está rompiendo el internet en España' />
+  <img width='30%' src='https://img.youtube.com/vi/h82C-JmxL2s/mqdefault.jpg' alt='La Liga está rompiendo internet en España' />
 </a>
 <a href='https://youtu.be/xTVjAJ6iNuc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xTVjAJ6iNuc/mqdefault.jpg' alt='Windows 11 está acabando muy mal...' />
