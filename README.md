@@ -23,6 +23,9 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/iLJHQKOImLk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/iLJHQKOImLk/mqdefault.jpg' alt='¡Añade un efecto parallax a cualquier imagen de tu página! Muy fácil de usar y personalizable al det' />
+</a>
 <a href='https://youtu.be/TsZN6mc4BwM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TsZN6mc4BwM/mqdefault.jpg' alt='¡Certificados de Inglés para Programadores! No tienen coste y ya está el examen final disponible par' />
 </a>
@@ -40,9 +43,6 @@
 <a href='https://youtu.be/p6dznjWokE8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p6dznjWokE8/mqdefault.jpg' alt='La peor pesadilla de Nvidia acaba de ocurrir' />
 </a> />
-</a>
-<a href='https://youtu.be/UW6T7IAc3UU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UW6T7IAc3UU/mqdefault.jpg' alt='¿Te cuesta el CSS y el diseño de tu web? ¡Este recurso te va a facilitar la vida!  Crea layouts con' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
