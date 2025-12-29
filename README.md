@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/6eHOF0xkBgE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6eHOF0xkBgE/mqdefault.jpg' alt='El Futuro de la Programación + Robo a Spotify + MongoDB vulnerable + Hackeo a Ubisoft + NVIDIA...' />
+<a href='https://youtu.be/ax7_QNZZ-pk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ax7_QNZZ-pk/mqdefault.jpg' alt='Deja de pagar la API de OpenAI y haz esto' />
+</a>
+<a href='https://youtu.be/09wXEdCGNfM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/09wXEdCGNfM/mqdefault.jpg' alt='¡Una API gratuita con modelos de Inteligencia Artificial! Lo mejor: No requiere poner tarjeta de cré' />
 </a>
 <a href='https://youtu.be/iLJHQKOImLk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iLJHQKOImLk/mqdefault.jpg' alt='¡Añade un efecto parallax a cualquier imagen de tu página! Muy fácil de usar y personalizable al det' />
-</a>
-<a href='https://youtu.be/TsZN6mc4BwM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TsZN6mc4BwM/mqdefault.jpg' alt='¡Certificados de Inglés para Programadores! No tienen coste y ya está el examen final disponible par' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
