@@ -23,14 +23,15 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/6eHOF0xkBgE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6eHOF0xkBgE/mqdefault.jpg' alt='El Futuro de la Programación + Robo a Spotify + MongoDB vulnerable + Hackeo a Ubisoft + NVIDIA...' />
+</a>
 <a href='https://youtu.be/iLJHQKOImLk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iLJHQKOImLk/mqdefault.jpg' alt='¡Añade un efecto parallax a cualquier imagen de tu página! Muy fácil de usar y personalizable al det' />
 </a>
 <a href='https://youtu.be/TsZN6mc4BwM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TsZN6mc4BwM/mqdefault.jpg' alt='¡Certificados de Inglés para Programadores! No tienen coste y ya está el examen final disponible par' />
 </a>
-<a href='https://youtu.be/oZeT-IGEgWU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/oZeT-IGEgWU/mqdefault.jpg' alt='Cómo hackearon Discord y solo ganaron 5000
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
@@ -42,8 +43,4 @@
 </a>
 <a href='https://youtu.be/p6dznjWokE8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p6dznjWokE8/mqdefault.jpg' alt='La peor pesadilla de Nvidia acaba de ocurrir' />
-</a> />
 </a>
-
-### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
-%{{latest_youtube_secondary}}%
