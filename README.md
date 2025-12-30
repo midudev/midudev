@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/ax7_QNZZ-pk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ax7_QNZZ-pk/mqdefault.jpg' alt='Deja de pagar la API de OpenAI y haz esto' />
+  <img width='30%' src='https://img.youtube.com/vi/ax7_QNZZ-pk/mqdefault.jpg' alt='Deja de pagar la API de OpenAI' />
 </a>
 <a href='https://youtu.be/09wXEdCGNfM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/09wXEdCGNfM/mqdefault.jpg' alt='¡Una API gratuita con modelos de Inteligencia Artificial! Lo mejor: No requiere poner tarjeta de cré' />
