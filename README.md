@@ -26,21 +26,21 @@
 <a href='https://youtu.be/HJvZB7dkNzg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HJvZB7dkNzg/mqdefault.jpg' alt='ESPECIAL FINAL DE AÑO: Sorteos, lo mejor y peor de 2025, sorpresas y más' />
 </a>
+<a href='https://youtu.be/6pY9_unUoqc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6pY9_unUoqc/mqdefault.jpg' alt='¡TRUCO escondido de GitHub para programadores!  ① Entra a un repositorio ② Pulsa la tecla . ③ Te abr' />
+</a>
 <a href='https://youtu.be/ax7_QNZZ-pk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ax7_QNZZ-pk/mqdefault.jpg' alt='Deja de pagar la API de OpenAI' />
-</a>
-<a href='https://youtu.be/09wXEdCGNfM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/09wXEdCGNfM/mqdefault.jpg' alt='¡Una API gratuita con modelos de Inteligencia Artificial! Lo mejor: No requiere poner tarjeta de cré' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/FoaISG71Z4c' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/FoaISG71Z4c/mqdefault.jpg' alt='El mayor robo del siglo en Spotify' />
+</a>
 <a href='https://youtu.be/4yTVPAjdpwA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4yTVPAjdpwA/mqdefault.jpg' alt='China se volvió SALVAJE esta semana (lo siento, Gemini)' />
 </a>
 <a href='https://youtu.be/h82C-JmxL2s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/h82C-JmxL2s/mqdefault.jpg' alt='La Liga está rompiendo internet en España' />
-</a>
-<a href='https://youtu.be/xTVjAJ6iNuc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xTVjAJ6iNuc/mqdefault.jpg' alt='Windows 11 está acabando muy mal...' />
 </a>
