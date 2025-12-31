@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/FoaISG71Z4c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FoaISG71Z4c/mqdefault.jpg' alt='El mayor robo del siglo en Spotify' />
+  <img width='30%' src='https://img.youtube.com/vi/FoaISG71Z4c/mqdefault.jpg' alt='Hackers filtran el catálogo completo de Spotify' />
 </a>
 <a href='https://youtu.be/4yTVPAjdpwA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4yTVPAjdpwA/mqdefault.jpg' alt='China se volvió SALVAJE esta semana (lo siento, Gemini)' />
