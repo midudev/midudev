@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/holyUGUPp3U' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/holyUGUPp3U/mqdefault.jpg' alt='¿Te has propuesto para 2026 mejorar tu nivel de inglés o empezar de verdad con él? Hay una certifica' />
+</a>
 <a href='https://youtu.be/6pY9_unUoqc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6pY9_unUoqc/mqdefault.jpg' alt='¡TRUCO escondido de GitHub para programadores!  ① Entra a un repositorio ② Pulsa la tecla . ③ Te abr' />
 </a>
 <a href='https://youtu.be/ax7_QNZZ-pk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ax7_QNZZ-pk/mqdefault.jpg' alt='Deja de pagar la API de OpenAI' />
-</a>
-<a href='https://youtu.be/09wXEdCGNfM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/09wXEdCGNfM/mqdefault.jpg' alt='¡Una API gratuita con modelos de Inteligencia Artificial! Lo mejor: No requiere poner tarjeta de cré' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
