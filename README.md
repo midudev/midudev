@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/5R3kIhZsI38' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5R3kIhZsI38/mqdefault.jpg' alt='El futuro de la programación' />
+  <img width='30%' src='https://img.youtube.com/vi/5R3kIhZsI38/mqdefault.jpg' alt='El futuro de la programación según fundador de OpenAI' />
 </a>
 <a href='https://youtu.be/YLSlENIDPwY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YLSlENIDPwY/mqdefault.jpg' alt='¡Curso oficial con certificado final de Claude Code! 15 lecciones y 1 hora de vídeo. De 0 hasta MCPs' />
