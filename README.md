@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/rvgCvMKhvvk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/rvgCvMKhvvk/mqdefault.jpg' alt='API gratuita para obtener la localización aproximada de una IP. Sin registros y con peticiones ilimi' />
+</a>
 <a href='https://youtu.be/5R3kIhZsI38' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5R3kIhZsI38/mqdefault.jpg' alt='El futuro de la programación según fundador de OpenAI' />
+  <img width='30%' src='https://img.youtube.com/vi/5R3kIhZsI38/mqdefault.jpg' alt='El futuro de la programación según cofundador de OpenAI' />
 </a>
 <a href='https://youtu.be/YLSlENIDPwY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YLSlENIDPwY/mqdefault.jpg' alt='¡Curso oficial con certificado final de Claude Code! 15 lecciones y 1 hora de vídeo. De 0 hasta MCPs' />
-</a>
-<a href='https://youtu.be/VoafZOv5V-Q' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VoafZOv5V-Q/mqdefault.jpg' alt='La peor pesadilla de MongoDB' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
