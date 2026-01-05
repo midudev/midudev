@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/XB5oRkIcNzU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/XB5oRkIcNzU/mqdefault.jpg' alt='Esta es la mejor alternativa a Claude Code y similares. Un agente de IA para programadores.  Se llam' />
+</a>
+<a href='https://youtu.be/ED6METJWIB8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ED6METJWIB8/mqdefault.jpg' alt='Microsoft da marcha atrás' />
+</a>
 <a href='https://youtu.be/HJvZB7dkNzg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HJvZB7dkNzg/mqdefault.jpg' alt='Lo mejor y peor de 2025 en programación' />
-</a>
-<a href='https://youtu.be/VmjB0C3e4CQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VmjB0C3e4CQ/mqdefault.jpg' alt='Así te descartan en pruebas técnicas en segundos. El 50% de los candidatos lo resuelven mal. ¿Y tú?' />
-</a>
-<a href='https://youtu.be/rvgCvMKhvvk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rvgCvMKhvvk/mqdefault.jpg' alt='API gratuita para obtener la localización aproximada de una IP. Sin registros y con peticiones ilimi' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
