@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/xNtHFOykl0w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xNtHFOykl0w/mqdefault.jpg' alt='Así te descartan en pruebas técnicas en segundos' />
+</a>
 <a href='https://youtu.be/XB5oRkIcNzU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XB5oRkIcNzU/mqdefault.jpg' alt='Esta es la mejor alternativa a Claude Code y similares. Un agente de IA para programadores.  Se llam' />
 </a>
 <a href='https://youtu.be/ED6METJWIB8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ED6METJWIB8/mqdefault.jpg' alt='Microsoft da marcha atrás' />
-</a>
-<a href='https://youtu.be/HJvZB7dkNzg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HJvZB7dkNzg/mqdefault.jpg' alt='Lo mejor y peor de 2025 en programación' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
