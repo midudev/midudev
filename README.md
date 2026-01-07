@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/OUMn4EP7Fq4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OUMn4EP7Fq4/mqdefault.jpg' alt='¡Nueva API de JavaScript disponible en Chrome! Traduce textos con IA. Sin coste, en local y privado.' />
+</a>
 <a href='https://youtu.be/98U-Siuop9M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/98U-Siuop9M/mqdefault.jpg' alt='Curso de Node.js desde cero - JSCamp by InfoJobs' />
 </a>
 <a href='https://youtu.be/xNtHFOykl0w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xNtHFOykl0w/mqdefault.jpg' alt='Así te descartan en pruebas técnicas en segundos' />
 </a>
-<a href='https://youtu.be/XB5oRkIcNzU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XB5oRkIcNzU/mqdefault.jpg' alt='Esta es la mejor alternativa a Claude Code y similares. Un agente de IA para programadores.  Se llam' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/QNagf_QYyjc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QNagf_QYyjc/mqdefault.jpg' alt='¿La primera ESTAFA tech de 2026?' />
+</a>
 <a href='https://youtu.be/2kSV--kpQAk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2kSV--kpQAk/mqdefault.jpg' alt='"Grok, ponle bikini a esta foto"' />
 </a>
 <a href='https://youtu.be/A7B47CbQcRg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/A7B47CbQcRg/mqdefault.jpg' alt='Realmente lo hicieron. Adiós Office' />
-</a>
-<a href='https://youtu.be/FoaISG71Z4c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FoaISG71Z4c/mqdefault.jpg' alt='Casi todo el catálogo de Spotify en Torrent' />
 </a>
