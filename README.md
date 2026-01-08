@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/gxgXaP4fbJo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gxgXaP4fbJo/mqdefault.jpg' alt='El Apocalipsis de Stack Overflow' />
+</a>
 <a href='https://youtu.be/98U-Siuop9M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/98U-Siuop9M/mqdefault.jpg' alt='Curso de Node.js desde cero - JSCamp by InfoJobs' />
 </a>
 <a href='https://youtu.be/OUMn4EP7Fq4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/OUMn4EP7Fq4/mqdefault.jpg' alt='¡Nueva API de JavaScript disponible en Chrome! Traduce textos con IA. Sin coste, en local y privado.' />
-</a>
-<a href='https://youtu.be/xNtHFOykl0w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xNtHFOykl0w/mqdefault.jpg' alt='Así te descartan en pruebas técnicas en segundos' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
