@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/0fexIOD9YVg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0fexIOD9YVg/mqdefault.jpg' alt='¿Qué tecnologías de programación aprender en 2026?' />
+</a>
+<a href='https://youtu.be/--P8QK8Uwhk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/--P8QK8Uwhk/mqdefault.jpg' alt='Una librería de JavaScript que te ahorra horas creando dashboards. Paneles que puedes arrastrar y re' />
+</a>
 <a href='https://youtu.be/Q4uKGoU0cms' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Q4uKGoU0cms/mqdefault.jpg' alt='Lo MEJOR y PEOR en programación y Tecnología 2025' />
-</a>
-<a href='https://youtu.be/BGpilxafBKA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BGpilxafBKA/mqdefault.jpg' alt='¡Microsoft ha lanzado un nuevo curso para aprender a crear Agentes de IA desde cero y en Español!  ✓' />
-</a>
-<a href='https://youtu.be/98U-Siuop9M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/98U-Siuop9M/mqdefault.jpg' alt='Curso de Node.js desde cero - JSCamp by InfoJobs' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
