@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/r7i1aVMqr9g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/r7i1aVMqr9g/mqdefault.jpg' alt='¿Te cuesta crear diseños para tus webs o apps? Google ha lanzado Stitch, que genera la UI con IA.  N' />
+</a>
 <a href='https://youtu.be/0fexIOD9YVg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0fexIOD9YVg/mqdefault.jpg' alt='¿Qué tecnologías de programación aprender en 2026?' />
 </a>
 <a href='https://youtu.be/--P8QK8Uwhk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/--P8QK8Uwhk/mqdefault.jpg' alt='Una librería de JavaScript que te ahorra horas creando dashboards. Paneles que puedes arrastrar y re' />
-</a>
-<a href='https://youtu.be/Q4uKGoU0cms' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Q4uKGoU0cms/mqdefault.jpg' alt='Lo MEJOR y PEOR en programación y Tecnología 2025' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
