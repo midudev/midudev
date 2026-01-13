@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/xV1VgybLJqA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xV1VgybLJqA/mqdefault.jpg' alt='NVIDIA acaba de publicar 5 cursos sin coste para dominar la IA, para que te pongas al día sin gastar' />
+</a>
 <a href='https://youtu.be/6_GhkaK_Gu0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6_GhkaK_Gu0/mqdefault.jpg' alt='El drama de Tailwind (mi opinión)' />
+  <img width='30%' src='https://img.youtube.com/vi/6_GhkaK_Gu0/mqdefault.jpg' alt='La triste realidad de Tailwind (mi opinión)' />
 </a>
 <a href='https://youtu.be/CBfq0gsoIS0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CBfq0gsoIS0/mqdefault.jpg' alt='Lo de Telcel es SALVAJE' />
 </a>
-<a href='https://youtu.be/r7i1aVMqr9g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/r7i1aVMqr9g/mqdefault.jpg' alt='¿Te cuesta crear diseños para tus webs o apps? Google ha lanzado Stitch, que genera la UI con IA.  N' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/AuBlIOmrbCg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AuBlIOmrbCg/mqdefault.jpg' alt='No me esperaba esto' />
+</a>
 <a href='https://youtu.be/QNagf_QYyjc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QNagf_QYyjc/mqdefault.jpg' alt='¿La primera ESTAFA tech de 2026?' />
 </a>
 <a href='https://youtu.be/2kSV--kpQAk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2kSV--kpQAk/mqdefault.jpg' alt='"Grok, ponle bikini a esta foto"' />
-</a>
-<a href='https://youtu.be/A7B47CbQcRg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/A7B47CbQcRg/mqdefault.jpg' alt='Realmente lo hicieron. Adiós Office' />
 </a>
