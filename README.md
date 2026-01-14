@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/xV1VgybLJqA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xV1VgybLJqA/mqdefault.jpg' alt='NVIDIA acaba de publicar 5 cursos sin coste para dominar la IA, para que te pongas al día sin gastar' />
+<a href='https://youtu.be/BoFf34WZkIY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BoFf34WZkIY/mqdefault.jpg' alt='Dale vida a tu web con animaciones suaves y elegantes con esta biblioteca.  Animar CSS, SVG y elemen' />
 </a>
-<a href='https://youtu.be/6_GhkaK_Gu0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6_GhkaK_Gu0/mqdefault.jpg' alt='La triste realidad de Tailwind (mi opinión)' />
+<a href='https://youtu.be/8mBVCuYaakg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8mBVCuYaakg/mqdefault.jpg' alt='¿Por qué Linus Torvalds está usando IA para programar?' />
 </a>
-<a href='https://youtu.be/CBfq0gsoIS0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CBfq0gsoIS0/mqdefault.jpg' alt='Lo de Telcel es SALVAJE' />
+<a href='https://youtu.be/ksmKZbRyMEU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ksmKZbRyMEU/mqdefault.jpg' alt='Crea una REST API paso a paso con Node' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
