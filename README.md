@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/AuBlIOmrbCg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AuBlIOmrbCg/mqdefault.jpg' alt='No me esperaba esto' />
+  <img width='30%' src='https://img.youtube.com/vi/AuBlIOmrbCg/mqdefault.jpg' alt='Google GANÓ la guerra de la IA' />
 </a>
 <a href='https://youtu.be/QNagf_QYyjc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QNagf_QYyjc/mqdefault.jpg' alt='¿La primera ESTAFA tech de 2026?' />
