@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/LHilK2F1K2Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LHilK2F1K2Y/mqdefault.jpg' alt='Cloudflare es el "Narcomaduro" del Internet - Javier tebas' />
+</a>
 <a href='https://youtu.be/NE5ymLYY8u8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NE5ymLYY8u8/mqdefault.jpg' alt='¿Por qué mi lavadora necesita IA? - CES 2026' />
 </a>
 <a href='https://youtu.be/AuBlIOmrbCg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/AuBlIOmrbCg/mqdefault.jpg' alt='Google GANÓ la guerra de la IA' />
-</a>
-<a href='https://youtu.be/QNagf_QYyjc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QNagf_QYyjc/mqdefault.jpg' alt='¿La primera ESTAFA tech de 2026?' />
 </a>
