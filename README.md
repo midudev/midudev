@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/LHilK2F1K2Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LHilK2F1K2Y/mqdefault.jpg' alt='Cloudflare es el "Narcomaduro" del Internet - Javier tebas' />
+  <img width='30%' src='https://img.youtube.com/vi/LHilK2F1K2Y/mqdefault.jpg' alt='Estoy preocupado por Internet' />
 </a>
 <a href='https://youtu.be/NE5ymLYY8u8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NE5ymLYY8u8/mqdefault.jpg' alt='¿Por qué mi lavadora necesita IA? - CES 2026' />
