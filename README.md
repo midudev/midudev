@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/iEeBMQwgOT0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/iEeBMQwgOT0/mqdefault.jpg' alt='He descubierto PortKiller, una app open source para cerrar puertos en segundos. ¡Y me encanta!  Y ad' />
+</a>
 <a href='https://youtu.be/TJY8cj08klg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TJY8cj08klg/mqdefault.jpg' alt='Lo de MySQL es SALVAJE' />
 </a>
 <a href='https://youtu.be/LCfmP57133c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LCfmP57133c/mqdefault.jpg' alt='¡Cloudflare compra Astro!' />
 </a>
-<a href='https://youtu.be/X5vh1vWCxvk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/X5vh1vWCxvk/mqdefault.jpg' alt='Adiós MySQL + Cloudflare compra Astro + Anuncios en ChatGPT + Desarrollan un navegador en una semana' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/C8ddSNuK4zE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/C8ddSNuK4zE/mqdefault.jpg' alt='ChatGPT incluirá anuncios' />
+</a>
 <a href='https://youtu.be/LHilK2F1K2Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LHilK2F1K2Y/mqdefault.jpg' alt='Estoy preocupado por Internet' />
 </a>
 <a href='https://youtu.be/NE5ymLYY8u8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NE5ymLYY8u8/mqdefault.jpg' alt='¿Por qué mi lavadora necesita IA? - CES 2026' />
-</a>
-<a href='https://youtu.be/AuBlIOmrbCg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AuBlIOmrbCg/mqdefault.jpg' alt='Google GANÓ la guerra de la IA' />
 </a>
