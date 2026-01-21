@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/C8ddSNuK4zE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/C8ddSNuK4zE/mqdefault.jpg' alt='ChatGPT incluirá anuncios' />
+  <img width='30%' src='https://img.youtube.com/vi/C8ddSNuK4zE/mqdefault.jpg' alt='ChatGPT tiene comerciales (y Sam Altman mintió)' />
 </a>
 <a href='https://youtu.be/LHilK2F1K2Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LHilK2F1K2Y/mqdefault.jpg' alt='Estoy preocupado por Internet' />
