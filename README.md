@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/131Ge7X9uDI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/131Ge7X9uDI/mqdefault.jpg' alt='Testing con IA + Despliegue API a producción' />
+</a>
 <a href='https://youtu.be/iEeBMQwgOT0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iEeBMQwgOT0/mqdefault.jpg' alt='He descubierto PortKiller, una app open source para cerrar puertos en segundos. ¡Y me encanta!  Y ad' />
 </a>
 <a href='https://youtu.be/TJY8cj08klg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TJY8cj08klg/mqdefault.jpg' alt='Lo de MySQL es SALVAJE' />
-</a>
-<a href='https://youtu.be/LCfmP57133c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LCfmP57133c/mqdefault.jpg' alt='¡Cloudflare compra Astro!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
