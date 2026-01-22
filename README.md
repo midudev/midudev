@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/lgO8L3_CaXk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lgO8L3_CaXk/mqdefault.jpg' alt='¿Te gustaría empezar con SQL sin perderte en teoría infinita?  Hay una plataforma muy práctica para' />
+</a>
 <a href='https://youtu.be/TlKU1SwfY48' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TlKU1SwfY48/mqdefault.jpg' alt='El gran problema del Vibe Coding' />
 </a>
 <a href='https://youtu.be/kk_HVF79J7I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kk_HVF79J7I/mqdefault.jpg' alt='7 extensiones que hacen tu editor mucho más cómodo (VSCode, Cursor y Windsurf):  ① Console Ninja Ves' />
 </a>
-<a href='https://youtu.be/PefG36-bxGs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PefG36-bxGs/mqdefault.jpg' alt='JQuery 4.0 ESTÁ AQUÍ' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/fASSZ5QPMNU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/fASSZ5QPMNU/mqdefault.jpg' alt='¿Vale la pena seguir en Google?' />
+</a>
 <a href='https://youtu.be/C8ddSNuK4zE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/C8ddSNuK4zE/mqdefault.jpg' alt='ChatGPT tiene comerciales (y Sam Altman mintió)' />
 </a>
 <a href='https://youtu.be/LHilK2F1K2Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LHilK2F1K2Y/mqdefault.jpg' alt='Estoy preocupado por Internet' />
-</a>
-<a href='https://youtu.be/NE5ymLYY8u8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/NE5ymLYY8u8/mqdefault.jpg' alt='¿Por qué mi lavadora necesita IA? - CES 2026' />
 </a>
