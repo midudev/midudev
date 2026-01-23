@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/9UwvMvwlenA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9UwvMvwlenA/mqdefault.jpg' alt='¡Acaba de salir el Figma de Claude Code! Se llama Pencil:  ✓ Diseña, versiona y genera código ✓ Con' />
+</a>
 <a href='https://youtu.be/lgO8L3_CaXk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lgO8L3_CaXk/mqdefault.jpg' alt='¿Te gustaría empezar con SQL sin perderte en teoría infinita?  Hay una plataforma muy práctica para' />
 </a>
 <a href='https://youtu.be/TlKU1SwfY48' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TlKU1SwfY48/mqdefault.jpg' alt='El gran problema del Vibe Coding' />
-</a>
-<a href='https://youtu.be/kk_HVF79J7I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kk_HVF79J7I/mqdefault.jpg' alt='7 extensiones que hacen tu editor mucho más cómodo (VSCode, Cursor y Windsurf):  ① Console Ninja Ves' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
