@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/69MFUBlNtjk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/69MFUBlNtjk/mqdefault.jpg' alt='Clawdbot + ¿Hacienda hackeada? + Config secreta de IA + MCP Apps + Genie 3 brutal + WordPress 7  wow' />
+</a>
 <a href='https://youtu.be/_vR4aE8kIMc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_vR4aE8kIMc/mqdefault.jpg' alt='¡Google ha lanzado una alternativa a Duolingo! Se llama Little Language Lessons y es 100% gratis.  ✓' />
 </a>
 <a href='https://youtu.be/JcJKdozGYi4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JcJKdozGYi4/mqdefault.jpg' alt='Filtran los prompts de sistema de ChatGPT, Gemini, Claude y Grok. Y el repositorio de "System Prompt' />
-</a>
-<a href='https://youtu.be/0efOIIpVNMI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0efOIIpVNMI/mqdefault.jpg' alt='¿Te cuesta elegir la fuente para tu web? ¡Este recurso es perfecto para diseñadores y programadores!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
