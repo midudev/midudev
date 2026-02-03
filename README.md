@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/69MFUBlNtjk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/69MFUBlNtjk/mqdefault.jpg' alt='Clawdbot + ¿Hacienda hackeada? + Config secreta de IA + MCP Apps + Genie 3 brutal + WordPress 7  wow' />
+<a href='https://youtu.be/LCDh7Y89Ito' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LCDh7Y89Ito/mqdefault.jpg' alt='Google Genie 3 genera mundos enteros interactivos' />
 </a>
 <a href='https://youtu.be/_vR4aE8kIMc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_vR4aE8kIMc/mqdefault.jpg' alt='¡Google ha lanzado una alternativa a Duolingo! Se llama Little Language Lessons y es 100% gratis.  ✓' />
