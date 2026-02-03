@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/FFU9QEjgeKU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/FFU9QEjgeKU/mqdefault.jpg' alt='¿El fin de las empresas de Software?' />
+</a>
 <a href='https://youtu.be/fASSZ5QPMNU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/fASSZ5QPMNU/mqdefault.jpg' alt='¿Vale la pena seguir en Google?' />
 </a>
 <a href='https://youtu.be/C8ddSNuK4zE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/C8ddSNuK4zE/mqdefault.jpg' alt='ChatGPT tiene comerciales (y Sam Altman mintió)' />
-</a>
-<a href='https://youtu.be/LHilK2F1K2Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LHilK2F1K2Y/mqdefault.jpg' alt='Estoy preocupado por Internet' />
 </a>
