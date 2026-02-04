@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/gG-UzPilbTg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gG-UzPilbTg/mqdefault.jpg' alt='¡Brutal TRUCAZO para tus repositorios de GitHub! Accede a una documentación con diagramas y IA.  Cam' />
+</a>
 <a href='https://youtu.be/AeV6EllTLmQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/AeV6EllTLmQ/mqdefault.jpg' alt='Curso de TypeScript desde cero' />
 </a>
 <a href='https://youtu.be/Wi07iZ2paRQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Wi07iZ2paRQ/mqdefault.jpg' alt='¡OpenAI acaba de lanzar la app de Codex! Un centro de comando para controlar tus agentes de IA  ✓ Tr' />
-</a>
-<a href='https://youtu.be/oLEHbO2OkV8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/oLEHbO2OkV8/mqdefault.jpg' alt='¡No INSTALES Clawdbot! Sin ver esto' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
