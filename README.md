@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/p4fUqisah1k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/p4fUqisah1k/mqdefault.jpg' alt='Este repositorio es oro puro y está en Español ¡Las mejores prácticas para programar en Node.js!  ✓' />
+</a>
 <a href='https://youtu.be/O3hW7Fi9IKQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/O3hW7Fi9IKQ/mqdefault.jpg' alt='Encontré el SANTO GRIAL de la IA para programadores' />
 </a>
 <a href='https://youtu.be/gG-UzPilbTg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/gG-UzPilbTg/mqdefault.jpg' alt='¡Brutal TRUCAZO para tus repositorios de GitHub! Accede a una documentación con diagramas y IA.  Cam' />
 </a>
-<a href='https://youtu.be/Wi07iZ2paRQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Wi07iZ2paRQ/mqdefault.jpg' alt='¡OpenAI acaba de lanzar la app de Codex! Un centro de comando para controlar tus agentes de IA  ✓ Tr' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/p6QwRx9EfEA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/p6QwRx9EfEA/mqdefault.jpg' alt='La seguridad de España es...' />
+</a>
 <a href='https://youtu.be/FFU9QEjgeKU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FFU9QEjgeKU/mqdefault.jpg' alt='¿El fin de las empresas de Software?' />
 </a>
 <a href='https://youtu.be/fASSZ5QPMNU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/fASSZ5QPMNU/mqdefault.jpg' alt='¿Vale la pena seguir en Google?' />
-</a>
-<a href='https://youtu.be/C8ddSNuK4zE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/C8ddSNuK4zE/mqdefault.jpg' alt='ChatGPT tiene comerciales (y Sam Altman mintió)' />
 </a>
