@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/7oBIaHxSdtc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7oBIaHxSdtc/mqdefault.jpg' alt='Notepad++ tiene un problema' />
+</a>
 <a href='https://youtu.be/p4fUqisah1k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p4fUqisah1k/mqdefault.jpg' alt='Este repositorio es oro puro y está en Español ¡Las mejores prácticas para programar en Node.js!  ✓' />
 </a>
 <a href='https://youtu.be/O3hW7Fi9IKQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/O3hW7Fi9IKQ/mqdefault.jpg' alt='Encontré el SANTO GRIAL de la IA para programadores' />
-</a>
-<a href='https://youtu.be/gG-UzPilbTg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/gG-UzPilbTg/mqdefault.jpg' alt='¡Brutal TRUCAZO para tus repositorios de GitHub! Accede a una documentación con diagramas y IA.  Cam' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
