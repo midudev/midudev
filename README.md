@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/p6QwRx9EfEA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/p6QwRx9EfEA/mqdefault.jpg' alt='La seguridad de España es...' />
+  <img width='30%' src='https://img.youtube.com/vi/p6QwRx9EfEA/mqdefault.jpg' alt='Supuesta brecha de seguridad en Hacienda' />
 </a>
 <a href='https://youtu.be/FFU9QEjgeKU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FFU9QEjgeKU/mqdefault.jpg' alt='¿El fin de las empresas de Software?' />
