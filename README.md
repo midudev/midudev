@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/DtD1rb-Xq8g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/DtD1rb-Xq8g/mqdefault.jpg' alt='¿Buscas un libro para Aprender Python gratis y en español?  ¡Desde cero y más de 600 páginas de cont' />
+</a>
+<a href='https://youtu.be/vAWSfRJ6Jfs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/vAWSfRJ6Jfs/mqdefault.jpg' alt='Probé 50 cursos de Python: aquí están mis 5 mejores recomendaciones' />
+</a>
 <a href='https://youtu.be/ot-tqlqn-j4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ot-tqlqn-j4/mqdefault.jpg' alt='¡Desarrolla webs Responsive 5 veces más rápido! Extensión OBLIGADA para desarrolladores frontend.  A' />
-</a>
-<a href='https://youtu.be/HGTLSjkkUJ8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HGTLSjkkUJ8/mqdefault.jpg' alt='¿Los programadores le tienen miedo a la IA?' />
-</a>
-<a href='https://youtu.be/7oBIaHxSdtc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7oBIaHxSdtc/mqdefault.jpg' alt='Notepad++ tiene un problema' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
