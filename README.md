@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/m-EUJi7Zing' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/m-EUJi7Zing/mqdefault.jpg' alt='Seedance 2.0 es Salvaje' />
+</a>
 <a href='https://youtu.be/p6QwRx9EfEA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p6QwRx9EfEA/mqdefault.jpg' alt='Supuesta brecha de seguridad en Hacienda' />
 </a>
 <a href='https://youtu.be/FFU9QEjgeKU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FFU9QEjgeKU/mqdefault.jpg' alt='¿El fin de las empresas de Software?' />
-</a>
-<a href='https://youtu.be/fASSZ5QPMNU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fASSZ5QPMNU/mqdefault.jpg' alt='¿Vale la pena seguir en Google?' />
 </a>
