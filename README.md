@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/9IzDOkNigoA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9IzDOkNigoA/mqdefault.jpg' alt='IA para Programadores: Herramientas, integración, modelos y conceptos' />
+</a>
 <a href='https://youtu.be/xQm5hhVjIcY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xQm5hhVjIcY/mqdefault.jpg' alt='Probé GPT-5.3 Codex y Opus 4.6 (mi opinión)' />
+  <img width='30%' src='https://img.youtube.com/vi/xQm5hhVjIcY/mqdefault.jpg' alt='GPT-5.3 Codex y Opus 4.6' />
 </a>
 <a href='https://youtu.be/DtD1rb-Xq8g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DtD1rb-Xq8g/mqdefault.jpg' alt='¿Buscas un libro para Aprender Python gratis y en español?  ¡Desde cero y más de 600 páginas de cont' />
-</a>
-<a href='https://youtu.be/vAWSfRJ6Jfs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vAWSfRJ6Jfs/mqdefault.jpg' alt='Probé 50 cursos de Python: aquí están mis 5 mejores recomendaciones' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
