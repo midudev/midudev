@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/xAgXQgXN0js' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xAgXQgXN0js/mqdefault.jpg' alt='Charla Dev: Cumplo 41 + la IA y tu jefe + un bot que hace PR y te insulta + adiós a GPT 4o + Sorteo' />
+</a>
+<a href='https://youtu.be/ffXDxru_QZU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ffXDxru_QZU/mqdefault.jpg' alt='Charla Dev: Cumplo 41 + la IA y tu jefe + un bot que hace PR y te insulta + adiós a GPT 4o + Sorteo' />
+</a>
 <a href='https://youtu.be/fkJGBbC2OcA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/fkJGBbC2OcA/mqdefault.jpg' alt='El Front-end Framework más popular hasta ahora' />
-</a>
-<a href='https://youtu.be/zsyfYEn7fEI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zsyfYEn7fEI/mqdefault.jpg' alt='Opus 4.6 creó un compilador de C' />
-</a>
-<a href='https://youtu.be/WTqnzJiucmc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WTqnzJiucmc/mqdefault.jpg' alt='¡Vaya tesoro! Colección de APIs gratuitas de modelos de Inteligencia Artificial. Sin pagos y con lím' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
