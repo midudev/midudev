@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/0QlNN8Qw0kk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0QlNN8Qw0kk/mqdefault.jpg' alt='¿Se viene el caos en la IA?' />
+</a>
 <a href='https://youtu.be/TieWgYQ7wDc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TieWgYQ7wDc/mqdefault.jpg' alt='La verdad de los carros de Google' />
 </a>
 <a href='https://youtu.be/zCj8S1IypbU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zCj8S1IypbU/mqdefault.jpg' alt='Anuncios de IA en el  Super Bowl' />
-</a>
-<a href='https://youtu.be/m-EUJi7Zing' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/m-EUJi7Zing/mqdefault.jpg' alt='Seedance 2.0 es Salvaje' />
 </a>
