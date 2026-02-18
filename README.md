@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/0Dv0FcTRpcg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0Dv0FcTRpcg/mqdefault.jpg' alt='Recurso TOP para aprender Algoritmos de Programación. Explicaciones visuales paso a paso y con códig' />
+</a>
 <a href='https://youtu.be/4RVFRqdRPP8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4RVFRqdRPP8/mqdefault.jpg' alt='¡Microsoft lanza un curso de Python + Agentes IA! Gratuito, 100% en Español y en 6 clases prácticas' />
 </a>
 <a href='https://youtu.be/0MGVfynJ4UY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0MGVfynJ4UY/mqdefault.jpg' alt='"Nadie quiere ser informático", mi opinión' />
-</a>
-<a href='https://youtu.be/ylNMXdvStNE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ylNMXdvStNE/mqdefault.jpg' alt='¡Acaba de salir la mejor biblioteca de React de 2026! Es un componente de notificaciones para tu web' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
