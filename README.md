@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/g4YqlkjHnyA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/g4YqlkjHnyA/mqdefault.jpg' alt='¿Rentar una PS5? Se volvieron locos' />
+</a>
 <a href='https://youtu.be/aUmumUvp6Iw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/aUmumUvp6Iw/mqdefault.jpg' alt='Lo tuvieron que dormir' />
 </a>
 <a href='https://youtu.be/0QlNN8Qw0kk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0QlNN8Qw0kk/mqdefault.jpg' alt='¿Se viene el caos en la IA?' />
-</a>
-<a href='https://youtu.be/TieWgYQ7wDc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TieWgYQ7wDc/mqdefault.jpg' alt='La verdad de los carros de Google' />
 </a>
