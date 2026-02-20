@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/2xWhNd2BHkc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2xWhNd2BHkc/mqdefault.jpg' alt='El futuro de las páginas web (los devs no están listos)' />
+  <img width='30%' src='https://img.youtube.com/vi/2xWhNd2BHkc/mqdefault.jpg' alt='El futuro de las páginas web para la IA' />
 </a>
 <a href='https://youtu.be/-ZVeYFRVrKU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-ZVeYFRVrKU/mqdefault.jpg' alt='Curso para integrar Inteligencia Artificial en tu backend + frontend + uso gratuito' />
