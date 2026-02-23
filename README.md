@@ -23,11 +23,11 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/7WNTnZghjtQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7WNTnZghjtQ/mqdefault.jpg' alt='¡Truco para liberar gigas de tu disco duro con un comando!  Yo lo ejecuto de vez en cuando para limp' />
+</a>
 <a href='https://youtu.be/2xWhNd2BHkc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2xWhNd2BHkc/mqdefault.jpg' alt='El futuro de las páginas web para la IA' />
-</a>
-<a href='https://youtu.be/-ZVeYFRVrKU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-ZVeYFRVrKU/mqdefault.jpg' alt='Curso para integrar Inteligencia Artificial en tu backend + frontend + uso gratuito' />
 </a>
 <a href='https://youtu.be/0Dv0FcTRpcg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0Dv0FcTRpcg/mqdefault.jpg' alt='Recurso TOP para aprender Algoritmos de Programación. Explicaciones visuales paso a paso y con códig' />
