@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/cLS-Wq8aC7A' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cLS-Wq8aC7A/mqdefault.jpg' alt='"Criar un Humano Cuesta MÁS que Entrenar una IA" - SAM ALTMAN' />
+</a>
 <a href='https://youtu.be/_BcONl93KT8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_BcONl93KT8/mqdefault.jpg' alt='Sam Altman ha ganado (lo siento, Anthropic)' />
 </a>
 <a href='https://youtu.be/g4YqlkjHnyA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/g4YqlkjHnyA/mqdefault.jpg' alt='¿Rentar una PS5? Se volvieron locos' />
-</a>
-<a href='https://youtu.be/aUmumUvp6Iw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aUmumUvp6Iw/mqdefault.jpg' alt='Lo tuvieron que dormir' />
 </a>
