@@ -23,20 +23,20 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/2aN_-m1uU4k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/2aN_-m1uU4k/mqdefault.jpg' alt='Curso Inteligencia Artificial para Programadores en 2026 (Conceptos, Herramientas, Claude Code)' />
+</a>
+<a href='https://youtu.be/ZO6NHhm0fgI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZO6NHhm0fgI/mqdefault.jpg' alt='¡Brutal recurso para bases de datos SQL!  Es un playground sin instalaciones para: ✓ Crear tablas y' />
+</a>
 <a href='https://youtu.be/CKaSGFLci4I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CKaSGFLci4I/mqdefault.jpg' alt='Probé Google Gemini 3.1 Pro y es...' />
-</a>
-<a href='https://youtu.be/YbR7pDv5y50' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YbR7pDv5y50/mqdefault.jpg' alt='¿Cómo organizar correctamente las carpetas de tu proyecto?  Da igual si utilizas React, Vue, Angular' />
-</a>
-<a href='https://youtu.be/7WNTnZghjtQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7WNTnZghjtQ/mqdefault.jpg' alt='¡Truco para liberar gigas de tu disco duro con un comando!  Yo lo ejecuto de vez en cuando para limp' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/ObSgqRQC92c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ObSgqRQC92c/mqdefault.jpg' alt='Un bot de IA tumbó Amazon Web Services' />
+  <img width='30%' src='https://img.youtube.com/vi/ObSgqRQC92c/mqdefault.jpg' alt='Un agente de IA tumbó Amazon Web Services' />
 </a>
 <a href='https://youtu.be/RaRalxB27wA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RaRalxB27wA/mqdefault.jpg' alt='Lo de La Liga es Salvaje' />
