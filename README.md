@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/ObSgqRQC92c' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ObSgqRQC92c/mqdefault.jpg' alt='Un bot de IA tumbó Amazon Web Services' />
+</a>
 <a href='https://youtu.be/RaRalxB27wA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RaRalxB27wA/mqdefault.jpg' alt='Lo de La Liga es Salvaje' />
 </a>
 <a href='https://youtu.be/cLS-Wq8aC7A' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/cLS-Wq8aC7A/mqdefault.jpg' alt='"Criar un Humano Cuesta MÁS que Entrenar una IA" - SAM ALTMAN' />
-</a>
-<a href='https://youtu.be/_BcONl93KT8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_BcONl93KT8/mqdefault.jpg' alt='Sam Altman ha ganado (lo siento, Anthropic)' />
 </a>
