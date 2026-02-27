@@ -23,20 +23,20 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/T4r2o36Z4MA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/T4r2o36Z4MA/mqdefault.jpg' alt='¡Acaba de salir React Doctor! Una herramienta que detecta anti patrones en tu app de React:  ✓ useEf' />
+</a>
 <a href='https://youtu.be/2aN_-m1uU4k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2aN_-m1uU4k/mqdefault.jpg' alt='Curso Inteligencia Artificial para Programadores en 2026 (Conceptos, Herramientas, Claude Code)' />
 </a>
 <a href='https://youtu.be/ZO6NHhm0fgI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZO6NHhm0fgI/mqdefault.jpg' alt='¡Brutal recurso para bases de datos SQL!  Es un playground sin instalaciones para: ✓ Crear tablas y' />
 </a>
-<a href='https://youtu.be/CKaSGFLci4I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CKaSGFLci4I/mqdefault.jpg' alt='Probé Google Gemini 3.1 Pro y es...' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/Z19OZgqR3zA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Z19OZgqR3zA/mqdefault.jpg' alt='OpenClaw en el punto de mira de Google y Anthropic' />
+  <img width='30%' src='https://img.youtube.com/vi/Z19OZgqR3zA/mqdefault.jpg' alt='No quieren a OpenClaw' />
 </a>
 <a href='https://youtu.be/xn1iHx6Sqr0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xn1iHx6Sqr0/mqdefault.jpg' alt='El futuro de la política en Japón' />
