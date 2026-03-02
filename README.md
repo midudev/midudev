@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/LNXjYsugwoc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LNXjYsugwoc/mqdefault.jpg' alt='¡Cloudflare saca su Next.js!, Anthropic vs USA, OpenAI traiciona, caída de Vercel...' />
+</a>
+<a href='https://youtu.be/ZsD2D15gWcg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZsD2D15gWcg/mqdefault.jpg' alt='Hoy se ha roto Internet. Y no ha sido por un bug.  Un centro de datos de AWS en Emiratos Árabes Unid' />
+</a>
 <a href='https://youtu.be/T4r2o36Z4MA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/T4r2o36Z4MA/mqdefault.jpg' alt='¡Acaba de salir React Doctor! Una herramienta que detecta anti patrones en tu app de React:  ✓ useEf' />
-</a>
-<a href='https://youtu.be/2aN_-m1uU4k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2aN_-m1uU4k/mqdefault.jpg' alt='Curso Inteligencia Artificial para Programadores en 2026 (Conceptos, Herramientas, Claude Code)' />
-</a>
-<a href='https://youtu.be/ZO6NHhm0fgI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZO6NHhm0fgI/mqdefault.jpg' alt='¡Brutal recurso para bases de datos SQL!  Es un playground sin instalaciones para: ✓ Crear tablas y' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
