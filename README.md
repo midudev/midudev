@@ -36,11 +36,11 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/f6ry5mBpah8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/f6ry5mBpah8/mqdefault.jpg' alt='¿Por qué OpenAI? #chatgpt #ia #software #chatgpt #samaltman' />
+  <img width='30%' src='https://img.youtube.com/vi/f6ry5mBpah8/mqdefault.jpg' alt='La traición de Sam Altman a Dario Amodei #chatgpt #ia #software #chatgpt #samaltman #noticias' />
 </a>
 <a href='https://youtu.be/DSF4oeiDugU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DSF4oeiDugU/mqdefault.jpg' alt='Vercel, tenemos un problema' />
 </a>
 <a href='https://youtu.be/Ko1Ho3oLYMc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ko1Ho3oLYMc/mqdefault.jpg' alt='¿Por qué OpenAI?  ¿Por qué?' />
+  <img width='30%' src='https://img.youtube.com/vi/Ko1Ho3oLYMc/mqdefault.jpg' alt='¿Por qué OpenAI? ¿Por qué?' />
 </a>
