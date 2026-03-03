@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Ko1Ho3oLYMc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Ko1Ho3oLYMc/mqdefault.jpg' alt='¿Por qué OpenAI?  ¿Por qué?' />
+</a>
 <a href='https://youtu.be/Z19OZgqR3zA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Z19OZgqR3zA/mqdefault.jpg' alt='No quieren a OpenClaw' />
 </a>
 <a href='https://youtu.be/xn1iHx6Sqr0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xn1iHx6Sqr0/mqdefault.jpg' alt='El futuro de la política en Japón' />
-</a>
-<a href='https://youtu.be/ObSgqRQC92c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ObSgqRQC92c/mqdefault.jpg' alt='Un agente de IA tumbó Amazon Web Services' />
 </a>
