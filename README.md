@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/8jCreTp4GSU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8jCreTp4GSU/mqdefault.jpg' alt='Trucazo para generar la documentación de cualquier repositorio de GitHub público. En pocos minutos y' />
+</a>
 <a href='https://youtu.be/1D_voSUWuGQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/1D_voSUWuGQ/mqdefault.jpg' alt='El killer de Next.js' />
+  <img width='30%' src='https://img.youtube.com/vi/1D_voSUWuGQ/mqdefault.jpg' alt='Cloudflare saca su propio Next.js' />
 </a>
 <a href='https://youtu.be/LNXjYsugwoc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LNXjYsugwoc/mqdefault.jpg' alt='¡Cloudflare saca su Next.js!, Anthropic vs USA, OpenAI traiciona, caída de Vercel...' />
 </a>
-<a href='https://youtu.be/ZsD2D15gWcg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZsD2D15gWcg/mqdefault.jpg' alt='Hoy se ha roto Internet. Y no ha sido por un bug.  Un centro de datos de AWS en Emiratos Árabes Unid' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Usa_3meFA9k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Usa_3meFA9k/mqdefault.jpg' alt='Los despidos masivos por culpa de la IA' />
+</a>
 <a href='https://youtu.be/f6ry5mBpah8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/f6ry5mBpah8/mqdefault.jpg' alt='La traición de Sam Altman a Dario Amodei #chatgpt #ia #software #chatgpt #samaltman #noticias' />
 </a>
 <a href='https://youtu.be/DSF4oeiDugU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DSF4oeiDugU/mqdefault.jpg' alt='Vercel, tenemos un problema' />
-</a>
-<a href='https://youtu.be/Ko1Ho3oLYMc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ko1Ho3oLYMc/mqdefault.jpg' alt='¿Por qué OpenAI? ¿Por qué?' />
 </a>
