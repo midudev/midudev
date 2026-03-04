@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/1D_voSUWuGQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1D_voSUWuGQ/mqdefault.jpg' alt='El killer de Next.js' />
+</a>
 <a href='https://youtu.be/LNXjYsugwoc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LNXjYsugwoc/mqdefault.jpg' alt='¡Cloudflare saca su Next.js!, Anthropic vs USA, OpenAI traiciona, caída de Vercel...' />
 </a>
 <a href='https://youtu.be/ZsD2D15gWcg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZsD2D15gWcg/mqdefault.jpg' alt='Hoy se ha roto Internet. Y no ha sido por un bug.  Un centro de datos de AWS en Emiratos Árabes Unid' />
-</a>
-<a href='https://youtu.be/T4r2o36Z4MA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/T4r2o36Z4MA/mqdefault.jpg' alt='¡Acaba de salir React Doctor! Una herramienta que detecta anti patrones en tu app de React:  ✓ useEf' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
