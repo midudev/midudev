@@ -36,11 +36,11 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/Usa_3meFA9k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Usa_3meFA9k/mqdefault.jpg' alt='Los despidos masivos por culpa de la IA' />
+  <img width='30%' src='https://img.youtube.com/vi/Usa_3meFA9k/mqdefault.jpg' alt='Usan de excusa la IA para despedir' />
 </a>
 <a href='https://youtu.be/f6ry5mBpah8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/f6ry5mBpah8/mqdefault.jpg' alt='La traición de Sam Altman a Dario Amodei #chatgpt #ia #software #chatgpt #samaltman #noticias' />
 </a>
 <a href='https://youtu.be/DSF4oeiDugU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DSF4oeiDugU/mqdefault.jpg' alt='Vercel, tenemos un problema' />
+  <img width='30%' src='https://img.youtube.com/vi/DSF4oeiDugU/mqdefault.jpg' alt='Problemas en Vercel por la guerr* de Irán' />
 </a>
