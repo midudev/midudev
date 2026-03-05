@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Bt0HsyL286s' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Bt0HsyL286s/mqdefault.jpg' alt='"No cometas errores y push directo a producción".  Es broma pero seguro que a alguien ya le ha pasad' />
+</a>
 <a href='https://youtu.be/8jCreTp4GSU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8jCreTp4GSU/mqdefault.jpg' alt='Trucazo para generar la documentación de cualquier repositorio de GitHub público. En pocos minutos y' />
 </a>
 <a href='https://youtu.be/1D_voSUWuGQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1D_voSUWuGQ/mqdefault.jpg' alt='Cloudflare saca su propio Next.js' />
-</a>
-<a href='https://youtu.be/LNXjYsugwoc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LNXjYsugwoc/mqdefault.jpg' alt='¡Cloudflare saca su Next.js!, Anthropic vs USA, OpenAI traiciona, caída de Vercel...' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
