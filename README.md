@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/UwyWK5FzyOU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/UwyWK5FzyOU/mqdefault.jpg' alt='Así se ve la página web más cara del mundo #software #programming #website' />
+</a>
 <a href='https://youtu.be/tJQZZTUoW58' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tJQZZTUoW58/mqdefault.jpg' alt='Spotify VS programadores #software #spotify #programming #tecnologia #music' />
 </a>
 <a href='https://youtu.be/Usa_3meFA9k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Usa_3meFA9k/mqdefault.jpg' alt='Despiden a 4000 personas por... ¿La IA? ¡Lo revisamos!' />
-</a>
-<a href='https://youtu.be/f6ry5mBpah8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/f6ry5mBpah8/mqdefault.jpg' alt='La traición de Sam Altman a Dario Amodei #chatgpt #ia #software #chatgpt #samaltman #noticias' />
 </a>
