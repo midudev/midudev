@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Bh3u33ERUOk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Bh3u33ERUOk/mqdefault.jpg' alt='JSCONF 2026: Conferencia de Programación + IA con charlas en vivo' />
+</a>
 <a href='https://youtu.be/YIEvtupNSS0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YIEvtupNSS0/mqdefault.jpg' alt='Los programadores se están volviendo locos con esta herramienta' />
 </a>
 <a href='https://youtu.be/lm86hVVJ_fk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lm86hVVJ_fk/mqdefault.jpg' alt='Microsoft acaba de lanzar "MCP para principiantes". Diseñado para desarrolladores y desde cero.  ✓ D' />
 </a>
-<a href='https://youtu.be/Bt0HsyL286s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Bt0HsyL286s/mqdefault.jpg' alt='"No cometas errores y push directo a producción".  Es broma pero seguro que a alguien ya le ha pasad' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/LcK-_kiwsSo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LcK-_kiwsSo/mqdefault.jpg' alt='Anthropic vs OpenAI' />
+</a>
 <a href='https://youtu.be/UwyWK5FzyOU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UwyWK5FzyOU/mqdefault.jpg' alt='Así se ve la página web más cara del mundo #software #programming #website' />
 </a>
 <a href='https://youtu.be/tJQZZTUoW58' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tJQZZTUoW58/mqdefault.jpg' alt='Spotify VS programadores #software #spotify #programming #tecnologia #music' />
-</a>
-<a href='https://youtu.be/Usa_3meFA9k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Usa_3meFA9k/mqdefault.jpg' alt='Despiden a 4000 personas por... ¿La IA? ¡Lo revisamos!' />
 </a>
