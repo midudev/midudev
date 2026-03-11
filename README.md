@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/YIEvtupNSS0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YIEvtupNSS0/mqdefault.jpg' alt='Esto reemplaza a tus puertos' />
+  <img width='30%' src='https://img.youtube.com/vi/YIEvtupNSS0/mqdefault.jpg' alt='Los programadores se están volviendo locos con esta herramienta' />
 </a>
 <a href='https://youtu.be/lm86hVVJ_fk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lm86hVVJ_fk/mqdefault.jpg' alt='Microsoft acaba de lanzar "MCP para principiantes". Diseñado para desarrolladores y desde cero.  ✓ D' />
