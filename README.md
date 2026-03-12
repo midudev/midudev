@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/0vq5uqioGMY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0vq5uqioGMY/mqdefault.jpg' alt='Microsoft abandona OpenAI y es... #software #programming #chatgpt' />
+  <img width='30%' src='https://img.youtube.com/vi/0vq5uqioGMY/mqdefault.jpg' alt='Microsoft abandona OpenAI por esto #software #programming #chatgpt' />
 </a>
 <a href='https://youtu.be/hKFB3pUNefE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hKFB3pUNefE/mqdefault.jpg' alt='La pagina web más cara del mundo' />
