@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/0vq5uqioGMY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0vq5uqioGMY/mqdefault.jpg' alt='Microsoft abandona OpenAI y es... #software #programming #chatgpt' />
+</a>
+<a href='https://youtu.be/hKFB3pUNefE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/hKFB3pUNefE/mqdefault.jpg' alt='La pagina web más cara del mundo' />
+</a>
 <a href='https://youtu.be/LcK-_kiwsSo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LcK-_kiwsSo/mqdefault.jpg' alt='Anthropic vs OpenAI' />
-</a>
-<a href='https://youtu.be/UwyWK5FzyOU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UwyWK5FzyOU/mqdefault.jpg' alt='Así se ve la página web más cara del mundo #software #programming #website' />
-</a>
-<a href='https://youtu.be/tJQZZTUoW58' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tJQZZTUoW58/mqdefault.jpg' alt='Spotify VS programadores #software #spotify #programming #tecnologia #music' />
 </a>
