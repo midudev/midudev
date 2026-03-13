@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/_fEqQp75zic' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_fEqQp75zic/mqdefault.jpg' alt='¿Qué modelos de IA funcionan en tu PC?' />
+</a>
 <a href='https://youtu.be/yShputBbVv4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yShputBbVv4/mqdefault.jpg' alt='¡Microsoft se alía con Anthropic! Y han sacado Copilot Cowork, que se integrará con Word, Excel, Out' />
 </a>
 <a href='https://youtu.be/l3FO1jn1-2A' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/l3FO1jn1-2A/mqdefault.jpg' alt='“No saber programación es una ventaja” mi opinión' />
-</a>
-<a href='https://youtu.be/8BRbFrWuCCk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8BRbFrWuCCk/mqdefault.jpg' alt='Claude Code puede hacer una demo que parezca un clon de Airbnb.  Pero una demo no es un producto.  E' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
