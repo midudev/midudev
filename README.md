@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Bh3u33ERUOk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Bh3u33ERUOk/mqdefault.jpg' alt='JSCONF 2026: Conferencia de Programación + IA con charlas en vivo' />
+</a>
 <a href='https://youtu.be/eCQnmHQh4-8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/eCQnmHQh4-8/mqdefault.jpg' alt='La IA le quitó el arte a la programación' />
 </a>
 <a href='https://youtu.be/i4e3icOYQBY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/i4e3icOYQBY/mqdefault.jpg' alt='El gran problema de la IA de Google en el navegador' />
-</a>
-<a href='https://youtu.be/_fEqQp75zic' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_fEqQp75zic/mqdefault.jpg' alt='¿Qué modelos de IA funcionan en tu PC?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
