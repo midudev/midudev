@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/bnnIP0eigDg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/bnnIP0eigDg/mqdefault.jpg' alt='Me ha escrito NVIDIA + Oferta para juniors + Vite 8 + ¡Competencia de Vercel! + Pokémon te robó' />
+</a>
+<a href='https://youtu.be/V4PzBrzhILM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/V4PzBrzhILM/mqdefault.jpg' alt='Busco a 2 programadores para la web de La Velada VI' />
+</a>
 <a href='https://youtu.be/eCQnmHQh4-8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/eCQnmHQh4-8/mqdefault.jpg' alt='La IA le quitó el arte a la programación' />
-</a>
-<a href='https://youtu.be/i4e3icOYQBY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/i4e3icOYQBY/mqdefault.jpg' alt='El gran problema de la IA de Google en el navegador' />
-</a>
-<a href='https://youtu.be/_fEqQp75zic' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_fEqQp75zic/mqdefault.jpg' alt='¿Qué modelos de IA funcionan en tu PC?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
