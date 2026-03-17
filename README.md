@@ -36,7 +36,7 @@
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/RIFKTJlFsrI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RIFKTJlFsrI/mqdefault.jpg' alt='KAREN VS ROBOT #software #robot #tecnologia' />
+  <img width='30%' src='https://img.youtube.com/vi/RIFKTJlFsrI/mqdefault.jpg' alt='Policias arrestan a robot #software #ia #tecnologia' />
 </a>
 <a href='https://youtu.be/zxGcSha0lX0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zxGcSha0lX0/mqdefault.jpg' alt='Pokémon GO te usó para crear ESTO.' />
