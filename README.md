@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/-bdp04ENBuM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/-bdp04ENBuM/mqdefault.jpg' alt='¡Curso oficial con certificado final de Claude Code! 15 lecciones y 1 hora de vídeo. De 0 hasta MCPs' />
+</a>
+<a href='https://youtu.be/A0QAVidne7c' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/A0QAVidne7c/mqdefault.jpg' alt='Vite 8.0 es...' />
+</a>
 <a href='https://youtu.be/bnnIP0eigDg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/bnnIP0eigDg/mqdefault.jpg' alt='Me ha escrito NVIDIA + Oferta para juniors + Vite 8 + ¡Competencia de Vercel! + Pokémon te robó' />
-</a>
-<a href='https://youtu.be/V4PzBrzhILM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/V4PzBrzhILM/mqdefault.jpg' alt='Busco a 2 programadores para la web de La Velada VI' />
-</a>
-<a href='https://youtu.be/eCQnmHQh4-8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/eCQnmHQh4-8/mqdefault.jpg' alt='La IA le quitó el arte a la programación' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/RIFKTJlFsrI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/RIFKTJlFsrI/mqdefault.jpg' alt='KAREN VS ROBOT #software #robot #tecnologia' />
+</a>
 <a href='https://youtu.be/zxGcSha0lX0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zxGcSha0lX0/mqdefault.jpg' alt='Pokémon GO te usó para crear ESTO.' />
 </a>
 <a href='https://youtu.be/0vq5uqioGMY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0vq5uqioGMY/mqdefault.jpg' alt='Microsoft abandona OpenAI por esto #software #programming #chatgpt' />
-</a>
-<a href='https://youtu.be/hKFB3pUNefE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hKFB3pUNefE/mqdefault.jpg' alt='La pagina web más cara del mundo' />
 </a>
