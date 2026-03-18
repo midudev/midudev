@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/8xniE5TEFvI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8xniE5TEFvI/mqdefault.jpg' alt='Esto ya se salió de control' />
+</a>
 <a href='https://youtu.be/-bdp04ENBuM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-bdp04ENBuM/mqdefault.jpg' alt='¡Curso oficial con certificado final de Claude Code! 15 lecciones y 1 hora de vídeo. De 0 hasta MCPs' />
 </a>
 <a href='https://youtu.be/A0QAVidne7c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/A0QAVidne7c/mqdefault.jpg' alt='Vite 8.0 es...' />
-</a>
-<a href='https://youtu.be/bnnIP0eigDg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/bnnIP0eigDg/mqdefault.jpg' alt='Me ha escrito NVIDIA + Oferta para juniors + Vite 8 + ¡Competencia de Vercel! + Pokémon te robó' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
