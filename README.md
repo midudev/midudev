@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/3iLxvp0NNI0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/3iLxvp0NNI0/mqdefault.jpg' alt='Vercel está furioso con Cloudflare' />
+</a>
 <a href='https://youtu.be/5_f6FdjkYgU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5_f6FdjkYgU/mqdefault.jpg' alt='Oferta de trabajo para programadores Junior' />
 </a>
 <a href='https://youtu.be/8xniE5TEFvI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8xniE5TEFvI/mqdefault.jpg' alt='Esto ya se salió de control' />
-</a>
-<a href='https://youtu.be/-bdp04ENBuM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-bdp04ENBuM/mqdefault.jpg' alt='¡Curso oficial con certificado final de Claude Code! 15 lecciones y 1 hora de vídeo. De 0 hasta MCPs' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
