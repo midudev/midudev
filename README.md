@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/T0VlcnJ9r5A' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/T0VlcnJ9r5A/mqdefault.jpg' alt='Aprende a integrar IA a tu Aplicación Web (con modelos GRATIS)' />
+</a>
 <a href='https://youtu.be/LPrqEQvaQbQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LPrqEQvaQbQ/mqdefault.jpg' alt='¿Crees que aprender programación es difícil? Piensa cómo aprendieron los que vinieron antes.  Sin Ch' />
 </a>
 <a href='https://youtu.be/TpiNiICroMA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TpiNiICroMA/mqdefault.jpg' alt='Crea una API de IA Gratis desde cero + Deploy a VPS con Dokploy + Hackathon con premios' />
-</a>
-<a href='https://youtu.be/3iLxvp0NNI0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/3iLxvp0NNI0/mqdefault.jpg' alt='Vercel está furioso con Cloudflare' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
