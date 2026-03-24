@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/TCYwCRJnlO4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TCYwCRJnlO4/mqdefault.jpg' alt='Gracias, Microsoft...' />
+</a>
 <a href='https://youtu.be/RIFKTJlFsrI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RIFKTJlFsrI/mqdefault.jpg' alt='Policias arrestan a robot #software #ia #tecnologia' />
 </a>
 <a href='https://youtu.be/zxGcSha0lX0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zxGcSha0lX0/mqdefault.jpg' alt='Pokémon GO te usó para crear ESTO.' />
-</a>
-<a href='https://youtu.be/0vq5uqioGMY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0vq5uqioGMY/mqdefault.jpg' alt='Microsoft abandona OpenAI por esto #software #programming #chatgpt' />
 </a>
