@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/8a7ao73aJhE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8a7ao73aJhE/mqdefault.jpg' alt='La universidad de Stanford abre su curso de Python con certificado final a todo el mundo y sin coste' />
+</a>
 <a href='https://youtu.be/b3Nkhx9P0aE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/b3Nkhx9P0aE/mqdefault.jpg' alt='¡No sufras maquetando emails nunca más! Deja de usar tablas gracias a React Email.  Un catálogo de c' />
 </a>
 <a href='https://youtu.be/T0VlcnJ9r5A' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/T0VlcnJ9r5A/mqdefault.jpg' alt='Aprende a integrar IA a tu Aplicación Web (con modelos GRATIS)' />
-</a>
-<a href='https://youtu.be/LPrqEQvaQbQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LPrqEQvaQbQ/mqdefault.jpg' alt='¿Crees que aprender programación es difícil? Piensa cómo aprendieron los que vinieron antes.  Sin Ch' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
