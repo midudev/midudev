@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/kCB_bnz5txQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/kCB_bnz5txQ/mqdefault.jpg' alt='Cursor IA no es lo que parece' />
+</a>
 <a href='https://youtu.be/xrms_JDYnx4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xrms_JDYnx4/mqdefault.jpg' alt='Así te descartan en pruebas técnicas en segundos. El 50% de los candidatos lo resuelven mal. ¿Y tú?' />
 </a>
 <a href='https://youtu.be/ikdCG4goKIE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ikdCG4goKIE/mqdefault.jpg' alt='Me hackearon' />
-</a>
-<a href='https://youtu.be/Ok4D_F3jD74' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ok4D_F3jD74/mqdefault.jpg' alt='Aprende SQL desde CERO: Sintaxis, Bases de Datos, JOIN, integración con Node, Prisma y más...' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
