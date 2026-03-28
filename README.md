@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/R_Tko6neoZk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/R_Tko6neoZk/mqdefault.jpg' alt='Está pasando...' />
+</a>
 <a href='https://youtu.be/kCB_bnz5txQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kCB_bnz5txQ/mqdefault.jpg' alt='El nuevo modelo de Cursor no es lo que parece' />
 </a>
 <a href='https://youtu.be/xrms_JDYnx4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xrms_JDYnx4/mqdefault.jpg' alt='Así te descartan en pruebas técnicas en segundos. El 50% de los candidatos lo resuelven mal. ¿Y tú?' />
-</a>
-<a href='https://youtu.be/ikdCG4goKIE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ikdCG4goKIE/mqdefault.jpg' alt='Me hackearon' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
