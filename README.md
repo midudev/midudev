@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/R_Tko6neoZk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/R_Tko6neoZk/mqdefault.jpg' alt='Está pasando...' />
+<a href='https://youtu.be/hUNJL06Z318' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/hUNJL06Z318/mqdefault.jpg' alt='Refactoring & Testing (TBD) con Carlos Blé & Jorge Aguiar. Workshop #JSCONF2026' />
 </a>
-<a href='https://youtu.be/kCB_bnz5txQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kCB_bnz5txQ/mqdefault.jpg' alt='El nuevo modelo de Cursor no es lo que parece' />
+<a href='https://youtu.be/eHsBTiRdxSc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/eHsBTiRdxSc/mqdefault.jpg' alt='Live coding: desarrollar una app fullStack sin salir del IDE con Windsurf AI. Workshop #JSCONF2026' />
 </a>
-<a href='https://youtu.be/xrms_JDYnx4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xrms_JDYnx4/mqdefault.jpg' alt='Así te descartan en pruebas técnicas en segundos. El 50% de los candidatos lo resuelven mal. ¿Y tú?' />
+<a href='https://youtu.be/LXPIz6-FEyg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LXPIz6-FEyg/mqdefault.jpg' alt='Astro y Headless CMS: La combinación perfecta. Workshop #JSCONF2026' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
