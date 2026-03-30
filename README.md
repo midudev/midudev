@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/UvnFvA6MymA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/UvnFvA6MymA/mqdefault.jpg' alt='Hackeo brutal en IA + Claude Code recorta fuerte + lo de Epic + vuelve el empleo dev + la RAM...' />
+</a>
+<a href='https://youtu.be/Kt4j9Hvx0ik' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Kt4j9Hvx0ik/mqdefault.jpg' alt='¡Ojo con esto si usas GitHub Copilot!  A partir del 24 de abril tus prompts, respuestas, código y co' />
+</a>
 <a href='https://youtu.be/hUNJL06Z318' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hUNJL06Z318/mqdefault.jpg' alt='Refactoring & Testing (TBD) con Carlos Blé & Jorge Aguiar. Workshop #JSCONF2026' />
-</a>
-<a href='https://youtu.be/eHsBTiRdxSc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/eHsBTiRdxSc/mqdefault.jpg' alt='Live coding: desarrollar una app fullStack sin salir del IDE con Windsurf AI. Workshop #JSCONF2026' />
-</a>
-<a href='https://youtu.be/LXPIz6-FEyg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LXPIz6-FEyg/mqdefault.jpg' alt='Astro y Headless CMS: La combinación perfecta. Workshop #JSCONF2026' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
