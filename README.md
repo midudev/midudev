@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/UvnFvA6MymA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UvnFvA6MymA/mqdefault.jpg' alt='Hackeo brutal en IA + Claude Code recorta fuerte + lo de Epic + vuelve el empleo dev + la RAM...' />
+<a href='https://youtu.be/phDBHfhMyEA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/phDBHfhMyEA/mqdefault.jpg' alt='Un cambio de juego en el Desarrollo web' />
 </a>
 <a href='https://youtu.be/Kt4j9Hvx0ik' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Kt4j9Hvx0ik/mqdefault.jpg' alt='¡Ojo con esto si usas GitHub Copilot!  A partir del 24 de abril tus prompts, respuestas, código y co' />
