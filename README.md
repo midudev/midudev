@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/9r2DwV5KwTc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9r2DwV5KwTc/mqdefault.jpg' alt='Anthropic filtró su código de Claude code' />
+</a>
 <a href='https://youtu.be/DTZjrJXmPlE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DTZjrJXmPlE/mqdefault.jpg' alt='¡Se ha filtrado TODO el código fuente de Claude Code!  Y no por un hackeo sofisticado ni un ataque..' />
 </a>
 <a href='https://youtu.be/vmMDzNlfQEU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vmMDzNlfQEU/mqdefault.jpg' alt='El estado actual de los empleos para programadores 2026' />
-</a>
-<a href='https://youtu.be/phDBHfhMyEA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/phDBHfhMyEA/mqdefault.jpg' alt='Un cambio de juego en el Desarrollo web' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
