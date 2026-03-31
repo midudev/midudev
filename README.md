@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/DTZjrJXmPlE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/DTZjrJXmPlE/mqdefault.jpg' alt='¡Se ha filtrado TODO el código fuente de Claude Code!  Y no por un hackeo sofisticado ni un ataque..' />
+</a>
+<a href='https://youtu.be/vmMDzNlfQEU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/vmMDzNlfQEU/mqdefault.jpg' alt='El estado actual de los empleos para programadores 2026' />
+</a>
 <a href='https://youtu.be/phDBHfhMyEA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/phDBHfhMyEA/mqdefault.jpg' alt='Un cambio de juego en el Desarrollo web' />
-</a>
-<a href='https://youtu.be/Kt4j9Hvx0ik' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Kt4j9Hvx0ik/mqdefault.jpg' alt='¡Ojo con esto si usas GitHub Copilot!  A partir del 24 de abril tus prompts, respuestas, código y co' />
-</a>
-<a href='https://youtu.be/hUNJL06Z318' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hUNJL06Z318/mqdefault.jpg' alt='Refactoring & Testing (TBD) con Carlos Blé & Jorge Aguiar. Workshop #JSCONF2026' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
