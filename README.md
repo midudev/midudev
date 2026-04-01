@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/9r2DwV5KwTc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9r2DwV5KwTc/mqdefault.jpg' alt='Anthropic filtró su código de Claude code' />
+  <img width='30%' src='https://img.youtube.com/vi/9r2DwV5KwTc/mqdefault.jpg' alt='¡Se filtró el código de Claude Code!' />
 </a>
 <a href='https://youtu.be/DTZjrJXmPlE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DTZjrJXmPlE/mqdefault.jpg' alt='¡Se ha filtrado TODO el código fuente de Claude Code!  Y no por un hackeo sofisticado ni un ataque..' />
