@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/PPIT6DP-UIg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PPIT6DP-UIg/mqdefault.jpg' alt='Se filtra el código de Claude Code + me funan + Hackean el paquete axios + Los despidos en Oracle' />
-</a>
 <a href='https://youtu.be/66QiqAb-Th8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/66QiqAb-Th8/mqdefault.jpg' alt='¡Brutal lo nuevo de Google! Si el diseño se te atraganta al crear una web o app, Stitch te va a salv' />
 </a>
 <a href='https://youtu.be/B1cftHnmngQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/B1cftHnmngQ/mqdefault.jpg' alt='¡Hackearon paquete importante de Python!' />
 </a>
+<a href='https://youtu.be/9r2DwV5KwTc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9r2DwV5KwTc/mqdefault.jpg' alt='¡Se filtró el código de Claude Code!' />
+</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/qsoNnFRmyhk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qsoNnFRmyhk/mqdefault.jpg' alt='La RAM se desploma...' />
+</a>
 <a href='https://youtu.be/K0NZrGgu6L8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/K0NZrGgu6L8/mqdefault.jpg' alt='El DLSS 5 de NVIDIA es...' />
 </a>
 <a href='https://youtu.be/TCYwCRJnlO4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TCYwCRJnlO4/mqdefault.jpg' alt='Gracias, Microsoft...' />
-</a>
-<a href='https://youtu.be/RIFKTJlFsrI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RIFKTJlFsrI/mqdefault.jpg' alt='Policias arrestan a robot #software #ia #tecnologia' />
 </a>
