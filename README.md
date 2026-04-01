@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/9r2DwV5KwTc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9r2DwV5KwTc/mqdefault.jpg' alt='¡Se filtró el código de Claude Code!' />
+<a href='https://youtu.be/PPIT6DP-UIg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PPIT6DP-UIg/mqdefault.jpg' alt='Se filtra el código de Claude Code + me funan + Hackean el paquete axios + Los despidos en Oracle' />
 </a>
-<a href='https://youtu.be/DTZjrJXmPlE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DTZjrJXmPlE/mqdefault.jpg' alt='¡Se ha filtrado TODO el código fuente de Claude Code!  Y no por un hackeo sofisticado ni un ataque..' />
+<a href='https://youtu.be/66QiqAb-Th8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/66QiqAb-Th8/mqdefault.jpg' alt='¡Brutal lo nuevo de Google! Si el diseño se te atraganta al crear una web o app, Stitch te va a salv' />
 </a>
-<a href='https://youtu.be/vmMDzNlfQEU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vmMDzNlfQEU/mqdefault.jpg' alt='El estado actual de los empleos para programadores 2026' />
+<a href='https://youtu.be/B1cftHnmngQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/B1cftHnmngQ/mqdefault.jpg' alt='¡Hackearon paquete importante de Python!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
