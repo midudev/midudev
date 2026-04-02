@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/M_m7U94EFiU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/M_m7U94EFiU/mqdefault.jpg' alt='Despidos masivos en Oracle' />
+</a>
 <a href='https://youtu.be/qsoNnFRmyhk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qsoNnFRmyhk/mqdefault.jpg' alt='La RAM se desploma...' />
 </a>
 <a href='https://youtu.be/K0NZrGgu6L8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/K0NZrGgu6L8/mqdefault.jpg' alt='El DLSS 5 de NVIDIA es...' />
-</a>
-<a href='https://youtu.be/TCYwCRJnlO4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TCYwCRJnlO4/mqdefault.jpg' alt='Gracias, Microsoft...' />
 </a>
