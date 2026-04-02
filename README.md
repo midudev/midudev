@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/PFJd_RE_fAs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PFJd_RE_fAs/mqdefault.jpg' alt='Axios acaba de ser hackeado (y es peor de lo que crees)' />
+</a>
 <a href='https://youtu.be/66QiqAb-Th8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/66QiqAb-Th8/mqdefault.jpg' alt='¡Brutal lo nuevo de Google! Si el diseño se te atraganta al crear una web o app, Stitch te va a salv' />
 </a>
 <a href='https://youtu.be/B1cftHnmngQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/B1cftHnmngQ/mqdefault.jpg' alt='¡Hackearon paquete importante de Python!' />
-</a>
-<a href='https://youtu.be/9r2DwV5KwTc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9r2DwV5KwTc/mqdefault.jpg' alt='¡Se filtró el código de Claude Code!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
