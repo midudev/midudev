@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/CEUiv2E8iEs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CEUiv2E8iEs/mqdefault.jpg' alt='¡Guía para entrevistas técnicas de programación!  ✓ Patrones de diseño ✓ Arquitectura de software ✓' />
+</a>
+<a href='https://youtu.be/MFXhkwjKHA4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MFXhkwjKHA4/mqdefault.jpg' alt='Es más grave de lo que parece...' />
+</a>
 <a href='https://youtu.be/PFJd_RE_fAs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/PFJd_RE_fAs/mqdefault.jpg' alt='Axios acaba de ser hackeado (y es peor de lo que crees)' />
-</a>
-<a href='https://youtu.be/66QiqAb-Th8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/66QiqAb-Th8/mqdefault.jpg' alt='¡Brutal lo nuevo de Google! Si el diseño se te atraganta al crear una web o app, Stitch te va a salv' />
-</a>
-<a href='https://youtu.be/B1cftHnmngQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/B1cftHnmngQ/mqdefault.jpg' alt='¡Hackearon paquete importante de Python!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
