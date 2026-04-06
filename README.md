@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/7f07T_nsryQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7f07T_nsryQ/mqdefault.jpg' alt='Node en apuros, cuidado con Corea del Norte, estafa IA, más recortes de Claude, La Liga es el mal' />
+</a>
+<a href='https://youtu.be/1NJuxiovJ7E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1NJuxiovJ7E/mqdefault.jpg' alt='Trucazo de GitHub que poca gente conoce.  Crea mejores READMEs para tus proyectos o tu perfil.  Son' />
+</a>
 <a href='https://youtu.be/CEUiv2E8iEs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CEUiv2E8iEs/mqdefault.jpg' alt='¡Guía para entrevistas técnicas de programación!  ✓ Patrones de diseño ✓ Arquitectura de software ✓' />
-</a>
-<a href='https://youtu.be/MFXhkwjKHA4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MFXhkwjKHA4/mqdefault.jpg' alt='Es más grave de lo que parece...' />
-</a>
-<a href='https://youtu.be/PFJd_RE_fAs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PFJd_RE_fAs/mqdefault.jpg' alt='Axios acaba de ser hackeado (y es peor de lo que crees)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
