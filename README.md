@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/jZ1hvbCgfO4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jZ1hvbCgfO4/mqdefault.jpg' alt='¡Comparte tus proyectos en local con cualquiera usando Visual Studio Code!  Esta nueva funcionalidad' />
+</a>
+<a href='https://youtu.be/1VaSXlQnHfA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1VaSXlQnHfA/mqdefault.jpg' alt='Claude... ¿Esto es una broma?' />
+</a>
 <a href='https://youtu.be/1NJuxiovJ7E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1NJuxiovJ7E/mqdefault.jpg' alt='Trucazo de GitHub que poca gente conoce.  Crea mejores READMEs para tus proyectos o tu perfil.  Son' />
-</a>
-<a href='https://youtu.be/CEUiv2E8iEs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CEUiv2E8iEs/mqdefault.jpg' alt='¡Guía para entrevistas técnicas de programación!  ✓ Patrones de diseño ✓ Arquitectura de software ✓' />
-</a>
-<a href='https://youtu.be/MFXhkwjKHA4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MFXhkwjKHA4/mqdefault.jpg' alt='Es más grave de lo que parece...' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
