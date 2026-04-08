@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/MHurl__dTYk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MHurl__dTYk/mqdefault.jpg' alt='Esto es malo para Node.js' />
+<a href='https://youtu.be/tMatrUSTV9k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/tMatrUSTV9k/mqdefault.jpg' alt='Nuevo modelo de Anthropic + Espías Norcoreanos infiltrándose + la actriz de RE saca cosas de IA' />
 </a>
-<a href='https://youtu.be/jZ1hvbCgfO4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jZ1hvbCgfO4/mqdefault.jpg' alt='¡Comparte tus proyectos en local con cualquiera usando Visual Studio Code!  Esta nueva funcionalidad' />
+<a href='https://youtu.be/JRX5INt_6wI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/JRX5INt_6wI/mqdefault.jpg' alt='¡CISCO tiene 2 cursos de Python en Español y gratis!  ✓ Con certificado final ✓ 70 horas de contenid' />
 </a>
-<a href='https://youtu.be/1VaSXlQnHfA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/1VaSXlQnHfA/mqdefault.jpg' alt='Claude... ¿Esto es una broma?' />
+<a href='https://youtu.be/VI9Laffzt7o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/VI9Laffzt7o/mqdefault.jpg' alt='El hackeo más Salvaje sin código' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
