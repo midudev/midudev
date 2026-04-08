@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/tMatrUSTV9k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tMatrUSTV9k/mqdefault.jpg' alt='Nuevo modelo de Anthropic + Espías Norcoreanos infiltrándose + la actriz de RE saca cosas de IA' />
+<a href='https://youtu.be/p6ynR1c5TPA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/p6ynR1c5TPA/mqdefault.jpg' alt='Claude Mythos: La IA más peligrosa hasta ahora' />
 </a>
 <a href='https://youtu.be/JRX5INt_6wI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JRX5INt_6wI/mqdefault.jpg' alt='¡CISCO tiene 2 cursos de Python en Español y gratis!  ✓ Con certificado final ✓ 70 horas de contenid' />
