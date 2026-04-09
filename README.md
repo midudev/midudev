@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/idrg55z0U-Q' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/idrg55z0U-Q/mqdefault.jpg' alt='¿Sabías que con HTML puedes improvisar un editor de CSS directamente en cualquier página?  Solo nece' />
+</a>
 <a href='https://youtu.be/p6ynR1c5TPA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p6ynR1c5TPA/mqdefault.jpg' alt='¡Claude Mythos finalmente esta aquí!' />
 </a>
 <a href='https://youtu.be/JRX5INt_6wI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JRX5INt_6wI/mqdefault.jpg' alt='¡CISCO tiene 2 cursos de Python en Español y gratis!  ✓ Con certificado final ✓ 70 horas de contenid' />
 </a>
-<a href='https://youtu.be/VI9Laffzt7o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VI9Laffzt7o/mqdefault.jpg' alt='El hackeo más Salvaje sin código' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/6Fuhaf4XLhU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6Fuhaf4XLhU/mqdefault.jpg' alt='La mentira detrás de la startup con IA' />
+</a>
 <a href='https://youtu.be/M_m7U94EFiU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/M_m7U94EFiU/mqdefault.jpg' alt='Despidos masivos en Oracle' />
 </a>
 <a href='https://youtu.be/qsoNnFRmyhk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qsoNnFRmyhk/mqdefault.jpg' alt='¿La RAM se desploma?' />
-</a>
-<a href='https://youtu.be/K0NZrGgu6L8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/K0NZrGgu6L8/mqdefault.jpg' alt='El DLSS 5 de NVIDIA es...' />
 </a>
