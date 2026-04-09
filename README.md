@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/p6ynR1c5TPA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/p6ynR1c5TPA/mqdefault.jpg' alt='Claude Mythos: La IA más peligrosa hasta ahora' />
+  <img width='30%' src='https://img.youtube.com/vi/p6ynR1c5TPA/mqdefault.jpg' alt='¡Claude Mythos finalmente esta aquí!' />
 </a>
 <a href='https://youtu.be/JRX5INt_6wI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JRX5INt_6wI/mqdefault.jpg' alt='¡CISCO tiene 2 cursos de Python en Español y gratis!  ✓ Con certificado final ✓ 70 horas de contenid' />
