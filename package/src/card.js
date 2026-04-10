@@ -39,7 +39,7 @@ export async function renderCard () {
   )
   lines.push('')
   lines.push(chalk.white('  Creador de contenido sobre programación'))
-  lines.push(chalk.white('  y desarrollo web. Formador. Divulgador.'))
+  lines.push(chalk.white('  e Inteligencia Artificial. Formador. Divulgador.'))
 
   // Twitch live status
   if (isLive) {
