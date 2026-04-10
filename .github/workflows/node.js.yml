@@ -5,23 +5,39 @@ on:
     branches:
       - master
   workflow_dispatch:
-  
   schedule:
     - cron: "0 */4 * * *"
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
     - uses: actions/checkout@v4
+
+    - uses: pnpm/action-setup@v4
+      with:
+        version: 10
+
     - uses: actions/setup-node@v4
       with:
         node-version: '22'
-    - run: npm run update-readme
+        cache: 'pnpm'
+
+    - run: pnpm install --frozen-lockfile
+
+    - run: pnpm run update-readme
       env:
-        INSTAGRAM_API_KEY: ${{ secrets.INSTAGRAM_API_KEY }}
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
     - run: |
         git config user.name midudev
         git config user.email miduga@gmail.com
