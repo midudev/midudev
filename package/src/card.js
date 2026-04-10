@@ -4,29 +4,24 @@ import { fetchLatestYouTubeVideo, checkTwitchLive } from './data.js'
 import { AVATAR_LINES } from './avatar.js'
 
 const LINKS = [
-  { label: 'Web', url: 'https://midu.dev', display: 'midu.dev' },
-  { label: 'GitHub', url: 'https://github.com/midudev', display: 'github.com/midudev' },
-  { label: 'YouTube', url: 'https://youtube.com/@midudev', display: 'youtube.com/@midudev' },
-  { label: 'midulive', url: 'https://youtube.com/@midulive', display: 'youtube.com/@midulive' },
-  { label: 'Twitch', url: 'https://twitch.tv/midudev', display: 'twitch.tv/midudev' },
-  { label: 'X', url: 'https://x.com/midudev', display: 'x.com/midudev' },
-  { label: 'Instagram', url: 'https://instagram.com/midu.dev', display: 'instagram.com/midu.dev' },
-  { label: 'LinkedIn', url: 'https://linkedin.com/in/midudev', display: 'linkedin.com/in/midudev' },
-  { label: 'Discord', url: 'https://discord.gg/midudev', display: 'discord.gg/midudev' }
+  { label: 'Web', display: 'midu.dev' },
+  { label: 'GitHub', display: 'github.com/midudev' },
+  { label: 'YouTube', display: 'youtube.com/@midudev' },
+  { label: 'midulive', display: 'youtube.com/@midulive' },
+  { label: 'Twitch', display: 'twitch.tv/midudev' },
+  { label: 'X', display: 'x.com/midudev' },
+  { label: 'Instagram', display: 'instagram.com/midu.dev' },
+  { label: 'LinkedIn', display: 'linkedin.com/in/midudev' },
+  { label: 'Discord', display: 'discord.gg/midudev' }
 ]
 
 function truncate (text, max) {
   return text.length > max ? text.substring(0, max - 3) + '...' : text
 }
 
-// OSC 8 hyperlink: text is clickable and opens url in supporting terminals
-function link (text, url) {
-  return '\x1b]8;;\x07'.replace('\x07', url + '\x07') + text + '\x1b]8;;\x07'
-}
-
 function stripAnsi (str) {
   // eslint-disable-next-line no-control-regex
-  return str.replace(/\x1b\[[0-9;]*m/g, '').replace(/\x1b\]8;;.*?\x07/g, '')
+  return str.replace(/\x1b\[[0-9;]*m/g, '')
 }
 
 function mergeAvatarWithInfo (avatarLines, infoLines) {
@@ -72,13 +67,13 @@ export async function renderCard () {
       chalk.bgRed.white.bold(' EN DIRECTO ') +
       chalk.red.bold(' ¡Ahora mismo en Twitch!')
     )
-    headerInfo.push(link(chalk.dim('→ twitch.tv/midudev'), 'https://twitch.tv/midudev'))
+    headerInfo.push(chalk.dim('> twitch.tv/midudev'))
   }
 
   if (latestVideo) {
     headerInfo.push('')
-    headerInfo.push(chalk.hex('#FF0000')('▶ ') + chalk.bold('Último vídeo de YouTube:'))
-    headerInfo.push(link(chalk.white(truncate(latestVideo.title, 42)), latestVideo.url))
+    headerInfo.push(chalk.hex('#FF0000')('> ') + chalk.bold('Ultimo video de YouTube:'))
+    headerInfo.push(chalk.white(truncate(latestVideo.title, 42)))
   }
 
   // Merge avatar + info side by side
@@ -90,12 +85,12 @@ export async function renderCard () {
   lines.push('')
 
   const maxLabelLen = Math.max(...LINKS.map(l => l.label.length))
-  for (const { label, url, display } of LINKS) {
+  for (const { label, display } of LINKS) {
     const paddedLabel = label.padStart(maxLabelLen)
     lines.push(
       chalk.hex('#F0DB4F').bold('  ' + paddedLabel) +
       chalk.dim(':  ') +
-      link(chalk.cyan(display), url)
+      chalk.cyan(display)
     )
   }
 
