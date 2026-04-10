@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/C4sTAnCPEiU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/C4sTAnCPEiU/mqdefault.jpg' alt='Construí una app REAL con IA… y esto pasó - Insforge' />
+</a>
 <a href='https://youtu.be/qS2PsyILWFk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qS2PsyILWFk/mqdefault.jpg' alt='La era del Slop IA' />
 </a>
 <a href='https://youtu.be/idrg55z0U-Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/idrg55z0U-Q/mqdefault.jpg' alt='¿Sabías que con HTML puedes improvisar un editor de CSS directamente en cualquier página?  Solo nece' />
-</a>
-<a href='https://youtu.be/p6ynR1c5TPA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/p6ynR1c5TPA/mqdefault.jpg' alt='¡Claude Mythos finalmente esta aquí!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
