@@ -18,6 +18,16 @@ export async function fetchLatestYouTubeVideo () {
       `https://www.youtube.com/feeds/videos.xml?channel_id=${YOUTUBE_CHANNEL_ID}`,
       { signal: AbortSignal.timeout(TIMEOUT_MS) }
     )
+
+    if (!res.ok) {
+      return null
+    }
+
+    const contentType = res.headers.get('content-type') ?? ''
+    if (!contentType.includes('xml') && !contentType.includes('atom')) {
+      return null
+    }
+
     const xml = await res.text()
 
     const titleMatch = xml.match(/<entry>[\s\S]*?<title>(.*?)<\/title>/)
