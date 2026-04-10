@@ -4,15 +4,15 @@ import { fetchLatestYouTubeVideo, checkTwitchLive } from './data.js'
 import { AVATAR_LINES } from './avatar.js'
 
 const LINKS = [
-  { label: 'Web', display: 'midu.dev' },
-  { label: 'GitHub', display: 'github.com/midudev' },
-  { label: 'YouTube', display: 'youtube.com/@midudev' },
-  { label: 'midulive', display: 'youtube.com/@midulive' },
-  { label: 'Twitch', display: 'twitch.tv/midudev' },
-  { label: 'X', display: 'x.com/midudev' },
-  { label: 'Instagram', display: 'instagram.com/midu.dev' },
-  { label: 'LinkedIn', display: 'linkedin.com/in/midudev' },
-  { label: 'Discord', display: 'discord.gg/midudev' }
+  { label: 'Web', url: 'https://midu.dev' },
+  { label: 'GitHub', url: 'https://github.com/midudev' },
+  { label: 'YouTube', url: 'https://youtube.com/@midudev' },
+  { label: 'midulive', url: 'https://youtube.com/@midulive' },
+  { label: 'Twitch', url: 'https://twitch.tv/midudev' },
+  { label: 'X', url: 'https://x.com/midudev' },
+  { label: 'Instagram', url: 'https://instagram.com/midu.dev' },
+  { label: 'LinkedIn', url: 'https://linkedin.com/in/midudev' },
+  { label: 'Discord', url: 'https://discord.gg/midudev' }
 ]
 
 function truncate (text, max) {
@@ -74,6 +74,7 @@ export async function renderCard () {
     headerInfo.push('')
     headerInfo.push(chalk.hex('#FF0000')('> ') + chalk.bold('Ultimo video de YouTube:'))
     headerInfo.push(chalk.white(truncate(latestVideo.title, 42)))
+    headerInfo.push(chalk.dim(latestVideo.url))
   }
 
   // Merge avatar + info side by side
@@ -85,12 +86,12 @@ export async function renderCard () {
   lines.push('')
 
   const maxLabelLen = Math.max(...LINKS.map(l => l.label.length))
-  for (const { label, display } of LINKS) {
+  for (const { label, url } of LINKS) {
     const paddedLabel = label.padStart(maxLabelLen)
     lines.push(
       chalk.hex('#F0DB4F').bold('  ' + paddedLabel) +
       chalk.dim(':  ') +
-      chalk.cyan(display)
+      chalk.cyan(url)
     )
   }
 
