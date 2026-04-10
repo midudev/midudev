@@ -1,90 +1,65 @@
-import { promises as fs } from 'fs'
+import { promises as fs } from 'node:fs'
 
 import { PLACEHOLDERS, NUMBER_OF, YOUTUBE_CHANNEL_IDS } from './constants.js'
 
-const {
-  // INSTAGRAM_API_KEY,
-  // TWITCH_API_CLIENT_KEY,
-  // TWITCH_API_SECRET_KEY,
-  YOUTUBE_API_KEY
-} = process.env
+const FETCH_TIMEOUT_MS = 10_000
 
-// const INSTAGRAM_USER_ID = '8242141302'
+const { YOUTUBE_API_KEY } = process.env
 
-// const authProvider = new ClientCredentialsAuthProvider(TWITCH_API_CLIENT_KEY, TWITCH_API_SECRET_KEY)
-// const apiClient = new ApiClient({ authProvider })
+if (!YOUTUBE_API_KEY) {
+  console.error('❌ Missing YOUTUBE_API_KEY environment variable')
+  process.exit(1)
+}
 
-// const getLatestTwitchStream = async () => {
-//   const response = await apiClient.kraken.channels.getChannel('midudev')
-//   console.log(response)
-// }
+async function getLatestYoutubeVideos (channelId = YOUTUBE_CHANNEL_IDS.MIDUDEV) {
+  const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
+  const res = await fetch(url, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) })
 
-// const getPhotosFromInstagram = async () => {
-//   const response = await fetch(`https://instagram130.p.rapidapi.com/account-medias?userid=${INSTAGRAM_USER_ID}&first=20`, {
-//     headers: {
-//       'x-rapidapi-host': 'instagram130.p.rapidapi.com',
-//       'x-rapidapi-key': INSTAGRAM_API_KEY
-//     }
-//   })
+  if (!res.ok) {
+    throw new Error(`YouTube API error: ${res.status} ${res.statusText}`)
+  }
 
-//   const json = await response.json()
+  const { items } = await res.json()
+  return items
+}
 
-//   return json?.edges
-// }
-
-const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_CHANNEL_IDS.MIDUDEV }) =>
-  fetch(
-    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
-  )
-    .then((res) => res.json())
-    .then((videos) => videos.items)
-
-// const generateInstagramHTML = ({ node: { display_url: url, shortcode } }) => `
-// <a href='https://instagram.com/p/${shortcode}' target='_blank'>
-//   <img width='20%' src='${url}' alt='Instagram photo' />
-// </a>`
-
-const generateYoutubeHTML = ({ title, videoId }) => {
-  // Escapar comillas simples y eliminar saltos de línea en el título
-  const safeTitle = title.replace(/'/g, "\\'").replace(/\n/g, ' ')
-
+function generateYoutubeHTML ({ title, videoId }) {
+  const safeTitle = title.replace(/'/g, '&#39;').replace(/\n/g, ' ')
   return `
 <a href='https://youtu.be/${videoId}' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/${videoId}/mqdefault.jpg' alt='${safeTitle}' />
 </a>`
-};
+}
 
-(async () => {
-  // await getLatestTwitchStream()
+function videosToHTML (videos) {
+  return videos
+    .map(({ snippet }) => generateYoutubeHTML({
+      title: snippet.title,
+      videoId: snippet.resourceId.videoId
+    }))
+    .join('')
+}
 
-  const [template, videos, secondaryChannelVideos] = await Promise.all([
+async function main () {
+  console.log('⏳ Fetching latest YouTube videos…')
+
+  const [template, videos, secondaryVideos] = await Promise.all([
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
     getLatestYoutubeVideos(),
-    getLatestYoutubeVideos({ channelId: YOUTUBE_CHANNEL_IDS.MIDULIVE })
+    getLatestYoutubeVideos(YOUTUBE_CHANNEL_IDS.MIDULIVE)
   ])
 
-  // create latest youtube videos channel
-  const latestYoutubeVideos = videos
-    .map(({ snippet }) => {
-      const { title, resourceId } = snippet
-      const { videoId } = resourceId
-      return generateYoutubeHTML({ videoId, title })
-    })
-    .join('')
+  console.log(`✅ Fetched ${videos.length} + ${secondaryVideos.length} videos`)
 
-  // create latest youtube videos secondary channel
-  const latestYoutubeSecondaryChannelVideos = secondaryChannelVideos
-    .map(({ snippet }) => {
-      const { title, resourceId } = snippet
-      const { videoId } = resourceId
-      return generateYoutubeHTML({ videoId, title })
-    })
-    .join('')
-
-  // replace all placeholders with info
   const newMarkdown = template
-    .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
-    .replace(PLACEHOLDERS.LATEST_YOUTUBE_SECONDARY, latestYoutubeSecondaryChannelVideos)
+    .replace(PLACEHOLDERS.LATEST_YOUTUBE, videosToHTML(videos))
+    .replace(PLACEHOLDERS.LATEST_YOUTUBE_SECONDARY, videosToHTML(secondaryVideos))
 
   await fs.writeFile('README.md', newMarkdown)
-})()
+  console.log('✅ README.md updated successfully')
+}
+
+main().catch((error) => {
+  console.error('❌ Failed to update README:', error.message)
+  process.exit(1)
+})
