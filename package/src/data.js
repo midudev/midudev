@@ -41,8 +41,26 @@ export async function checkTwitchLive () {
       `https://decapi.me/twitch/uptime/${TWITCH_USERNAME}`,
       { signal: AbortSignal.timeout(TIMEOUT_MS) }
     )
+
+    if (!res.ok) {
+      return false
+    }
+
     const text = await res.text()
-    return !text.toLowerCase().includes('offline')
+    const normalizedText = text.trim().toLowerCase()
+
+    if (
+      normalizedText.length === 0 ||
+      normalizedText.includes('offline') ||
+      normalizedText.includes('error') ||
+      normalizedText.includes('rate limit') ||
+      normalizedText.includes('not found') ||
+      normalizedText.includes('invalid')
+    ) {
+      return false
+    }
+
+    return true
   } catch {
     return false
   }
