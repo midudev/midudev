@@ -1,6 +1,7 @@
 import chalk from 'chalk'
 import boxen from 'boxen'
 import { fetchLatestYouTubeVideo, checkTwitchLive } from './data.js'
+import { AVATAR_LINES } from './avatar.js'
 
 const LINKS = [
   { label: 'Web', url: 'https://midu.dev' },
@@ -18,6 +19,27 @@ function truncate (text, max) {
   return text.length > max ? text.substring(0, max - 3) + '...' : text
 }
 
+function stripAnsi (str) {
+  // eslint-disable-next-line no-control-regex
+  return str.replace(/\x1b\[[0-9;]*m/g, '')
+}
+
+function mergeAvatarWithInfo (avatarLines, infoLines) {
+  const maxRows = Math.max(avatarLines.length, infoLines.length)
+  const avatarVisualWidth = stripAnsi(avatarLines[0] || '').length
+  const gap = '  '
+  const merged = []
+
+  for (let i = 0; i < maxRows; i++) {
+    const avatarPart = i < avatarLines.length
+      ? avatarLines[i]
+      : ' '.repeat(avatarVisualWidth)
+    const infoPart = i < infoLines.length ? infoLines[i] : ''
+    merged.push(avatarPart + gap + infoPart)
+  }
+  return merged
+}
+
 export async function renderCard () {
   process.stdout.write(chalk.dim('\n  Cargando información de midudev...\r'))
 
@@ -26,37 +48,39 @@ export async function renderCard () {
     checkTwitchLive()
   ])
 
-  // Clear the loading line
   process.stdout.write('\x1B[2K\r')
 
-  const lines = []
-
-  // Header
-  lines.push(
-    chalk.bold.hex('#F0DB4F')('  midudev') +
+  // Info lines displayed next to the avatar
+  const headerInfo = []
+  headerInfo.push(
+    chalk.bold.hex('#F0DB4F')('midudev') +
     chalk.dim('  /  ') +
     chalk.white.bold('Miguel Ángel Durán')
   )
-  lines.push('')
-  lines.push(chalk.white('  Creador de contenido sobre programación'))
-  lines.push(chalk.white('  e Inteligencia Artificial. Formador. Divulgador.'))
+  headerInfo.push('')
+  headerInfo.push(chalk.white('Creador de contenido sobre programación'))
+  headerInfo.push(chalk.white('e Inteligencia Artificial. Formador. Divulgador.'))
 
-  // Twitch live status
   if (isLive) {
-    lines.push('')
-    lines.push(
+    headerInfo.push('')
+    headerInfo.push(
       chalk.bgRed.white.bold(' EN DIRECTO ') +
       chalk.red.bold(' ¡Ahora mismo en Twitch!')
     )
-    lines.push(chalk.dim('  → https://twitch.tv/midudev'))
+    headerInfo.push(chalk.dim('→ https://twitch.tv/midudev'))
   }
+
+  // Merge avatar + info side by side
+  const header = mergeAvatarWithInfo(AVATAR_LINES, headerInfo)
+
+  const lines = [...header]
 
   // Latest YouTube video
   if (latestVideo) {
     lines.push('')
     lines.push(chalk.hex('#FF0000')('  ▶ ') + chalk.bold('Último vídeo de YouTube:'))
-    lines.push(chalk.white(`    ${truncate(latestVideo.title, 48)}`))
-    lines.push(chalk.dim(`    ${latestVideo.url}`))
+    lines.push(chalk.white('    ' + truncate(latestVideo.title, 50)))
+    lines.push(chalk.dim('    ' + latestVideo.url))
   }
 
   // Social links
@@ -66,7 +90,7 @@ export async function renderCard () {
   for (const { label, url } of LINKS) {
     const paddedLabel = label.padStart(maxLabelLen)
     lines.push(
-      chalk.hex('#F0DB4F').bold(`  ${paddedLabel}`) +
+      chalk.hex('#F0DB4F').bold('  ' + paddedLabel) +
       chalk.dim(':  ') +
       chalk.cyan(url)
     )
@@ -84,7 +108,7 @@ export async function renderCard () {
     padding: { top: 1, right: 3, bottom: 1, left: 1 },
     borderColor: '#F0DB4F',
     borderStyle: 'round',
-    title: '👋 ¡Hola!',
+    title: '\ud83d\udc4b \u00a1Hola!',
     titleAlignment: 'center'
   })
 
