@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/qS2PsyILWFk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qS2PsyILWFk/mqdefault.jpg' alt='La era del Slop IA' />
+</a>
 <a href='https://youtu.be/idrg55z0U-Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/idrg55z0U-Q/mqdefault.jpg' alt='¿Sabías que con HTML puedes improvisar un editor de CSS directamente en cualquier página?  Solo nece' />
 </a>
 <a href='https://youtu.be/p6ynR1c5TPA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p6ynR1c5TPA/mqdefault.jpg' alt='¡Claude Mythos finalmente esta aquí!' />
-</a>
-<a href='https://youtu.be/JRX5INt_6wI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/JRX5INt_6wI/mqdefault.jpg' alt='¡CISCO tiene 2 cursos de Python en Español y gratis!  ✓ Con certificado final ✓ 70 horas de contenid' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
