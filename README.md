@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/C4sTAnCPEiU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/C4sTAnCPEiU/mqdefault.jpg' alt='Construí una app REAL con IA… y esto pasó - Insforge' />
+  <img width='30%' src='https://img.youtube.com/vi/C4sTAnCPEiU/mqdefault.jpg' alt='El backend para developers que usan IA: InsForge' />
 </a>
 <a href='https://youtu.be/qS2PsyILWFk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qS2PsyILWFk/mqdefault.jpg' alt='La era del Slop IA' />
