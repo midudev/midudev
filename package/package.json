@@ -1,18 +1,31 @@
 {
-  "name": "package",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
-  "scripts": {
-    "dev": "node src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "midudev",
+  "version": "2.0.0",
+  "description": "👋 Soy midudev - Creador de contenido sobre programación y desarrollo web",
+  "type": "module",
+  "bin": {
+    "midudev": "./bin/cli.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "scripts": {
+    "dev": "node bin/cli.js"
+  },
+  "keywords": [
+    "midudev",
+    "cli",
+    "card",
+    "npx"
+  ],
+  "author": "Miguel Ángel Durán <miduga@gmail.com> (https://midu.dev)",
+  "license": "MIT",
   "dependencies": {
-    "ink": "^3.0.8",
-    "react": "^17.0.1",
-    "sucrase": "^3.16.0"
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1"
   }
 }
