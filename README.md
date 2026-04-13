@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/SfP9l4f-DUA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/SfP9l4f-DUA/mqdefault.jpg' alt='Atacan a Sam Altman, futuro de HTML, Nuevo compilador Angular, GitHub recorta Copilot, clona tu voz' />
+</a>
+<a href='https://youtu.be/Pdlmzjc1TM8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Pdlmzjc1TM8/mqdefault.jpg' alt='¿Quieres que tu sesión de Claude Code, Cursor y Codex dure más? Haz que hable como un cavernícola.' />
+</a>
 <a href='https://youtu.be/b1fHZY5noOE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/b1fHZY5noOE/mqdefault.jpg' alt='¡Brutal herramienta para revisar el rendimiento web! Escanea toda tu página y puntúa cada una de ell' />
-</a>
-<a href='https://youtu.be/C4sTAnCPEiU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/C4sTAnCPEiU/mqdefault.jpg' alt='El backend para developers que usan IA: InsForge' />
-</a>
-<a href='https://youtu.be/qS2PsyILWFk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qS2PsyILWFk/mqdefault.jpg' alt='La era del Slop IA' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
