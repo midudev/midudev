@@ -26,11 +26,11 @@
 <a href='https://youtu.be/hwNoYKhSBh0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hwNoYKhSBh0/mqdefault.jpg' alt='HTML acaba de cambiar para siempre (en serio)' />
 </a>
-<a href='https://youtu.be/SfP9l4f-DUA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SfP9l4f-DUA/mqdefault.jpg' alt='Atacan a Sam Altman, futuro de HTML, Nuevo compilador Angular, GitHub recorta Copilot, clona tu voz' />
-</a>
 <a href='https://youtu.be/Pdlmzjc1TM8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Pdlmzjc1TM8/mqdefault.jpg' alt='¿Quieres que tu sesión de Claude Code, Cursor y Codex dure más? Haz que hable como un cavernícola.' />
+</a>
+<a href='https://youtu.be/b1fHZY5noOE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/b1fHZY5noOE/mqdefault.jpg' alt='¡Brutal herramienta para revisar el rendimiento web! Escanea toda tu página y puntúa cada una de ell' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
