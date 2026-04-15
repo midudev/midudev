@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/GJDiKh7dQ2o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GJDiKh7dQ2o/mqdefault.jpg' alt='Han hackeado medio internet' />
+</a>
 <a href='https://youtu.be/6Fuhaf4XLhU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6Fuhaf4XLhU/mqdefault.jpg' alt='La mentira detrás de la startup con IA' />
 </a>
 <a href='https://youtu.be/M_m7U94EFiU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/M_m7U94EFiU/mqdefault.jpg' alt='Despidos masivos en Oracle' />
-</a>
-<a href='https://youtu.be/qsoNnFRmyhk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qsoNnFRmyhk/mqdefault.jpg' alt='¿La RAM se desploma?' />
 </a>
