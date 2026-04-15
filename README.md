@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/4zcIpvCkEyU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/4zcIpvCkEyU/mqdefault.jpg' alt='Claude no quiere trabajar' />
+</a>
 <a href='https://youtu.be/QxsaZFfVexI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QxsaZFfVexI/mqdefault.jpg' alt='La IA se está volviendo carísima' />
 </a>
 <a href='https://youtu.be/hwNoYKhSBh0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hwNoYKhSBh0/mqdefault.jpg' alt='HTML acaba de cambiar para siempre (en serio)' />
 </a>
-<a href='https://youtu.be/Pdlmzjc1TM8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Pdlmzjc1TM8/mqdefault.jpg' alt='¿Quieres que tu sesión de Claude Code, Cursor y Codex dure más? Haz que hable como un cavernícola.' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/Mr3ErJAenaA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Mr3ErJAenaA/mqdefault.jpg' alt='¡Clona tu voz en segundos!' />
+</a>
 <a href='https://youtu.be/GJDiKh7dQ2o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GJDiKh7dQ2o/mqdefault.jpg' alt='Han hackeado medio internet' />
 </a>
 <a href='https://youtu.be/6Fuhaf4XLhU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6Fuhaf4XLhU/mqdefault.jpg' alt='La mentira detrás de la startup con IA' />
-</a>
-<a href='https://youtu.be/M_m7U94EFiU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/M_m7U94EFiU/mqdefault.jpg' alt='Despidos masivos en Oracle' />
 </a>
