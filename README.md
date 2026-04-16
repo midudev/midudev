@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ZEfVzzlR8eA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZEfVzzlR8eA/mqdefault.jpg' alt='¡Practica SQL con esta página! Con ejercicios interactivos: → sql-practice․com  Si te quedas atascad' />
+</a>
 <a href='https://youtu.be/4zcIpvCkEyU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4zcIpvCkEyU/mqdefault.jpg' alt='Claude no quiere trabajar' />
 </a>
 <a href='https://youtu.be/QxsaZFfVexI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QxsaZFfVexI/mqdefault.jpg' alt='La IA se está volviendo carísima' />
-</a>
-<a href='https://youtu.be/hwNoYKhSBh0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hwNoYKhSBh0/mqdefault.jpg' alt='HTML acaba de cambiar para siempre (en serio)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
