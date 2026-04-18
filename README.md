@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/HFsGJ-rOWZo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/HFsGJ-rOWZo/mqdefault.jpg' alt='OpenCode es la alternativa gratuita a Claude Code  ✓ 100% código abierto ✓ Modelos gratuitos disponi' />
+</a>
 <a href='https://youtu.be/DrrcWTxFOQQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DrrcWTxFOQQ/mqdefault.jpg' alt='¿Buscas ahorrar tiempo desarrollando interfaces?  Esta web es un tesoro escondido para devs.  Más de' />
 </a>
 <a href='https://youtu.be/ZEfVzzlR8eA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZEfVzzlR8eA/mqdefault.jpg' alt='¡Practica SQL con esta página! Con ejercicios interactivos: → sql-practice․com  Si te quedas atascad' />
-</a>
-<a href='https://youtu.be/4zcIpvCkEyU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4zcIpvCkEyU/mqdefault.jpg' alt='Claude no quiere trabajar' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
