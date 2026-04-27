@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/3zgXAP81A5Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/3zgXAP81A5Y/mqdefault.jpg' alt='DeepSeek v4 + GPT 5.5 + Hackean Vercel + Recortes GitHub Copilot + SpaceX comprará Cursor + Regalo' />
+</a>
+<a href='https://youtu.be/Bh0xTvi3Arc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Bh0xTvi3Arc/mqdefault.jpg' alt='¡NVIDIA da acceso gratis por API a modelos de IA!  A DeepSeek V4, MiniMax M2.7, GLM 5.1, Gemma 4...' />
+</a>
 <a href='https://youtu.be/FQ0mZ87ui9c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FQ0mZ87ui9c/mqdefault.jpg' alt='Dale vida a tu web con animaciones suaves y elegantes con esta biblioteca.  Animar CSS, SVG y elemen' />
-</a>
-<a href='https://youtu.be/wY6SAt9oGO0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wY6SAt9oGO0/mqdefault.jpg' alt='¡Salió GPT 5.5! El nuevo modelo de OpenAI. Mejoras importantes en código, agentes y eficiencia.  Per' />
-</a>
-<a href='https://youtu.be/HFsGJ-rOWZo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HFsGJ-rOWZo/mqdefault.jpg' alt='OpenCode es la alternativa gratuita a Claude Code  ✓ 100% código abierto ✓ Modelos gratuitos disponi' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
