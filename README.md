@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/3zgXAP81A5Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/3zgXAP81A5Y/mqdefault.jpg' alt='DeepSeek v4 + GPT 5.5 + Hackean Vercel + Recortes GitHub Copilot + SpaceX comprará Cursor + Regalo' />
+<a href='https://youtu.be/cWsDMB6LKfQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cWsDMB6LKfQ/mqdefault.jpg' alt='GitHub Copilot CAMBIÓ para siempre (y no es bueno)' />
 </a>
 <a href='https://youtu.be/Bh0xTvi3Arc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Bh0xTvi3Arc/mqdefault.jpg' alt='¡NVIDIA da acceso gratis por API a modelos de IA!  A DeepSeek V4, MiniMax M2.7, GLM 5.1, Gemma 4...' />
