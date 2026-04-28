@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/dtAeUI50OBw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dtAeUI50OBw/mqdefault.jpg' alt='Curso de OpenCode: Agente de IA de código abierto' />
+</a>
 <a href='https://youtu.be/cWsDMB6LKfQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/cWsDMB6LKfQ/mqdefault.jpg' alt='GitHub Copilot CAMBIÓ para siempre (y no es bueno)' />
 </a>
 <a href='https://youtu.be/Bh0xTvi3Arc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Bh0xTvi3Arc/mqdefault.jpg' alt='¡NVIDIA da acceso gratis por API a modelos de IA!  A DeepSeek V4, MiniMax M2.7, GLM 5.1, Gemma 4...' />
-</a>
-<a href='https://youtu.be/FQ0mZ87ui9c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FQ0mZ87ui9c/mqdefault.jpg' alt='Dale vida a tu web con animaciones suaves y elegantes con esta biblioteca.  Animar CSS, SVG y elemen' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
