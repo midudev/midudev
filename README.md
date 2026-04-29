@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/dtAeUI50OBw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/dtAeUI50OBw/mqdefault.jpg' alt='Curso de OpenCode: Agente de IA de código abierto' />
+<a href='https://youtu.be/gA3JrC1sNBE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gA3JrC1sNBE/mqdefault.jpg' alt='Lo de Vercel es Brutal' />
 </a>
 <a href='https://youtu.be/jfKhRxIHSWE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jfKhRxIHSWE/mqdefault.jpg' alt='Puedes crear vídeos con HTML, CSS y JS. ¡No es ninguna broma! Para eso puedes usar Hyperframes.  Y n' />
