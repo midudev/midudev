@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/P9MkPdQc74o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/P9MkPdQc74o/mqdefault.jpg' alt='¡Está pasando!' />
+</a>
 <a href='https://youtu.be/_EqFbJxy4Nk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_EqFbJxy4Nk/mqdefault.jpg' alt='El Estado Actual de la IA China' />
 </a>
 <a href='https://youtu.be/Mr3ErJAenaA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Mr3ErJAenaA/mqdefault.jpg' alt='¡Clona tu voz en segundos!' />
-</a>
-<a href='https://youtu.be/GJDiKh7dQ2o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GJDiKh7dQ2o/mqdefault.jpg' alt='Han hackeado medio internet' />
 </a>
