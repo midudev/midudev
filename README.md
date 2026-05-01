@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ZZq4TpNgnvg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZZq4TpNgnvg/mqdefault.jpg' alt='Curso COMPLETO de OpenCode desde cero: Comandos, Agentes, Ahorrar tokens y más' />
+</a>
+<a href='https://youtu.be/spQBIevBYS4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/spQBIevBYS4/mqdefault.jpg' alt='Extensión oficial de Microsoft para Visual Studio Code para trabajar con bases de datos PostgreSQL.' />
+</a>
 <a href='https://youtu.be/58zBUQTcyuE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/58zBUQTcyuE/mqdefault.jpg' alt='Comparando Mejores Asistentes de Código para Devs en 2026' />
-</a>
-<a href='https://youtu.be/gA3JrC1sNBE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/gA3JrC1sNBE/mqdefault.jpg' alt='Hackean Vercel' />
-</a>
-<a href='https://youtu.be/jfKhRxIHSWE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jfKhRxIHSWE/mqdefault.jpg' alt='Puedes crear vídeos con HTML, CSS y JS. ¡No es ninguna broma! Para eso puedes usar Hyperframes.  Y n' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
