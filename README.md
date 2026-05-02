@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/ZZq4TpNgnvg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZZq4TpNgnvg/mqdefault.jpg' alt='Curso COMPLETO de OpenCode desde cero: Comandos, Agentes, Ahorrar tokens y más' />
+  <img width='30%' src='https://img.youtube.com/vi/ZZq4TpNgnvg/mqdefault.jpg' alt='Curso de OpenCode desde cero: Comandos, Agentes, Ahorrar tokens y más' />
 </a>
 <a href='https://youtu.be/spQBIevBYS4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/spQBIevBYS4/mqdefault.jpg' alt='Extensión oficial de Microsoft para Visual Studio Code para trabajar con bases de datos PostgreSQL.' />
