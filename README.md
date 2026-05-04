@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/QBvmHsNh9yA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QBvmHsNh9yA/mqdefault.jpg' alt='Linux vulnerable, Hack GitHub con git push, Claude te deja tonto, China vs USA, trabaja en *nly Fans' />
+</a>
+<a href='https://youtu.be/urUvXXFYwqI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/urUvXXFYwqI/mqdefault.jpg' alt='¡Brutal trucazo para tus repositorios de GitHub!  Accede a una documentación con diagramas y IA.  Le' />
+</a>
 <a href='https://youtu.be/dAnaWt1xQdE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dAnaWt1xQdE/mqdefault.jpg' alt='La experiencia no surge de la nada. En programación, todos empezamos como juniors llenos de curiosid' />
-</a>
-<a href='https://youtu.be/Ah3ZLoGqlJg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ah3ZLoGqlJg/mqdefault.jpg' alt='¡Novedad brutal de HTML y CSS! Estila elementos select sin bibliotecas y muy fácilmente.  No hace fa' />
-</a>
-<a href='https://youtu.be/ZZq4TpNgnvg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZZq4TpNgnvg/mqdefault.jpg' alt='Curso de OpenCode desde cero: Comandos, Agentes, Ahorrar tokens y más' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
