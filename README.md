@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/eJtcgVf72zs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/eJtcgVf72zs/mqdefault.jpg' alt='La carrera de la IA: Estados Unidos vs China' />
+</a>
 <a href='https://youtu.be/MRwo8kz6ilQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MRwo8kz6ilQ/mqdefault.jpg' alt='7 extensiones que hacen tu editor mucho más cómodo (VSCode, Cursor y Windsurf):  ① Console Ninja Ves' />
 </a>
 <a href='https://youtu.be/p2tltiHHQ0w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/p2tltiHHQ0w/mqdefault.jpg' alt='El estado actual de Github' />
-</a>
-<a href='https://youtu.be/DuvGxd67cs8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DuvGxd67cs8/mqdefault.jpg' alt='Linux tiene un problema serio' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
