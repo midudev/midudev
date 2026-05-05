@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/MRwo8kz6ilQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MRwo8kz6ilQ/mqdefault.jpg' alt='7 extensiones que hacen tu editor mucho más cómodo (VSCode, Cursor y Windsurf):  ① Console Ninja Ves' />
+</a>
+<a href='https://youtu.be/p2tltiHHQ0w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/p2tltiHHQ0w/mqdefault.jpg' alt='El estado actual de Github' />
+</a>
 <a href='https://youtu.be/DuvGxd67cs8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DuvGxd67cs8/mqdefault.jpg' alt='Linux tiene un problema serio' />
-</a>
-<a href='https://youtu.be/urUvXXFYwqI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/urUvXXFYwqI/mqdefault.jpg' alt='¡Brutal trucazo para tus repositorios de GitHub!  Accede a una documentación con diagramas y IA.  Le' />
-</a>
-<a href='https://youtu.be/dAnaWt1xQdE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/dAnaWt1xQdE/mqdefault.jpg' alt='La experiencia no surge de la nada. En programación, todos empezamos como juniors llenos de curiosid' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
