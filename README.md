@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/DzOm42V1_uc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/DzOm42V1_uc/mqdefault.jpg' alt='El impuesto oculto de la IA' />
+</a>
 <a href='https://youtu.be/bBzChsJM7kE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/bBzChsJM7kE/mqdefault.jpg' alt='¡Microsoft ha lanzado un nuevo curso para aprender a crear Agentes de IA desde cero y en Español!  ✓' />
 </a>
 <a href='https://youtu.be/eJtcgVf72zs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/eJtcgVf72zs/mqdefault.jpg' alt='La carrera de la IA: Estados Unidos vs China' />
-</a>
-<a href='https://youtu.be/MRwo8kz6ilQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MRwo8kz6ilQ/mqdefault.jpg' alt='7 extensiones que hacen tu editor mucho más cómodo (VSCode, Cursor y Windsurf):  ① Console Ninja Ves' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
