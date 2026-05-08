@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/I6BZwm7ibWQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/I6BZwm7ibWQ/mqdefault.jpg' alt='Google Chrome quiere meter IA en JavaScript' />
+</a>
 <a href='https://youtu.be/HhNs0YOlAbk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HhNs0YOlAbk/mqdefault.jpg' alt='¡Google tiene una alternativa a Duolingo! Se llama Little Language Lessons y es 100% gratis.  ✓ Ingl' />
 </a>
 <a href='https://youtu.be/DzOm42V1_uc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DzOm42V1_uc/mqdefault.jpg' alt='El impuesto oculto de la IA' />
-</a>
-<a href='https://youtu.be/bBzChsJM7kE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/bBzChsJM7kE/mqdefault.jpg' alt='¡Microsoft ha lanzado un nuevo curso para aprender a crear Agentes de IA desde cero y en Español!  ✓' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
