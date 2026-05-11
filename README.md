@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/Vlzw85XQA3k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Vlzw85XQA3k/mqdefault.jpg' alt='¿Nuevo React?, Anthropric ama SpaceX, ¡Vulnerabilidad Linux!, Conseguir trabajo con IA, Ojo Chrome..' />
+<a href='https://youtu.be/LesPQbRmlAI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LesPQbRmlAI/mqdefault.jpg' alt='Van a reescribir React desde cero' />
 </a>
 <a href='https://youtu.be/WLKgUlVHLoo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/WLKgUlVHLoo/mqdefault.jpg' alt='Con esto detectas y arreglas errores en tu app de React. Se llama React Doctor y es de código abiert' />
