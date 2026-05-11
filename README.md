@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Vlzw85XQA3k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Vlzw85XQA3k/mqdefault.jpg' alt='¿Nuevo React?, Anthropric ama SpaceX, ¡Vulnerabilidad Linux!, Conseguir trabajo con IA, Ojo Chrome..' />
+</a>
+<a href='https://youtu.be/WLKgUlVHLoo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/WLKgUlVHLoo/mqdefault.jpg' alt='Con esto detectas y arreglas errores en tu app de React. Se llama React Doctor y es de código abiert' />
+</a>
 <a href='https://youtu.be/I6BZwm7ibWQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/I6BZwm7ibWQ/mqdefault.jpg' alt='Google Chrome quiere meter IA en JavaScript' />
-</a>
-<a href='https://youtu.be/HhNs0YOlAbk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HhNs0YOlAbk/mqdefault.jpg' alt='¡Google tiene una alternativa a Duolingo! Se llama Little Language Lessons y es 100% gratis.  ✓ Ingl' />
-</a>
-<a href='https://youtu.be/DzOm42V1_uc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DzOm42V1_uc/mqdefault.jpg' alt='El impuesto oculto de la IA' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
