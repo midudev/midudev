@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/LesPQbRmlAI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LesPQbRmlAI/mqdefault.jpg' alt='Van a reescribir React desde cero' />
+  <img width='30%' src='https://img.youtube.com/vi/LesPQbRmlAI/mqdefault.jpg' alt='Crea su propio React en un fin de semana con IA' />
 </a>
 <a href='https://youtu.be/WLKgUlVHLoo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/WLKgUlVHLoo/mqdefault.jpg' alt='Con esto detectas y arreglas errores en tu app de React. Se llama React Doctor y es de código abiert' />
