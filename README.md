@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/NlatSFe_k1c' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/NlatSFe_k1c/mqdefault.jpg' alt='Deja de usar NPM' />
+</a>
 <a href='https://youtu.be/JX7NPqLLN4s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JX7NPqLLN4s/mqdefault.jpg' alt='Desarrollo web La Velada VI de Ibai Llanos + Si usas npm install estás en peligro' />
 </a>
 <a href='https://youtu.be/iABf9QnPMjI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iABf9QnPMjI/mqdefault.jpg' alt='¡He creado una extensión de Visual Studio Code!  Se llama Better SVG y mejora la experiencia de desa' />
-</a>
-<a href='https://youtu.be/wLKGXzlRE6M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wLKGXzlRE6M/mqdefault.jpg' alt='Lo de Google Chrome es preocupante' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
