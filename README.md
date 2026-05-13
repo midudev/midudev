@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/38Iww5uoYjc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/38Iww5uoYjc/mqdefault.jpg' alt='El nuevo "killer" de Claude es muy sospechoso' />
+</a>
 <a href='https://youtu.be/NlatSFe_k1c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NlatSFe_k1c/mqdefault.jpg' alt='Deja de usar NPM' />
 </a>
 <a href='https://youtu.be/iABf9QnPMjI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iABf9QnPMjI/mqdefault.jpg' alt='¡He creado una extensión de Visual Studio Code!  Se llama Better SVG y mejora la experiencia de desa' />
-</a>
-<a href='https://youtu.be/wLKGXzlRE6M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wLKGXzlRE6M/mqdefault.jpg' alt='Lo de Google Chrome es preocupante' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
