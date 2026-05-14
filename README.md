@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Yy7yTxByORM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Yy7yTxByORM/mqdefault.jpg' alt='Han encontrado otra vulnerabilidad grave en Linux' />
+</a>
 <a href='https://youtu.be/43dOsyYyut4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/43dOsyYyut4/mqdefault.jpg' alt='Guía visual para aprender ALGORITMOS en programación 25 algoritmos explicados paso a paso con pseudo' />
 </a>
 <a href='https://youtu.be/boxxWR_7y_E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/boxxWR_7y_E/mqdefault.jpg' alt='El estado de los asistentes de IA para PC' />
-</a>
-<a href='https://youtu.be/04NbXYJYtJI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/04NbXYJYtJI/mqdefault.jpg' alt='Desarrollando la web OFICIAL de La Velada del Año 6 (Astro + Cursor AI)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
