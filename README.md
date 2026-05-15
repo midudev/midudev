@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/Yy7yTxByORM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Yy7yTxByORM/mqdefault.jpg' alt='Han encontrado otra vulnerabilidad grave en Linux' />
+  <img width='30%' src='https://img.youtube.com/vi/Yy7yTxByORM/mqdefault.jpg' alt='Resulta que Linux no era tan seguro' />
 </a>
 <a href='https://youtu.be/43dOsyYyut4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/43dOsyYyut4/mqdefault.jpg' alt='Guía visual para aprender ALGORITMOS en programación 25 algoritmos explicados paso a paso con pseudo' />
