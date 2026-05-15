@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/_aIZxImbjmY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_aIZxImbjmY/mqdefault.jpg' alt='¿Quieres hacer que una imagen se desvanezca hasta volverse transparente?  Se puede hacer solo con CS' />
+</a>
 <a href='https://youtu.be/RLO9uLJVpWQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RLO9uLJVpWQ/mqdefault.jpg' alt='Cloudflare acaba de despedir a 1100 empleados' />
 </a>
 <a href='https://youtu.be/Yy7yTxByORM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Yy7yTxByORM/mqdefault.jpg' alt='Han encontrado otra vulnerabilidad grave en Linux' />
-</a>
-<a href='https://youtu.be/43dOsyYyut4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/43dOsyYyut4/mqdefault.jpg' alt='Guía visual para aprender ALGORITMOS en programación 25 algoritmos explicados paso a paso con pseudo' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
