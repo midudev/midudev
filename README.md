@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Icnv1DDAQOg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Icnv1DDAQOg/mqdefault.jpg' alt='GitHub Actions desde CERO: automatiza tus proyectos como un PRO' />
+</a>
+<a href='https://youtu.be/bC3HO5FOzao' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/bC3HO5FOzao/mqdefault.jpg' alt='Google I/O 2026 EN VIVO: Gemini, Android, nuevo portátil y el futuro de la IA' />
+</a>
 <a href='https://youtu.be/eL6Jeo9LhSU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/eL6Jeo9LhSU/mqdefault.jpg' alt='Espectacular las animaciones que se pueden hacer con la biblioteca GSAP en pocas líneas de código.' />
-</a>
-<a href='https://youtu.be/fkAW_xBjpDY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fkAW_xBjpDY/mqdefault.jpg' alt='"No cometas errores y push directo a producción".  Es broma pero si quieres no es broma. ¿Ya te ha p' />
-</a>
-<a href='https://youtu.be/_aIZxImbjmY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_aIZxImbjmY/mqdefault.jpg' alt='¿Quieres hacer que una imagen se desvanezca hasta volverse transparente?  Se puede hacer solo con CS' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
