@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/WSVLIEMJqHQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WSVLIEMJqHQ/mqdefault.jpg' alt='Infierno de vulnerabilidades, nuevo portátil de Google + Bun se pasa a Rust + OpenAI vende tus datos' />
+<a href='https://youtu.be/7juuqkxxMCs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7juuqkxxMCs/mqdefault.jpg' alt='Infierno de vulnerabilidades, nuevo portátil de Google + Bun se pasa a Rust + OpenAI vende tus datos' />
 </a>
 <a href='https://youtu.be/Icnv1DDAQOg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Icnv1DDAQOg/mqdefault.jpg' alt='GitHub Actions desde CERO: automatiza tus proyectos como un PRO' />
