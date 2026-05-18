@@ -23,20 +23,20 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/WSVLIEMJqHQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/WSVLIEMJqHQ/mqdefault.jpg' alt='Infierno de vulnerabilidades, nuevo portátil de Google + Bun se pasa a Rust + OpenAI vende tus datos' />
+</a>
 <a href='https://youtu.be/Icnv1DDAQOg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Icnv1DDAQOg/mqdefault.jpg' alt='GitHub Actions desde CERO: automatiza tus proyectos como un PRO' />
 </a>
 <a href='https://youtu.be/bC3HO5FOzao' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/bC3HO5FOzao/mqdefault.jpg' alt='Google I/O 2026 EN VIVO: Gemini, Android, nuevo portátil y el futuro de la IA' />
 </a>
-<a href='https://youtu.be/eL6Jeo9LhSU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/eL6Jeo9LhSU/mqdefault.jpg' alt='Espectacular las animaciones que se pueden hacer con la biblioteca GSAP en pocas líneas de código.' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
 <a href='https://youtu.be/J6Tn0FgJ768' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/J6Tn0FgJ768/mqdefault.jpg' alt='OpenAI y ClaudeAI van a destruir consultoras' />
+  <img width='30%' src='https://img.youtube.com/vi/J6Tn0FgJ768/mqdefault.jpg' alt='OpenAI y Claude crean su propia consultora' />
 </a>
 <a href='https://youtu.be/P9MkPdQc74o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/P9MkPdQc74o/mqdefault.jpg' alt='¡Está pasando!' />
