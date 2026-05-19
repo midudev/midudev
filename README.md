@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/7juuqkxxMCs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7juuqkxxMCs/mqdefault.jpg' alt='Infierno de vulnerabilidades, nuevo portátil de Google + Bun se pasa a Rust + OpenAI vende tus datos' />
-</a>
-<a href='https://youtu.be/Icnv1DDAQOg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Icnv1DDAQOg/mqdefault.jpg' alt='GitHub Actions desde CERO: automatiza tus proyectos como un PRO' />
-</a>
 <a href='https://youtu.be/bC3HO5FOzao' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/bC3HO5FOzao/mqdefault.jpg' alt='Google I/O 2026 EN VIVO: Gemini, Android, nuevo portátil y el futuro de la IA' />
+</a>
+<a href='https://youtu.be/lc8sXRncexQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lc8sXRncexQ/mqdefault.jpg' alt='Aprender Programación, Cloud o DevOps viendo vídeos está bien.  Pero llega un punto en el que necesi' />
+</a>
+<a href='https://youtu.be/fw40Xwrxp0k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/fw40Xwrxp0k/mqdefault.jpg' alt='Estas vulnerabilidades dan miedo: Next.js, Windows, macOS y NGINX' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
