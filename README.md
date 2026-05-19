@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/bC3HO5FOzao' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/bC3HO5FOzao/mqdefault.jpg' alt='Google I/O 2026 EN VIVO: Gemini, Android, nuevo portátil y el futuro de la IA' />
+<a href='https://youtu.be/AVwrvS5YnhM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AVwrvS5YnhM/mqdefault.jpg' alt='Esta IA trabaja por mí: probando Manus' />
 </a>
 <a href='https://youtu.be/lc8sXRncexQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lc8sXRncexQ/mqdefault.jpg' alt='Aprender Programación, Cloud o DevOps viendo vídeos está bien.  Pero llega un punto en el que necesi' />
