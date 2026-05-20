@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/Icnv1DDAQOg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Icnv1DDAQOg/mqdefault.jpg' alt='GitHub Actions desde CERO: automatiza tus proyectos como un PRO' />
-</a>
 <a href='https://youtu.be/jTzAfMgI0v0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jTzAfMgI0v0/mqdefault.jpg' alt='¡GitHub hackeado! A través de una extensión de Visual Studio Code.  Han accedido a más de 3800 repos' />
 </a>
 <a href='https://youtu.be/bC3HO5FOzao' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/bC3HO5FOzao/mqdefault.jpg' alt='Reaccionando a Google I/O 2026: Gemini Omni, Gemini 3.5 Flash Lite, nuevo Google Search, Spark...' />
 </a>
+<a href='https://youtu.be/QTEPwr0owo8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QTEPwr0owo8/mqdefault.jpg' alt='¡GitHub hackeado!' />
+</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/C3b6Q2hjJHA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/C3b6Q2hjJHA/mqdefault.jpg' alt='Las nuevas GoogleBook son...' />
+</a>
 <a href='https://youtu.be/J6Tn0FgJ768' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/J6Tn0FgJ768/mqdefault.jpg' alt='OpenAI y Claude crean su propia consultora' />
 </a>
 <a href='https://youtu.be/P9MkPdQc74o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/P9MkPdQc74o/mqdefault.jpg' alt='¡Está pasando!' />
-</a>
-<a href='https://youtu.be/_EqFbJxy4Nk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_EqFbJxy4Nk/mqdefault.jpg' alt='El Estado Actual de la IA China' />
 </a>
