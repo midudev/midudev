@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/FxzDr8dgXmc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/FxzDr8dgXmc/mqdefault.jpg' alt='El apocalipsis de las suscripciones de IA' />
+</a>
 <a href='https://youtu.be/jTzAfMgI0v0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jTzAfMgI0v0/mqdefault.jpg' alt='¡GitHub hackeado! A través de una extensión de Visual Studio Code.  Han accedido a más de 3800 repos' />
 </a>
 <a href='https://youtu.be/bC3HO5FOzao' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/bC3HO5FOzao/mqdefault.jpg' alt='Reaccionando a Google I/O 2026: Gemini Omni, Gemini 3.5 Flash Lite, nuevo Google Search, Spark...' />
-</a>
-<a href='https://youtu.be/QTEPwr0owo8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QTEPwr0owo8/mqdefault.jpg' alt='¡GitHub hackeado!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
