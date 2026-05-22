@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/8q1iWzlUErI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8q1iWzlUErI/mqdefault.jpg' alt='Reaccionando a Microsoft Build 2026: La conferencia de devs más importante del año' />
+</a>
+<a href='https://youtu.be/clJZl2qMLP4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/clJZl2qMLP4/mqdefault.jpg' alt='Reaccionando al Apple WWDC 2026: MacBook Pro, Siri, macOS, iPhone y mucho más' />
+</a>
 <a href='https://youtu.be/iLjgOUsvcFc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iLjgOUsvcFc/mqdefault.jpg' alt='La situación del malware en npm está empeorando' />
-</a>
-<a href='https://youtu.be/FxzDr8dgXmc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FxzDr8dgXmc/mqdefault.jpg' alt='El apocalipsis de las suscripciones de IA' />
-</a>
-<a href='https://youtu.be/jTzAfMgI0v0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jTzAfMgI0v0/mqdefault.jpg' alt='¡GitHub hackeado! A través de una extensión de Visual Studio Code.  Han accedido a más de 3800 repos' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
