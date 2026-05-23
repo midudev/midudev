@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/4qwVbWH1OgI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/4qwVbWH1OgI/mqdefault.jpg' alt='Si quieres aprender Python, he traducido el libro de "Piensa en Python".  Es gratuito y lo puedes de' />
+</a>
 <a href='https://youtu.be/8q1iWzlUErI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8q1iWzlUErI/mqdefault.jpg' alt='Reaccionando a Microsoft Build 2026: La conferencia de devs más importante del año' />
 </a>
 <a href='https://youtu.be/clJZl2qMLP4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/clJZl2qMLP4/mqdefault.jpg' alt='Reaccionando al Apple WWDC 2026: MacBook Pro, Siri, macOS, iPhone y mucho más' />
-</a>
-<a href='https://youtu.be/iLjgOUsvcFc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/iLjgOUsvcFc/mqdefault.jpg' alt='La situación del malware en npm está empeorando' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
