@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/KR4PDUnftOg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/KR4PDUnftOg/mqdefault.jpg' alt='El drama de Antigravity 2.0 es Salvaje' />
+</a>
 <a href='https://youtu.be/ScLu47riJfY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ScLu47riJfY/mqdefault.jpg' alt='¡Microsoft abandona Claude Code!' />
 </a>
 <a href='https://youtu.be/jb5PNDNaLgg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jb5PNDNaLgg/mqdefault.jpg' alt='Microsoft deja Claude Code +  China saca su GPU + WordPress 7 + ¿Leak de 0nly Fans? + MacBook Ultra' />
-</a>
-<a href='https://youtu.be/MO4cWOIFzRk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MO4cWOIFzRk/mqdefault.jpg' alt='API gratuita para saber la localización de una IP. ¡Con peticiones ilimitadas y sin registros!  Para' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
