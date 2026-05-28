@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/yPHsu1tOV-s' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/yPHsu1tOV-s/mqdefault.jpg' alt='Herramientas para optimizar las imágenes de tu página web.  ¡No cometas este error de principiante c' />
+</a>
 <a href='https://youtu.be/tZIlsfPhBHU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tZIlsfPhBHU/mqdefault.jpg' alt='Esta IA es 10 veces más barata que Claude y... (MiniMax 2.7)' />
 </a>
 <a href='https://youtu.be/tCtw5l5X1XE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tCtw5l5X1XE/mqdefault.jpg' alt='Es común que un junior ponga un bug en producción y termine con sudores fríos…  En cambio, un senior' />
 </a>
-<a href='https://youtu.be/814Y8j7ia6U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/814Y8j7ia6U/mqdefault.jpg' alt='La GRAN mentira del programador 100X' />
-</a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/yWWaHwDLkLM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/yWWaHwDLkLM/mqdefault.jpg' alt='La nueva GPU de China es Salvaje' />
+</a>
 <a href='https://youtu.be/C3b6Q2hjJHA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/C3b6Q2hjJHA/mqdefault.jpg' alt='Las nuevas GoogleBook son...' />
 </a>
 <a href='https://youtu.be/J6Tn0FgJ768' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/J6Tn0FgJ768/mqdefault.jpg' alt='OpenAI y Claude crean su propia consultora' />
-</a>
-<a href='https://youtu.be/P9MkPdQc74o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/P9MkPdQc74o/mqdefault.jpg' alt='¡Está pasando!' />
 </a>
