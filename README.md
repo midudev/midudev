@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/eqW2FjfOz-Q' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/eqW2FjfOz-Q/mqdefault.jpg' alt='Opus 4.8, Portátil Windows, NVIDIA saca chip, MiniMax M3, Linus Torvalds pelea con la IA, Flutter...' />
+</a>
+<a href='https://youtu.be/-OfTYVeVjTk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/-OfTYVeVjTk/mqdefault.jpg' alt='Microsoft acaba de presentar el Surface Laptop Ultra. Su primer gran competidor del MacBook Pro.  Un' />
+</a>
 <a href='https://youtu.be/9oc0SrAFrMc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9oc0SrAFrMc/mqdefault.jpg' alt='15 novedades de Chrome que los devs están ignorando (y no deberían)' />
-</a>
-<a href='https://youtu.be/4rsJT1PZbCc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4rsJT1PZbCc/mqdefault.jpg' alt='El ataque a PHP que nadie vio venir' />
-</a>
-<a href='https://youtu.be/yPHsu1tOV-s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/yPHsu1tOV-s/mqdefault.jpg' alt='Herramientas para optimizar las imágenes de tu página web.  ¡No cometas este error de principiante c' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
