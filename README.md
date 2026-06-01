@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/9oc0SrAFrMc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9oc0SrAFrMc/mqdefault.jpg' alt='15 novedades de Chrome que los devs están ignorando (y no deberían)' />
+</a>
 <a href='https://youtu.be/4rsJT1PZbCc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4rsJT1PZbCc/mqdefault.jpg' alt='El ataque a PHP que nadie vio venir' />
 </a>
 <a href='https://youtu.be/yPHsu1tOV-s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yPHsu1tOV-s/mqdefault.jpg' alt='Herramientas para optimizar las imágenes de tu página web.  ¡No cometas este error de principiante c' />
-</a>
-<a href='https://youtu.be/tZIlsfPhBHU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tZIlsfPhBHU/mqdefault.jpg' alt='Esta IA es 10 veces más barata que Claude y... (MiniMax 2.7)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
