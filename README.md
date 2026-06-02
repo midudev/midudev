@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/eqW2FjfOz-Q' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/eqW2FjfOz-Q/mqdefault.jpg' alt='Opus 4.8, Portátil Windows, NVIDIA saca chip, MiniMax M3, Linus Torvalds pelea con la IA, Flutter...' />
+<a href='https://youtu.be/8q1iWzlUErI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8q1iWzlUErI/mqdefault.jpg' alt='Reaccionando a Microsoft Build 2026: La conferencia de devs más importante del año' />
 </a>
 <a href='https://youtu.be/-OfTYVeVjTk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-OfTYVeVjTk/mqdefault.jpg' alt='Microsoft acaba de presentar el Surface Laptop Ultra. Su primer gran competidor del MacBook Pro.  Un' />
