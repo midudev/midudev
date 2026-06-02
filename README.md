@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/08oLcRCkIXQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/08oLcRCkIXQ/mqdefault.jpg' alt='La Nueva Surface Laptop Ultra de Microsoft es..' />
+</a>
 <a href='https://youtu.be/yWWaHwDLkLM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yWWaHwDLkLM/mqdefault.jpg' alt='La nueva GPU de China es Salvaje' />
 </a>
 <a href='https://youtu.be/C3b6Q2hjJHA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/C3b6Q2hjJHA/mqdefault.jpg' alt='Las nuevas GoogleBook son...' />
-</a>
-<a href='https://youtu.be/J6Tn0FgJ768' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/J6Tn0FgJ768/mqdefault.jpg' alt='OpenAI y Claude crean su propia consultora' />
 </a>
