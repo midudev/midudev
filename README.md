@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/7qmu3QmEwpE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7qmu3QmEwpE/mqdefault.jpg' alt='Tu agente de IA trabajando 24/7 en un VPS con Claude Code' />
+</a>
 <a href='https://youtu.be/G00GDafBdP8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/G00GDafBdP8/mqdefault.jpg' alt='Por Qué el Nuevo Sistema de Precios de GitHub Copilot No Tiene Sentido' />
 </a>
 <a href='https://youtu.be/QdRmjx0ZdOU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QdRmjx0ZdOU/mqdefault.jpg' alt='40 mil estrellas en GitHub en menos de 24 horas.  Se llama Odysseus y es una especie de ChatGPT/Clau' />
-</a>
-<a href='https://youtu.be/hEh9aGYw4aY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hEh9aGYw4aY/mqdefault.jpg' alt='Los cursos de Ingeniería de IA que yo haría en 2026' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
