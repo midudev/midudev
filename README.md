@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/clJZl2qMLP4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/clJZl2qMLP4/mqdefault.jpg' alt='Reaccionando al Apple WWDC 2026: MacBook Ultra, nuevo macOS, iPhone, Siri y mucho más' />
-</a>
 <a href='https://youtu.be/dDp0DAOvNkQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dDp0DAOvNkQ/mqdefault.jpg' alt='¿La IA ya es rentable?' />
 </a>
 <a href='https://youtu.be/7qmu3QmEwpE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7qmu3QmEwpE/mqdefault.jpg' alt='Tu agente de IA trabajando 24/7 en un VPS con Claude Code' />
+</a>
+<a href='https://youtu.be/G00GDafBdP8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/G00GDafBdP8/mqdefault.jpg' alt='Por Qué el Nuevo Sistema de Precios de GitHub Copilot No Tiene Sentido' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
