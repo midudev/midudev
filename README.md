@@ -23,24 +23,24 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/ZdwrGg14rPI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZdwrGg14rPI/mqdefault.jpg' alt='Probé Claude Fable 5 (mi opinión)' />
+<a href='https://youtu.be/alwbT-S6tVI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/alwbT-S6tVI/mqdefault.jpg' alt='¡Probando Claude Fable 5 en directo!' />
 </a>
-<a href='https://youtu.be/5WrUyabw2fo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5WrUyabw2fo/mqdefault.jpg' alt='Claude Fable 5, el nuevo modelo de IA de Anthropic' />
+<a href='https://youtu.be/WViC-LpUFts' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/WViC-LpUFts/mqdefault.jpg' alt='¡Probando Claude Fable 5 en directo!' />
 </a>
-<a href='https://youtu.be/QEILMf9MMDA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QEILMf9MMDA/mqdefault.jpg' alt='Gracias, Claude Code  #programacion #software #programadores #informatica #humor' />
+<a href='https://youtu.be/N98jfnjEhqE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/N98jfnjEhqE/mqdefault.jpg' alt='Todas las novedades de Microsoft para Windows en la #msbuild' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/MW2azHUt6_w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MW2azHUt6_w/mqdefault.jpg' alt='Siri AI Tiene Un Secreto' />
+</a>
 <a href='https://youtu.be/08oLcRCkIXQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/08oLcRCkIXQ/mqdefault.jpg' alt='La Nueva Surface Laptop Ultra de Microsoft es..' />
 </a>
 <a href='https://youtu.be/yWWaHwDLkLM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yWWaHwDLkLM/mqdefault.jpg' alt='La nueva GPU de China es Salvaje' />
-</a>
-<a href='https://youtu.be/C3b6Q2hjJHA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/C3b6Q2hjJHA/mqdefault.jpg' alt='Las nuevas GoogleBook son...' />
 </a>
