@@ -26,11 +26,11 @@
 <a href='https://youtu.be/alwbT-S6tVI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/alwbT-S6tVI/mqdefault.jpg' alt='¡Probando Claude Fable 5 en directo!' />
 </a>
-<a href='https://youtu.be/WViC-LpUFts' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WViC-LpUFts/mqdefault.jpg' alt='¡Probando Claude Fable 5 en directo!' />
-</a>
 <a href='https://youtu.be/N98jfnjEhqE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/N98jfnjEhqE/mqdefault.jpg' alt='Todas las novedades de Microsoft para Windows en la #msbuild' />
+</a>
+<a href='https://youtu.be/ZdwrGg14rPI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZdwrGg14rPI/mqdefault.jpg' alt='Probé Claude Fable 5 (mi opinión)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
