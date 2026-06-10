@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ZdwrGg14rPI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ZdwrGg14rPI/mqdefault.jpg' alt='Probé Claude Fable 5 (mi opinión)' />
+</a>
 <a href='https://youtu.be/5WrUyabw2fo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5WrUyabw2fo/mqdefault.jpg' alt='Claude Fable 5, el nuevo modelo de IA de Anthropic' />
 </a>
 <a href='https://youtu.be/ss_Wx0Nuh8k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ss_Wx0Nuh8k/mqdefault.jpg' alt='¡Sale Claude Mythos! + iPhone Fold + Meta la lía + Anthropic tiene miedo + ¡Cloudflare compra Vite!' />
-</a>
-<a href='https://youtu.be/QEILMf9MMDA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QEILMf9MMDA/mqdefault.jpg' alt='Gracias, Claude Code  #programacion #software #programadores #informatica #humor' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
