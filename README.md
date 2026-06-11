@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/alwbT-S6tVI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/alwbT-S6tVI/mqdefault.jpg' alt='¡Probando Claude Fable 5 en directo!' />
+  <img width='30%' src='https://img.youtube.com/vi/alwbT-S6tVI/mqdefault.jpg' alt='¡Probando Claude Fable 5 en directo con tus proyectos!' />
 </a>
 <a href='https://youtu.be/N98jfnjEhqE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/N98jfnjEhqE/mqdefault.jpg' alt='Todas las novedades de Microsoft para Windows en la #msbuild' />
