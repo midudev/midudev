@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/92uv2v8jCyw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/92uv2v8jCyw/mqdefault.jpg' alt='Nadie esperaba esto de Microsoft' />
+</a>
 <a href='https://youtu.be/OvTo9zjWYpo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/OvTo9zjWYpo/mqdefault.jpg' alt='No se puede aprender todo en programación y menos todo lo nuevo que sale.  No te agobies. Al princip' />
 </a>
 <a href='https://youtu.be/f8YrTEW8Qco' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/f8YrTEW8Qco/mqdefault.jpg' alt='"Los devs siguen siendo necesarios" - Demis Hassabis' />
-</a>
-<a href='https://youtu.be/alwbT-S6tVI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/alwbT-S6tVI/mqdefault.jpg' alt='¡Probando Claude Fable 5 en directo con tus proyectos!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
