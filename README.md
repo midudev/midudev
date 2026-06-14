@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/_Ga3HXeZQ0g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_Ga3HXeZQ0g/mqdefault.jpg' alt='¿Te cuesta elegir la fuente para tu web? ¡Este recurso es perfecto para diseñadores y programadores!' />
+</a>
 <a href='https://youtu.be/LB95zKzxeJc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LB95zKzxeJc/mqdefault.jpg' alt='¡Brutal herramienta para revisar el rendimiento web! Escanea toda tu página y puntúa cada una de ell' />
 </a>
 <a href='https://youtu.be/92uv2v8jCyw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/92uv2v8jCyw/mqdefault.jpg' alt='Nadie esperaba esto de Microsoft' />
-</a>
-<a href='https://youtu.be/OvTo9zjWYpo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/OvTo9zjWYpo/mqdefault.jpg' alt='No se puede aprender todo en programación y menos todo lo nuevo que sale.  No te agobies. Al princip' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
