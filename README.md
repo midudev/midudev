@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/e7JczxSfe30' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/e7JczxSfe30/mqdefault.jpg' alt='¡Bloquean Claude Fable 5! + Angular 22 + Ojo npm + rumores GPT 5.6 + ¡brutal novedad de CSS y grid!' />
+<a href='https://youtu.be/13FzSFrznZs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/13FzSFrznZs/mqdefault.jpg' alt='¡Bloquean Claude Fable 5!' />
+</a>
+<a href='https://youtu.be/nH1YwODAzB0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/nH1YwODAzB0/mqdefault.jpg' alt='¡Bloquean Claude Fable 5! + Angular 22 + Ojo npm + rumores GPT 5.6 + ¡brutal novedad de CSS y grid!' />
 </a>
 <a href='https://youtu.be/_Ga3HXeZQ0g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_Ga3HXeZQ0g/mqdefault.jpg' alt='¿Te cuesta elegir la fuente para tu web? ¡Este recurso es perfecto para diseñadores y programadores!' />
-</a>
-<a href='https://youtu.be/LB95zKzxeJc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LB95zKzxeJc/mqdefault.jpg' alt='¡Brutal herramienta para revisar el rendimiento web! Escanea toda tu página y puntúa cada una de ell' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
