@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/VM0blXKXikE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/VM0blXKXikE/mqdefault.jpg' alt='Las big tech empiezan a ahorrar tokens' />
+</a>
 <a href='https://youtu.be/aA_x2rwmWaI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/aA_x2rwmWaI/mqdefault.jpg' alt='Automaticé GitHub con IA local' />
 </a>
 <a href='https://youtu.be/13FzSFrznZs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/13FzSFrznZs/mqdefault.jpg' alt='¡Bloquean Claude Fable 5!' />
-</a>
-<a href='https://youtu.be/nH1YwODAzB0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/nH1YwODAzB0/mqdefault.jpg' alt='¡Bloquean Claude Fable 5! + Angular 22 + Ojo npm + rumores GPT 5.6 + ¡brutal novedad de CSS y grid!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
