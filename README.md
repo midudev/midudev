@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/VM0blXKXikE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VM0blXKXikE/mqdefault.jpg' alt='Las big tech empiezan a ahorrar tokens' />
+  <img width='30%' src='https://img.youtube.com/vi/VM0blXKXikE/mqdefault.jpg' alt='El problema de usar demasiado la IA' />
 </a>
 <a href='https://youtu.be/aA_x2rwmWaI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/aA_x2rwmWaI/mqdefault.jpg' alt='Automaticé GitHub con IA local' />
