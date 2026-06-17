@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Esmdd-FMFoM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Esmdd-FMFoM/mqdefault.jpg' alt='Recurso TOP para aprender Algoritmos de Programación. Explicaciones visuales paso a paso y con códig' />
+</a>
+<a href='https://youtu.be/p5_xJy-Wcxs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/p5_xJy-Wcxs/mqdefault.jpg' alt='¡Se confirma lo mejor para CSS!' />
+</a>
 <a href='https://youtu.be/VM0blXKXikE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/VM0blXKXikE/mqdefault.jpg' alt='El problema de usar demasiado la IA' />
-</a>
-<a href='https://youtu.be/aA_x2rwmWaI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aA_x2rwmWaI/mqdefault.jpg' alt='Automaticé GitHub con IA local' />
-</a>
-<a href='https://youtu.be/13FzSFrznZs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/13FzSFrznZs/mqdefault.jpg' alt='¡Bloquean Claude Fable 5!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
