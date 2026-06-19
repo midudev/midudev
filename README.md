@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/hpxP_55RU_k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/hpxP_55RU_k/mqdefault.jpg' alt='¡Acaba de salir la mejor biblioteca de React de 2026! Es un componente de notificaciones para tu web' />
+</a>
 <a href='https://youtu.be/XaqDsOC88gQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XaqDsOC88gQ/mqdefault.jpg' alt='El mini PC de AMD para IA local' />
 </a>
 <a href='https://youtu.be/jCcflYonha8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jCcflYonha8/mqdefault.jpg' alt='Los Modelos de IA Chinos son Salvajes' />
-</a>
-<a href='https://youtu.be/TBfq-pmUaJ0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TBfq-pmUaJ0/mqdefault.jpg' alt='La web de GTA VI revolucionó Internet. Una animación increíble con el scroll. ¿El secreto? Usar una' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
