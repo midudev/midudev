@@ -35,12 +35,12 @@
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
 
+<a href='https://youtu.be/7De0ZWHwAks' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7De0ZWHwAks/mqdefault.jpg' alt='¡Microsoft cocinó!' />
+</a>
 <a href='https://youtu.be/MW2azHUt6_w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MW2azHUt6_w/mqdefault.jpg' alt='Siri AI Tiene Un Secreto' />
 </a>
 <a href='https://youtu.be/08oLcRCkIXQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/08oLcRCkIXQ/mqdefault.jpg' alt='La Nueva Surface Laptop Ultra de Microsoft es..' />
-</a>
-<a href='https://youtu.be/yWWaHwDLkLM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/yWWaHwDLkLM/mqdefault.jpg' alt='La nueva GPU de China es Salvaje' />
 </a>
