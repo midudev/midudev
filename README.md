@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/nH1YwODAzB0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/nH1YwODAzB0/mqdefault.jpg' alt='¡SpaceX compra Cursor! Japón lanza IA nivel Mythos, nuevo framework de Vercel, Google en problemas' />
+</a>
+<a href='https://youtu.be/5t4xgmYdmpc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5t4xgmYdmpc/mqdefault.jpg' alt='Esta extensión convierte cualquier web en un diseño editable en Figma.  Se llama HTML to Design y te' />
+</a>
 <a href='https://youtu.be/FsufCydbfJ4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FsufCydbfJ4/mqdefault.jpg' alt='Claude Code puede hacer una demo que parezca un clon de Airbnb.  Pero una demo no es un producto.  E' />
-</a>
-<a href='https://youtu.be/hpxP_55RU_k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hpxP_55RU_k/mqdefault.jpg' alt='¡Acaba de salir la mejor biblioteca de React de 2026! Es un componente de notificaciones para tu web' />
-</a>
-<a href='https://youtu.be/XaqDsOC88gQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XaqDsOC88gQ/mqdefault.jpg' alt='El mini PC de AMD para IA local' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
