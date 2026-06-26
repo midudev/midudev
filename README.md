@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/GHHpGwk02-k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GHHpGwk02-k/mqdefault.jpg' alt='Esta compañía de internet te esta engañando' />
+</a>
+<a href='https://youtu.be/ltRivnHd7ug' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ltRivnHd7ug/mqdefault.jpg' alt='¿Crees que aprender programación es difícil? Piensa cómo aprendieron los que vinieron antes.  Sin Ch' />
+</a>
 <a href='https://youtu.be/DmOBOPKkTiI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DmOBOPKkTiI/mqdefault.jpg' alt='¿Por qué están abandonando Google?' />
-</a>
-<a href='https://youtu.be/Hu4eoXQn5Zg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Hu4eoXQn5Zg/mqdefault.jpg' alt='La mejor alternativa barata a Claude Code' />
-</a>
-<a href='https://youtu.be/lSoiD6Z8v7E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/lSoiD6Z8v7E/mqdefault.jpg' alt='¿Japón ha lanzado un modelo mejor que Mythos?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
