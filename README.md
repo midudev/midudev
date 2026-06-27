@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/wseyhlSZf3Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wseyhlSZf3Y/mqdefault.jpg' alt='MiniMax M3: Pongo a prueba la alternativa barata de Claude' />
+</a>
 <a href='https://youtu.be/GHHpGwk02-k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GHHpGwk02-k/mqdefault.jpg' alt='Esta compañía de internet te esta engañando' />
 </a>
 <a href='https://youtu.be/ltRivnHd7ug' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ltRivnHd7ug/mqdefault.jpg' alt='¿Crees que aprender programación es difícil? Piensa cómo aprendieron los que vinieron antes.  Sin Ch' />
-</a>
-<a href='https://youtu.be/DmOBOPKkTiI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DmOBOPKkTiI/mqdefault.jpg' alt='¿Por qué están abandonando Google?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
