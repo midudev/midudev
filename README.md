@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/BhnVz1aez28' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BhnVz1aez28/mqdefault.jpg' alt='GPT 5.6, ban modelos de IA, Tokens baratos Claude, Nuevos trabajos para devs, Apple sube precios' />
-</a>
 <a href='https://youtu.be/YKiqDmw0xlc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YKiqDmw0xlc/mqdefault.jpg' alt='¡Ahorra tokens y acelera tu agente de IA!  ¿Cómo? Este MCP indexa todo tu proyecto como un grafo de' />
 </a>
 <a href='https://youtu.be/wseyhlSZf3Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wseyhlSZf3Y/mqdefault.jpg' alt='MiniMax M3: Pongo a prueba la alternativa barata de Claude' />
+</a>
+<a href='https://youtu.be/GHHpGwk02-k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GHHpGwk02-k/mqdefault.jpg' alt='Esta compañía de internet te esta engañando' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
