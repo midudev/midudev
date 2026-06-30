@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/AllgkVDf9gk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AllgkVDf9gk/mqdefault.jpg' alt='¡ChatGPT 5.6 está aquí! (Sol, Terra y Luna)' />
+</a>
 <a href='https://youtu.be/YKiqDmw0xlc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YKiqDmw0xlc/mqdefault.jpg' alt='¡Ahorra tokens y acelera tu agente de IA!  ¿Cómo? Este MCP indexa todo tu proyecto como un grafo de' />
 </a>
 <a href='https://youtu.be/wseyhlSZf3Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wseyhlSZf3Y/mqdefault.jpg' alt='MiniMax M3: Pongo a prueba la alternativa barata de Claude' />
-</a>
-<a href='https://youtu.be/GHHpGwk02-k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GHHpGwk02-k/mqdefault.jpg' alt='Esta compañía de internet te esta engañando' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
