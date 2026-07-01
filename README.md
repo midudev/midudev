@@ -26,11 +26,11 @@
 <a href='https://youtu.be/wZnddhLrmiM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wZnddhLrmiM/mqdefault.jpg' alt='Curso de Docker desde cero hasta despliegue a producción' />
 </a>
-<a href='https://youtu.be/AllgkVDf9gk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AllgkVDf9gk/mqdefault.jpg' alt='¡ChatGPT 5.6 está aquí! (Sol, Terra y Luna)' />
+<a href='https://youtu.be/ijvoD4h2BPI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ijvoD4h2BPI/mqdefault.jpg' alt='¿Van a prohibir la IA open source?' />
 </a>
-<a href='https://youtu.be/YKiqDmw0xlc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YKiqDmw0xlc/mqdefault.jpg' alt='¡Ahorra tokens y acelera tu agente de IA!  ¿Cómo? Este MCP indexa todo tu proyecto como un grafo de' />
+<a href='https://youtu.be/CAf39jRUlWo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CAf39jRUlWo/mqdefault.jpg' alt='Este meme parece una tontería, pero explica muy bien algo importante sobre la IA.  No basta con tene' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
