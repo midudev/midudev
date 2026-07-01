@@ -27,7 +27,7 @@
   <img width='30%' src='https://img.youtube.com/vi/wZnddhLrmiM/mqdefault.jpg' alt='Curso de Docker desde cero hasta despliegue a producción' />
 </a>
 <a href='https://youtu.be/ijvoD4h2BPI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ijvoD4h2BPI/mqdefault.jpg' alt='¿Van a prohibir la IA open source?' />
+  <img width='30%' src='https://img.youtube.com/vi/ijvoD4h2BPI/mqdefault.jpg' alt='La IA china acaba de romper el negocio de Claude y ChatGPT' />
 </a>
 <a href='https://youtu.be/CAf39jRUlWo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CAf39jRUlWo/mqdefault.jpg' alt='Este meme parece una tontería, pero explica muy bien algo importante sobre la IA.  No basta con tene' />
