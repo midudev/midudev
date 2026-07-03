@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/5nJUsgYWINE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5nJUsgYWINE/mqdefault.jpg' alt='Programar en producción con IA: ¿genialidad o locura?' />
+  <img width='30%' src='https://img.youtube.com/vi/5nJUsgYWINE/mqdefault.jpg' alt='Claude Code en producción. ¿Esto es el futuro?' />
 </a>
 <a href='https://youtu.be/wZnddhLrmiM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wZnddhLrmiM/mqdefault.jpg' alt='Curso de Docker desde cero hasta despliegue a producción' />
