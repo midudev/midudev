@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/YQGBwI73CF8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YQGBwI73CF8/mqdefault.jpg' alt='Probé los mejores modelos de IA en una Nvidia RTX 5090' />
+</a>
 <a href='https://youtu.be/9cHBi0Fmipk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9cHBi0Fmipk/mqdefault.jpg' alt='¡Acaba de salir una nueva versión de React Doctor! Una herramienta que detecta anti patrones en tu a' />
 </a>
 <a href='https://youtu.be/5nJUsgYWINE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5nJUsgYWINE/mqdefault.jpg' alt='Claude Code en producción. ¿Esto es el futuro?' />
-</a>
-<a href='https://youtu.be/wZnddhLrmiM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wZnddhLrmiM/mqdefault.jpg' alt='Curso de Docker desde cero hasta despliegue a producción' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
