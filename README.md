@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/jmuakx9E7G4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jmuakx9E7G4/mqdefault.jpg' alt='¿Crees que aprender programación es difícil? Piensa cómo aprendieron los que vinieron antes.  Sin Ch' />
+</a>
 <a href='https://youtu.be/tBaZNNnIgBg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tBaZNNnIgBg/mqdefault.jpg' alt='¡Me he comprado una Nvidia RTX 5090! La mejor tarjeta gráfica que existe ahora mismo.  ¿Para jugar?' />
 </a>
 <a href='https://youtu.be/YQGBwI73CF8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YQGBwI73CF8/mqdefault.jpg' alt='Así funciona la IA local en mi nuevo ordenador' />
-</a>
-<a href='https://youtu.be/9cHBi0Fmipk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9cHBi0Fmipk/mqdefault.jpg' alt='¡Acaba de salir una nueva versión de React Doctor! Una herramienta que detecta anti patrones en tu a' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
