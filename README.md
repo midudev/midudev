@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/oiAUI6HfC4M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/oiAUI6HfC4M/mqdefault.jpg' alt='¿La IA es rentable? Parece que todavía no.  La industria habría gastado 1,5 billones de dólares en I' />
+  <img width='30%' src='https://img.youtube.com/vi/oiAUI6HfC4M/mqdefault.jpg' alt='¿La IA es rentable? Parece que todavía no.' />
 </a>
 <a href='https://youtu.be/fkVHf7vCtHQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/fkVHf7vCtHQ/mqdefault.jpg' alt='Apple sube precios' />
