@@ -6,11 +6,6 @@ const FETCH_TIMEOUT_MS = 10_000
 
 const { YOUTUBE_API_KEY } = process.env
 
-if (!YOUTUBE_API_KEY) {
-  console.error('❌ Missing YOUTUBE_API_KEY environment variable')
-  process.exit(1)
-}
-
 async function getLatestYoutubeVideos (channelId = YOUTUBE_CHANNEL_IDS.MIDUDEV) {
   const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
   const res = await fetch(url, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) })
@@ -20,7 +15,7 @@ async function getLatestYoutubeVideos (channelId = YOUTUBE_CHANNEL_IDS.MIDUDEV) 
   }
 
   const { items } = await res.json()
-  return items
+  return items ?? []
 }
 
 function generateYoutubeHTML ({ title, videoId }) {
@@ -41,6 +36,10 @@ function videosToHTML (videos) {
 }
 
 async function main () {
+  if (!YOUTUBE_API_KEY) {
+    throw new Error('Missing YOUTUBE_API_KEY environment variable')
+  }
+
   console.log('⏳ Fetching latest YouTube videos…')
 
   const [template, videos, secondaryVideos] = await Promise.all([
