@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/oiAUI6HfC4M' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/oiAUI6HfC4M/mqdefault.jpg' alt='¿La IA es rentable? Parece que todavía no.  La industria habría gastado 1,5 billones de dólares en I' />
+</a>
+<a href='https://youtu.be/fkVHf7vCtHQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/fkVHf7vCtHQ/mqdefault.jpg' alt='Apple sube precios' />
+</a>
 <a href='https://youtu.be/005TjLbaaO4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/005TjLbaaO4/mqdefault.jpg' alt='He creado una web imposible de tumbar. O eso creo.' />
-</a>
-<a href='https://youtu.be/jmuakx9E7G4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jmuakx9E7G4/mqdefault.jpg' alt='¿Crees que aprender programación es difícil? Piensa cómo aprendieron los que vinieron antes.  Sin Ch' />
-</a>
-<a href='https://youtu.be/tBaZNNnIgBg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tBaZNNnIgBg/mqdefault.jpg' alt='¡Me he comprado una Nvidia RTX 5090! La mejor tarjeta gráfica que existe ahora mismo.  ¿Para jugar?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
