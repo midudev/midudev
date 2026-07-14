@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/hxg1u8cqpzc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/hxg1u8cqpzc/mqdefault.jpg' alt='Apple demanda a OpenAI' />
+</a>
 <a href='https://youtu.be/4yaqMCVPBBs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4yaqMCVPBBs/mqdefault.jpg' alt='¡Busco 2 Programadores para la web de SPIDER-MAN: Brand New Day!  ✓ 1500€ por 2 semanas a 4 horas ✓' />
 </a>
 <a href='https://youtu.be/oiAUI6HfC4M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/oiAUI6HfC4M/mqdefault.jpg' alt='¿La IA es rentable? Parece que todavía no.' />
-</a>
-<a href='https://youtu.be/fkVHf7vCtHQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fkVHf7vCtHQ/mqdefault.jpg' alt='Apple sube precios' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
