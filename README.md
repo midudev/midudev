@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/r-bw23UFbbw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/r-bw23UFbbw/mqdefault.jpg' alt='¡CSS acaba de solucionar un problema que llevamos años resolviendo con JavaScript!  La nueva propied' />
+</a>
+<a href='https://youtu.be/TYm1VLA-P6A' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TYm1VLA-P6A/mqdefault.jpg' alt='Le Pedí a una IA que Buscara Trabajo por Mí… y Funcionó' />
+</a>
 <a href='https://youtu.be/hxg1u8cqpzc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hxg1u8cqpzc/mqdefault.jpg' alt='Apple demanda a OpenAI' />
-</a>
-<a href='https://youtu.be/4yaqMCVPBBs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4yaqMCVPBBs/mqdefault.jpg' alt='¡Busco 2 Programadores para la web de SPIDER-MAN: Brand New Day!  ✓ 1500€ por 2 semanas a 4 horas ✓' />
-</a>
-<a href='https://youtu.be/oiAUI6HfC4M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/oiAUI6HfC4M/mqdefault.jpg' alt='¿La IA es rentable? Parece que todavía no.' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
