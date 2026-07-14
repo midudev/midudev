@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/PUX3Zcq-0mQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PUX3Zcq-0mQ/mqdefault.jpg' alt='Grok AI está clonando TODO tu repositorio' />
+</a>
 <a href='https://youtu.be/r-bw23UFbbw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/r-bw23UFbbw/mqdefault.jpg' alt='¡CSS acaba de solucionar un problema que llevamos años resolviendo con JavaScript!  La nueva propied' />
 </a>
 <a href='https://youtu.be/TYm1VLA-P6A' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TYm1VLA-P6A/mqdefault.jpg' alt='Le Pedí a una IA que Buscara Trabajo por Mí… y Funcionó' />
-</a>
-<a href='https://youtu.be/hxg1u8cqpzc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hxg1u8cqpzc/mqdefault.jpg' alt='Apple demanda a OpenAI' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
