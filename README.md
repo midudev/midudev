@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/rhmoIIzP3Us' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/rhmoIIzP3Us/mqdefault.jpg' alt='¿China va a cerrar sus modelos de IA?' />
+</a>
 <a href='https://youtu.be/o4vF6NUu-7Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/o4vF6NUu-7Q/mqdefault.jpg' alt='¿Quieres que tu sesión de Claude Code, Cursor y Codex dure más? Haz que hable como un cavernícola.' />
 </a>
 <a href='https://youtu.be/noFhUkOZ0L0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/noFhUkOZ0L0/mqdefault.jpg' alt='Emulador de PS5 programado en C#' />
-</a>
-<a href='https://youtu.be/PUX3Zcq-0mQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PUX3Zcq-0mQ/mqdefault.jpg' alt='Grok AI está clonando TODO tu repositorio' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
