@@ -30,7 +30,7 @@
   <img width='30%' src='https://img.youtube.com/vi/o4vF6NUu-7Q/mqdefault.jpg' alt='¿Quieres que tu sesión de Claude Code, Cursor y Codex dure más? Haz que hable como un cavernícola.' />
 </a>
 <a href='https://youtu.be/noFhUkOZ0L0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/noFhUkOZ0L0/mqdefault.jpg' alt='Emulador de PS5 programado en C#' />
+  <img width='30%' src='https://img.youtube.com/vi/noFhUkOZ0L0/mqdefault.jpg' alt='Los emuladores de PS5 son SALVAJES' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
