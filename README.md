@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/MMGSm5LIX_c' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MMGSm5LIX_c/mqdefault.jpg' alt='OpenAI quiere prohibir la IA china + Locura con Kimi K3 + Guillermo Rauch me funa + Cuarto Francia' />
+</a>
+<a href='https://youtu.be/S8Y6Vty43dw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/S8Y6Vty43dw/mqdefault.jpg' alt='Un proyecto para tener IA gratuita sin tarjeta de crédito.  OmniRoute agrupa en un solo endpoint tod' />
+</a>
 <a href='https://youtu.be/b0oiR_UOvVg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/b0oiR_UOvVg/mqdefault.jpg' alt='El nuevo método HTTP es...' />
-</a>
-<a href='https://youtu.be/jMT_TE1iU6s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jMT_TE1iU6s/mqdefault.jpg' alt='Anthropic está preocupada con GPT 5.6' />
-</a>
-<a href='https://youtu.be/rhmoIIzP3Us' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rhmoIIzP3Us/mqdefault.jpg' alt='¿China va a cerrar sus modelos de IA?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
