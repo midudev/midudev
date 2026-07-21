@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/95yhFK5avFo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/95yhFK5avFo/mqdefault.jpg' alt='OpenAI quiere prohibir la IA china + Locura con Kimi K3 + Guillermo Rauch me funa + Cuarto Francia' />
+<a href='https://youtu.be/Zy75oZIY5tk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Zy75oZIY5tk/mqdefault.jpg' alt='OpenAI quiere prohibir los modelos chinos' />
 </a>
-<a href='https://youtu.be/ZlOhst4woGI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZlOhst4woGI/mqdefault.jpg' alt='Probé TODOS los modelos de GPT-5.6 (SOL, TERRA, LUNA)' />
+<a href='https://youtu.be/pHo6HrrO3Bw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pHo6HrrO3Bw/mqdefault.jpg' alt='He creado un recurso para que aprendas y domines algoritmos y estructuras de datos en Programación.' />
 </a>
-<a href='https://youtu.be/S8Y6Vty43dw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/S8Y6Vty43dw/mqdefault.jpg' alt='Un proyecto para tener IA gratuita sin tarjeta de crédito.  OmniRoute agrupa en un solo endpoint tod' />
+<a href='https://youtu.be/zjwfn580zLo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/zjwfn580zLo/mqdefault.jpg' alt='La gente se esta volviendo loca con Kimi K3 y Qwen 3.8' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
