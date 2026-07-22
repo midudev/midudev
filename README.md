@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/JbRsteNxYsc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/JbRsteNxYsc/mqdefault.jpg' alt='Migré de Next.js a Astro y Guillermo Rauch me funó' />
+</a>
+<a href='https://youtu.be/AOJ8Ceto3-I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AOJ8Ceto3-I/mqdefault.jpg' alt='🚨 Una inteligencia artificial de OpenAI consiguió romper el entorno aislado donde la estaban proban' />
+</a>
 <a href='https://youtu.be/Zy75oZIY5tk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Zy75oZIY5tk/mqdefault.jpg' alt='OpenAI quiere prohibir los modelos chinos' />
-</a>
-<a href='https://youtu.be/pHo6HrrO3Bw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pHo6HrrO3Bw/mqdefault.jpg' alt='He creado un recurso para que aprendas y domines algoritmos y estructuras de datos en Programación.' />
-</a>
-<a href='https://youtu.be/zjwfn580zLo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zjwfn580zLo/mqdefault.jpg' alt='La gente se esta volviendo loca con Kimi K3 y Qwen 3.8' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
