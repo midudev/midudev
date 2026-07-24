@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Fs5rltCIlfk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Fs5rltCIlfk/mqdefault.jpg' alt='¡Anthropic lanza Claude Opus 5!  ✓ Al nivel de Fable 5 a mitad de precio ✓ Mismo coste que Opus 4.8' />
+</a>
 <a href='https://youtu.be/EhWWsu1pm2c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/EhWWsu1pm2c/mqdefault.jpg' alt='He construido una colección de recursos gratuitos para programadores que suelo utilizar.  Modelos de' />
 </a>
 <a href='https://youtu.be/JbRsteNxYsc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JbRsteNxYsc/mqdefault.jpg' alt='El CEO de Vercel me funó' />
-</a>
-<a href='https://youtu.be/AOJ8Ceto3-I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AOJ8Ceto3-I/mqdefault.jpg' alt='🚨 Una inteligencia artificial de OpenAI consiguió romper el entorno aislado donde la estaban proban' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
