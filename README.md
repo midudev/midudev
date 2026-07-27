@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/95yhFK5avFo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/95yhFK5avFo/mqdefault.jpg' alt='Opus 5 + Todos contra Anthropic + OpenAI perdió el control de un modelo + la mejor IA para React' />
-</a>
 <a href='https://youtu.be/HqTx4vnwDys' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HqTx4vnwDys/mqdefault.jpg' alt='¡Esto es histórico! NVIDIA, Microsoft, Mozilla y Linux Foundation, entre otras, han firmado una cart' />
 </a>
 <a href='https://youtu.be/Fs5rltCIlfk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Fs5rltCIlfk/mqdefault.jpg' alt='¡Anthropic lanza Claude Opus 5!  ✓ Al nivel de Fable 5 a mitad de precio ✓ Mismo coste que Opus 4.8' />
+</a>
+<a href='https://youtu.be/EhWWsu1pm2c' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/EhWWsu1pm2c/mqdefault.jpg' alt='He construido una colección de recursos gratuitos para programadores que suelo utilizar.  Modelos de' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
