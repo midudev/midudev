@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/yVGCYaqVYtU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/yVGCYaqVYtU/mqdefault.jpg' alt='Más de 1.200 trabajadores de OpenAI, Anthropic, Google, Meta y otras empresas de IA acaban de firmar' />
+</a>
+<a href='https://youtu.be/3nZdjhfjwYY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/3nZdjhfjwYY/mqdefault.jpg' alt='Kimi K3 cambia las reglas de la IA abierta' />
+</a>
 <a href='https://youtu.be/U7RhffL6l_0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/U7RhffL6l_0/mqdefault.jpg' alt='Desarrollo la web de SPIDERMAN: Brand New Day' />
-</a>
-<a href='https://youtu.be/xaTDpvBtiVE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xaTDpvBtiVE/mqdefault.jpg' alt='"No revises el código que te da la IA".  No lo digo yo, lo dice el autor de Clean Code.  Dice que ha' />
-</a>
-<a href='https://youtu.be/sowPafqpJ6E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/sowPafqpJ6E/mqdefault.jpg' alt='Todos contra Anthropic y OpenAI' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
