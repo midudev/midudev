@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/b67lZa65rqg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/b67lZa65rqg/mqdefault.jpg' alt='¡Curso oficial con certificado final de Claude Code! 15 lecciones y 1 hora de vídeo. Desde cero.  Un' />
+</a>
+<a href='https://youtu.be/WyFfJ2EunZU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/WyFfJ2EunZU/mqdefault.jpg' alt='OpenAI perdió el control de su IA' />
+</a>
 <a href='https://youtu.be/yVGCYaqVYtU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yVGCYaqVYtU/mqdefault.jpg' alt='Más de 1.200 trabajadores de OpenAI, Anthropic, Google, Meta y otras empresas de IA acaban de firmar' />
-</a>
-<a href='https://youtu.be/3nZdjhfjwYY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/3nZdjhfjwYY/mqdefault.jpg' alt='Kimi K3 cambia las reglas de la IA abierta' />
-</a>
-<a href='https://youtu.be/U7RhffL6l_0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/U7RhffL6l_0/mqdefault.jpg' alt='Desarrollo la web de SPIDERMAN: Brand New Day' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
