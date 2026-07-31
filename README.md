@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/_Ak-ubGVnKA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_Ak-ubGVnKA/mqdefault.jpg' alt='"No reviso el código de la IA" - Uncle bob' />
+</a>
+<a href='https://youtu.be/YzAW8Fy0mo8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YzAW8Fy0mo8/mqdefault.jpg' alt='¿Dependes de la IA para programar? ¿Ya no sabes programar a mano?  No eres el único. Y es una pena..' />
+</a>
 <a href='https://youtu.be/b67lZa65rqg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/b67lZa65rqg/mqdefault.jpg' alt='¡Curso oficial con certificado final de Claude Code! 15 lecciones y 1 hora de vídeo. Desde cero.  Un' />
-</a>
-<a href='https://youtu.be/WyFfJ2EunZU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WyFfJ2EunZU/mqdefault.jpg' alt='OpenAI perdió el control de su IA' />
-</a>
-<a href='https://youtu.be/yVGCYaqVYtU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/yVGCYaqVYtU/mqdefault.jpg' alt='Más de 1.200 trabajadores de OpenAI, Anthropic, Google, Meta y otras empresas de IA acaban de firmar' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
