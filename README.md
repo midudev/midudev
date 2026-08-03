@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/4rsxQ6pP5cg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4rsxQ6pP5cg/mqdefault.jpg' alt='¡Vuelve DeepSeek! + Anthropic en un lío + Europa legisla la IA y en USA piden frenarla + Qwen 3.8' />
-</a>
 <a href='https://youtu.be/Yj2ocdXFK8g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Yj2ocdXFK8g/mqdefault.jpg' alt='Menuda historia. Opus 5 borró una base de datos completa. Después de 10 minutos trabajando.  Lo mejo' />
 </a>
 <a href='https://youtu.be/Zpb4-q89Ns4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Zpb4-q89Ns4/mqdefault.jpg' alt='Probé Claude Opus 5' />
+</a>
+<a href='https://youtu.be/i0y7irVPAUQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/i0y7irVPAUQ/mqdefault.jpg' alt='¡CISCO tiene 2 cursos de Python en Español y gratis!  Con certificado final, 70 horas de contenido y' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
