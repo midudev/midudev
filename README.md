@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/mgIeN0iLmng' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/mgIeN0iLmng/mqdefault.jpg' alt='Puedes crear vídeos con HTML, CSS y JS. ¡No es ninguna broma! Para eso puedes usar Hyperframes.  Y n' />
+</a>
 <a href='https://youtu.be/IAi6qEFc1bU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/IAi6qEFc1bU/mqdefault.jpg' alt='¡No sufras maquetando emails nunca más! Deja de usar tablas gracias a React Email.  Un catálogo de c' />
 </a>
 <a href='https://youtu.be/Bj1bOQqSJHk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Bj1bOQqSJHk/mqdefault.jpg' alt='Anthropic quiere controlar la IA (y no es por seguridad)' />
-</a>
-<a href='https://youtu.be/Yj2ocdXFK8g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Yj2ocdXFK8g/mqdefault.jpg' alt='Menuda historia. Opus 5 borró una base de datos completa. Después de 10 minutos trabajando.  Lo mejo' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
