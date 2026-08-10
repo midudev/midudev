@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/9RNVLn8-vr4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9RNVLn8-vr4/mqdefault.jpg' alt='DeepSeek V4 es 25× más barato que Claude pero...' />
+</a>
 <a href='https://youtu.be/OrgA10XNWpQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/OrgA10XNWpQ/mqdefault.jpg' alt='¡Guía para entrevistas técnicas de programación!  ✓ Patrones de diseño ✓ Arquitectura de software ✓' />
 </a>
 <a href='https://youtu.be/mgIeN0iLmng' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mgIeN0iLmng/mqdefault.jpg' alt='Puedes crear vídeos con HTML, CSS y JS. ¡No es ninguna broma! Para eso puedes usar Hyperframes.  Y n' />
-</a>
-<a href='https://youtu.be/IAi6qEFc1bU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/IAi6qEFc1bU/mqdefault.jpg' alt='¡No sufras maquetando emails nunca más! Deja de usar tablas gracias a React Email.  Un catálogo de c' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
