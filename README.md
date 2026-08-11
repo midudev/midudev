@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/UIcrBVX0MXY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/UIcrBVX0MXY/mqdefault.jpg' alt='¡Importante! Claude va a poner marca de agua invisibles en TODO lo que genera: texto, archivo, códig' />
+</a>
+<a href='https://youtu.be/llYP3FuZps0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/llYP3FuZps0/mqdefault.jpg' alt='Ofertas de trabajo para gente con HAMBRE de aprender' />
+</a>
 <a href='https://youtu.be/DpP2tq74gf4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DpP2tq74gf4/mqdefault.jpg' alt='Kimi K3 es Salvaje (lo siento, Claude)' />
-</a>
-<a href='https://youtu.be/9RNVLn8-vr4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9RNVLn8-vr4/mqdefault.jpg' alt='DeepSeek V4 es 25× más barato que Claude pero...' />
-</a>
-<a href='https://youtu.be/OrgA10XNWpQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/OrgA10XNWpQ/mqdefault.jpg' alt='¡Guía para entrevistas técnicas de programación!  ✓ Patrones de diseño ✓ Arquitectura de software ✓' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
