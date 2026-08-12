@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/mLmFND5CggY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/mLmFND5CggY/mqdefault.jpg' alt='Su fondo de IA cayó un 67%… durante su boda' />
+</a>
 <a href='https://youtu.be/UIcrBVX0MXY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UIcrBVX0MXY/mqdefault.jpg' alt='¡Importante! Claude va a poner marca de agua invisibles en TODO lo que genera: texto, archivo, códig' />
 </a>
 <a href='https://youtu.be/llYP3FuZps0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/llYP3FuZps0/mqdefault.jpg' alt='Ofertas de trabajo para gente con HAMBRE de aprender' />
-</a>
-<a href='https://youtu.be/DpP2tq74gf4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DpP2tq74gf4/mqdefault.jpg' alt='Kimi K3 es Salvaje (lo siento, Claude)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
