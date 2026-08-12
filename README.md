@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/98JUAepSk0Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/98JUAepSk0Y/mqdefault.jpg' alt='Espectacular las animaciones que se pueden hacer con la biblioteca GSAP en pocas líneas de código.' />
+</a>
+<a href='https://youtu.be/mXpWhmJXV0o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/mXpWhmJXV0o/mqdefault.jpg' alt='Aprende Desarrollo Full-Stack desde Cero - Tutorial para Novatos a Avanzado' />
+</a>
 <a href='https://youtu.be/mLmFND5CggY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mLmFND5CggY/mqdefault.jpg' alt='Su fondo de IA cayó un 67%… durante su boda' />
-</a>
-<a href='https://youtu.be/UIcrBVX0MXY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UIcrBVX0MXY/mqdefault.jpg' alt='¡Importante! Claude va a poner marca de agua invisibles en TODO lo que genera: texto, archivo, códig' />
-</a>
-<a href='https://youtu.be/llYP3FuZps0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/llYP3FuZps0/mqdefault.jpg' alt='Ofertas de trabajo para gente con HAMBRE de aprender' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
