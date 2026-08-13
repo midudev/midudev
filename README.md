@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/v_0c33XPskU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/v_0c33XPskU/mqdefault.jpg' alt='28 horas de contenido para ser Full Stack. Mi contenido más ambicioso.  ✓ HTML, CSS, JavaScript, Typ' />
+</a>
 <a href='https://youtu.be/98JUAepSk0Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/98JUAepSk0Y/mqdefault.jpg' alt='Espectacular las animaciones que se pueden hacer con la biblioteca GSAP en pocas líneas de código.' />
 </a>
 <a href='https://youtu.be/mXpWhmJXV0o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mXpWhmJXV0o/mqdefault.jpg' alt='Aprende Desarrollo Full-Stack desde Cero - Tutorial para Novatos a Avanzado' />
-</a>
-<a href='https://youtu.be/mLmFND5CggY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mLmFND5CggY/mqdefault.jpg' alt='Su fondo de IA cayó un 67%… durante su boda' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
