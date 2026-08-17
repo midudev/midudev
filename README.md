@@ -26,11 +26,11 @@
 <a href='https://youtu.be/GLlAnhdLf-Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GLlAnhdLf-Y/mqdefault.jpg' alt='¡La marca de agua de Claude! + Qwen 3.8 como IA local + OpenAI en llamas + DeepSeek evoluciona' />
 </a>
+<a href='https://youtu.be/13EHbrFh-Ac' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/13EHbrFh-Ac/mqdefault.jpg' alt='Trucazo de Claude Code. Puedes ponerle nombre a tus agentes y hacer que hablen entre ellos.  Archite' />
+</a>
 <a href='https://youtu.be/NlF9ecG3k6k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NlF9ecG3k6k/mqdefault.jpg' alt='La Universidad de Harvard ha publicado CS50x doblado al ESPAÑOL.  Uno de los mejores cursos de Intro' />
-</a>
-<a href='https://youtu.be/v_0c33XPskU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/v_0c33XPskU/mqdefault.jpg' alt='28 horas de contenido para ser Full Stack. Mi contenido más ambicioso.  ✓ HTML, CSS, JavaScript, Typ' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
