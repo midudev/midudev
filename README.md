@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/CCipxwxQzLg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CCipxwxQzLg/mqdefault.jpg' alt='¡Una alternativa de código abierto a Claude Code! Un agente de código de sólo 6MB, así que lo puedes' />
+</a>
 <a href='https://youtu.be/pfdsfYnL8K4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pfdsfYnL8K4/mqdefault.jpg' alt='Grok 4.6 es realmente bueno' />
 </a>
 <a href='https://youtu.be/YOirFWNF1ZY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YOirFWNF1ZY/mqdefault.jpg' alt='¡Un certificado de SQL en Español y gratis!  ✓ +100 de ejercicios interactivos y 7 exámenes ✓ Desde' />
-</a>
-<a href='https://youtu.be/4s-CA76dROQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4s-CA76dROQ/mqdefault.jpg' alt='Probé Claude Code Design y es...' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
