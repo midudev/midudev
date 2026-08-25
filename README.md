@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/PqtusJNI2bc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PqtusJNI2bc/mqdefault.jpg' alt='Dejé que INTERNET programara mi página web' />
+  <img width='30%' src='https://img.youtube.com/vi/PqtusJNI2bc/mqdefault.jpg' alt='Dejé que INTERNET programara mi web (con IA)' />
 </a>
 <a href='https://youtu.be/zPFMdNbbg58' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zPFMdNbbg58/mqdefault.jpg' alt='AMD acaba de comprar el futuro de la IA' />
