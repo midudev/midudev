@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/PqtusJNI2bc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PqtusJNI2bc/mqdefault.jpg' alt='Dejé que INTERNET programara mi página web' />
+</a>
 <a href='https://youtu.be/zPFMdNbbg58' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zPFMdNbbg58/mqdefault.jpg' alt='AMD acaba de comprar el futuro de la IA' />
 </a>
 <a href='https://youtu.be/Msi1EgEx-WE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Msi1EgEx-WE/mqdefault.jpg' alt='Qwen 3.8: La IA local se acaba de poner SERIA' />
-</a>
-<a href='https://youtu.be/CCipxwxQzLg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CCipxwxQzLg/mqdefault.jpg' alt='¡Una alternativa de código abierto a Claude Code! Un agente de código de sólo 6MB, así que lo puedes' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
