@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/YND2KQd6T3Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YND2KQd6T3Y/mqdefault.jpg' alt='Estas ofertas me ponen de muy mala leche...  Porque se aprovechan del mercado y la situación.  Mient' />
+</a>
+<a href='https://youtu.be/3dlrGwXeyB8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/3dlrGwXeyB8/mqdefault.jpg' alt='Así controlo todos mis agentes' />
+</a>
 <a href='https://youtu.be/PqtusJNI2bc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/PqtusJNI2bc/mqdefault.jpg' alt='Dejé que INTERNET programara mi web (con IA)' />
-</a>
-<a href='https://youtu.be/zPFMdNbbg58' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/zPFMdNbbg58/mqdefault.jpg' alt='AMD acaba de comprar el futuro de la IA' />
-</a>
-<a href='https://youtu.be/Msi1EgEx-WE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Msi1EgEx-WE/mqdefault.jpg' alt='Qwen 3.8: La IA local se acaba de poner SERIA' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
