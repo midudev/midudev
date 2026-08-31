@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Wru94-raYD8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Wru94-raYD8/mqdefault.jpg' alt='OpenAI en guerra con Cursor, Nuevos Macs de Apple, ¡Recortes en Claude!, Amenaza de Ciberseguridad' />
+</a>
 <a href='https://youtu.be/YND2KQd6T3Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YND2KQd6T3Y/mqdefault.jpg' alt='Estas ofertas me ponen de muy mala leche...  Porque se aprovechan del mercado y la situación.  Mient' />
 </a>
 <a href='https://youtu.be/3dlrGwXeyB8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/3dlrGwXeyB8/mqdefault.jpg' alt='Así controlo todos mis agentes' />
-</a>
-<a href='https://youtu.be/PqtusJNI2bc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PqtusJNI2bc/mqdefault.jpg' alt='Esta web se PROGRAMA SOLA' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
