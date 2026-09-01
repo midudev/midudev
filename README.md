@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/1VAH6U0LLBQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1VAH6U0LLBQ/mqdefault.jpg' alt='¿Por qué OpenAI ABANDONA Cursor AI?' />
+</a>
 <a href='https://youtu.be/Afx1FKRaxCE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Afx1FKRaxCE/mqdefault.jpg' alt='¡AWS tiene certificaciones prácticas GRATIS! Se llaman microcredenciales y están en Español.  ✓ No n' />
 </a>
 <a href='https://youtu.be/1L4hKZ81Be4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1L4hKZ81Be4/mqdefault.jpg' alt='Lo de Anthropic es Salvaje' />
-</a>
-<a href='https://youtu.be/YND2KQd6T3Y' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YND2KQd6T3Y/mqdefault.jpg' alt='Estas ofertas me ponen de muy mala leche...  Porque se aprovechan del mercado y la situación.  Mient' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
