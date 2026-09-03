@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/qrSd-cGI73A' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qrSd-cGI73A/mqdefault.jpg' alt='OpenAI mete miedo' />
+</a>
 <a href='https://youtu.be/pOCxSPVFP7Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pOCxSPVFP7Y/mqdefault.jpg' alt='Apple, ¿Pero qué haces?' />
 </a>
 <a href='https://youtu.be/1VAH6U0LLBQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1VAH6U0LLBQ/mqdefault.jpg' alt='¿Por qué OpenAI ABANDONA Cursor AI?' />
-</a>
-<a href='https://youtu.be/Afx1FKRaxCE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Afx1FKRaxCE/mqdefault.jpg' alt='¡AWS tiene certificaciones prácticas GRATIS! Se llaman microcredenciales y están en Español.  ✓ No n' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
