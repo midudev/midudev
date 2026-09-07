@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/2a4vaB4QtCU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/2a4vaB4QtCU/mqdefault.jpg' alt='GPT-6 "es AGI" + NVIDIA rompe el mercado + Chrome  te espía + Cuidado con esta oferta de trabajo' />
+</a>
 <a href='https://youtu.be/IK2DFHljdWc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/IK2DFHljdWc/mqdefault.jpg' alt='Probé Ox Alpha y es...' />
 </a>
 <a href='https://youtu.be/ewvyUENcYD4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ewvyUENcYD4/mqdefault.jpg' alt='Claude Code no tiene ni dos años. ¡Salió en febrero de 2025!  Esto significa que si alguien volviese' />
-</a>
-<a href='https://youtu.be/qrSd-cGI73A' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/qrSd-cGI73A/mqdefault.jpg' alt='OpenAI mete miedo' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
