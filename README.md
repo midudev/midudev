@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/C_5r10hJfi4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/C_5r10hJfi4/mqdefault.jpg' alt='¡Colección de APIs gratuitas de modelos de IA! Sin pagos, con límites claros y mucha variedad.  ✓ +1' />
+</a>
 <a href='https://youtu.be/Qd8rumA6N8k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Qd8rumA6N8k/mqdefault.jpg' alt='GPT-6 es Salvaje' />
 </a>
 <a href='https://youtu.be/BxpI2TOsFG0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/BxpI2TOsFG0/mqdefault.jpg' alt='Se filtro todo' />
-</a>
-<a href='https://youtu.be/04dMXQ_VXZk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/04dMXQ_VXZk/mqdefault.jpg' alt='¡Esto es genial! Convierte tu proyecto en un diagrama de arquitectura que da gusto enseñar.  Un HTML' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
