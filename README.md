@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/yod4yAnJWso' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/yod4yAnJWso/mqdefault.jpg' alt='Google Chrome está jugando sucio' />
+</a>
 <a href='https://youtu.be/Soxm8gIHDEs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Soxm8gIHDEs/mqdefault.jpg' alt='La fatiga de los modelos de IA' />
 </a>
 <a href='https://youtu.be/LPuUFOs9UUc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LPuUFOs9UUc/mqdefault.jpg' alt='Cuidado con esta oferta de trabajo' />
-</a>
-<a href='https://youtu.be/C_5r10hJfi4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/C_5r10hJfi4/mqdefault.jpg' alt='¡Colección de APIs gratuitas de modelos de IA! Sin pagos, con límites claros y mucha variedad.  ✓ +1' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
