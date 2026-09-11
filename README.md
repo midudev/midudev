@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/gVhqWWmlxmE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gVhqWWmlxmE/mqdefault.jpg' alt='Los backend no lo entenderán. ¿O si?  #css #programacion #iphoneduo #software #frontend' />
+</a>
 <a href='https://youtu.be/6pDzTda4eVE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6pDzTda4eVE/mqdefault.jpg' alt='El gran BLUF de la IA española' />
+  <img width='30%' src='https://img.youtube.com/vi/6pDzTda4eVE/mqdefault.jpg' alt='No era lo que nos habían contado' />
 </a>
 <a href='https://youtu.be/yod4yAnJWso' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yod4yAnJWso/mqdefault.jpg' alt='Google Chrome está jugando sucio' />
-</a>
-<a href='https://youtu.be/Soxm8gIHDEs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Soxm8gIHDEs/mqdefault.jpg' alt='La fatiga de los modelos de IA' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
