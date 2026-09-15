@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/u8Z7Ixo0Z5E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/u8Z7Ixo0Z5E/mqdefault.jpg' alt='¡Paremos la IA! + Adiós React Native + trampas OpenAI + Fails iPhone Duo + Microsoft se pasa a Rust' />
-</a>
 <a href='https://youtu.be/B9ilMWUPcR0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/B9ilMWUPcR0/mqdefault.jpg' alt='Ni 24 horas y alguien ha desarrollado el efecto del nuevo iPhone Duo para cualquier MacBook.  Encima' />
 </a>
 <a href='https://youtu.be/gKIQbZb36OE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/gKIQbZb36OE/mqdefault.jpg' alt='NVIDIA rompe el mercado' />
+</a>
+<a href='https://youtu.be/gVhqWWmlxmE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gVhqWWmlxmE/mqdefault.jpg' alt='Los backend no lo entenderán. ¿O si?  #css #programacion #iphoneduo #software #frontend' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
