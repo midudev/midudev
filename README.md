@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/G5Eamij8YsY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/G5Eamij8YsY/mqdefault.jpg' alt='¡Convierte tu agente de IA en un auditor de seguridad! Esta skill es la que usa Cloudflare intername' />
+</a>
+<a href='https://youtu.be/Cx_mDgaosNk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Cx_mDgaosNk/mqdefault.jpg' alt='Anthropic cree que la IA podría matarnos' />
+</a>
 <a href='https://youtu.be/B9ilMWUPcR0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/B9ilMWUPcR0/mqdefault.jpg' alt='Ni 24 horas y alguien ha desarrollado el efecto del nuevo iPhone Duo para cualquier MacBook.  Encima' />
-</a>
-<a href='https://youtu.be/gKIQbZb36OE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/gKIQbZb36OE/mqdefault.jpg' alt='NVIDIA rompe el mercado' />
-</a>
-<a href='https://youtu.be/gVhqWWmlxmE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/gVhqWWmlxmE/mqdefault.jpg' alt='Los backend no lo entenderán. ¿O si?  #css #programacion #iphoneduo #software #frontend' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
