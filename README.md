@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/uZrggvSk6wY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/uZrggvSk6wY/mqdefault.jpg' alt='El robo del siglo' />
+</a>
+<a href='https://youtu.be/lk1c0b9xnqM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/lk1c0b9xnqM/mqdefault.jpg' alt='¡Son 2 cursos de Python en Español! Desde cero y con certificado al terminar.  Son de Cisco y ofrece' />
+</a>
 <a href='https://youtu.be/muN6vRUsoPA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/muN6vRUsoPA/mqdefault.jpg' alt='Abandonan React Native... ¿Por qué?' />
-</a>
-<a href='https://youtu.be/G5Eamij8YsY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/G5Eamij8YsY/mqdefault.jpg' alt='¡Convierte tu agente de IA en un auditor de seguridad! Esta skill es la que usa Cloudflare intername' />
-</a>
-<a href='https://youtu.be/Cx_mDgaosNk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Cx_mDgaosNk/mqdefault.jpg' alt='Anthropic cree que la IA podría matarnos' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
