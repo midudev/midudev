@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/kmhwC7k6p4o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/kmhwC7k6p4o/mqdefault.jpg' alt='El iPhone DUO ya tiene problemas' />
+</a>
 <a href='https://youtu.be/gwBi5gJNHpo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/gwBi5gJNHpo/mqdefault.jpg' alt='La guerra de la IA acaba de ponerse MUY rara' />
 </a>
 <a href='https://youtu.be/uZrggvSk6wY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uZrggvSk6wY/mqdefault.jpg' alt='El robo del siglo' />
-</a>
-<a href='https://youtu.be/lk1c0b9xnqM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/lk1c0b9xnqM/mqdefault.jpg' alt='¡Son 2 cursos de Python en Español! Desde cero y con certificado al terminar.  Son de Cisco y ofrece' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
