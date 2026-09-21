@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/2D57N5BJx7s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2D57N5BJx7s/mqdefault.jpg' alt='Hackean OpenAI con una imagen + ¿Es Jev el futuro de la IA? + ¡Un modelo chino roba tu código!' />
-</a>
 <a href='https://youtu.be/UD13i3WlGEM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UD13i3WlGEM/mqdefault.jpg' alt='Comparte fácilmente tu proyecto en localhost con cualquiera con este servicio gratuito de Cloudflare' />
 </a>
 <a href='https://youtu.be/kmhwC7k6p4o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kmhwC7k6p4o/mqdefault.jpg' alt='El iPhone DUO ya tiene problemas' />
+</a>
+<a href='https://youtu.be/gwBi5gJNHpo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gwBi5gJNHpo/mqdefault.jpg' alt='La guerra de la IA acaba de ponerse MUY rara' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
