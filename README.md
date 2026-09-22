@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/0Ql-4idLPy0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0Ql-4idLPy0/mqdefault.jpg' alt='¡Este nuevo modelo de IA es noticia! Se llama Jev y funciona muy diferente a cómo estamos acostumbra' />
+</a>
+<a href='https://youtu.be/P6Mr5c0T1DQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/P6Mr5c0T1DQ/mqdefault.jpg' alt='Monté mi propia nube con este pequeño servidor' />
+</a>
 <a href='https://youtu.be/KvpQ16XlUv0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/KvpQ16XlUv0/mqdefault.jpg' alt='Lo de Jev es Salvaje' />
-</a>
-<a href='https://youtu.be/UD13i3WlGEM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UD13i3WlGEM/mqdefault.jpg' alt='Comparte fácilmente tu proyecto en localhost con cualquiera con este servicio gratuito de Cloudflare' />
-</a>
-<a href='https://youtu.be/kmhwC7k6p4o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kmhwC7k6p4o/mqdefault.jpg' alt='El iPhone DUO ya tiene problemas' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
