@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/8uAL3szNLqE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8uAL3szNLqE/mqdefault.jpg' alt='Un modelo de IA chino roba tu código' />
+</a>
 <a href='https://youtu.be/DQ1MyiYtCo8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DQ1MyiYtCo8/mqdefault.jpg' alt='Hackean OpenAI con una imagen y Opus 5' />
 </a>
 <a href='https://youtu.be/0Ql-4idLPy0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0Ql-4idLPy0/mqdefault.jpg' alt='¡Este nuevo modelo de IA es noticia! Se llama Jev y funciona muy diferente a cómo estamos acostumbra' />
-</a>
-<a href='https://youtu.be/P6Mr5c0T1DQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/P6Mr5c0T1DQ/mqdefault.jpg' alt='Monté mi propia nube con este pequeño servidor' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
