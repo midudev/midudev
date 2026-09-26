@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/FNxAM5qLzbg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FNxAM5qLzbg/mqdefault.jpg' alt='La IA de Google se mejora sola' />
+  <img width='30%' src='https://img.youtube.com/vi/FNxAM5qLzbg/mqdefault.jpg' alt='La IA de Google que mejora sola' />
 </a>
 <a href='https://youtu.be/8uAL3szNLqE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8uAL3szNLqE/mqdefault.jpg' alt='Un modelo de IA chino roba tu código' />
