@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ME_f434qCbI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ME_f434qCbI/mqdefault.jpg' alt='Van a controlar la IA + Opus 5.5 vs GPT 6 Sol + No instales esto de Meta + OpenAI hackea Australia' />
+</a>
 <a href='https://youtu.be/NQWNxT-QFgo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NQWNxT-QFgo/mqdefault.jpg' alt='Hemos automatizado la generación de código pero sigue siendo importante el criterio.  Claude me hace' />
 </a>
 <a href='https://youtu.be/FNxAM5qLzbg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FNxAM5qLzbg/mqdefault.jpg' alt='La IA de Google que mejora sola' />
-</a>
-<a href='https://youtu.be/8uAL3szNLqE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8uAL3szNLqE/mqdefault.jpg' alt='Un modelo de IA chino roba tu código' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
