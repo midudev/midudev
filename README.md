@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/m55EgW5P5_M' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/m55EgW5P5_M/mqdefault.jpg' alt='Está claro que la IA definitiva no será un único modelo.  Ya usamos distintas IAs según la tarea: un' />
+</a>
+<a href='https://youtu.be/yTPuF7whdSQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/yTPuF7whdSQ/mqdefault.jpg' alt='No instales esto de Facebook (por ahora)' />
+</a>
 <a href='https://youtu.be/IbJW8xIwf3E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/IbJW8xIwf3E/mqdefault.jpg' alt='GPT-6 es absurdamente barato (lo siento, Deepseek)' />
-</a>
-<a href='https://youtu.be/FrNMcmMarUQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FrNMcmMarUQ/mqdefault.jpg' alt='Claude Opus 5.5 es...' />
-</a>
-<a href='https://youtu.be/defv7baV-tg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/defv7baV-tg/mqdefault.jpg' alt='Anthropic acaba de publicar una guía en Español de cómo sacar el máximo partido a Opus 5.5  ① effort' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
