@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/_vqk5UEi3bQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_vqk5UEi3bQ/mqdefault.jpg' alt='Quieren controlar la IA' />
+</a>
 <a href='https://youtu.be/m55EgW5P5_M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/m55EgW5P5_M/mqdefault.jpg' alt='Está claro que la IA definitiva no será un único modelo.  Ya usamos distintas IAs según la tarea: un' />
 </a>
 <a href='https://youtu.be/yTPuF7whdSQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yTPuF7whdSQ/mqdefault.jpg' alt='No instales esto de Facebook (por ahora)' />
-</a>
-<a href='https://youtu.be/IbJW8xIwf3E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/IbJW8xIwf3E/mqdefault.jpg' alt='GPT-6 es absurdamente barato (lo siento, Deepseek)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
