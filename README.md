@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/C3vaxYtFmOo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/C3vaxYtFmOo/mqdefault.jpg' alt='El estado actual del mundo tech en 2026' />
+</a>
 <a href='https://youtu.be/R0YPFW5Dv3c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/R0YPFW5Dv3c/mqdefault.jpg' alt='HTML acaba de arreglar esto después de 20 años' />
 </a>
 <a href='https://youtu.be/UaH4buKa7hc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UaH4buKa7hc/mqdefault.jpg' alt='Un chaval de 16 años consiguió ejecutar SQL como admin en un servicio interno de Microsoft.  La reco' />
-</a>
-<a href='https://youtu.be/_vqk5UEi3bQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_vqk5UEi3bQ/mqdefault.jpg' alt='Quieren controlar la IA' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
