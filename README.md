@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/2cd-mihN-wg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2cd-mihN-wg/mqdefault.jpg' alt='¡Hackea Microsoft un niño! + PS5 liberada por JavaScript + OpenAI cancela su próximo modelo' />
-</a>
 <a href='https://youtu.be/P1SC2_uoyWM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/P1SC2_uoyWM/mqdefault.jpg' alt='JavaScript está cambiando… y nadie habla de ello' />
 </a>
 <a href='https://youtu.be/S5gVINwXBCo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/S5gVINwXBCo/mqdefault.jpg' alt='Los agentes de IA como Claude Code han cambiado muchísimo mi forma de crear software.  Antes tenía u' />
+</a>
+<a href='https://youtu.be/C3vaxYtFmOo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/C3vaxYtFmOo/mqdefault.jpg' alt='El estado actual del mundo tech en 2026' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
