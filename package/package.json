@@ -7,7 +7,7 @@
     "midudev": "./bin/cli.js"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   },
   "files": [
     "bin",
@@ -25,7 +25,7 @@
   "author": "Miguel Ángel Durán <miduga@gmail.com> (https://midu.dev)",
   "license": "MIT",
   "dependencies": {
-    "boxen": "^8.0.1",
-    "chalk": "^5.4.1"
+    "boxen": "^9.0.0",
+    "chalk": "^6.0.1"
   }
 }
