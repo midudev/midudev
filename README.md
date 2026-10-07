@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/W9NkGakJzcs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/W9NkGakJzcs/mqdefault.jpg' alt='Hackean la PS5 gracias a JavaScript' />
+  <img width='30%' src='https://img.youtube.com/vi/W9NkGakJzcs/mqdefault.jpg' alt='JavaScript acaba de romper la PS5' />
 </a>
 <a href='https://youtu.be/OY5ZH6rh7I4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/OY5ZH6rh7I4/mqdefault.jpg' alt='Todos los productos de Adobe reimplementados desde cero, gratuitos y de código abierto...  Alguien l' />
