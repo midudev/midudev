@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/7RnSFRdPgFQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7RnSFRdPgFQ/mqdefault.jpg' alt='Margaret Hamilton ha muerto. Una de las figuras más importantes de la historia de la programación.' />
+</a>
+<a href='https://youtu.be/ItAe6Nbjn54' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ItAe6Nbjn54/mqdefault.jpg' alt='Recortes en OpenAI, nuevo GPT 6.1 Sol y la demo que salió mal' />
+</a>
 <a href='https://youtu.be/W9NkGakJzcs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/W9NkGakJzcs/mqdefault.jpg' alt='JavaScript acaba de romper la PS5' />
-</a>
-<a href='https://youtu.be/OY5ZH6rh7I4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/OY5ZH6rh7I4/mqdefault.jpg' alt='Todos los productos de Adobe reimplementados desde cero, gratuitos y de código abierto...  Alguien l' />
-</a>
-<a href='https://youtu.be/SCUt-1YZrpo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SCUt-1YZrpo/mqdefault.jpg' alt='Un chico de 16 años hackea Microsoft' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
