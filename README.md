@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/IHs3rhATACU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/IHs3rhATACU/mqdefault.jpg' alt='Espionaje en la era de la IA' />
+</a>
+<a href='https://youtu.be/eBuDUwesVzc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/eBuDUwesVzc/mqdefault.jpg' alt='¡GTA VI en PC sin que lo saque Rockstar!  Parece imposible pero la ingeniería inversa está de moda.' />
+</a>
 <a href='https://youtu.be/A4QYEDQCnaQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/A4QYEDQCnaQ/mqdefault.jpg' alt='Crea una Landing ESPECTACULAR con Claude Code' />
-</a>
-<a href='https://youtu.be/7RnSFRdPgFQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7RnSFRdPgFQ/mqdefault.jpg' alt='Margaret Hamilton ha muerto. Una de las figuras más importantes de la historia de la programación.' />
-</a>
-<a href='https://youtu.be/ItAe6Nbjn54' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ItAe6Nbjn54/mqdefault.jpg' alt='Recortes en OpenAI, nuevo GPT 6.1 Sol y la demo que salió mal' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
