@@ -26,11 +26,11 @@
 <a href='https://youtu.be/P0ihjzAKpEM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/P0ihjzAKpEM/mqdefault.jpg' alt='Juega PS5 en PC con ingeniería inversa + crean Photoshop gratis con Rust + Adiós Deno + RIP Margaret' />
 </a>
+<a href='https://youtu.be/4EMDYrZ9sbI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/4EMDYrZ9sbI/mqdefault.jpg' alt='¡Esta skill de Claude Code es una maravilla!  Se llama anatomy y crea ilustraciones isométricas inte' />
+</a>
 <a href='https://youtu.be/HBTDaAUj8iY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HBTDaAUj8iY/mqdefault.jpg' alt='Basado en una historia real: El nacimiento de un vibecoder.  Envíaselo a tu amigo o amiga que le pas' />
-</a>
-<a href='https://youtu.be/IHs3rhATACU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/IHs3rhATACU/mqdefault.jpg' alt='Espionaje en la era de la IA' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
