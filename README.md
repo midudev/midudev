@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/CvdkF52Ms1w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CvdkF52Ms1w/mqdefault.jpg' alt='La IA pone en apuros a Adobe' />
+</a>
 <a href='https://youtu.be/yVCsfwd0kO0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yVCsfwd0kO0/mqdefault.jpg' alt='Todo el mundo está haciendo Ingeniería Inversa de programas y videojuegos con Inteligencia Artificia' />
 </a>
 <a href='https://youtu.be/Q_No4P4hXwU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Q_No4P4hXwU/mqdefault.jpg' alt='Los killers de Jev AI' />
-</a>
-<a href='https://youtu.be/gAa2oY3gdts' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/gAa2oY3gdts/mqdefault.jpg' alt='Microsoft quiere competir con el MacBook Pro' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
