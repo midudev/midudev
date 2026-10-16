@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/eHfdaCLNPQk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/eHfdaCLNPQk/mqdefault.jpg' alt='Fallece Margaret Hamilton: Pionera de la ingeniería de software' />
+</a>
 <a href='https://youtu.be/RHloC2DXQYc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RHloC2DXQYc/mqdefault.jpg' alt='Algo no cuadra con los despidos de OpenAI' />
 </a>
 <a href='https://youtu.be/suWZSdAuTWo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/suWZSdAuTWo/mqdefault.jpg' alt='Esta herramienta te ayuda a buscar trabajo con Claude Code.  Lo clonas, rellenas tu perfil y la IA e' />
-</a>
-<a href='https://youtu.be/70LEUWeNQXg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/70LEUWeNQXg/mqdefault.jpg' alt='La IA está rompiendo los límites del software' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
