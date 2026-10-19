@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/WASwR-H_xwM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/WASwR-H_xwM/mqdefault.jpg' alt='¡Hackean OpenCode! + Espían a OpenAI + Linus Torvalds apoya la IA + nuevo DeepSeek + trabajar ahora' />
-</a>
 <a href='https://youtu.be/eHfdaCLNPQk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/eHfdaCLNPQk/mqdefault.jpg' alt='Fallece Margaret Hamilton: Pionera de la ingeniería de software' />
 </a>
 <a href='https://youtu.be/RHloC2DXQYc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RHloC2DXQYc/mqdefault.jpg' alt='Algo no cuadra con los despidos de OpenAI' />
+</a>
+<a href='https://youtu.be/suWZSdAuTWo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/suWZSdAuTWo/mqdefault.jpg' alt='Esta herramienta te ayuda a buscar trabajo con Claude Code.  Lo clonas, rellenas tu perfil y la IA e' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
