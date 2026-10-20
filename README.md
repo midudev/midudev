@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/eHfdaCLNPQk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/eHfdaCLNPQk/mqdefault.jpg' alt='Fallece Margaret Hamilton: Pionera de la ingeniería de software' />
+<a href='https://youtu.be/3j5LC1dbuvk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/3j5LC1dbuvk/mqdefault.jpg' alt='La ingeniería inversa se volvió demasiado fácil' />
 </a>
-<a href='https://youtu.be/RHloC2DXQYc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RHloC2DXQYc/mqdefault.jpg' alt='Algo no cuadra con los despidos de OpenAI' />
+<a href='https://youtu.be/gLcIX97vUec' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gLcIX97vUec/mqdefault.jpg' alt='¡Caída masiva de Google Cloud!! La región de Londres lleva horas sufriendo problemas.  Si eres clien' />
 </a>
-<a href='https://youtu.be/suWZSdAuTWo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/suWZSdAuTWo/mqdefault.jpg' alt='Esta herramienta te ayuda a buscar trabajo con Claude Code.  Lo clonas, rellenas tu perfil y la IA e' />
+<a href='https://youtu.be/mqTuHg4-Cvk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/mqTuHg4-Cvk/mqdefault.jpg' alt='Anthropic crea su propio Git' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
