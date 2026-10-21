@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/3j5LC1dbuvk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/3j5LC1dbuvk/mqdefault.jpg' alt='La ingeniería inversa se volvió demasiado fácil' />
+<a href='https://youtu.be/CuvRrItIdKs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CuvRrItIdKs/mqdefault.jpg' alt='¡Han hackeado PHP!' />
 </a>
-<a href='https://youtu.be/gLcIX97vUec' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/gLcIX97vUec/mqdefault.jpg' alt='¡Caída masiva de Google Cloud!! La región de Londres lleva horas sufriendo problemas.  Si eres clien' />
+<a href='https://youtu.be/06wI12Za4i4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/06wI12Za4i4/mqdefault.jpg' alt='¡Vulnerabilidad crítica histórica de PHP! Actualiza tus servidores YA.  Lo peor: afecta a versiones' />
 </a>
-<a href='https://youtu.be/mqTuHg4-Cvk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/mqTuHg4-Cvk/mqdefault.jpg' alt='Anthropic crea su propio Git' />
+<a href='https://youtu.be/j3ZIM9UaXlE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/j3ZIM9UaXlE/mqdefault.jpg' alt='La IA debería hacernos trabajar menos (NO MÁS)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
