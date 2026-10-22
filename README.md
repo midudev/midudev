@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/15Vg1EaqtfM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/15Vg1EaqtfM/mqdefault.jpg' alt='¡Semana complicada para la seguridad de lenguajes de programación! No solo PHP ha tenido problemas.' />
+</a>
+<a href='https://youtu.be/Z5iNYBYIZVo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Z5iNYBYIZVo/mqdefault.jpg' alt='Linus Torvalds defiende la IA en Linux' />
+</a>
 <a href='https://youtu.be/CuvRrItIdKs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CuvRrItIdKs/mqdefault.jpg' alt='¡Han hackeado PHP!' />
-</a>
-<a href='https://youtu.be/06wI12Za4i4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/06wI12Za4i4/mqdefault.jpg' alt='¡Vulnerabilidad crítica histórica de PHP! Actualiza tus servidores YA.  Lo peor: afecta a versiones' />
-</a>
-<a href='https://youtu.be/j3ZIM9UaXlE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/j3ZIM9UaXlE/mqdefault.jpg' alt='La IA debería hacernos trabajar menos (NO MÁS)' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
