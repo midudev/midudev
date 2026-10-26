@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/s8gDSSb9hGg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/s8gDSSb9hGg/mqdefault.jpg' alt='¡Vulnerabilidades históricas! Elon Musk advierte de burbuja IA, huida Claude Code, Kimi K3.1 es...' />
+<a href='https://youtu.be/vIRH9ugxSLk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/vIRH9ugxSLk/mqdefault.jpg' alt='Este es el mayor "secreto" de Cloudflare...  Y es que no es ningun secreto en realidad jajaja ya que' />
 </a>
 <a href='https://youtu.be/yuV06p1Fxhs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yuV06p1Fxhs/mqdefault.jpg' alt='¡Hackean OpenCode!' />
