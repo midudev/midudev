@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Vw8nIUw6M3E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Vw8nIUw6M3E/mqdefault.jpg' alt='Esto no le va a gustar nada a Nintendo... y es la ingeniería inversa a saco.  Este proyecto de códig' />
+</a>
+<a href='https://youtu.be/zm1Qne0jkH8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/zm1Qne0jkH8/mqdefault.jpg' alt='Anthropic sale a bolsa y esto es lo que significa' />
+</a>
 <a href='https://youtu.be/nsGJ5v45Jq4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/nsGJ5v45Jq4/mqdefault.jpg' alt='Se confirma lo peor de la Burbuja de la IA' />
-</a>
-<a href='https://youtu.be/vIRH9ugxSLk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vIRH9ugxSLk/mqdefault.jpg' alt='Este es el mayor "secreto" de Cloudflare...  Y es que no es ningun secreto en realidad jajaja ya que' />
-</a>
-<a href='https://youtu.be/yuV06p1Fxhs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/yuV06p1Fxhs/mqdefault.jpg' alt='¡Hackean OpenCode!' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
