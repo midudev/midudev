@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/UMSbyrWyeOU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/UMSbyrWyeOU/mqdefault.jpg' alt='Kimi K3.1 Pro, el modelo abierto a nivel de Opus 5.5' />
+</a>
 <a href='https://youtu.be/Vw8nIUw6M3E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Vw8nIUw6M3E/mqdefault.jpg' alt='Esto no le va a gustar nada a Nintendo... y es la ingeniería inversa a saco.  Este proyecto de códig' />
 </a>
 <a href='https://youtu.be/zm1Qne0jkH8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zm1Qne0jkH8/mqdefault.jpg' alt='Anthropic sale a bolsa y esto es lo que significa' />
-</a>
-<a href='https://youtu.be/nsGJ5v45Jq4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/nsGJ5v45Jq4/mqdefault.jpg' alt='Se confirma lo peor de la Burbuja de la IA' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
