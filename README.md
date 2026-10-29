@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/UMSbyrWyeOU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UMSbyrWyeOU/mqdefault.jpg' alt='Kimi K3.1 Pro, el modelo abierto a nivel de Opus 5.5' />
+  <img width='30%' src='https://img.youtube.com/vi/UMSbyrWyeOU/mqdefault.jpg' alt='Kimi K3.1 Pro, el modelo abierto... ¿al nivel de Opus?' />
 </a>
 <a href='https://youtu.be/Vw8nIUw6M3E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Vw8nIUw6M3E/mqdefault.jpg' alt='Esto no le va a gustar nada a Nintendo... y es la ingeniería inversa a saco.  Este proyecto de códig' />
