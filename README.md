@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/NQe5cqiK4gQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/NQe5cqiK4gQ/mqdefault.jpg' alt='¡El mayor robo de criptomonedas de la historia!  Le acaban de robar más de 6.000 millones de dólares' />
+</a>
+<a href='https://youtu.be/ntS0v44ETdk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ntS0v44ETdk/mqdefault.jpg' alt='Microsoft ofrece bajas voluntarias a 60.000 empleados' />
+</a>
 <a href='https://youtu.be/0SrJmN8Vais' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0SrJmN8Vais/mqdefault.jpg' alt='Una semana muy preocupante para Internet' />
-</a>
-<a href='https://youtu.be/Fum3K7jb9Jk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Fum3K7jb9Jk/mqdefault.jpg' alt='Esto ya no es emulación' />
-</a>
-<a href='https://youtu.be/kUCSBVopZHs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kUCSBVopZHs/mqdefault.jpg' alt='Un manager de Anthropic dice que las entrevistas de código están muertas y las han dejado de usar en' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
