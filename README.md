@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/0SrJmN8Vais' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/0SrJmN8Vais/mqdefault.jpg' alt='Una semana muy preocupante para Internet' />
+</a>
 <a href='https://youtu.be/Fum3K7jb9Jk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Fum3K7jb9Jk/mqdefault.jpg' alt='Esto ya no es emulación' />
 </a>
 <a href='https://youtu.be/kUCSBVopZHs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kUCSBVopZHs/mqdefault.jpg' alt='Un manager de Anthropic dice que las entrevistas de código están muertas y las han dejado de usar en' />
-</a>
-<a href='https://youtu.be/tM5oWl0_B8g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tM5oWl0_B8g/mqdefault.jpg' alt='TypeScript 7.1 cambia las reglas del tipado automático' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
