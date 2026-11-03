@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/t0ouyKA1ICQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/t0ouyKA1ICQ/mqdefault.jpg' alt='¡OpenAI quiere tu RAM y dinero! + Se hunde la bolsa de USA + Brutal hackeo Crypto + Node 26' />
+<a href='https://youtu.be/HA7l236TUh4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/HA7l236TUh4/mqdefault.jpg' alt='Mi IA caza las PEORES ofertas de trabajo para programadores' />
 </a>
 <a href='https://youtu.be/iZ_CgGyeJEM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iZ_CgGyeJEM/mqdefault.jpg' alt='10 conceptos de Git y GitHub que tienes que dominar 👇  Guárdalo para tenerlo a mano:  01 · commit →' />
