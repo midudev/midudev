@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/RnEsFcPCMMc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/RnEsFcPCMMc/mqdefault.jpg' alt='Binance sufre el mayor hackeo de la historia' />
+</a>
+<a href='https://youtu.be/Cy_Sh7vy-Sw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Cy_Sh7vy-Sw/mqdefault.jpg' alt='Las pruebas técnicas de programación son...' />
+</a>
 <a href='https://youtu.be/HA7l236TUh4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HA7l236TUh4/mqdefault.jpg' alt='Mi IA caza las PEORES ofertas de trabajo para programadores' />
-</a>
-<a href='https://youtu.be/iZ_CgGyeJEM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/iZ_CgGyeJEM/mqdefault.jpg' alt='10 conceptos de Git y GitHub que tienes que dominar 👇  Guárdalo para tenerlo a mano:  01 · commit →' />
-</a>
-<a href='https://youtu.be/GFbDZKU5Frg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GFbDZKU5Frg/mqdefault.jpg' alt='He desarrollado un juego desde cero.  Es de terror, gratuito y funciona desde tu navegador.  Y sí, h' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
