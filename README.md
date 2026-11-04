@@ -24,7 +24,7 @@
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <a href='https://youtu.be/RnEsFcPCMMc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RnEsFcPCMMc/mqdefault.jpg' alt='Binance sufre el mayor hackeo de la historia' />
+  <img width='30%' src='https://img.youtube.com/vi/RnEsFcPCMMc/mqdefault.jpg' alt='Lo de Binance es Salvaje' />
 </a>
 <a href='https://youtu.be/Cy_Sh7vy-Sw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Cy_Sh7vy-Sw/mqdefault.jpg' alt='Las pruebas técnicas de programación son...' />
