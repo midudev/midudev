@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/7Z0_SHG9HW4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7Z0_SHG9HW4/mqdefault.jpg' alt='La universidad de Stanford ha publicado su curso completo para crear tus propios modelos de IA.  ✓ 1' />
+</a>
 <a href='https://youtu.be/JPqniKPaI6Q' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JPqniKPaI6Q/mqdefault.jpg' alt='OpenAI quiere tu RAM' />
 </a>
 <a href='https://youtu.be/yhA5U_qczHc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/yhA5U_qczHc/mqdefault.jpg' alt='¿Está muriendo la programación tal y como la conocemos?' />
-</a>
-<a href='https://youtu.be/RnEsFcPCMMc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RnEsFcPCMMc/mqdefault.jpg' alt='Lo de Binance es Salvaje' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
