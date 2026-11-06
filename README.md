@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/gOMSUuIwLGw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gOMSUuIwLGw/mqdefault.jpg' alt='¡Claude Code está filtrando tu email!  Al visitar ciertas webs, el agente envia tu correo personal e' />
+</a>
 <a href='https://youtu.be/srfxkOZkg7E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/srfxkOZkg7E/mqdefault.jpg' alt='Si una web te puede decir tu contraseña cuando la olvidas... ¡peligro!  Porque si está bien hecha, e' />
 </a>
 <a href='https://youtu.be/7Z0_SHG9HW4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7Z0_SHG9HW4/mqdefault.jpg' alt='La universidad de Stanford ha publicado su curso completo para crear tus propios modelos de IA.  ✓ 1' />
-</a>
-<a href='https://youtu.be/JPqniKPaI6Q' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/JPqniKPaI6Q/mqdefault.jpg' alt='OpenAI quiere tu RAM' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
