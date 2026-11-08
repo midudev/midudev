@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/V7AFhZDi7B8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/V7AFhZDi7B8/mqdefault.jpg' alt='¡POR FIN! Animaciones por Scroll en CSS disponible en todos los navegadores modernos.  Chrome, Edge,' />
+</a>
 <a href='https://youtu.be/rPlKCWzaP00' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/rPlKCWzaP00/mqdefault.jpg' alt='¿Quieres aprender Rust? He creado un curso en Español, gratuito y con certificado.  Tiene ejercicios' />
 </a>
 <a href='https://youtu.be/gOMSUuIwLGw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/gOMSUuIwLGw/mqdefault.jpg' alt='¡Claude Code está filtrando tu email!  Al visitar ciertas webs, el agente envia tu correo personal e' />
-</a>
-<a href='https://youtu.be/srfxkOZkg7E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/srfxkOZkg7E/mqdefault.jpg' alt='Si una web te puede decir tu contraseña cuando la olvidas... ¡peligro!  Porque si está bien hecha, e' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
