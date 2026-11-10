@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/pfs_wKecI9c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pfs_wKecI9c/mqdefault.jpg' alt='¡NVIDIA en problemas por infidelidad! + Claude filtra tu email + ¡buenos datos empleo Dev! + salseos' />
-</a>
 <a href='https://youtu.be/eYMDqdTsuNs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/eYMDqdTsuNs/mqdefault.jpg' alt='Cloudflare tiene de código abierto su Skill para encontrar vulnerabilidades en tu proyecto.  Lo que' />
 </a>
 <a href='https://youtu.be/V7AFhZDi7B8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/V7AFhZDi7B8/mqdefault.jpg' alt='¡POR FIN! Animaciones por Scroll en CSS disponible en todos los navegadores modernos.  Chrome, Edge,' />
+</a>
+<a href='https://youtu.be/rPlKCWzaP00' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/rPlKCWzaP00/mqdefault.jpg' alt='¿Quieres aprender Rust? He creado un curso en Español, gratuito y con certificado.  Tiene ejercicios' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
