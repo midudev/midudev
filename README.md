@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/VKq42hak7Ak' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/VKq42hak7Ak/mqdefault.jpg' alt='La IA empieza a pasar factura a las tecnológicas' />
+</a>
+<a href='https://youtu.be/I2K_VeNi1Nk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/I2K_VeNi1Nk/mqdefault.jpg' alt='El CEO de NVIDIA está en problemas' />
+</a>
 <a href='https://youtu.be/eYMDqdTsuNs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/eYMDqdTsuNs/mqdefault.jpg' alt='Cloudflare tiene de código abierto su Skill para encontrar vulnerabilidades en tu proyecto.  Lo que' />
-</a>
-<a href='https://youtu.be/V7AFhZDi7B8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/V7AFhZDi7B8/mqdefault.jpg' alt='¡POR FIN! Animaciones por Scroll en CSS disponible en todos los navegadores modernos.  Chrome, Edge,' />
-</a>
-<a href='https://youtu.be/rPlKCWzaP00' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rPlKCWzaP00/mqdefault.jpg' alt='¿Quieres aprender Rust? He creado un curso en Español, gratuito y con certificado.  Tiene ejercicios' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
