@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/Bi94c9BMn_4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Bi94c9BMn_4/mqdefault.jpg' alt='¡Bombazo! Jensen Huang dimite como CEO de NVIDIA.  El jefazo de la empresa clave para la IA lo tenía' />
+</a>
+<a href='https://youtu.be/aoFnq5Jq8R8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/aoFnq5Jq8R8/mqdefault.jpg' alt='El peligro oculto de la carpeta .claude' />
+</a>
 <a href='https://youtu.be/7vp8rcL0GrU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7vp8rcL0GrU/mqdefault.jpg' alt='JetBrains lanza un agente con IA GRATIS para programar' />
-</a>
-<a href='https://youtu.be/K0es4EZn6vY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/K0es4EZn6vY/mqdefault.jpg' alt='Probé Claude Fable 5.2 (no esperaba esto)' />
-</a>
-<a href='https://youtu.be/VKq42hak7Ak' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/VKq42hak7Ak/mqdefault.jpg' alt='La IA empieza a pasar factura a las tecnológicas' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
