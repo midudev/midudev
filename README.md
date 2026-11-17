@@ -23,8 +23,8 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/-f6Y42Chosw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-f6Y42Chosw/mqdefault.jpg' alt='¡Jensen deja NVIDIA! + Anthropic a bolsa + caída mundial Microsoft + drama Open Source + UI SDK' />
+<a href='https://youtu.be/B7c77nfPxys' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/B7c77nfPxys/mqdefault.jpg' alt='¿Qué está pasando con el empleo de los programadores?' />
 </a>
 <a href='https://youtu.be/rDnvvxRKGjY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/rDnvvxRKGjY/mqdefault.jpg' alt='Tu IA puede escribir código frontend obsoleto. Google ha sacado algo para arreglarlo.  Es una skill' />
