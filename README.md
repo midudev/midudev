@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/P9BRQiebTjo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/P9BRQiebTjo/mqdefault.jpg' alt='Jensen Huang dimite como CEO de NVIDIA' />
+</a>
 <a href='https://youtu.be/B7c77nfPxys' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/B7c77nfPxys/mqdefault.jpg' alt='¿Qué está pasando con el empleo de los programadores?' />
 </a>
 <a href='https://youtu.be/rDnvvxRKGjY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/rDnvvxRKGjY/mqdefault.jpg' alt='Tu IA puede escribir código frontend obsoleto. Google ha sacado algo para arreglarlo.  Es una skill' />
-</a>
-<a href='https://youtu.be/8T1OT6cN3gI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8T1OT6cN3gI/mqdefault.jpg' alt='En Claude Code tengo estas dos opciones activadas y son la clave. Te permite tener respuestas más co' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
