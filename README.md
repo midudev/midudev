@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/ef3QC7jhDJU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ef3QC7jhDJU/mqdefault.jpg' alt='La caída de Microsoft 365 explicada' />
+<a href='https://youtu.be/-q7bhrBvUU8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/-q7bhrBvUU8/mqdefault.jpg' alt='Ahora con Claude Code puedes jugar a GTA VI mientras arreglas ese bug que te está incordiando.  Hemo' />
 </a>
-<a href='https://youtu.be/svqzjw9UUhI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/svqzjw9UUhI/mqdefault.jpg' alt='TRUCAZO para liberar GIGAS de Disco Duro.  Si eres programador y usas npm o Python esto te interesa.' />
+<a href='https://youtu.be/Rdm2FOlDE7s' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Rdm2FOlDE7s/mqdefault.jpg' alt='ESTADOS UNIDOS PARALIZA TODOS SUS VUELOS por un fallo tecnológico' />
 </a>
-<a href='https://youtu.be/fvY3OEIer3M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fvY3OEIer3M/mqdefault.jpg' alt='Anthropic va a salir a bolsa (y tengo dudas)' />
+<a href='https://youtu.be/C6QXAIoMSmU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/C6QXAIoMSmU/mqdefault.jpg' alt='La calidad del software en 2026' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
