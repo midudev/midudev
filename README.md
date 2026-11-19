@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/ef3QC7jhDJU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ef3QC7jhDJU/mqdefault.jpg' alt='La caída de Microsoft 365 explicada' />
+</a>
+<a href='https://youtu.be/svqzjw9UUhI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/svqzjw9UUhI/mqdefault.jpg' alt='TRUCAZO para liberar GIGAS de Disco Duro.  Si eres programador y usas npm o Python esto te interesa.' />
+</a>
 <a href='https://youtu.be/fvY3OEIer3M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/fvY3OEIer3M/mqdefault.jpg' alt='Anthropic va a salir a bolsa (y tengo dudas)' />
-</a>
-<a href='https://youtu.be/P9BRQiebTjo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/P9BRQiebTjo/mqdefault.jpg' alt='Jensen Huang dimite como CEO de NVIDIA' />
-</a>
-<a href='https://youtu.be/B7c77nfPxys' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/B7c77nfPxys/mqdefault.jpg' alt='¿Qué está pasando con el empleo de los programadores?' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
