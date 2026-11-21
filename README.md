@@ -27,7 +27,7 @@
   <img width='30%' src='https://img.youtube.com/vi/-q7bhrBvUU8/mqdefault.jpg' alt='Ahora con Claude Code puedes jugar a GTA VI mientras arreglas ese bug que te está incordiando.  Hemo' />
 </a>
 <a href='https://youtu.be/Rdm2FOlDE7s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Rdm2FOlDE7s/mqdefault.jpg' alt='ESTADOS UNIDOS PARALIZA TODOS SUS VUELOS por un fallo tecnológico' />
+  <img width='30%' src='https://img.youtube.com/vi/Rdm2FOlDE7s/mqdefault.jpg' alt='¿Por qué ESTADOS UNIDOS dejó todos sus aviones en tierra el 13 de noviembre?' />
 </a>
 <a href='https://youtu.be/C6QXAIoMSmU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/C6QXAIoMSmU/mqdefault.jpg' alt='La calidad del software en 2026' />
