@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/_Jx-O4WEl3I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_Jx-O4WEl3I/mqdefault.jpg' alt='¡Jensen Huang vuelve a Nvidia!' />
+</a>
+<a href='https://youtu.be/QnDiAu7XsNE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QnDiAu7XsNE/mqdefault.jpg' alt='¡Jensen Huang vuelve como CEO de Nvidia!' />
+</a>
 <a href='https://youtu.be/uSRGurrR0dw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uSRGurrR0dw/mqdefault.jpg' alt='Tremendo bug en PHP. Si escribías httpS:// con la S mayúscula en file_get_contents()...  ¡Enviaba to' />
-</a>
-<a href='https://youtu.be/wlZmDO7GWK4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wlZmDO7GWK4/mqdefault.jpg' alt='Ir a la universidad te ayuda a adquirir conocimientos, pero no te garantiza nada.  Hay gente que no' />
-</a>
-<a href='https://youtu.be/-q7bhrBvUU8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-q7bhrBvUU8/mqdefault.jpg' alt='Ahora con Claude Code puedes jugar a GTA VI mientras arreglas ese bug que te está incordiando.  Hemo' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
