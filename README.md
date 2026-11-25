@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/_Jx-O4WEl3I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_Jx-O4WEl3I/mqdefault.jpg' alt='¡Jensen Huang vuelve a Nvidia!' />
+<a href='https://youtu.be/Ae1exTpIDFc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Ae1exTpIDFc/mqdefault.jpg' alt='Tenemos que hablar de Chema Alonso' />
 </a>
-<a href='https://youtu.be/QnDiAu7XsNE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/QnDiAu7XsNE/mqdefault.jpg' alt='¡Jensen Huang vuelve como CEO de Nvidia!' />
+<a href='https://youtu.be/pjykUR1tE-E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pjykUR1tE-E/mqdefault.jpg' alt='PHP ignoró HTTPS durante 20 años y nadie lo notó' />
 </a>
-<a href='https://youtu.be/uSRGurrR0dw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/uSRGurrR0dw/mqdefault.jpg' alt='Tremendo bug en PHP. Si escribías httpS:// con la S mayúscula en file_get_contents()...  ¡Enviaba to' />
+<a href='https://youtu.be/RbzUtjdXECo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/RbzUtjdXECo/mqdefault.jpg' alt='Hemos automatizado el código pero todavía falta que le pongas criterio.  #software #claudecode #info' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
