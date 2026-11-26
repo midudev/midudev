@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/nwuAE4tf5nk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/nwuAE4tf5nk/mqdefault.jpg' alt='Ofertas de Black Friday 2026 que sí me compraría (y las que no)' />
+</a>
 <a href='https://youtu.be/Ae1exTpIDFc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ae1exTpIDFc/mqdefault.jpg' alt='Tenemos que hablar de Chema Alonso' />
+  <img width='30%' src='https://img.youtube.com/vi/Ae1exTpIDFc/mqdefault.jpg' alt='Chema Alonso se va a Facebook' />
 </a>
 <a href='https://youtu.be/pjykUR1tE-E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pjykUR1tE-E/mqdefault.jpg' alt='PHP ignoró HTTPS durante 20 años y nadie lo notó' />
-</a>
-<a href='https://youtu.be/RbzUtjdXECo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RbzUtjdXECo/mqdefault.jpg' alt='Hemos automatizado el código pero todavía falta que le pongas criterio.  #software #claudecode #info' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
