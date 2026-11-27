@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-<a href='https://youtu.be/nLCablil1Cc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/nLCablil1Cc/mqdefault.jpg' alt='¿Por qué usar IA gratis puede salirte caro?' />
+<a href='https://youtu.be/LgUdabOpwaE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LgUdabOpwaE/mqdefault.jpg' alt='Probando Gemini 4 Neon para controlar mi servidor' />
 </a>
-<a href='https://youtu.be/KzgRYnjtn4Q' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/KzgRYnjtn4Q/mqdefault.jpg' alt='Docker cambia de imagen y apuesta todo por la inteligencia artificial' />
+<a href='https://youtu.be/TynU3PGGZDU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TynU3PGGZDU/mqdefault.jpg' alt='Los dominios no son lo que parecen. Los .ai no tienen NADA que ver con Inteligencia Artificial. ¿Lo' />
 </a>
-<a href='https://youtu.be/nwuAE4tf5nk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/nwuAE4tf5nk/mqdefault.jpg' alt='Ofertas de Black Friday 2026 que sí me compraría (y las que no)' />
+<a href='https://youtu.be/BkqKWTLpk6g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BkqKWTLpk6g/mqdefault.jpg' alt='La IA abierta está volviendo: GLM 5.4 e Inkling 2 Mini en local' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
