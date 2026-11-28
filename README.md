@@ -23,14 +23,14 @@
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
+<a href='https://youtu.be/7NYOSrBkd7U' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7NYOSrBkd7U/mqdefault.jpg' alt='¡GTA VI para PC es una realidad! 🤯 Pero no es oficial de Rockstar...  Varios programadores han cons' />
+</a>
 <a href='https://youtu.be/LgUdabOpwaE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LgUdabOpwaE/mqdefault.jpg' alt='Probando Gemini 4 Neon para controlar mi servidor' />
 </a>
 <a href='https://youtu.be/TynU3PGGZDU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TynU3PGGZDU/mqdefault.jpg' alt='Los dominios no son lo que parecen. Los .ai no tienen NADA que ver con Inteligencia Artificial. ¿Lo' />
-</a>
-<a href='https://youtu.be/BkqKWTLpk6g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BkqKWTLpk6g/mqdefault.jpg' alt='La IA abierta está volviendo: GLM 5.4 e Inkling 2 Mini en local' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
